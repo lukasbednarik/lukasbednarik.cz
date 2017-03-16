@@ -5,24 +5,18 @@ gems:
 
 markdown:         kramdown
 highlighter:      rouge
-permalink:        pretty
-# relative_permalinks: true
+permalink:        /:title/
+include: ["_pages"]
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+title:            'title' #'Lukáš Bednařík'
+tagline:          'blog'
+description:      'some text' #'Agilní techniky, procesy, metodiky.<a href="#" target="_blank">Facebook</a>.'
+url:              'http://lukasbednarik.cz'
+baseurl:          '/'
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Lukáš Bednařík'
+  url:            '#'
 
 paginate:         5
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde

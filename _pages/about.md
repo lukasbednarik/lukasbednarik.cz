@@ -1,7 +1,13 @@
 ---
 layout: page
-title: About
+title: O mě
+permalink: /about
 ---
+
+- Kontakt
+- Co se povedlo
+- Moje story
+- Foto (na konec)
 
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
