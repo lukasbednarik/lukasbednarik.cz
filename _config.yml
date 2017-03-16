@@ -6,7 +6,7 @@ gems:
 markdown:         kramdown
 highlighter:      rouge
 permalink:        /:title/
-include: ["_pages"]
+include:          ["_pages"]
 
 # Setup
 title:            'title' #'Lukáš Bednařík'
