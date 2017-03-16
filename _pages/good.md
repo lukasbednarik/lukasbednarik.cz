@@ -1,10 +1,21 @@
 ---
 layout: page
-title: 'Kontakt'
-permalink: /about
+title: 'Co se povedlo'
+permalink: /good
 ---
 
-- Kontakt a linky jinde
+## Co se povedlo
+
+### 2017
+
+xxx
+
+### 2016
+
+xxx
+
+- Kontakt
+- Co se povedlo
 - Moje story
 - Foto (na konec)
 

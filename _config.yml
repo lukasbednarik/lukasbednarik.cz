@@ -8,10 +8,9 @@ highlighter:      rouge
 permalink:        /:title/
 include:          ["_pages"]
 
-# Setup
-title:            'title' #'Lukáš Bednařík'
+title:            'Lukáš Bednařík'
 tagline:          'blog'
-description:      'some text' #'Agilní techniky, procesy, metodiky.<a href="#" target="_blank">Facebook</a>.'
+description:      'Agilní techniky, procesy, metodiky. Baví mě optimalizovat, hledat souvislosti.'
 url:              'http://lukasbednarik.cz'
 baseurl:          '/'
 
