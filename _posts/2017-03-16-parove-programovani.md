@@ -8,7 +8,7 @@ Zastánci párového programování tvrdí, že ano, i když je to neintuitivní
 
 ## Co vidíme
 
-Myšlenka párového programování velmi jednoduchá. V letadle nesedí sám pilot, ale má co-pilota.
+Myšlenka párového programování je velmi jednoduchá. V letadle nesedí sám pilot, ale má co-pilota.
 Závody rally nejezdí sám řidič, má navigátora. TV zprávy uvádějí dva moderátoři, operaci neprovádí
 sám chirurg (i když by to zvládl), ale má asistenty. Ani sniper nepracuje sám, má pozorovatele.
 Programovat mohou také dva lidé - jeden řídí (driver), druhý naviguje (navigator). O co se jedná?
