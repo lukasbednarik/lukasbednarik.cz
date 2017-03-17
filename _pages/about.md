@@ -4,32 +4,25 @@ title: 'Kontakt'
 permalink: /about
 ---
 
-- Kontakt a linky jinde
-- Moje story
-- Foto (na konec)
+- E-mail: <a href="mailto:l.bednarik@gmail.com" target="_top">l.bednarik@gmail.com</a>
+- Sociální sítě: [LinkedIn](https://cz.linkedin.com/in/lukasbednarik), Facebook
+- Vývoj: [GitHub](https://github.com/sand-dollar)
+- Bydlište: Brno
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+# Co mě zajímá
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+„Je to v jiných firmách stejné jako u nás? Dá se pracovat i jinak? Je chyba ve mně nebo v managementu?“
+To jsou otázky, které mě zavedly ke studiu technik, procesů a nakonec i metodik tvorby software.
+Způsob, jakým tyto procesy působí na vývojáře, nazývám z pohledu vývojáře zjednodušeně „firemní kulturou“.
 
-There are currently two themes built on Poole:
+Vývoj software je kooperativní hra. Navzdory tomu vývoj v mnoha firmách připomíná spíše kompetitivní hru
+mezi vývojáři a manažerem.
+Manažer má vyšší plat, vyšší ego a sedí na lepší židli. Jméno manažera je na dveřích kanceláře napsáno modře.
+Vývojář má málo peněz, málo zodpovědnosti a velmi málo důvodů odvádět dobrou práci. Jeho jméno je napsáno
+černě. Zmíněné rozdělení můžeme nazvat hierarchickým (moderním) managementem. S nástupem filozofie
+post-moderního managementu a agilních metod se ukázaly nedostatky moderního přístupu.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Agile chápu v souvislosti s rozdělením firemních kultur dle Geralda Weinberga. Nepreferuji Scrum.
+Jakákoliv metodika, která řeší problémy vaší firemní kultury, může být úspěšná.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+![Lukáš Bednařík]({{ site.url }}/assets/lukasbednarik.jpg)
