@@ -6,7 +6,7 @@ permalink: /about
 
 - E-mail: <a href="mailto:l.bednarik@gmail.com" target="_top">l.bednarik@gmail.com</a>
 - Sociální sítě: [LinkedIn](https://cz.linkedin.com/in/lukasbednarik), Facebook
-- Vývoj: [GitHub](https://github.com/sand-dollar)
+- Vývoj: [GitHub](https://github.com/sand-dollar), [StackOverflow](http://stackoverflow.com/users/4734434/luk%C3%A1%C5%A1-bedna%C5%99%C3%ADk)
 - Bydlište: Brno
 
 # Co mě zajímá
