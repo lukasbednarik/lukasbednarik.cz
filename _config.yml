@@ -10,7 +10,7 @@ include:          ["_pages"]
 
 title:            'Lukáš Bednařík'
 tagline:          'blog'
-description:      'Agilní techniky, praktiky, metodiky. Baví mě optimalizovat, hledat souvislosti.'
+description:      'Vývoj software. Praktiky, kultury, metodiky. Baví mě optimalizovat, hledat souvislosti.'
 url:              'http://lukasbednarik.cz'
 baseurl:          '/'
 
