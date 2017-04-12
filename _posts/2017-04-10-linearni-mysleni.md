@@ -8,7 +8,7 @@ nám nemusí pomoci (do pekla je cesta dlážděná dobrými úmysly).
 Lidská mysl miluje linearitu. Za oteplování atmosféry může CO<sub>2</sub>, za špatnou
 atmosféru ve firmě manažeři a sousedovi děti budou mít špatnou práci, protože se špatně učí.
 
-# Lineární myšlení
+## Lineární myšlení
 
 Smysl pro příčinu a následek je u člověka velmi dobře vyvinutý a v nebezpečných dobách mohl
 mít značný význam pro přežití. Pokud jsou v okolí predátoři, je dobré utíkat. Cena za to, že někdy
@@ -34,7 +34,7 @@ V okolních městech USA bylo zbytečně evakuováno 200 000 lidí. Zpětné vy�
 Gerald Weinberg pojmenoval tento způsob uvažování Causation Fallacy:
 "Každý následek má příčinu a můžeme rozeznat, co je co. (Neplatí!)"
 
-# Systémové myšlení
+## Systémové myšlení
 
 Fenoménem šedesátých let je systémové myšlení. Ve filozofii systémového myšlení
 se lidé pokoušeli popsat obecné nelineární systémy pomocí diagramů.
@@ -58,7 +58,7 @@ Pravidlo špatného manažera je: *"Pokud něco nefunguje, dělejte toho ještě
 
 Pokud tedy vidíte, že přidání lidí projekt neurychlilo, přidejte ještě více lidí!
 
-# Teorie chaosu a komplexita
+## Teorie chaosu a komplexita
 
 Počáteční nadšení ze systémového myšlení postupně zchladila skutečnost,
 že ne všechny systémy lze takto popsat. Náš model na obrázku výše
