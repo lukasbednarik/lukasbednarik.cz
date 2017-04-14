@@ -3,8 +3,9 @@ layout: post
 title: Lineární myšlení - cesta do pekel
 ---
 
-Lineární myšlení je v lidech velmi hluboce zakořeněno, avšak při řízení projektu
-nám nemusí pomoci (do pekla je cesta dlážděná dobrými úmysly).
+Lineární myšlení je v lidech velmi hluboce zakořeněno, ale v komplikovaných situacích,
+jako je například řízení projektu, nemusí vést na správná rozhodnutí.
+(Cesta do pekla je dlážděná dobrými úmysly.)
 Lidská mysl miluje linearitu. Za oteplování atmosféry může CO<sub>2</sub>, za špatnou
 atmosféru ve firmě manažeři a sousedovi děti budou mít špatnou práci, protože se špatně učí.
 
