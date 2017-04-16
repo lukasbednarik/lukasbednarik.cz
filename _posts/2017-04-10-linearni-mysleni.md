@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lineární myšlení - cesta do pekel
+title: Intuitivní lineární myšlení
 ---
 
 Lineární myšlení je v lidech velmi hluboce zakořeněno, ale v komplikovaných situacích,
