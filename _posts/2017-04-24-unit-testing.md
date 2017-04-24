@@ -7,7 +7,7 @@ Před několika lety jsem pracoval na produktu, u nějž byla vyžadována extr�
 Podle několika výzkumů unit testy snižují počet defektů následně nalezených v kódu o
 40-80%. Zákazník si tedy vyžádal k produktu unit testy. A všichni vývojáři je psali.
 
-Brzy jsem si uvědomil, že mí kolegové nepíšou unit testy, ale "nějaké testy".
+Brzy jsem si uvědomil, že mí kolegové nepíší unit testy, ale "nějaké testy".
 Jakoby si jen stačilo stáhnout unit-testovací framework a přečíst pár návodů na internetu.
 Roy ve své knize popisuje, jak na svém prvním projektu s unit testy pohořel:
 
