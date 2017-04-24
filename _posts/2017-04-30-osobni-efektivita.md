@@ -19,7 +19,7 @@ nebudete stydět).
 Raději přemýšlím nad tím, co dělám, než kolik toho stihu.
 Minimum stresu. Kreativita. Zbavit se reklam a nevyžádaných služeb,
 které na člověka dorážejí. Dnešní doba je přetechnizovaná.
-Člověk je sluha svého mobilního telefonu.
+Člověk je sluha svého mobilního telefonu a sociálních sítí.
 
 ## Co používám
 
@@ -53,8 +53,9 @@ Pracovní data ukládám na Google disk. Na disku mám několik GIT repozitář�
 které verzuji na [bitbucket.org](https://bitbucket.org/). Mít GIT na Google disku je trošku
 overkill, ale v praxi to má dvě výhody:
 
-1. commit do GIT můžete dělat až ve chvíli, kdy se vám chce a dává to smysl;
-2. máte pohromady věci z repozitáře a podklady, které v repu mít nechcete.
+1. nemusíte aktualizovat všechny repozitáře, stačí jen Google Drive;
+2. používáte GIT;
+3. máte pohromady věci z repozitáře a podklady, které v repu mít nechcete.
 
 ### Text
 
@@ -67,8 +68,8 @@ Ke kreslení jednoduchých diagramů využívám [draw.io](draw.io).
 
 ### Odborné reference
 
-S aktivním studiem článků a knih vznikla potřeba nějak organizovat referenční literaturu.
-Ačkoliv existuje řada free nástrojů, myslím, že tady se vyplatí si zaplatit [Paperpile](paperpile.com).
-Paperpile je "no-fuss reference manager" vzniklý ve Švýcarsku. Mezi jeho funkce mj.
+S aktivním studiem článků a knih vznikla potřeba organizace literatury.
+Ačkoliv existuje řada free nástrojů, myslím, že tady se vyplatí si zaplatit.
+[Paperpile](paperpile.com) je "no-fuss reference manager" vyvinutý ve Švýcarsku. Mezi jeho funkce
 patří automatické vyhledávání dokumentů online, export citací do mnoha formátů, tagování článků.
 

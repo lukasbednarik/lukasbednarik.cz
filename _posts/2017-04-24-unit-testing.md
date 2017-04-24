@@ -7,10 +7,6 @@ Před několika lety jsem pracoval na produktu, u nějž byla vyžadována extr�
 Podle několika výzkumů unit testy snižují počet defektů následně nalezených v kódu o
 40-80%. Zákazník si tedy vyžádal k produktu unit testy. A všichni vývojáři je psali.
 
-S unit testováním jsem tehdy neměl žádné zkušenosti a překvapila mě náhlá samozřejmost,
-s jakou všichni mí kolegové testy začaly psát. Tehdy začalo mé samostudium unit testování
-s knihou The Art of Unit Testing, Roy Osherove.
-
 Brzy jsem si uvědomil, že mí kolegové nepíšou unit testy, ale "nějaké testy".
 Jakoby si jen stačilo stáhnout unit-testovací framework a přečíst pár návodů na internetu.
 Roy ve své knize popisuje, jak na svém prvním projektu s unit testy pohořel:
@@ -65,11 +61,11 @@ Testujeme jen požadované chování, ne způsob implementace.
 ### Čitelné unit testy
 
 Pojmenovávání unit testů by mělo respektovat dohodnutý standard.
-Čitelně pojmenováváme proměnné v unit testu a věnujeme značnou péči napsání
-smysluplného assertu.
-
 Jméno testu může vypadat například takto:
 *JménoMetody_TestovanýScénář_OčekávanéChování*.
+
+Čitelně pojmenováváme proměnné v unit testu a věnujeme značnou péči napsání
+smysluplného assertu.
 
 ## Kdy psát unit testy
 
@@ -81,9 +77,9 @@ vlastně testovat... Jo toto... No to je triviální funce... Raději napíšu 5
 V závěru tak skončíte s 5 unit testy. Kdyby jste psali test první, mohli jste mít v tuto chvíli testů
 20.
 
-Mnoho sportů je na profesionální úrovni také neintuitivní. Například běžci běhají po špičkách.
+Mnoho sportů je na profesionální úrovni také neintuitivní. Sprinteři běhají po špičkách.
 Hráči ping-pong jsou podivně nahrbení a mají pokřivená zápěstí. Na pokřivené zápěstí narazíte
-také u bubnování, kde je držení paličky tak zvláštní, že noví hráči se jej učí měsíce.
+také u bubnování, kde je držení paličky tak zvláštní, že noví hráči se jej učí měsíce!
 Dělat *test first* je neintuitivní, ale vy jste také **profesionálové**.
 
 ## Design kódu
@@ -98,5 +94,3 @@ separovat od zbytku kódu, takže v unit testu vždy testujeme jen jednu věc.
 
 Řešení problémů spojených s designem testovatelného kódu vede - dle mé zkušenosti - na
 lepší design. Možnost bezpečného refaktoringu je pak již jen třešničkou na dortu.
-
-
