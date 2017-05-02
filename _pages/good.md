@@ -9,6 +9,7 @@ permalink: /good
 - Prezentace na [Brněnském kontejneru](https://www.facebook.com/events/302801320118015/): K Agile a dál
 - Prezentace v [iXperta s.r.o.](http://www.ixperta.com/):
   - Firemní kultury a Agile
+  - Unit testing
 
 ### 2016
 
