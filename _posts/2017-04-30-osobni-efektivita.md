@@ -69,7 +69,7 @@ Ke kreslení jednoduchých diagramů využívám [draw.io](draw.io).
 ### Odborné reference
 
 S aktivním studiem článků a knih vznikla potřeba organizace literatury.
-Ačkoliv existuje řada free nástrojů, myslím, že tady se vyplatí si zaplatit.
+Ačkoliv existuje řada free nástrojů, myslím, že tady se vyplatí si zaplatit Paperpile.
 [Paperpile](paperpile.com) je "no-fuss reference manager" vyvinutý ve Švýcarsku. Mezi jeho funkce
 patří automatické vyhledávání dokumentů online, export citací do mnoha formátů, tagování článků.
 
