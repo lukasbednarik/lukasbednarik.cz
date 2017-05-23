@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Osobní kanban board
-published: false
 ---
 
 S přibývajícím množstvím úkolů kolem prezentací a tohoto webu jsem
