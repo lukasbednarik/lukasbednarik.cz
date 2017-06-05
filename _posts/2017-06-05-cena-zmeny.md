@@ -19,7 +19,7 @@ znamená psát kvalitní kód. Křivka samotná je pak výsledkem použitých pr
 ![]({{ site.url }}/assets/cena-zmeny-klasicky-a-agilni-vyvoj.svg)
 
 Ve snaze co nejvíce omezit křivku ceny za změnu se dle mého názoru dostalo nejdále extrémní programování.
-Extrémní programování je založena na třech klíčových praktikách: refaktoringu, párovém programování,
+Extrémní programování je založeno na třech klíčových praktikách: refaktoringu, párovém programování,
 unit testování. (Ve skutečnosti extrémní programování má mnohem více praktik. Tyto tři jsou však nejvíce
 zanedbávané, ve firmách nejobtížněji implementované a mají největší přínos. Proto jim říkám *klíčové praktiky*.)
 
