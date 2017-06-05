@@ -53,7 +53,7 @@ Možná potom má smysl psát kód v páru. Lidé pracující sami velmi často 
 ## Unit testování
 
 Nemá smysl psát všechny ty testy. Testy zaberou příliš mnoho času. Vývojáři nechtějí psát testy.
-To nemusí platit, pokud:
+To nemusí platit, pokud: 
 
 - design je maximálně jednoduchý, takže psaní testů není obtížné;
 - praktikujete párové programování. Nenapadá-li vás žádný další test, vašeho kolegu pravděpodobně napadne. A naopak;
