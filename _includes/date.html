@@ -1,13 +1,7 @@
-{% if post %}
-{% assign unidate = post.date %}
-{% else %}
-{% assign unidate = page.date %}
-{% endif %}
-{% if unidate %}
-  <span class="post-date">
-    <time datetime="{{ unidate | date_to_xmlschema }}">
-      {{ unidate | date: "%-d" }}.
-      {% assign month = unidate | date: '%-m' %}
+{% if include.date %}
+    <time datetime="{{ include.date | date_to_xmlschema }}">
+      {{ include.date | date: "%-d" }}.
+      {% assign month = include.date | date: '%-m' %}
       {% case month %}
         {% when '1' %}Leden
         {% when '2' %}Únor
@@ -22,7 +16,6 @@
         {% when '11' %}Listopad
         {% when '12' %}Prosinec
       {% endcase %}
-      {{ unidate | date: "%Y" }}
+      {{ include.date | date: "%Y" }}
     </time>
-  </span>
 {% endif %}
