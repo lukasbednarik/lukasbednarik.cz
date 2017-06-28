@@ -21,9 +21,9 @@ title: Domů
 <div class="pagination">
   <div class="pagination-items-wrapper">
   {% if paginator.previous_page %}
-    <a class="pagination-item older" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Předchozí</a>
+    <a class="pagination-item older" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Novější</a>
   {% else %}
-    <span class="pagination-item older">&laquo; Předchozí</span>
+    <span class="pagination-item older">&laquo; Novější</span>
   {% endif %}
 
   {% for page in (1..paginator.total_pages) %}
@@ -37,9 +37,9 @@ title: Domů
   {% endfor %}
 
   {% if paginator.next_page %}
-    <a class="pagination-item newer" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Další &raquo;</a>
+    <a class="pagination-item newer" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Starší &raquo;</a>
   {% else %}
-    <span class="pagination-item newer">Další &raquo;</span>
+    <span class="pagination-item newer">Starší &raquo;</span>
   {% endif %}
   </div>
 </div>
