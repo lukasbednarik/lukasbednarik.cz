@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Multitasking
+tags: efektivita management
 ---
 
 Při současné práci na dvou a více zcela odlišných projektech dochází k tzv. přepínání

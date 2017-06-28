@@ -11,36 +11,11 @@ title: Domů
         {{ post.title }}
       </a>
     </h1>
-    {% include date.html date=post.date %}
+    {% include tags.html %}
+    {% include date.html %}
     {{ post.content }}
   </div>
   {% endfor %}
 </div>
 
-{% if paginator.total_pages > 1 %}
-<div class="pagination">
-  <div class="pagination-items-wrapper">
-  {% if paginator.previous_page %}
-    <a class="pagination-item older" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Novější</a>
-  {% else %}
-    <span class="pagination-item older">&laquo; Novější</span>
-  {% endif %}
-
-  {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-      <em class="pagination-item">{{ page }}</em>
-    {% elsif page == 1 %}
-      <a class="pagination-item" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-    {% else %}
-      <a class="pagination-item" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-    {% endif %}
-  {% endfor %}
-
-  {% if paginator.next_page %}
-    <a class="pagination-item newer" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Starší &raquo;</a>
-  {% else %}
-    <span class="pagination-item newer">Starší &raquo;</span>
-  {% endif %}
-  </div>
-</div>
-{% endif %}
+{% include pagination.html %}

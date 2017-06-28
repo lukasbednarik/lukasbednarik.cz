@@ -344,12 +344,21 @@ tbody tr:nth-child(odd) th {
   margin-top: 0;
 }
 
+.post-tags {
+  display: block;
+  float: left;
+  margin-top: -.5rem;
+  margin-bottom: 1rem;
+  color: #9a9a9a;
+}
+
 /* Meta data line below post title */
 .post-date {
   display: block;
   margin-top: -.5rem;
   margin-bottom: 1rem;
   color: #9a9a9a;
+  text-align: right;
 }
 
 /* Related posts */
@@ -433,3 +442,35 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+/*
+ * Tags
+ *
+ * Tag archive page.
+ */
+ 
+.tag-cloud {
+  list-style: none;
+  padding: 0;
+  text-align: justify;
+  font-size: 16px;
+}
+
+.tag-cloud  li {
+  display: inline-block;
+  margin: 0 12px 12px 0;
+}
+
+#archives {
+  padding: 5px;
+}
+
+.archive-group {
+  margin: 5px;
+  border-top: 1px solid #ddd;
+}
+
+.archive-item {
+  margin-left: 5px;
+}
+

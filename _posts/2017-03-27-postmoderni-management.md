@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Postmoderní management
+tags: management agile
 ---
 
 Slovo "agile" se v dnešní době skloňuje tak často, že už nikdo neví, co znamená.

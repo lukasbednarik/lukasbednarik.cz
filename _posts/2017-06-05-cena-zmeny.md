@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Cena změny v agilním vývoji
+tags: agile management programování
 ---
 
 Jeden z univerzálních předpokladů ve vývoji software je, že cena za změnu požadavků

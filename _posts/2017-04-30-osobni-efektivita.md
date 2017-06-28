@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Nástroje osobní efektivity
+tags: efektivita management
 ---
 
 Tento příspěvek píšu na popud kamaráda, který se mě ptal,

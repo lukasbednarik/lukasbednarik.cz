@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kanban ve 100 slovech
+tags: agile management kanban
 ---
 
 Existuje mnoho variant kanbanu, ale jádro je vždy stejné:

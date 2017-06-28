@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Intuitivní lineární myšlení
+tags: principy
 ---
 
 Lineární myšlení je v lidech velmi hluboce zakořeněno, ale v komplikovaných situacích,

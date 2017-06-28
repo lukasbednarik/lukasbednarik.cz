@@ -4,7 +4,8 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  {% include date.html date=page.date %}
+  {% include tags.html %}
+  {% include date.html %}
   {{ content }}
 </div>
 

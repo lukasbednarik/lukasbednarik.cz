@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ideální pohovor
+tags: management
 ---
 
 Stále si živě pamatuji dobu, kdy jsem při hledání práce

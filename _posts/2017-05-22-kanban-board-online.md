@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Osobní kanban board
+tags: efektivita kanban
 ---
 
 S přibývajícím množstvím úkolů kolem prezentací a tohoto webu jsem

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Důležitost iterativního vývoje
+tags: management agile principy
 ---
 
 Je zajímavé si všimnout, kolik nezávislých autorů zmiňuje
