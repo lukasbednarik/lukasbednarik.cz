@@ -17,19 +17,30 @@ title: Domů
   {% endfor %}
 </div>
 
+{% if paginator.total_pages > 1 %}
 <div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Starší</a>
-  {% else %}
-    <span class="pagination-item older">Starší</span>
-  {% endif %}
+  <div class="pagination-items-wrapper">
   {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Novější</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Novější</a>
-    {% endif %}
+    <a class="pagination-item older" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Předchozí</a>
   {% else %}
-    <span class="pagination-item newer">Novější</span>
+    <span class="pagination-item older">&laquo; Předchozí</span>
   {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <em class="pagination-item">{{ page }}</em>
+    {% elsif page == 1 %}
+      <a class="pagination-item" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+    {% else %}
+      <a class="pagination-item" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a class="pagination-item newer" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Další &raquo;</a>
+  {% else %}
+    <span class="pagination-item newer">Další &raquo;</span>
+  {% endif %}
+  </div>
 </div>
+{% endif %}
