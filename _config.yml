@@ -10,8 +10,8 @@ include:          ["_pages"]
 
 title:            'Lukáš Bednařík'
 tagline:          'blog'
-# description:      'Rebelský vůdce týmu. Praktiky, kultury, metodiky vývoje software.'
-description:      'Vývoj software. Praktiky, kultury, metodiky. Baví mě optimalizovat, hledat souvislosti.'
+# description:      'Rebelský vůdce týmu. Praktiky, kultury a metodiky vývoje software.'
+description:      'Praktiky, kultury a metodiky vývoje software. Baví mě optimalizovat, hledat souvislosti.'
 url:              'http://lukasbednarik.cz'
 baseurl:          '/'
 
