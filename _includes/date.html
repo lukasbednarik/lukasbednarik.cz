@@ -3,18 +3,18 @@
       {{ include.date | date: "%-d" }}.
       {% assign month = include.date | date: '%-m' %}
       {% case month %}
-        {% when '1' %}Leden
-        {% when '2' %}Únor
-        {% when '3' %}Březen
-        {% when '4' %}Duben
-        {% when '5' %}Květen
-        {% when '6' %}Červen
-        {% when '7' %}Červenec
-        {% when '8' %}Srpen
-        {% when '9' %}Září
-        {% when '10' %}Říjen
-        {% when '11' %}Listopad
-        {% when '12' %}Prosinec
+        {% when '1' %}leden
+        {% when '2' %}únor
+        {% when '3' %}březen
+        {% when '4' %}duben
+        {% when '5' %}květen
+        {% when '6' %}červen
+        {% when '7' %}červenec
+        {% when '8' %}srpen
+        {% when '9' %}září
+        {% when '10' %}říjen
+        {% when '11' %}listopad
+        {% when '12' %}prosinec
       {% endcase %}
       {{ include.date | date: "%Y" }}
     </time>
