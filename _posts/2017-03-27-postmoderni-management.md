@@ -4,45 +4,6 @@ title: Postmoderní management
 tags: management agile
 ---
 
-Slovo "agile" se v dnešní době skloňuje tak často, že už nikdo neví, co znamená.
-Vývojáři si (s drobou nadsázkou) pod "agile vývojem" přestavují, že budou muset rychle
-reagovat na změny. Management pod "agile" vidí způsob, jak udělat více práce v kratším
-čase a za méně peněz. Ve skutečnosti slovo agile vychází z
-[Agilního manifestu](http://agilemanifesto.org/) a ten je jen jeden.
-
-Pod "agilním managementem" lidé většinou myslí postmoderní management (a neuvědomují si to).
-Rozvoj postmoderního managementu začal v 70. letech 20. století a je s podivem, že i po padesáti
-letech stále převažuje klasický (moderní) management. Tento článek přináší zjednodušený
-přehled vývoje managementu a definici slova *postmoderní*.
-
-## Pre-moderní management
-
-Před průmyslovou revolucí (tj. přelom 19. a 20. století) převažovala řemeslná výroba.
-Lidé vykonávali své řemeslo celý život a byli v něm tak zruční, že nepotřebovali
-nadřízené, aby jim radili, jak organizovat, plánovat a řídit.
-
-Na druhou stranu tu byla vykořisťovaná třída otroků a poddaných, kteří přinášeli
-blahobyt svému majiteli.
-
-## Moderní management
-
-Slovo "moderní" znamená "po průmyslové revoluci". Do moderního managementu se řadí mj.
-[vědecký management](https://en.wikipedia.org/wiki/The_Principles_of_Scientific_Management)
-a obecně všechny společnosti řízené silnou osobností.
-
-Moderní management vznikl kombinací dvou trendů během průmyslové revoluce.
-Prvním trendem byla tovární výroba. Ve srovnání s řemeslnou výrobou se začalo vyrábět větší množství
-levnějších výrobků. Druhou tendencí bylo zavádění byrokracie. Na byrokracii
-se nahlíželo jako na způsob, jak dostat pod kontrolu barony a feudální lordy.
-Zaváděly se předpisy, procedury, specializované pozice a nové vrstvy administrace.
-
-V průmyslové revoluci se s lidmi v továrnách zacházelo jako se stroji.
-Lidé vykonávaly jednoduché repetitivní a velmi specializované činnosti.
-Protože tito dělníci sami o sobě nemysleli, bylo nutné zkonstruovat monumentální
-pyramidy manažerů, kteří zaměstnance pod sebou koordinovali.
-
-## Postmoderní management
-
 Peter Drucker (kniha *Managing for the Future: The 1990's and Beyond*) datuje začátek
 postmoderní revoluce do 70. let 20. století.
 Dostáváme se do doby, kdy výroba opět potřebuje vysoce kvalifikovanou pracovní sílu.
