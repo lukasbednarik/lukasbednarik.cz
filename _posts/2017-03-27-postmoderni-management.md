@@ -6,7 +6,7 @@ tags: management agile
 
 Peter Drucker (kniha *Managing for the Future: The 1990's and Beyond*) datuje začátek
 postmoderní revoluce do 70. let 20. století.
-Dostáváme se do doby, kdy výroba opět potřebuje vysoce kvalifikovanou pracovní sílu.
+Dostáváme se do doby, kdy výroba potřebuje vysoce kvalifikovanou pracovní sílu.
 V mnoha oborech jsou opět žádoucí samostatní lidé a dokonce (např. ve vývoji software)
 se spekuluje o tom, zda-li vůbec potřebujeme management.
 Požadavky zákazníka už nejsou uspokojovány masovou výrobou, ale opět se přechází
