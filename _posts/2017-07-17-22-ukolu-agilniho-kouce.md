@@ -4,13 +4,8 @@ title: 22 úkolů Agilního kouče
 tags: agile management
 ---
 
-Role Agilního kouče (nebo Scrum Mastera) je práce na plný úvazek. Maximální počet týmů, které může agilní kouč efektivně vést,
-jsou dva týmy (v ideálním případě ale vede jen jeden tým). Níže je přehled úkolů a zodpovědností kouče, které vnímám jako
-důležité (souhlasí s článkem [42 Tasks for a Scrum Master’s Job](https://www.infoq.com/news/2012/01/scrum-master-full-time-role)).
-
-> We believe the Scrum Master is a full-time position for one person on one Scrum team.
->
-> --- ScrumMaster manifesto
+Přehled úkolů a zodpovědností kouče, které vnímám jako
+důležité (více méně souhlasí s článkem [42 Tasks for a Scrum Master’s Job](https://www.infoq.com/news/2012/01/scrum-master-full-time-role)).
 
 ## Týmový rozsah
 
@@ -44,4 +39,11 @@ Agilní kouč:
 - udržuje a vede backlog agilní transformace (je dobré, aby tento backlog byl v organizaci veřejně viditelný - stejně jako impediments backlog).
 
 Děláte všechny tyto věci? Pak musíte být velmi unaveni.
+
+Role Agilního kouče (nebo Scrum Mastera) je práce na plný úvazek. Říká se, že maximální počet týmů, které může agilní kouč efektivně vést,
+jsou dva.
+
+> We believe the Scrum Master is a full-time position for one person on one Scrum team.
+>
+> --- ScrumMaster manifesto
 
