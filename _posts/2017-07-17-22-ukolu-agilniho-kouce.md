@@ -40,10 +40,9 @@ Agilní kouč:
 
 Děláte všechny tyto věci? Pak musíte být velmi unaveni.
 
-Role Agilního kouče (nebo Scrum Mastera) je práce na plný úvazek. Říká se, že maximální počet týmů, které může agilní kouč efektivně vést,
-jsou dva.
-
 > We believe the Scrum Master is a full-time position for one person on one Scrum team.
 >
 > --- ScrumMaster manifesto
 
+Role Agilního kouče (nebo Scrum Mastera) je práce na plný úvazek. Říká se, že maximální počet týmů, které může agilní kouč efektivně vést,
+jsou dva.
