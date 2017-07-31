@@ -8,7 +8,7 @@ permalink: /books
 
 **Download:** PDF, ePub, mobi
 
-![Lukáš Bednařík]({{ site.url }}/assets/rebelska-historie-vyvoje-software-cover.svg){:height="300px"}
+![Lukáš Bednařík]({{ site.url }}/assets/rebelska-historie-vyvoje-software-cover.png)
 
 ### Obsah
 
