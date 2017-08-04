@@ -6,6 +6,7 @@ permalink: /good
 
 ### 2017
 
+- Certifikát [Scaled Professional Scrum](https://www.scrum.org/certification-list) ([scrum.org](https://www.scrum.org))
 - Certifikát [Professional Scrum Master](https://www.scrum.org/certification-list) ([scrum.org](https://www.scrum.org))
 - [Agile Open Space](http://www.agileopenspace.cz/) v SolarWinds
 - Absolvoval jsem Robertovo školení [Na volné noze](http://navolnenoze.cz/)
