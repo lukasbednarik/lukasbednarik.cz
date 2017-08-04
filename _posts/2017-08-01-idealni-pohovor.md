@@ -4,6 +4,8 @@ title: Ideální pohovor
 tags: management
 ---
 
+## V jiných firmách
+
 Stále si živě pamatuji dobu, kdy jsem při hledání práce
 jako vývojář absolvoval kolečko pohovorů. V jedné firmě jsem
 musel odhadovat, kolik vagónů má pražské metro, a posléze
@@ -31,7 +33,7 @@ otázky nezřídka diskutujete přímo s manažerem, bývalým vývojářem.
 Příliš odbornou odpovědí můžete paradoxně ztratit půdu pod nohama,
 protože manažer vaši odpověď nepochopí a chybu nepřizná.
 
-## Jaký je můj ideální pohovor
+## Můj ideální pohovor
 
 První kolo pohovoru by se mělo točit výhradně kolem lidských
 vlastností a obecných zkušeností. Velmi dobré jsou vlastní
