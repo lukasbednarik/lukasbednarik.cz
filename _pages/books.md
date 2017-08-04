@@ -6,7 +6,7 @@ permalink: /books
 
 ## Rebelská historie vývoje software
 
-**Download:** PDF, ePub, mobi
+**Download:** PDF, ePub, mobi (Link zatím není dostupný!)
 
 ![Lukáš Bednařík]({{ site.url }}/assets/rebelska-historie-vyvoje-software-cover.png)
 
@@ -31,3 +31,5 @@ permalink: /books
 - Závěr
 
 ### Úvodní kapitola
+
+TODO
