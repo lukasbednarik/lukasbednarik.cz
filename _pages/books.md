@@ -32,7 +32,7 @@ PDF, ePub, mobi (Link zatím není dostupný!)
 - Rok 2030: Budoucnost
 - Závěr
 
-### Úvodní kapitola
+### Úvod
 
 > It's fine to celebrate success but it is more important to heed the lessons of failure.
 > --- Bill Gates
