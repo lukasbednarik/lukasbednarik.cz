@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Co je to Nexus?
+title: Nexus framework
 tags: agile scrum
 ---
 
