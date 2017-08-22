@@ -19,8 +19,8 @@ Vývoj software je kooperativní hra. Navzdory tomu vývoj v mnoha firmách při
 mezi vývojáři a manažerem.
 Manažer má vyšší plat, vyšší ego a sedí na lepší židli. Jméno manažera je na dveřích kanceláře napsáno modře.
 Vývojář má málo peněz, málo zodpovědnosti a velmi málo důvodů odvádět dobrou práci. Jeho jméno je napsáno
-černě. Zmíněné rozdělení můžeme nazvat hierarchickým (moderním) managementem. S nástupem filozofie
-post-moderního managementu a agilních metod se ukázaly nedostatky moderního přístupu.
+černě. Zmíněné rozdělení můžeme nazvat hierarchickým (klasickým) managementem. S nástupem filozofie
+post-moderního managementu a agilních metod se ukázaly nedostatky klasického přístupu.
 
 Agile chápu v souvislosti s rozdělením firemních kultur dle Geralda Weinberga. Nepreferuji Scrum.
 Jakákoliv metodika, která řeší problémy vaší firemní kultury, může být úspěšná.
