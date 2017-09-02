@@ -59,7 +59,7 @@ ani není možné (například existují překážky na straně zákazníka nebo
 Jak tedy modifikovat Scrum, aniž bychom mu ublížili?
 
 Využijeme hodnot. Scrum stojí na pěti hodnotách (focus, courage, openness, commitment, respect), ale tyto hodnoty
-nám příliš nepomohou se změnou samotné metodiky. S využitím výše zmíněných třech
+nám příliš nepomohou se změnou samotného frameworku. S využitím výše zmíněných třech
 hodnot (samoorganizace, smysl v práci, otevřená komunikace) se ale někam dostáváme.
 Před každou změnou procesu nebo rozhodnutím bychom se měli zeptat:
 nejde tato změna proti některé z našich hodnot?
