@@ -11,7 +11,7 @@ Na konci knihy Scrum and XP from the Trenches jsem nalezl dvě pěkné citace na
 >
 > (strana 159, Scrum and XP from the Trenches, 2nd Edition - Director’s cut, Henrik Kniberg)
 
->...jako Scrum Master by jste se měli čas od času udělat pro tým zbyteční. Koučujte tým, aby dělal věci bez vás.
+> ...jako Scrum Master by jste se měli čas od času udělat pro tým zbyteční. Koučujte tým, aby dělal věci bez vás.
 > I když se vám to nepodaří a tým na vás bude stále záviset, samotný akt zkusit se udělat nadbytečným může vést k mnoha dobrým věcem.
 > Někteří Scrum Masters končí v roli Scrum admina nebo Scrum sluhy, protože se příliš snaží tým potěšit.
 > Pokud je na vás tým velmi závislý, pak poškozujete jeho schopnost samoorganizace.
