@@ -1,8 +1,7 @@
 {% if include.date %}
     <time datetime="{{ include.date | date_to_xmlschema }}">
-      {{ include.date | date: "%-d" }}.
       {% assign month = include.date | date: '%-m' %}
-      {% case month %}
+      {{ include.date | date: "%-d" }}.&nbsp;{% case month %}
         {% when '1' %}leden
         {% when '2' %}únor
         {% when '3' %}březen
@@ -15,7 +14,6 @@
         {% when '10' %}říjen
         {% when '11' %}listopad
         {% when '12' %}prosinec
-      {% endcase %}
-      {{ include.date | date: "%Y" }}
+      {% endcase %}{{ include.date | date: "%Y" }}
     </time>
 {% endif %}
