@@ -5,8 +5,9 @@ tags: principy
 ---
 
 Lineární myšlení je v lidech velmi hluboce zakořeněno, ale v komplikovaných situacích,
-jako je například řízení projektu, nemusí vést na správná rozhodnutí.
+jako je například projektové řízení, nemusí vždy vést na správná rozhodnutí.
 (Cesta do pekla je dlážděná dobrými úmysly.)
+
 Lidská mysl miluje linearitu. Za oteplování atmosféry může CO<sub>2</sub>, za špatnou
 atmosféru ve firmě manažeři a sousedovi děti budou mít špatnou práci, protože se špatně učí.
 
@@ -51,12 +52,12 @@ Do tohoto diagramu bychom mohli přikreslit další vlivy (například "míra de
 ale pro jednoduchou ilustraci to stačí.
 
 Jiným velmi známým příkladem je tzv. [Brooks Law](https://en.wikipedia.org/wiki/Brooks%27s_law).
-Brooks Law říká: "Přídáním lidí ke zpožděnému projektu dosáhnete ještě většího zpoždění."
+Brooks Law říká: "Přidáním lidí ke zpožděnému projektu dosáhnete ještě většího zpoždění."
 Brooks Law je způsobené tím, že přidáním nových lidí na projekt práci z počátku neurychlíme
 (noví lidé ještě nejsou zaučeni), ale zvýšíme celkové množství práce kvůli zaškolování nových
 kolegů.
 
-Pravidlo špatného manažera je: *"Pokud něco nefunguje, dělejte toho ještě více!"*
+Pravidlo špatného manažera je: *"Pokud něco nefunguje, dělejme toho ještě více!"*
 
 Pokud tedy vidíte, že přidání lidí projekt neurychlilo, přidejte ještě více lidí!
 

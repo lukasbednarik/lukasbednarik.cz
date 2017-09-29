@@ -10,7 +10,8 @@ Podle několika výzkumů unit testy snižují počet defektů následně naleze
 
 Brzy jsem si uvědomil, že mí kolegové nepíší unit testy, ale "nějaké testy".
 Jakoby si jen stačilo stáhnout unit-testovací framework a přečíst pár návodů na internetu.
-Roy ve své knize popisuje, jak na svém prvním projektu s unit testy pohořel:
+Vzpomněl jsem si na knihu The Art of Unit Testing, kde
+Roy Osherove popisuje, jak na svém prvním projektu s unit testy pohořel:
 
 - jakákoliv malá změna požadavků vedla ke změně testů,
 - některé testy byly nepoužitelné, protože nikdo nevěděl, jak fungují,
@@ -19,8 +20,8 @@ Roy ve své knize popisuje, jak na svém prvním projektu s unit testy pohořel:
 
 Mnoho společností od unit testování upouští, protože špatné unit testy nenaplňují očekávání
 a podpora managementu se pozvolna vytrácí.
-Na druhou stradu *dobré unit testy* mohou skutečně zvýšit kvalitu kódu, zmenšit počet defektů
-a dokonce i urychlit vývoj!
+Na druhou stranu *dobré unit testy* mohou skutečně zvýšit kvalitu kódu, zmenšit počet defektů
+a dokonce i urychlit vývoj.
 
 ![]({{ site.url }}/assets/it-works-on-my-machine.jpg)
 
@@ -74,7 +75,7 @@ Mnoho lidí si myslí, že je lepší psát unit testy před psaním samotného 
 Ano, psát unit test první je neintuitivní, ale pokud to neuděláte, může se vám honit
 hlavou například toto (moje zkušenost): "Měl bych napsat 5 unit testů, ale ještě potřebuji
 doimplementovat tohle... A ještě tohle..." O 3 hodiny později: "Už ani nevím, co jsem chtěl
-vlastně testovat... Jo toto... No to je triviální funce... Raději napíšu 5 unit testů na tohle..."
+vlastně testovat... Jo toto... No to je triviální funkce... Raději napíšu 5 unit testů na tohle..."
 V závěru tak skončíte s 5 unit testy. Kdyby jste psali test první, mohli jste mít v tuto chvíli testů
 20.
 

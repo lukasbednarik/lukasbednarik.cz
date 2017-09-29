@@ -6,6 +6,8 @@ permalink: /good
 
 ### 2017
 
+- Dokončení knihy [Rebelská historie vývoje software](/books)
+- Workshop eXtrémního programování pro [iXperta s.r.o.](http://www.ixperta.com/)
 - Certifikát [Scaled Professional Scrum](https://www.scrum.org/certification-list) ([scrum.org](https://www.scrum.org))
 - Certifikát [Professional Scrum Master II](https://www.scrum.org/certification-list) ([scrum.org](https://www.scrum.org))
 - [Agile Open Space](http://www.agileopenspace.cz/) v SolarWinds

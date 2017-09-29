@@ -9,7 +9,7 @@ začal mít mírný zmatek kolem toho, co je třeba udělat.
 Hledal jsem jednoduchý online kanban board pro osobní použití.
 Nakonec jsem vyzkoušel tři: Trello, Kanbanachi a KanbanFlow.
 
-Mezi největší výhody online kanban bordu patří
+Mezi největší výhody online kanban boardu patří
 možnost nastavení rekurzivních úkolů, podúkolů, online dostupnost,
 možnost řazení úkolů, možnost nastavení kategorií (labels).
 

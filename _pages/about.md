@@ -11,7 +11,7 @@ permalink: /about
 
 # Co mě zajímá
 
-„Je to v jiných firmách stejné jako u nás? Dá se pracovat i jinak? Je chyba ve mně nebo v managementu?“
+„Je to v jiných firmách stejné jako u nás? Dá se pracovat i jinak? Je chyba ve vývoji nebo v managementu?“
 To jsou otázky, které mě zavedly ke studiu technik, procesů a nakonec i metodik tvorby software.
 Způsob, jakým tyto procesy působí na vývojáře, nazývám z pohledu vývojáře zjednodušeně „firemní kulturou“.
 

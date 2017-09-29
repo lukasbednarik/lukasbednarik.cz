@@ -29,8 +29,8 @@ Je těžké přesvědčit management, že to není plýtvání prostředky. Vžd
 - dva vývojáři dělají práci jednoho
 - junior bude zpomalovat seniora
 - udělá se méně práce
-- bude mě to stát dvakrát tolik
-- proč bych dával dva lidi dělat práci, kterou zvládne jeden člověk?
+- bude to stát dvakrát tolik peněz (H. Erdogmus, L. Williams. On the Economic Feasibility of Pair Programming)
+- proč nechávat dva lidi dělat práci, kterou zvládne jeden člověk?
 
 ## Přínos párového programování
 
@@ -50,7 +50,8 @@ Ve výsledku nevadí, že u párového programování má klávesnici jen jeden 
 
 ## Srovnání klasického a párového programování
 
-Výzkum univerzity v Utahu[1] ukazuje data, která bychom asi intuitivně očekávali. Párové programování nás
+Výzkum univerzity v Utahu (A. Cockburn, L. Williams. The Costs and Benefits of Pair Programming)
+ukazuje data, která bychom asi intuitivně očekávali. Párové programování nás
 z počátku může stát více času, ale jakmile se tým sladí, je tento rozdíl zanedbatelný.
 
 ![]({{ site.url }}/assets/pair-programming-1.png)
@@ -69,6 +70,8 @@ přispívá k objevování chyb v nejranější fázi implementace!
 
 ## Proč párově neprogramují všichni
 
+Mezi překážky párového programování patří:
+
 - je těžké přesvědčit stakeholdery, aby nechali dva lidi pracovat na stejném úkolu
 - lidé mají tendenci se vracet do "komfortní zóny", což párové programování narušuje
 - silné vlastnictví kódu (pokud každý kus kódu má svého vývojáře, který jediný jej může upravovat)
@@ -80,21 +83,22 @@ přispívá k objevování chyb v nejranější fázi implementace!
 
 ### Ping-Pong
 
-Jedná se o variantu TDD. Vývojář *A* napíše test, který selže. Vývojář *B* implementuje feature tak,
+[Ping-pong](http://c2.com/cgi/wiki?PairProgrammingPingPongPattern) je jedna z variant TDD.
+Vývojář *A* napíše test, který selže. Vývojář *B* implementuje feature tak,
 že test projde, a napíše nový test, který selže. Vývojář *A* implementuje...
 
 Refactoring se provádí kdykoli je potřeba a dělá jej ten, kdo je právě u klávesnice.
 
 ### Klávesnice a myš
 
-Jeden vývojář má klávesnici a myš a implementuje program. Druhý vývojář je navigátor - pozoruje a
-určuje taktiku a opravuje chyby. Je důležité dát si pozor, aby všechnu práci nedělal člověk u klávesnice,
+Jeden vývojář má klávesnici, myš a implementuje program. Druhý vývojář je navigátor - pozoruje a
+určuje taktiku, opravuje chyby. Je důležité dát si pozor, aby všechnu práci nedělal člověk u klávesnice,
 ale aby se jednalo o skutečně kolaborativní proces.
 
 ### Další techniky
 
 - selective pairing
-- cross functional pairing, viz [3]
+- [cross functional pairing](http://www.solutionsiq.com/experience-design-and-cross-functional-pairing/)
 - distributed pairing
 
 ## Anti-patterns - co nechceme
@@ -104,11 +108,3 @@ Pár bodů, na co si dát pozor při párovém programování. K praktickým zku
 - žádné střídání párů
 - všechno vymýšlí i programuje jen jeden člověk
 - manager určuje páry
-
-## Reference
-
-1. A. Cockburn, L. Williams. The Costs and Benefits of Pair Programming
-2. http://c2.com/cgi/wiki?PairProgrammingPingPongPattern
-3. http://www.solutionsiq.com/experience-design-and-cross-functional-pairing/
-4. L. Williams et al. Streghtening the Case for Pair-Programming
-5. H. Erdogmus, L. Williams. On the Economic Feasibility of Pair Programming
