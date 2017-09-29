@@ -42,6 +42,7 @@ a jak pracovat s legacy kódem.
      - Plánovací hra
      - Další praktiky
    - Praktiky XP jako puzzle
+   - Role v XP
 1. Praktická část
    - Kata 1: Test-driven development
    - Kata 2: Stub vs. mock
