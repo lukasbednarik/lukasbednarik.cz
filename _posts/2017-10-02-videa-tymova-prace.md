@@ -2,23 +2,34 @@
 layout: post
 title: Důvěra a rovnost v týmu
 tags: management
-published: false
 ---
 
-Rovnost a důvěra jako předpoklady týmové práce a motivace. Až potom může přijít další motivátory jako je např. sense of purpose, competence, 
+Motivace lidí a týmů je velmi komplexní téma. Ovšem dříve, než budeme mluvit o faktorech
+jako je smysl práce (sense of purpose) a kompetence, měli bychom se zaměřit na mnohem
+triviálnější věci jako je rovnost a důvěra v týmu.
 
+Pro dnešek přidávám tři videa, která ukazují, že i opice umějí spolupracovat a rozlišit
+férové a neférové jednání.
 
-Simpanzi si pomahaji tahat za lana. Tymova spoluprace.
+## Spolupráce
+
+První video je experiment Nissan Crawforda ze 30. let. Šimpanzi se mohou dostat k bedně s potravou, jen
+budou-li oba současně tahat za lana. Ve druhé části videa je jeden šimpanz hladový a druhý nikoliv.
+Můžete sami vidět, co se stane.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zrv91Pa3jgs" frameborder="0" allowfullscreen></iframe>
 
-Ruzne druhy odmen pro opice - ferovost.
+## Férová odměna
+
+V tomto videu mají dvě opičky za úkol vrátit z klece kámen. Za vrácení kamena dostanou odměnu. Jedna opička dosane okurek,
+druhá hrozen. Odměňování rozhodně není férové a opička, která dostává okurhy, si něco takového
+líbit nenechá...
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QijfsvQO-54" frameborder="0" allowfullscreen></iframe>
 
-Poton spolupracuji kdyz jeden poda kamen druhemu skrz doru a dostane odmenu - ferovost.
+## Spolupráce a odměna
+
+Dva šimpanzi musejí spolupracovat, aby se dostali k oříškům. Šimpanz, který nakonec oříšky získá,
+je oddělen sklem a nemusí se s prvním rozdělit. Rozdělí se i přesto nebo si nechá všech 6 oříšků pro sebe?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2BYJf2xSONc" frameborder="0" allowfullscreen></iframe>
-
-
-
