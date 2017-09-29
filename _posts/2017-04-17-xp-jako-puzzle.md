@@ -12,7 +12,7 @@ systému jako puzzle. Kompletní skládanka z knihy *Extreme Programming Explain
 
 ![Agilní praktiky jsou jako puzzle (z knihy Kent Beck: Extreme Programming Explained]({{ site.url }}/assets/xp-practices.png)
 
-V centru grafu je refaktoring - testing - pair programming.
+V centru grafu je refaktoring - testování - párové programování.
 Přitom [TDD](https://en.wikipedia.org/wiki/Test-driven_development) a párové programování
 patří mezi nejobtížnější agilní praktiky a mnoho firem není schopno je adoptovat.
 Pokud ovšem neadoptujeme všechny praktiky, připravíme se o sílu jejich vzájemného působení!

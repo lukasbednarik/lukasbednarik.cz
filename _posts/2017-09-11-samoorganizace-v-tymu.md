@@ -4,10 +4,16 @@ title: Samoorganizace týmu
 tags: agile scrum
 ---
 
-Na konci knihy Scrum and XP from the Trenches jsem nalezl dvě pěkné citace na téma samoorganizace týmu a role Scrum Mastera. Uvádím je přeložené zde, protože jsou to témata, která právě v týmech řešíme.
+Na konci knihy *Scrum and XP from the Trenches* jsem nalezl dvě pěkné citace na téma
+samoorganizace týmu a role Scrum Mastera. Uvádím je přeložené zde, protože jsou to témata,
+která právě v týmech řešíme.
 
-> Jedna z klíčových myšlenek Scrumu je samoorganizace týmu. Týmu by mělo být přenecháno tolik zodpovědnosti, kolik je jen možné, včetně věcí jako je docházka a schvalování práce z domu. Samoorganizace je cesta ke kreativitě, motivaci, inovacím a mnoha dalším dobrým věcem.
-> Někteří manažeři se bojí, že týmy zneužijí důvěry, která do nich byla vložena. S tímto jsem se setkal v praxi jen zřídka. Je-li tým skutečně zodpovědný za to, co doručí, obvykle jedná zodpovědně.
+> Jedna z klíčových myšlenek Scrumu je samoorganizace týmu. Týmu by mělo být přenecháno tolik zodpovědnosti,
+> kolik je jen možné, včetně věcí jako je docházka a schvalování práce z domu.
+> Samoorganizace je cesta ke kreativitě, motivaci, inovacím a mnoha dalším dobrým věcem.
+> Někteří manažeři se bojí, že týmy zneužijí důvěry, která do nich byla vložena.
+> S tímto jsem se setkal v praxi jen zřídka. Je-li tým skutečně zodpovědný za to, co doručí,
+> obvykle jedná zodpovědně.
 >
 > (strana 159, Scrum and XP from the Trenches, 2nd Edition - Director’s cut, Henrik Kniberg)
 

@@ -17,17 +17,16 @@ mají na kandidátkách šanci na úspěch. Proč? Protože lidé mají rádi
 bezpečí (alespoň drtivá většina).
 
 "Potřeba bezpečí" je tedy jednou z hodnot, kterou většina lidí sdílí.
-Na základě znalosti této hodnoty můžete udělat správné rozhodnutí,
-že učiníte města ještě bezpečnější. Budete jednat v zájmu lidí.
+Na základě znalosti této hodnoty můžeme udělat rozhodnutí,
+že učiníme města ještě bezpečnější. Budeme tak jednat v zájmu lidí.
 
-Ve firmě se důležitost hodnot projevuje podobně. Znáte-li hodnoty lidí
-ve vaší společnosti, můžete rozhodovat v jejich zájmu a vaši kolegové
-budou s vašimi rozhodnutími více méně spokojeni. Existence společných hodnot
-zlepšuje možnosti organizace. V krajním případě mohou
+Ve firmě se důležitost hodnot projevuje podobně. Známe-li hodnoty lidí
+zaměstnanců společnosti, můžeme rozhodovat v jejich zájmu. Existence společných hodnot
+zlepšuje možnosti organizace. V některých případech mohou
 hodnoty sloužit i jako jakési "morální zásady".
 
 Je důležité, aby hodnoty vznikaly způsobem "zdola nahoru", tj. od nejnižších
-zaměstnancům probublaly nahoru k vedení. Jsou-li hodnoty diktovány vedením
+zaměstnanců probublaly nahoru k vedení. Jsou-li hodnoty diktovány vedením
 (jako do dělá většina firem), zaměstnanci je spíše nepřijmou za své a takovéto
 "hodnoty" rozhodně neplní funkci propojování společnosti.
 
@@ -38,7 +37,7 @@ komunikaci, spolupráci a reakci na změnu. Komunikace a důvěra jsou
 z mého pohledu stavebním kamenem jakéhokoliv současného způsobu řízení
 (agilní metodiky, Management 3.0 nebo cokoliv jiného).
 Agilní metodiky mluví o samoorganizovaných týmech a postmoderní
-management klade důraz na to, aby livé viděli smysl ve své práci.
+management klade důraz na to, aby lidé viděli smysl ve své práci.
 
 Jako Scrum Master se snažím držet těchto třech hodnot a podporovat je:
 - tým je samoorganizovaný,
@@ -51,7 +50,7 @@ Kdybych já mohl definovat agilní vývoj, definoval bych ho takto.
 
 Lidé si Scrum velmi rádi přizpůsobují, i když mu nerozumí. Samozřejmě,
 podle konceptu učení Shu-Ha-Ri by jsme měli metodiku modifikovat až po jejím
-naprostém zvládnutí. Buhužel, většina tým lídrů se do této fáze nikdy nedostane
+naprostém zvládnutí. Bohužel, většina tým lídrů se do této fáze nikdy nedostane
 už proto, že s modifikovanou metodikou začínají a vytvořit "čistý Scrum" často
 ani není možné (například existují překážky na straně zákazníka nebo dodavatele).
 

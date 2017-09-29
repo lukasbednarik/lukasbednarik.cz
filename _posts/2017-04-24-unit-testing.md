@@ -10,7 +10,7 @@ Podle několika výzkumů unit testy snižují počet defektů následně naleze
 
 Brzy jsem si uvědomil, že mí kolegové nepíší unit testy, ale "nějaké testy".
 Jakoby si jen stačilo stáhnout unit-testovací framework a přečíst pár návodů na internetu.
-Vzpomněl jsem si na knihu The Art of Unit Testing, kde
+Vzpomněl jsem si na knihu *The Art of Unit Testing*, kde
 Roy Osherove popisuje, jak na svém prvním projektu s unit testy pohořel:
 
 - jakákoliv malá změna požadavků vedla ke změně testů,

@@ -4,36 +4,48 @@ title: Ideální pohovor
 tags: management
 ---
 
-## V jiných firmách
+## Pohled uchazeče
 
-Stále si živě pamatuji dobu, kdy jsem při hledání práce
-jako vývojář absolvoval kolečko pohovorů. V jedné firmě jsem
-musel odhadovat, kolik vagónů má pražské metro, a posléze
-řešit dvě podobné logické úlohy. Možná vás to překvapí, ale
-po absolvování pěti semestrů obecné teorie relativity a dvou
-semestrů kvantové teorie pole na MFF UK opravdu umím
-přemýšlet. To se ani nepodívali do životopisu?
-Nechtěl jsem vypadat arogantně, tak
-jsem zadané úlohy poslušně vyřešil.
+Jako uchazeč o práci vývojáře jsem ve své době absolvoval dlouhé kolečko pohovorů.
+Všechny pohovory měly jedno společné - jistou dávku nesmyslnosti.
 
-O pár dní později, v jiné brněnské firmě. Hlásím se na pozici
-senior vývojáře C++11/C++14. Po několika otázkách je jasné,
-že na moderní standard C++ můžu zapomenout. Například:
+V jedné firmě jsem musel odhadovat, kolik vagónů má pražské metro,
+a vysvětlovat, jak bych přeléval vodu mezi 3 litrovou a 5 litrovou nádobou
+tak, abych získal 4 litry vody. Se sebezapřením jsem zachoval poker face
+a s paní z HR se bavil slušně. Opravdu jsem studovat teoretickou fyziku, tj.
+pět semestrů teorie relativity, dva semestry kvantové teorie pole a nespočet
+semestrů matematické analýzy na Univerzitě Karlově jenom proto, abych pak ještě musel nějaké paní
+z HR dokazovat, že umím přemýšlet?
+
+O pár dní později se na pohovoru v jiné brněnské firmě ucházím o místo
+senior C++11/C++14 vývojáře. Po několika otázkách je jasné,
+že slovo "senior" je jen v popisu práce a že na moderní C++
+mohu zapomenout. Ptají se mě jen na samé C-čkové věci jako 
 "Co se stane, když v C++ inicializujete pole o velikosti 5
 prvků polem o čtyřech prvcích?"
 
-O pár dní později, opět v jiné firmě. Na druhém kole pohovoru
-padají "technické otázky" typu "co je to virtuální funkce"
-a "jak spolu mohou komunikovat dvě vlákna". Z těchto otázek
-zjistíte, jestli váš kandidát umí ve stresu dobře vysvětlit,
-co to je virtuální funkce. Bohužel nezjistíte, jestli umí programovat.
+Za další 4 dny jsem opět na pohovoru. Opět v jiné firmě.
+Vedoucí vývoje se mě ptá na technické otázky typu "co je to virtuální funkce",
+"jak spolu mohou komunikovat dvě vlánka", "jaké znám design patterns"...
+Z těchto otázek patrně zjistí, jestli umím ve stresu dobře vysvětlit,
+co který pojem znamená. Zjistí ale, jestli umím programovat?
 
-Příprava na pohovor je ze strany firmy často minimální. Technické
-otázky nezřídka diskutujete přímo s manažerem, bývalým vývojářem.
-Příliš odbornou odpovědí můžete paradoxně ztratit půdu pod nohama,
-protože manažer vaši odpověď nepochopí a chybu nepřizná.
+Haló! Zajímá se vůbec někdo o profily na GitHub a StackOverflow?
+Můžu někomu ukázat svůj 6000 řádkový projekt v Qt?
 
-## Můj ideální pohovor
+## Pohled zaměstnance
+
+Po navštívení několika pohovorů ve své firmě bych celý proces předělal.
+Kandidáta je potřeba posuzovat komplexně. V současnosti u nás posuzují
+soft-skills jiní lidé v prvním kole než hard-skill ve druhém kole.
+Málokdy se očekávání obou skupin protnou a myslím, že právě proto
+nabíráme tak málo nových lidí (tj. není to tím, že by k nám na pohovory chodilo
+málo uchazečů).
+
+Obě kola pohovoru bych udělal ve stejný den. Dnešní HR trh je dravý a je nutné
+jednat rychle. Obě kola bych oddělil procházkou po firmě. I kdyby uchazeč na
+pohovoru neuspěl, stále může být nadšen naší firmou natolik, že ji u svých
+kamarádů doporučí.
 
 První kolo pohovoru by se mělo točit výhradně kolem lidských
 vlastností a obecných zkušeností. Velmi dobré jsou vlastní
@@ -41,32 +53,22 @@ projekty na GitHubu (můžete mi je ukázat, prosím?) nebo odpovědi
 na StackOverflow (kolik máte bodů?). Pokud má uchazeč certifikát
 z angličtiny, nebudeme ho z ní zkoušet.
 
-Po screeningu následuje druhé kolo, které je rozhodující.
+Následuje procházka po firmě a krátké diskuze s vývojáři. Je-li na obou stranách
+vůle v pohovoru pokračovat, následuje technické kolo, které už je rozhodující.
 
-Druhé kolo začneme procházkou po firmě. Takto se uvolní počáteční napětí
-a i kdyby uchazeč na pohovoru neuspěl, stále může být nadšen naší firmou
-do té míry, že ji u svých kamarádů udělá reklamu.
-
-Po prohlídce firmy uchazeč ukáže svůj vlastní projekt, který si předem
-připravil. Na tomto projektu bude pracovat s dobrovolníkem z týmu.
-Pokud uchazeč nemá vlastní projekt, můžeme začít na "zelené louce".
-Pro tento případ mám připraven vlastní prázdný
-projekt tak, abychom mohli být ihned produktivní.
-
-Během následující hodiny až dvou naimplementujeme jednoduchou
-úlohu o velikosti 3 až 4 tříd v C++. Pro rozsáhlejší úlohy
-použijeme předpřipravenou knihovnu, takže snížíme rozsah práce.
+Začneme dvěma až třemi technickými otázkami a přesuneme se k párovému programování
+velmi jednoduché úlohy. Typ úlohy bych zvolil dle zkušeností uchazeče. V nejjednodušším
+případě se může jednat o obyčejnou funkci k ověřování síly hesla (nebo jakékoliv
+jiné "kata"). I na jednoduchých úlohách je vidět, jak kdo přemýšlí. U seniorních
+uchazečů bych očekával znalost STL a vícevláknového programování.
 Úlohu není nutné dokončit.
 
-Tímto způsobem zjistíme, jestli uchazeč umí:
+Takto zjistíme, jestli uchazeč umí:
 
 - programovat skutečný program,
 - vysvětlit své myšlenky kolegovi,
 - navrhnout jednoduchý design a diskutovat nad ním,
 - psát unit testy (budete-li to vyžadovat).
 
-Implementace probíhá na velké televizní obrazovce v kanceláři,
-kde současně sedí a pracuje celý zbytek týmu.
-Po skončení pohovoru se kouč může týmu zeptat,
-co si o uchazeči myslí. Rozhodnutí by mělo vycházet z týmu,
-protože s novým zaměstnancem nebudete pracovat vy, ale váš tým!
+Obrazovku notebooku je dobré promítnout na velké plátno nebo na TV, takže
+všichni přítomní mohou sledovat, co se děje.

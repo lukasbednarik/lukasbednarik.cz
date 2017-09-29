@@ -13,8 +13,8 @@ společně se [Scrum.org](https://www.scrum.org/).
 Nexus definuje tzv. Nexus integrační tým, který je zodpovědný za to, že
 práce dodaná jednotlivými Scrum týmy bude na konci sprintu úspěšně integrována v produktu.
 Členové integračního týmu jsou:
-- Produkt Owner, (PO)
-- Scrum Master, (SM)
+- Produkt Owner (PO),
+- Scrum Master (SM),
 - členové integračního týmu.
 
 ### Produkt Owner
@@ -37,7 +37,7 @@ architektury systému nebo je vzdělávat v současných trendech vývoje.
 
 ## Události
 
-Události v Nexus frameworku jsou podobné Scrumu, jen se klade zvlášní důraz na zjišťování
+Události v Nexus frameworku jsou podobné Scrumu, jen se klade zvláštní důraz na zjišťování
 a zaznamenávání závislostí mezi týmy.
 
 ### Standup
@@ -74,7 +74,7 @@ refinementu navíc identifikujeme a zaznačíme závislosti mezi týmy.
 
 Účelem Nexus Sprint Planning je koordinace aktivit mezi jednotlivými Scrum týmy na další sprint.
 Planning je dobré začínat revizí závislostí mezi týmy a dle těchto závislostí vytvořit finální úpravu backlogu.
-Je dobré, pokud se planningu mohou zůčastnit všichni členové všech týmů, aby se omezily problémy s komunikací.
+Je dobré, pokud se planningu mohou zúčastnit všichni členové všech týmů, aby se omezily problémy s komunikací.
 
 Během planningu se definuje Nexus Sprint Goal, tedy cíl, jehož by měly všechny týmy společnými silami
 dosáhnout v následujícím sprintu. Na základě společného cíle si později každý tým
