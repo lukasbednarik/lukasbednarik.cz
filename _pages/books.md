@@ -35,6 +35,7 @@ PDF, ePub, mobi (Link zatím není dostupný!)
 ### Úvod
 
 > It's fine to celebrate success but it is more important to heed the lessons of failure.
+> 
 > --- Bill Gates
 
 Je rok 2017, sedíme v Brněnské hospodě a bavíme se s produkt manažerem,
@@ -76,4 +77,49 @@ Svět se mění velmi rychle a lidé stále opakují stejné chyby navzdory tomu
 Nutností psát software bylo lidstvo postaveno před novou výzvu – alespoň do doby, než si vytvoří umělou
 inteligenci schopnou i v tomto oboru člověka nahradit.
 
-[Zpět na download](#download)
+### 70\. léta: Krize softwaru
+
+První automatické elektronické počítače byly všechny unikátní. Každý typ stroje existoval v jednom
+provedení a byl cítit vzrušujícím pachem laboratoře. Postavit tyto stroje vyžadovalo kuráž a člověk
+s podivem sledoval, že alespoň někdy fungují. O udržení počítače v provozuschopném stavu se musela starat skupina techniků.
+
+Programování bylo jen okrajovou záležitostí. Programátor byl člověk, který na předpřipravené instrukce aplikoval
+několik optimalizací a zapsal je do počítače. Převládal názor, že s rostoucím výkonem počítačů nebudou optimalizace
+nutné a programování se stane rutinní záležitostí.
+
+Na přelomu 60. a 70. let se počítače staly dostupné širší veřejnosti. Nižší cena hardwaru byla vykoupena vyšší
+obtížností psaní softwaru. Počítač již nebyl deterministický stroj, ale objevila se náhodná I/O přerušení a bylo
+nutné vyřešit strategii ukládání dat do několika typů paměti. Kromě těchto komplikací rostly se zvyšujícím se
+výkonem také lidské ambice a počítače se používaly na řešení stále složitějších problémů. Netrvalo dlouho a ocitli
+jsme se na pokraji „krize softwaru“. Programování se stalo větším problémem než kdy dřív (Dijkstra 1972).
+
+> The major cause of the software crisis is that the machines have become several orders of magnitude more
+> powerful! To put it quite bluntly: as long as there were no machines, programming was no problem at all;
+> when we had a few weak computers, programming became a mild problem, and now we have gigantic computers,
+> programming has become an equally gigantic problem.
+> 
+> --- Edsger Dijkstra (Dijkstra 1972)
+
+Neefektivní vývoj, chyby v programech a nespokojenost mezi uživateli měly pro mnoho společností katastrofální následky.
+Vývoj softwaru v požadované kvalitě a termín byly dva rozměry problému, který nikdo neuměl uspokojivě vyřešit.
+Selhání programu v situacích ohrožujících život nezřídka přinášelo i smrt.
+
+Krize se promítla do 80. let a tehdy vznikl termín vaporware. Vaporware označuje software, který byl dodán s obrovským
+zpožděním nebo nebyl dokončen vůbec. Vaporware nesouvisí jen s problémem dodržení termínů, ale také s marketingovou
+strategií mnoha firem, které ohlašovaly vydání svých produktů předčasně, aby získaly konkurenční výhody.
+
+Předčasné release date může přimět některé zákazníky, aby počkali ještě „pár dní“ na vydání produktu a nekupovali
+software od konkurence. Jedna z největších afér se odehrála kolem vydání Windows 1.0. Vše začalo tím, že společnost
+VisiCorp stanovila vydání svého grafického prostředí Visi On na jaro 1983. Konkurenční Quarterdeck Office se v dubnu,
+před plánovaným vydáním Visi On rozhodl stanovit termín vydání DESQ na listopad 1983. Microsoft odpověděl ohlášením
+Windows 1.0 na podzim 1983 a Ovation Technologies následovali oznámením svého kancelářského balíčku Ovation na listopad.
+V květnu 1984 byl ze čtyř zmiňovaných produktů dostupný pouze Visi On s téměř ročním zpožděním a jen se dvěma podporovanými
+aplikacemi (Shea 1984).
+
+Dnes je praktika záměrného předčasného ohlášení považována v USA za neetickou a je zakázaná. Bohužel předložení přesvědčivých
+důkazů, že tato praktika byla použita záměrně, je obtížné a jen velmi málo společností bylo doposud potrestáno.
+
+Můžeme si jen představovat, pod jakým tlakem byli nuceni pracovat vývojáři, aby rychle dokončili zmíněné čtyři produkty,
+aniž by věděli, co se doopravdy děje.
+
+Stáhněte si celou knihu a pokračujte ve čtení: [Download](#download)
