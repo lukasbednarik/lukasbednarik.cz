@@ -14,8 +14,8 @@ PDF, ePub, mobi (Link zatím není dostupný!)
 
 ### Obsah
 
-- Úvod
-- 70\. léta: Krize softwaru
+- [Úvod](#úvod)
+- [70\. léta: Krize softwaru](#70-léta-krize-softwaru)
 - 70\. léta: Postmoderní management
 - Rok 1985–1987: Smrt pacientů ozářením
 - 90\. léta: Rozvoj objektově orientovaného programování
