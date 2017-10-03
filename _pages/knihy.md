@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Kniha'
-permalink: /books
+permalink: /knihy
 ---
 
 ## Rebelská historie vývoje softwaru
