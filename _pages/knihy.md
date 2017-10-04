@@ -6,11 +6,11 @@ permalink: /knihy
 
 ## Rebelská historie vývoje softwaru
 
+![Lukáš Bednařík]({{ site.url }}/assets/rebelska-historie-vyvoje-softwaru-cover.png)
+
 ### Download
 
-PDF, ePub, mobi (Link zatím není dostupný!)
-
-![Lukáš Bednařík]({{ site.url }}/assets/rebelska-historie-vyvoje-softwaru-cover.png)
+[Stáhnout knihu (formáty PDF a ePub)](/download-rebelska-historie-vyvoje-softwaru)
 
 ### Obsah
 
@@ -122,4 +122,4 @@ důkazů, že tato praktika byla použita záměrně, je obtížné a jen velmi 
 Můžeme si jen představovat, pod jakým tlakem byli nuceni pracovat vývojáři, aby rychle dokončili zmíněné čtyři produkty,
 aniž by věděli, co se doopravdy děje.
 
-Stáhněte si celou knihu a pokračujte ve čtení: [Download](#download)
+Stáhněte si celou knihu a pokračujte ve čtení: [Download](/download-rebelska-historie-vyvoje-softwaru)
