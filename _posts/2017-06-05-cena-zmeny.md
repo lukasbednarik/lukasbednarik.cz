@@ -6,16 +6,14 @@ tags: agile management programování
 
 Jeden ze starých univerzálních předpokladů ve vývoji software je, že cena za změnu požadavků
 v programu roste exponenciálně s časem. (Viz např. Steve McConnell, Code Complete,
-kde uvádí tabulku.) Budeme-li tomuto předpokladu věřit, je jasné, že nikdy nesmíme
-dopustit, aby se chyba v požadavcích nebo architektuře dostala až do produkce.
-Ještě jednou: Budeme-li tomuto předpokladu věřit, agilní vývoj nedává žádný smysl.
+kde uvádí tabulku.) Budeme-li tomuto předpokladu věřit, agilní vývoj nedává žádný smysl.
 
 Předpoklad agilního vývoje je jiný. Věříme tomu, že můžeme křivku ceny za změnu požadavků
 zploštit. Možná až do té míry, že asymptoticky dosahuje jen konstantní (konečné) hodnoty.
 
 Plochá křivka dělá agilní praktiky možnými. A naopak. Agilní praktiky jsou možné jen díky tomu,
 že tuto křivku kontrolujeme. Z toho tak nějak plyne, že využívání agilních praktik
-znamená psát kvalitní kód. Křivka samotná je pak výsledkem použitých praktik a technologií.
+znamená psát kvalitní kód. Křivka samotná je výsledkem použitých praktik a technologií.
 
 ![]({{ site.url }}/assets/cena-zmeny-klasicky-a-agilni-vyvoj.svg)
 

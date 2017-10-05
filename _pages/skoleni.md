@@ -14,8 +14,8 @@ permalink: /skoleni
 
 Workshop je zaměřen na praktické zvládnutí eXtrémního programování (XP).
 Řekneme si, jak vzniklo XP, jaké jsou jeho hodnoty
-a praktiky. Praktiky XP do sebe zapadají jako puzzle, vysvětlíme si tedy,
-v čem je jejich spojení vyjímečné.
+a praktiky. Ukážeme si, jak praktiky XP do sebe zapadají jako puzzle
+a v čem je jejich spojení vyjímečné.
 
 V praktické části se budeme věnovat klasickému TDD (test-driven development)
 cyklu: unit-test &rarr; implementace &rarr; refaktoring &rarr; unit-test. Vysvětlíme si,

@@ -41,7 +41,7 @@ Dobrý unit test je navíc důvěryhodný, udržovatelný a čitelný.
 
 ### Důvěryhodné unit testy
 
-Pokud test selže, nehledáme chybu v testu. Jestli test projde, nepouštíme debugger, abychom
+Pokud test selže, nehledáme chybu v testu. Jestliže test projde, nepouštíme debugger, abychom
 ověřili, že nový kód skutečně funguje.
 
 Doporučuje se nepoužívat v testu logiku a testovat vždy jen jednu věc.
@@ -55,8 +55,8 @@ Testy musí být izolované. Jeden test nesmí záviset na ostatních testech,
 takže můžeme kdykoliv spouštět libovolný výběr z testů a také můžeme kdykoli
 libovolný test odstranit. Testy odstraňujeme při nalezení duplicitních testů.
 
-Nakonec, měli bychom se vyhnout přespecifikování testu. Například testujeme-li string,
-je lepší volit podmínku "string obsahuje řetězec" než podmínku "string je roven řetězci".
+Nakonec - měli bychom se vyhnout přespecifikování testu. Například testujeme-li *string*,
+je lepší volit podmínku "*string* obsahuje řetězec" než podmínku "*string* je roven řetězci".
 Podobně se raději vyhneme podmínkám testující volání funkcí v daném pořadí.
 Testujeme jen požadované chování, ne způsob implementace.
 
@@ -66,20 +66,19 @@ Pojmenovávání unit testů by mělo respektovat dohodnutý standard.
 Jméno testu může vypadat například takto:
 *JménoMetody_TestovanýScénář_OčekávanéChování*.
 
-Čitelně pojmenováváme proměnné v unit testu a věnujeme značnou péči napsání
-smysluplného assertu.
+Čitelně pojmenováváme proměnné v unit testu a věnujeme značnou péči napsání smysluplného assertu.
 
 ## Kdy psát unit testy
 
-Mnoho lidí si myslí, že je lepší psát unit testy před psaním samotného produkčního kódu.
+Mnoho lidí si myslí, že je lepší psát unit testy před psaním produkčního kódu.
 Ano, psát unit test první je neintuitivní, ale pokud to neuděláte, může se vám honit
 hlavou například toto (moje zkušenost): "Měl bych napsat 5 unit testů, ale ještě potřebuji
 doimplementovat tohle... A ještě tohle..." O 3 hodiny později: "Už ani nevím, co jsem chtěl
 vlastně testovat... Jo toto... No to je triviální funkce... Raději napíšu 5 unit testů na tohle..."
-V závěru tak skončíte s 5 unit testy. Kdyby jste psali test první, mohli jste mít v tuto chvíli testů
-20.
+V závěru jsem tak skončil s 5 unit testy. Kdybych psal test první, mohl jsem mít v tuto chvíli
+unit testů 20.
 
-Mnoho sportů je na profesionální úrovni také neintuitivní. Sprinteři běhají po špičkách.
+Mnoho sportů je na profesionální úrovni také neintuitivních. Například sprinteři běhají po špičkách.
 Hráči ping-pong jsou podivně nahrbení a mají pokřivená zápěstí. Na pokřivené zápěstí narazíte
 také u bubnování, kde je držení paličky tak zvláštní, že noví hráči se jej učí měsíce!
 Dělat *test first* je neintuitivní, ale vy jste také **profesionálové**.
@@ -90,9 +89,9 @@ Dělat *test first* je neintuitivní, ale vy jste také **profesionálové**.
 >
 > --- Kent Beck
 
-Unit testy mají vliv na design kódu, protože unit test je dalším uživatelem kódu.
+Unit testy mají vliv na design kódu, protože jsou dalším uživatelem kódu.
 Metody, které chceme testovat, musíme zpřístupnit testu a musíme je umět
-separovat od zbytku kódu, takže v unit testu vždy testujeme jen jednu věc.
+separovat od zbytku kódu, abychom mohli v testu vždy testovat jen jednu věc.
 
 Řešení problémů spojených s designem testovatelného kódu vede - dle mé zkušenosti - na
 lepší design. Možnost bezpečného refaktoringu je pak již jen třešničkou na dortu.

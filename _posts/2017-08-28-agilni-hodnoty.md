@@ -28,23 +28,23 @@ hodnoty sloužit i jako jakési "morální zásady".
 Je důležité, aby hodnoty vznikaly způsobem "zdola nahoru", tj. od nejnižších
 zaměstnanců probublaly nahoru k vedení. Jsou-li hodnoty diktovány vedením
 (jako do dělá většina firem), zaměstnanci je spíše nepřijmou za své a takovéto
-"hodnoty" rozhodně neplní funkci propojování společnosti.
+"hodnoty" rozhodně neplní funkci propojování lidí.
 
 ## Agilní hodnoty
 
-Agilní manifest mluví o čtyřech hodnotách vývoje software - o
-komunikaci, spolupráci a reakci na změnu. Komunikace a důvěra jsou
+Agilní manifest mluví o čtyřech hodnotách vývoje software.
+Komunikace a důvěra jsou
 z mého pohledu stavebním kamenem jakéhokoliv současného způsobu řízení
 (agilní metodiky, Management 3.0 nebo cokoliv jiného).
 Agilní metodiky mluví o samoorganizovaných týmech a postmoderní
 management klade důraz na to, aby lidé viděli smysl ve své práci.
 
-Jako Scrum Master se snažím držet těchto třech hodnot a podporovat je:
+Jako kouč se snažím držet těchto třech hodnot a podporovat je:
 - tým je samoorganizovaný,
 - lidé vidí smysl ve své práci,
 - otevřená komunikace (no bullshit policy).
 
-Kdybych já mohl definovat agilní vývoj, definoval bych ho takto.
+Kdybych mohl definovat agilní vývoj, definoval bych ho takto.
 
 ## Přizpůsobený Scrum
 
@@ -59,6 +59,6 @@ Jak tedy modifikovat Scrum, aniž bychom mu ublížili?
 
 Využijeme hodnot. Scrum stojí na pěti hodnotách (focus, courage, openness, commitment, respect), ale tyto hodnoty
 nám příliš nepomohou se změnou samotného frameworku. S využitím výše zmíněných třech
-hodnot (samoorganizace, smysl v práci, otevřená komunikace) se ale někam dostáváme.
+hodnot (samoorganizace, smysl v práci, otevřená komunikace) se ale někam dostat můžeme.
 Před každou změnou procesu nebo rozhodnutím bychom se měli zeptat:
 nejde tato změna proti některé z našich hodnot?

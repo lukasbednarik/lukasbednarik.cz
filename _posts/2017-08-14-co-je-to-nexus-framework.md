@@ -30,7 +30,7 @@ Tento SM může být zároveň SM některého z týmů.
 
 Členové integračního týmu mohou být také členy některého z vývojářských týmů, nicméně práce
 spojená s integračním týmem má vyšší prioritu. Nexus si uvědomuje, že integrace
-"není zadarmo" - v nejjednodušším případě je nutné alespoň nastavit a udržovat automatizované workflow.
+není zadarmo - v nejjednodušším případě je nutné alespoň nastavit a udržovat automatizované workflow.
 
 Integrační tým se stará o zjišťování závislostí v projektu a může ostatním vývojářům vysvětlovat návrh
 architektury systému nebo je vzdělávat v současných trendech vývoje.
@@ -58,7 +58,7 @@ což umožňuje získání lepší zpětné vazby na funkce dodané ve sprintu.
 
 Velký důraz na zlepšování v Nexus frameworku je vidět na průběhu retrospektivy. Zástupci každého
 týmu se nejprve sejdou, aby identifikovali problémy zasahující více týmů. Následně proběhnou
-týmové retrospektivy, kde se tyto problémy prodiskutují.
+týmové retrospektivy, kde se tyto problémy diskutují.
 
 Aby se mohl Nexus vyvíjet, musejí se výsledky z týmových retrospektiv znovu projednat v užším kruhu.
 Zástupci každého týmu se tedy sejdou ještě jednou.

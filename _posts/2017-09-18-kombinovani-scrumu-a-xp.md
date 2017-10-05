@@ -9,7 +9,7 @@ První Scrum dokonce využíval všechny praktiky XP, ale Ken Schwaber přesvěd
 aby přenechal výběr konkrétních praktik vývojářům. Scrum tak nechává zodpovědnost za praktiky na
 vývojářích a pomocí retrospektiv jim umožňuje hledat cestu, jak se dále zlepšovat.
 Scrum samotný se soustředí na management a organizaci týmu. Toto zaměření Scrumu možná pomohlo
-jeho rychlejšímu rozšíření, na druhou stranu se mohou trápit týmy, které nepoužívají
+jeho rychlejšímu rozšíření. Na druhou stranu se mohou trápit týmy, které si neosvojily
 praktiky umožňující udržitelný agilní vývoj.
 
 Spojení Scrumu a XP je snadné, protože každá metodika se soustředí na jinou oblast vývoje.

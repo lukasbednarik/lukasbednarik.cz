@@ -12,7 +12,7 @@ Zastánci párového programování tvrdí, že ano, i když je to neintuitivní
 Myšlenka párového programování je velmi jednoduchá. V letadle nesedí sám pilot, ale má co-pilota.
 Závody rally nejezdí sám řidič, má navigátora. TV zprávy uvádějí dva moderátoři, operaci neprovádí
 sám chirurg (i když by to zvládl), ale má asistenty. Ani sniper nepracuje sám, má pozorovatele.
-Programovat mohou také dva lidé - jeden řídí (driver), druhý naviguje (navigator). O co se jedná?
+Programovat mohou také dva lidé - jeden řídí (driver), druhý naviguje (navigátor). O co se jedná?
 
 - dva lidé pracují na stejném úkolu jako tým
 - oba mají stejný cíl, ale rozdílné znalosti
@@ -26,10 +26,10 @@ si na sebe musí nejprve nějakou dobu zvykat. To je na párovém programování
 
 Je těžké přesvědčit management, že to není plýtvání prostředky. Vždyť přece:
 
-- dva vývojáři dělají práci jednoho
-- junior bude zpomalovat seniora
-- udělá se méně práce
-- bude to stát dvakrát tolik peněz (H. Erdogmus, L. Williams. On the Economic Feasibility of Pair Programming)
+- dva vývojáři dělají práci jednoho,
+- junior bude zpomalovat seniora,
+- udělá se méně práce,
+- bude to stát dvakrát tolik peněz (H. Erdogmus, L. Williams. On the Economic Feasibility of Pair Programming),
 - proč nechávat dva lidi dělat práci, kterou zvládne jeden člověk?
 
 ## Přínos párového programování
@@ -72,12 +72,12 @@ přispívá k objevování chyb v nejranější fázi implementace!
 
 Mezi překážky párového programování patří:
 
-- je těžké přesvědčit stakeholdery, aby nechali dva lidi pracovat na stejném úkolu
-- lidé mají tendenci se vracet do "komfortní zóny", což párové programování narušuje
-- silné vlastnictví kódu (pokud každý kus kódu má svého vývojáře, který jediný jej může upravovat)
-- nezájem lidí
-- vývojáři, kteří se neúčastní odhadování a plánování úkolů
-- jiné osobní nastavení počítače (někdo např. používá jen českou klávesnici a vim pro editování kódu)
+- je těžké přesvědčit stakeholdery, aby nechali dva lidi pracovat na stejném úkolu,
+- lidé mají tendenci se vracet do "komfortní zóny", což párové programování narušuje,
+- silné vlastnictví kódu (pokud každý kus kódu má svého vývojáře, který jediný jej může upravovat),
+- nezájem lidí,
+- vývojáři, kteří se neúčastní odhadování a plánování úkolů,
+- jiné osobní nastavení počítače (někdo např. používá jen českou klávesnici a vim pro editování kódu),
 
 ## Techniky párového programování
 
@@ -92,7 +92,7 @@ Refactoring se provádí kdykoli je potřeba a dělá jej ten, kdo je právě u 
 ### Klávesnice a myš
 
 Jeden vývojář má klávesnici, myš a implementuje program. Druhý vývojář je navigátor - pozoruje a
-určuje taktiku, opravuje chyby. Je důležité dát si pozor, aby všechnu práci nedělal člověk u klávesnice,
+určuje taktiku, opravuje chyby. Je důležité si dát pozor, aby všechnu práci nedělal člověk u klávesnice,
 ale aby se jednalo o skutečně kolaborativní proces.
 
 ### Další techniky
@@ -103,7 +103,8 @@ ale aby se jednalo o skutečně kolaborativní proces.
 
 ## Anti-patterns - co nechceme
 
-Pár bodů, na co si dát pozor při párovém programování. K praktickým zkušenostem se snad dostanu v jiném článku.
+Nakonec si uvedeme pár bodů, na co si dát pozor při párovém programování.
+K praktickým zkušenostem se snad dostanu v jiném článku.
 
 - žádné střídání párů
 - všechno vymýšlí i programuje jen jeden člověk

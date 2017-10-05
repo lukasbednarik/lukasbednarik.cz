@@ -11,7 +11,7 @@ Nakonec jsem vyzkoušel tři: Trello, Kanbanachi a KanbanFlow.
 
 Mezi největší výhody online kanban boardu patří
 možnost nastavení rekurzivních úkolů, podúkolů, online dostupnost,
-možnost řazení úkolů, možnost nastavení kategorií (labels).
+možnost řazení úkolů a možnost nastavení kategorií (labels).
 
 ## Trello
 
@@ -26,8 +26,8 @@ jsou dostupné online.
 
 [Kanbanachi](http://www.kanbanchi.com/) se chlubí výbornou integrací s G suite.
 Pokud žijete v Google ekosystému, je to pro vás jedna z voleb. Bohužel, u neplacené
-verze je k dispozici spousta funkcí, po jejichž použití vás aplikace vyzve k zakoupení
-placené verze. Na mě až příliš agresivní marketing. Za pár kartiček nechci v první fázi platit.
+verze je k dispozici spousta funkcí, po jejiž použití vás aplikace vyzve k zakoupení
+placené verze. Pro mě se jedná o příliš agresivní marketing. Za pár kartiček nechci v první fázi platit.
 
 ## KanbanFlow
 

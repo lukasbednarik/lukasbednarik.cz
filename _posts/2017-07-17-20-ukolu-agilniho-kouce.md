@@ -17,7 +17,7 @@ Agilní kouč:
   grooming by měl organizovat product owner. Obecně se kouč snaží předávat zodpovědnost za organizaci meetingu těm lidem, pro které je meeting přínosný.
 - rozvoj týmové spolupráce - Včetně vylepšování a zefektivňování komunikace v týmu.
 - řešení konfliktů v týmu
-- poskytuje týmu feedback - AC může dávat týmu i k věcem, které tým sám nevidí.
+- poskytuje týmu feedback - AC může dávat týmu zpětnou vazbu k věcem, které tým sám nevidí.
 - komunikace toho, co se děje ve firmě, do týmu
 - odstraňování překážek - AC pomáhá týmu s rozhodováním. AC odstraňuje překážky mimo tým a překážky, které si tým sám nemůže v rozumném čase vyřešit sám.
 - pomáhá při vytváření user stories - Pokud něco není jasné, AC se může začít doptávat.

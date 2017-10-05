@@ -31,10 +31,10 @@ Hodnoty docela dobře souhlasí s mou vlastní zkušeností.
 Jiný druh multitaskingu je přepínání mezi prací na projektu a různými drobnými činnostmi,
 jako je například vyřizování emailů. Studie [BBC](http://news.bbc.co.uk/2/hi/uk_news/4471607.stm)
 a [Kathy Sierra](http://headrush.typepad.com/creating_passionate_users/2006/03/multitasking_ma.html)
-tvrdí, je multitasking nás dělá "hloupějšími" - v tom smyslu, že nejsme schopni odvádět
+tvrdí, že multitasking nás dělá "hloupějšími" - v tom smyslu, že nejsme schopni odvádět
 práci stejně kvalitně, ačkoliv si myslíme opak. Domácí úkol napsaný při sledování
 seriálu nebude nikdy tak dobrý, jako domácí úkol vypracovaný při plném soustředění.
-Přesto stále věříme tomu, že bude a také že dokážeme vyřizovat e-maily při plné účasti na pracovním
+Přesto stále věříme tomu, že bude a také že dokážeme vyřizovat emaily při plné účasti na pracovním
 meetingu.
 
 Koncept hluboké práce, schopnosti se bez přerušování soustředit na kognitivně náročné úkoly,

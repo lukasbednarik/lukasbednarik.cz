@@ -46,7 +46,6 @@ důležitost iterativního vývoje ještě před příchodem Agilního manifestu
 
 #### Kužel neurčitosti
 
-> Skutečné úsilí nebo rozsah projektu může být 4x větší nebo
-> 4x menší než prvotní odhad.
+> Skutečné úsilí nebo rozsah projektu může být až 4x větší nebo 4x menší než prvotní odhad.
 >
 > --- Steve McConnell; Software Estimation: Demystifying the Black Art; [Wikipedia](http://en.wikipedia.org/wiki/Cone_of_Uncertainty)

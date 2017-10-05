@@ -8,8 +8,7 @@ Motivace lidí a týmů je velmi komplexní téma. Ovšem dříve, než budeme m
 jako je smysl práce (sense of purpose) a kompetence, měli bychom se zaměřit na mnohem
 triviálnější věci jako je rovnost a důvěra v týmu.
 
-Pro dnešek přidávám tři videa, která ukazují, že i opice umějí spolupracovat a rozlišit
-férové a neférové jednání.
+Pro dnešek přidávám tři videa, která ukazují, že jak funguje spolupráce a férovost na nejprimitivnější úrovni.
 
 ## Spolupráce
 
@@ -21,9 +20,8 @@ Můžete sami vidět, co se stane.
 
 ## Férová odměna
 
-V tomto videu mají dvě opičky za úkol vrátit z klece kámen. Za vrácení kamena dostanou odměnu. Jedna opička dosane okurek,
-druhá hrozen. Odměňování rozhodně není férové a opička, která dostává okurhy, si něco takového
-líbit nenechá...
+V tomto videu mají dvě opičky za úkol vrátit z klece kámen. Za vrácení kamene dostanou odměnu. Jedna opička dosane okurek,
+druhá hrozen. Odměňování není férové a opička, která dostává okurhy, si něco takového nenechá líbit...
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QijfsvQO-54" frameborder="0" allowfullscreen></iframe>
 

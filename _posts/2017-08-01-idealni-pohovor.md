@@ -20,13 +20,13 @@ z HR dokazovat, že umím přemýšlet?
 O pár dní později se na pohovoru v jiné brněnské firmě ucházím o místo
 senior C++11/C++14 vývojáře. Po několika otázkách je jasné,
 že slovo "senior" je jen v popisu práce a že na moderní C++
-mohu zapomenout. Ptají se mě jen na samé C-čkové věci jako 
-"Co se stane, když v C++ inicializujete pole o velikosti 5
+mohu zapomenout. Ptají se mě na C-čkové věci jako 
+"Co se stane, když inicializujete pole o velikosti 5
 prvků polem o čtyřech prvcích?"
 
 Za další 4 dny jsem opět na pohovoru. Opět v jiné firmě.
 Vedoucí vývoje se mě ptá na technické otázky typu "co je to virtuální funkce",
-"jak spolu mohou komunikovat dvě vlánka", "jaké znám design patterns"...
+"jak spolu mohou komunikovat dvě vlákna", "jaké znám návrhové vzory"...
 Z těchto otázek patrně zjistí, jestli umím ve stresu dobře vysvětlit,
 co který pojem znamená. Zjistí ale, jestli umím programovat?
 
@@ -54,13 +54,13 @@ na StackOverflow (kolik máte bodů?). Pokud má uchazeč certifikát
 z angličtiny, nebudeme ho z ní zkoušet.
 
 Následuje procházka po firmě a krátké diskuze s vývojáři. Je-li na obou stranách
-vůle v pohovoru pokračovat, následuje technické kolo, které už je rozhodující.
+vůle v pohovoru pokračovat, ihned navazuje technické kolo, které je rozhodující.
 
 Začneme dvěma až třemi technickými otázkami a přesuneme se k párovému programování
 velmi jednoduché úlohy. Typ úlohy bych zvolil dle zkušeností uchazeče. V nejjednodušším
 případě se může jednat o obyčejnou funkci k ověřování síly hesla (nebo jakékoliv
 jiné "kata"). I na jednoduchých úlohách je vidět, jak kdo přemýšlí. U seniorních
-uchazečů bych očekával znalost STL a vícevláknového programování.
+uchazečů bych očekával výbornou znalost STL a vícevláknového programování.
 Úlohu není nutné dokončit.
 
 Takto zjistíme, jestli uchazeč umí:
@@ -68,7 +68,7 @@ Takto zjistíme, jestli uchazeč umí:
 - programovat skutečný program,
 - vysvětlit své myšlenky kolegovi,
 - navrhnout jednoduchý design a diskutovat nad ním,
-- psát unit testy (budete-li to vyžadovat).
+- psát unit testy (budeme-li to vyžadovat).
 
-Obrazovku notebooku je dobré promítnout na velké plátno nebo na TV, takže
+Obrazovku notebooku je dobré promítnout na velké plátno nebo TV, takže
 všichni přítomní mohou sledovat, co se děje.

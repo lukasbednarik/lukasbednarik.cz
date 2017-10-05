@@ -19,7 +19,7 @@ která právě v týmech řešíme.
 
 > ...jako Scrum Master by jste se měli čas od času udělat pro tým zbyteční. Koučujte tým, aby dělal věci bez vás.
 > I když se vám to nepodaří a tým na vás bude stále záviset, samotný akt zkusit se udělat nadbytečným může vést k mnoha dobrým věcem.
-> Někteří Scrum Masters končí v roli Scrum admina nebo Scrum sluhy, protože se příliš snaží tým potěšit.
+> Někteří Scrum Masters končí v roli Scrum admina nebo Scrum sluhy, protože se příliš snaží týmu zavděčit.
 > Pokud je na vás tým velmi závislý, pak poškozujete jeho schopnost samoorganizace.
 > Nový Scrum tým potřebuje vaši podporu a jistá závislost může být v pořádku.
 > Ale s postupem času by jste měli vycouvat z administrátorských povinností a přenechat týmu více a více zodpovědnosti.
