@@ -6,7 +6,7 @@ permalink: /knihy
 
 ## Rebelská historie vývoje softwaru
 
-![Lukáš Bednařík]({{ site.url }}/assets/rebelska-historie-vyvoje-softwaru-cover.png)
+![Lukáš Bednařík]({{ site.url }}/assets/kniha-rebelska-historie-obalka-1.png)
 
 ### Download
 
