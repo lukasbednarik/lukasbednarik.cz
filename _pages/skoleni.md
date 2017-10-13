@@ -12,19 +12,22 @@ permalink: /skoleni
 
 ### Obsah
 
-Workshop je zaměřen na praktické zvládnutí eXtrémního programování (XP).
-Řekneme si, jak vzniklo XP, jaké jsou jeho hodnoty
-a praktiky. Ukážeme si, jak praktiky XP do sebe zapadají jako puzzle
-a v čem je jejich spojení vyjímečné.
+Původní Scrum využíval všechny praktiky extrémního programování (XP),
+ale Ken Schwaber přesvědčil Jeffa Sutherlanda, aby tyto praktiky ze Scrumu vynechal
+a sousředil se pouze na proces a organizaci týmu.
+Bez ověřených vývojářských praktik ale nelze dosáhout
+slibovaného nárůstu výkonnosti týmu. Cena za změnu
+požadavků v pozdní fázi projektu, kdy jsme nuceni bojovat s nepřehledným kódem,
+může být velmi vysoká.
 
-V praktické části se budeme věnovat klasickému TDD (test-driven development)
-cyklu: unit-test &rarr; implementace &rarr; refaktoring &rarr; unit-test. Vysvětlíme si,
+V tomto workshopu se zaměříme právě na tyto *best practices* agilního vývoje.
+V praxi si vyzkoušíme TDD (test-driven development), unit-testování a párové programování
+v cyklu unit-test &rarr; implementace &rarr; refaktoring &rarr; unit-test. Vysvětlíme si,
 co je to stub, mock, seam a naučíme se psát unit-testy, které jsou udržovatelné,
-důvěryhodné a čitelné. Při programování využijeme metodu párového programování
-tzv. ping-pong.
+důvěryhodné a čitelné.
 
-Nakonec si řekneme, jak do sebe zapadá XP a Scrum, jak zavést XP ve Scrum frameworku
-a jak pracovat s legacy kódem.
+Mimo jiné se dozvíte, jak do sebe zapadá XP a Scrum, jak zavést XP ve Scrum frameworku,
+jak do sebe zapadají praktiky XP a v čem je jejich spojení vyjímečné.
 
 ### Osnova
 
@@ -63,6 +66,8 @@ Prázdný C++ projekt pro praktickou část naleznete v [GIT repozitáři](https
 git clone https://github.com/sand-dollar/clean-project
 ```
 
+Na workshop je nutné si přinést svůj notebook a předem si vyzkoušet, že jste schopni zkompilovat čistý projekt
+zmíněný výše.
 
 [//]: # (Příprava na Professional Scrum Master certifikaci)
 [//]: # (Design patterns)
