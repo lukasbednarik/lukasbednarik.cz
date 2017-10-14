@@ -29,6 +29,8 @@ důvěryhodné a čitelné.
 Mimo jiné se dozvíte, jak do sebe zapadá XP a Scrum, jak zavést XP ve Scrum frameworku,
 jak do sebe zapadají praktiky XP a v čem je jejich spojení vyjímečné.
 
+![Lukáš Bednařík]({{ site.url }}/assets/xp-fall.png)
+
 ### Osnova
 
 1. Co je to Extrémní Programování (XP)?
