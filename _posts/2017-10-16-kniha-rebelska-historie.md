@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Kniha rebelské historie
+title: Jak se píše kniha
 tags: knihy
 published: false
 ---
 
-![Lukáš Bednařík]({{ site.url }}/assets/kniha-rebelska-historie-obalka-1.png)
+![Lukáš Bednařík]({{ site.url }}/assets/kniha-rebelska-historie-obalka-2.png)
 
 
 ... info o knize...
