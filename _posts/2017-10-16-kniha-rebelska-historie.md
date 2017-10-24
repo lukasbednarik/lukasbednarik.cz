@@ -4,7 +4,7 @@ title: Jak se píše kniha
 tags: knihy
 ---
 
-6 měsíců práce, 5 revizí a 3 přepisy závěrečné kapitoly. To jsou stručné statistiky knihy [Rebelská historie software](/books), která je konečně dostupná ke stažení na tomto webu. Na knize jsem se naučil, jak je důležité mít dobrou osnovu, mít definici cílového čtenáře a zaměření knihy. Překvapením pro mě bylo, že toto platí i u tak malé knížečky, jako je Rebelská historie.
+6 měsíců práce, 5 revizí a 3 přepisy závěrečné kapitoly. To jsou stručné statistiky knihy [Rebelská historie software](/knihy), která je konečně dostupná ke stažení na tomto webu. Na knize jsem se naučil, jak je důležité mít dobrou osnovu, mít definici cílového čtenáře a zaměření knihy. Překvapením pro mě bylo, že toto platí i u tak malé knížečky, jako je Rebelská historie.
 
 ![Lukáš Bednařík]({{ site.url }}/assets/kniha-rebelska-historie-obalka-2.png)
 
