@@ -12,7 +12,8 @@ tags: knihy
 
 Jádro knihy jsem napsal za 14 dní dovolené na jaře. Tehdy bych řekl, že je kniha z 90% hotová. Dnes vím, že by to nebyla pravda. Co se tedy protáhlo?
 
-Průtahy způsobila zejména má nezkušenost s psaním a organizací práce kolem. Dnes bych udělal většinu věcí jinak. Vynechal bych prvotní korekturu textu, neúplný text poslal k obsahové revizi lidem, kterým věřím, a až následně bych využil služby profesionální korektorky. U profesionála máte jistý termín dodání korektury, takže se vydání nezdrží.
+Průtahy způsobila má nezkušenost s psaním a organizací práce kolem. Spoustu věcí bych teď udělal jinak.
+Vynechal bych prvotní korekturu textu, neúplný text poslal k obsahové revizi lidem, kterým věřím, a až následně bych využil služby profesionální korektorky. U profesionála máte jistý termín dodání korektury, takže se vydání nezdrží.
 
 ## Co dál?
 
