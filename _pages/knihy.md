@@ -8,9 +8,11 @@ permalink: /knihy
 
 ![Lukáš Bednařík]({{ site.url }}/assets/kniha-rebelska-historie-obalka-1.png)
 
-### Download
+### Info
 
-[Stáhnout knihu (formáty PDF a ePub)](/download-rebelska-historie-vyvoje-softwaru)
+- Počet stran: 46
+- Dostupné formáty: PDF, ePub
+- Download: [Stáhnout knihu!](/download-rebelska-historie-vyvoje-softwaru)
 
 ### Obsah
 
