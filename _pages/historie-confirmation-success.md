@@ -4,11 +4,13 @@ title: 'Email ověřen'
 permalink: /confirmation-success
 ---
 
-Vaše emailová adresa byla úspěšně ověřena.
+Vaše emailová adresa byla ověřena. Uf, dalo to práci.
+Tady je malá odměna v podobě zkušené rady:
+
+![Ověřeno]({{ site.url }}/assets/dilbert-agile.jpg)
+
 Během následujících několika minut obdržíte email s přímým odkazem ke stažení knihy
 v PDF i ePub.
-
-![Ověřeno]({{ site.url }}/assets/verified-stamp.png)
 
 Děkujeme za váš zájem.
 
