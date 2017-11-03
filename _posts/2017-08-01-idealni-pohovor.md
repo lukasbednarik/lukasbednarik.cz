@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ideální pohovor
-tags: management
+tags: management pohovory
 ---
 
 ## Pohled uchazeče
