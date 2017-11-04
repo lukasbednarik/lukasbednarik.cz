@@ -6,9 +6,17 @@ permalink: /skoleni
 
 ## Workshop eXtrémního programování
 
-### Termíny
+- **Kapacita:** max 8 lidí na workshop
+- **Délka:** 1 den (začínáme v 9:00)
+- **Cena:** Zatím jsme v testovacím běhu. Zdarma!
 
-- není vypsán žádný termín (--[registrace]()--)
+| Termín                   | Jazyk | Volná místa |
+|:------------------------ |:-----:|:-----------:|
+| není vypsán žádný termín | C++   | -   |
+| není vypsán žádný termín | C#    | -   |
+|                          |       |     |
+
+![Lukáš Bednařík]({{ site.url }}/assets/xp-fall.png)
 
 ### Obsah
 
@@ -29,36 +37,33 @@ důvěryhodné a čitelné.
 Mimo jiné se dozvíte, jak do sebe zapadá XP a Scrum, jak zavést XP ve Scrum frameworku,
 jak do sebe zapadají praktiky XP a v čem je jejich spojení vyjímečné.
 
-![Lukáš Bednařík]({{ site.url }}/assets/xp-fall.png)
-
 ### Osnova
 
-1. Co je to Extrémní Programování (XP)?
-   - Jak vzniklo XP
-   - Hodnoty XP
-   - Práce s rizikem v XP
-   - Praktiky XP
-     - Párové programování
-     - Unit-testování
-     - Sdílené vlastnictví kódu
-     - Continuous integration
-     - Jednoduchý design
-     - Metafora
-     - Plánovací hra
-     - Další praktiky
-   - Praktiky XP jako puzzle
-   - Role v XP
-1. Praktická část
-   - Kata 1: Test-driven development
-   - Kata 2: Stub vs. mock
-   - Kata 3: Refaktoring
+1. Historie Extrémního Programování (XP)
+1. Praktiky XP jako puzzle
+1. Unit-testování
+     - Dobrý unit-test
+     - Kata 1
+     - Stub
+     - Mock
+     - Frameworky Catch a FakeIt
+1. Párové programování
+   - Kata 2
+1. Průběžná integrace (CI)
+1. Další praktiky XP
+   - Sdílené vlastnictví kódu
+   - Jednoduchý design
+   - Metafora
+   - Plánovací hra
 1. Práce s legacy kódem
    - Unit-testování v legacy kódu
    - Refaktoring
+1. Role v XP
 1. XP a Scrum
    - Co je to Scrum?
    - Společné praktiky Scrumu a XP
    - XP ve Scrumu jako cesta ke zlepšování
+1. Nástroje a frameworky
 
 ### Materiály
 
