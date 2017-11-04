@@ -7,14 +7,14 @@ permalink: /skoleni
 ## Workshop eXtrémního programování
 
 - **Kapacita:** max 8 lidí na workshop
-- **Délka:** 1 den (začínáme v 9:00)
+- **Délka:** 1 den, 9:00 - 15:30
 - **Cena:** Zatím jsme v testovacím běhu. Zdarma!
 
-| Termín                   | Jazyk | Volná místa |
-|:------------------------ |:-----:|:-----------:|
-| není vypsán žádný termín | C++   | -   |
-| není vypsán žádný termín | C#    | -   |
-|                          |       |     |
+| Termín                   | Prostor                                       | Jazyk | Volná místa |
+|:------------------------ |:--------------------------------------------- |:-----:|:-----------:|
+| není vypsán žádný termín | [COWO Brno](http://www.cowobrno.cz/)          | C++   | -           |
+| není vypsán žádný termín | [Impact Hub Brno](https://www.hubbrno.cz/en/) | C#    | -           |
+|                          |                                               |       |             |
 
 ![Lukáš Bednařík]({{ site.url }}/assets/xp-fall.png)
 
