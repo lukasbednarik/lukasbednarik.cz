@@ -22,7 +22,7 @@ Dalším novým bodem k roli SM je jeho zodpovědnost za to, že celý tým rozu
 
 ### Denní standup
 
-Podle nové verze Scrum příručky určuje formát standupu tým vývojářů. Standup může probíhat rozdílnými způsoby a jedinou podmínkou je, aby byl zaměřen na postup k cíli sprintu. Některé týmy mohou při standupu odpovídat na otázky, jiné týmy mohou vést volnější diskuzi. Příklady otázek, které mohou být použity jsou:
+Podle nové verze Scrum příručky určuje formát standupu tým vývojářů. Standup může probíhat rozdílnými způsoby a jedinou podmínkou je, aby byl zaměřen na postup k cíli sprintu. Některé týmy mohou při standupu odpovídat na otázky, jiné týmy mohou vést volnější diskuzi. Příklady otázek, které mohou být použity, jsou:
 
 - Co jsem dělal včera, abych pomohl týmu dosáhnout cíle sprintu?
 - Co budu dělat dnes, abych pomohl týmu dosáhnout cíle sprintu?
