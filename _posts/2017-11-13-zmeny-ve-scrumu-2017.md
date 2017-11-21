@@ -6,7 +6,7 @@ tags: scrum agile
 
 Příručku Scrumu, tzv. [Scrum Guide](http://www.scrumguides.org/scrum-guide.html), vytvořili v roce 2010 Ken Schwaber a Jeff Sutherland, aby tak postavili Scrum na pevnější základ. Do té doby byl Scrum sice popsán v několika knihách, ale nikdo ještě přesně nespecifikoval, co to “Scrum” znamená. Dnes je Scrum Guide považována za základní referenci Scrumu, i když ne zcela bez výhrad.
 
-O tom, že Scrum Guide je živá, svědčí série úprav v letech 2011, 2013, 2016, 2017. Právě poslední úprava z listopadu 2017 je psána stále ještě mokrým inkoustem. Co se tedy změnilo?
+O tom, že Scrum Guide je živá, svědčí série úprav v letech 2011, 2013, 2016 a 2017. Právě poslední úprava z listopadu 2017 je psána stále ještě mokrým inkoustem. Co se tedy letos změnilo?
 
 ### Přidána sekce “Použití Scrumu”
 
@@ -26,7 +26,7 @@ Podle nové verze Scrum příručky určuje formát standupu tým vývojářů. 
 
 - Co jsem dělal včera, abych pomohl týmu dosáhnout cíle sprintu?
 - Co budu dělat dnes, abych pomohl týmu dosáhnout cíle sprintu?
-- Jsou nějaké překážky, které brání mě nebo týmu k dosažení cíle sprintu?
+- Jsou nějaké překážky, které brání mně nebo týmu k dosažení cíle sprintu?
 
 Jak je vidět, ony tři otázky již nejsou povinné, ale jen navrhované.
 
@@ -34,6 +34,6 @@ Jak je vidět, ony tři otázky již nejsou povinné, ale jen navrhované.
 
 Do sekce o sprint backlogu byla přidána věta: “Aby se zajistilo neustálé zlepšování, sprint obsahuje alespoň jeden tiket s vysokou prioritou, který se zaměřuje na problém nalezený v předešlé retrospektivě.”
 
-Scrum stále méně definuje, “jak” máme věci dělat, a vetšinou mluví raději o tom, čeho chceme dosáhnout. Tato poslední změna nicméně jde proti tomuto trendu a mnoho konzultantů je z ní poněkud rozpačitých (a dodávají, že tato věta možná časem zase zmizí, jakmile si týmy zvyknou řešit problémy z retrospektivy i na úkor části práce ve sprintu).
+Scrum stále méně definuje, “jak” máme věci dělat, a vetšinou raději mluví o tom, čeho chceme dosáhnout. Tato poslední změna nicméně jde proti tomuto trendu a mnoho konzultantů je z ní poněkud rozpačitých (a dodávají, že tato věta možná časem zase zmizí, jakmile si týmy zvyknou řešit problémy z retrospektivy i na úkor části práce ve sprintu).
 
 Podrobý seznam všech změn naleznete na [http://www.scrumguides.org/revisions.html](http://www.scrumguides.org/revisions.html).
