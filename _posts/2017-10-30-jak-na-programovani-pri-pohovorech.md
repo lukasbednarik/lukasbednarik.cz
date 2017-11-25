@@ -30,6 +30,8 @@ Potřebujete-li více systematický přístup k pohovorům (jeden jednoduchý Co
 komunikovat s uchazečem na dálku, doporučuji placenou verzi. Rozhodnutí, je-li 14 USD za test jednoho uchazeče ve druhém
 kole pohovoru cena zbytečně vysoká, už nechám na vás.
 
+Velmi podobnou službou je [CodeShare](https://codeshare.io). Doporučuji k vyzkoušení, je také zdarma.
+
 ### Paiza
 
 [Paiza](https://paiza.io/en/) podporuje celou řadu jazyků a více otevřených souborů, bohužel podpora sdílení
