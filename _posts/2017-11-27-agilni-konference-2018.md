@@ -19,7 +19,7 @@ Tradiční a snad i největší event v ČR. Registrace na Agile Prague bude spu
 
 Konference zaměřená na agilní přístupy v bankovnictví a finančním sektoru. Lidé z financí rozumí slovu “Agile” jinak. Zjistěte jak.
 
-- Termín: 29. března 2018
+- Termín: 29. května 2018
 - Místo: Praha
 - Web: [agiliaprague.com](http://agiliaprague.com/)
 
@@ -59,6 +59,6 @@ Produkt management, produkt ownership, produkt portfolio… To jsou některá z 
 
 Protože mám rád Slovensko, zmíním ještě ScrumImpulz. Za 109€ se můžete podívat na jeden den do Bratislavy. Nabídka témat bývá pestrá: Management 3.0, high performing teams, worst fails, ...
 
-- Termín: 31. 3. 2018
+- Termín: 31. května 2018
 - Místo: Bratislava
 - Web: [www.scrumimpulz.sk](https://www.scrumimpulz.sk)
