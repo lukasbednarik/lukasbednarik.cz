@@ -55,4 +55,10 @@ Produkt management, produkt ownership, produkt portfolio… To jsou některá z 
 - Místo: Budapešť
 - Web: [agiliabudapest.com](http://www.agiliabudapest.com/)
 
+### ScrumImpulz
 
+Protože mám rád Slovensko, zmíním ještě ScrumImpulz. Za 109€ se můžete podívat na jeden den do Bratislavy. Nabídka témat bývá pestrá: Management 3.0, high performing teams, worst fails, ...
+
+- Termín: 31. 3. 2018
+- Místo: Bratislava
+- Web: [www.scrumimpulz.sk](https://www.scrumimpulz.sk)
