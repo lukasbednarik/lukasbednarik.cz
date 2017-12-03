@@ -12,8 +12,8 @@ permalink: /skoleni
 
 | Termín                   | Prostor                                       | Jazyk | Volná místa |
 |:------------------------ |:--------------------------------------------- |:-----:|:-----------:|
-| není vypsán žádný termín | [COWO Brno](http://www.cowobrno.cz/)          | C++   | -           |
-| není vypsán žádný termín | [Impact Hub Brno](https://www.hubbrno.cz/en/) | C#    | -           |
+| leden 2018               | [Impact Hub Brno](https://www.hubbrno.cz/en/) | C++   | 6           |
+| není vypsán žádný termín | [COWO Brno](http://www.cowobrno.cz/)          | C#    | -           |
 |                          |                                               |       |             |
 
 ![Lukáš Bednařík]({{ site.url }}/assets/xp-fall.png)
@@ -43,12 +43,10 @@ jak do sebe zapadají praktiky XP a v čem je jejich spojení vyjímečné.
 1. Praktiky XP jako puzzle
 1. Unit-testování
      - Dobrý unit-test
-     - Kata 1
      - Stub
      - Mock
      - Frameworky Catch a FakeIt
 1. Párové programování
-   - Kata 2
 1. Průběžná integrace (CI)
 1. Další praktiky XP
    - Sdílené vlastnictví kódu
@@ -60,9 +58,9 @@ jak do sebe zapadají praktiky XP a v čem je jejich spojení vyjímečné.
    - Refaktoring
 1. Role v XP
 1. XP a Scrum
-   - Co je to Scrum?
    - Společné praktiky Scrumu a XP
    - XP ve Scrumu jako cesta ke zlepšování
+1. Kvalita softwaru
 1. Nástroje a frameworky
 
 ### Materiály
@@ -73,8 +71,7 @@ Prázdný C++ projekt pro praktickou část naleznete v [GIT repozitáři](https
 git clone https://github.com/sand-dollar/clean-project
 ```
 
-Na workshop je nutné si přinést svůj notebook a předem si vyzkoušet, že jste schopni zkompilovat čistý projekt
-zmíněný výše.
+Na workshop je nutné si přinést svůj notebook a předem si vyzkoušet, že jste schopni projekt zkompilovat.
 
 [//]: # (Příprava na Professional Scrum Master certifikaci)
 [//]: # (Design patterns)
