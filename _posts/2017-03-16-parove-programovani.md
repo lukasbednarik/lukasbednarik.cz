@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Párové programování
-tags: praktiky programování
+tags: praktiky
 ---
 
 Mohou dva lidé pracující u jednoho počítače dodat produkt za stejný čas jako dva lidé pracující každý na svém počítači?

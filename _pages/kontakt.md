@@ -13,6 +13,7 @@ permalink: /kontakt
 
 ### 2017
 
+- Spuštěn projekt [Agilní kalendář](http://agilnikalendar.cz)
 - Účastním se nejrůznějších setkání brněnských Scrum Masterů
 - Dokončení knihy [Rebelská historie vývoje software](/knihy)
 - Workshop eXtrémního programování pro [iXperta s.r.o.](http://www.ixperta.com/)

@@ -7,6 +7,14 @@ tags: události
 O řečnících stále nepadlo ani slovo, ale termíny největších konferencí v ČR už známe. Mezi hlavní organizátory agilních konferencí u nás
 patří Agilia a Agilní Asociace.
 
+### Agile Coach Camp
+
+Dvoudenní open space unconference - návštěvníci si přinášejí svá vlastní témata, o kterých diskutují.
+
+- Termín: 4. - 6. května 2018
+- Místo: Tvoršovice (50km od Prahy)
+- Web: [agilecoachcamp.cz](https://agilecoachcamp.cz)
+
 ### Agile Prague
 
 Tradiční a snad i největší event v ČR. Registrace na Agile Prague bude spuštěna v březnu 2018.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Agilní praktiky jsou jako puzzle
-tags: agile programování
+tags: agile praktiky
 ---
 
 Jednotlivé praktiky extrémního programování byly známé už dlouho předtím, než
