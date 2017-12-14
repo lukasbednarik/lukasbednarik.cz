@@ -12,9 +12,7 @@ permalink: /skoleni
 
 | Termín                   | Prostor                                       | Jazyk | Volná místa |
 |:------------------------ |:--------------------------------------------- |:-----:|:-----------:|
-| leden 2018               | [Impact Hub Brno](https://www.hubbrno.cz/en/) | C++   | 6           |
-| není vypsán žádný termín | [COWO Brno](http://www.cowobrno.cz/)          | C#    | -           |
-|                          |                                               |       |             |
+| 27. leden 2018           | [Impact Hub Brno](https://www.hubbrno.cz/en/) | C++   | 6           |
 
 ![Lukáš Bednařík]({{ site.url }}/assets/xp-fall.png)
 
