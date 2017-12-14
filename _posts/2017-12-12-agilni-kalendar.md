@@ -8,7 +8,7 @@ Když někdo na brněnském setkání Scrum Masterů nadhodil téma "co komunitu
 objevily se dvě věci. První z nich byla komunikační roztříštěnost komunity, druhou byla
 neexistence jednotného místa, kde by se člověk mohl informovat o všech agilních akcích.
 
-#### Komunikace v brněnské komunitě Scrum Masterů
+### Komunikace v brněnské komunitě Scrum Masterů
 
 Někdo komunikuje přes
 diskuzní skupiny na LinkedIn (např. Scrum Masters Brno), jiný využívá skupin na Facebooku
@@ -27,4 +27,5 @@ V minulých dvou dnech jsem strávil nějaký čas nad realizací nápadu. Kalen
 tedy spousta akcí zatím chybí, ale navštívit jej můžete už dnes (nebo lépe - přidat si jej mezi své
 Google kalendáře): [agilnikalendar.cz](http://agilnikalendar.cz).
 
-
+Kalendář zatím obsahuje data a popisy snad všech agilních konferencí v ČR a některých okolních státech,
+dále termíny různých brněnských komunitních setkání.
