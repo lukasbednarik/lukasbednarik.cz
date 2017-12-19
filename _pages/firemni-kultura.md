@@ -65,8 +65,8 @@ systém tým lídrů. Vedení společnosti očekávalo od SM přímý vliv na pr
 zdatnost tým lídra. Půlené role skrytě fungovaly v tomto režimu. Full time SM se naopak pokusili situaci zvrátit
 a tvrdě narazili na všech frontách. Nepodpora vedení vedla zaměstnance k odchodům, ačkoliv při přímých diskuzích
 s vedením uváděli jiné důvody. Pokud se člověk jednou rozhodne změnit práci, většinou za tím stojí komplikovaný
-systém důvodů, ne jen jeden jednoduchý důvod.
-Vedení firmy SM nepodporovalo, nenechalo si zasahovat do procesů a konečně i samotný rozvoj lidí řešilo samo.
+systém důvodů, ne jen jedna jednoduchá věc.
+Vedení firmy si nenechalo zasahovat do procesů a dokonce i samotný rozvoj lidí řešilo samo.
 Co se týká osobního rozvoje samotného managementu, je jasné, že "management přece žádný rozvoj nepotřebuje,
 už tak je dokonalý".
 
