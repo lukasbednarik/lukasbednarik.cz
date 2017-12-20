@@ -21,11 +21,12 @@ permalink: /firemni-kultura
   - [Kultura rolí](/firemni-kultura-organizace-lidi#kultura-rolí)
   - [Kultura úkolů](/firemni-kultura-organizace-lidi#kultura-úkolů)
   - [Kultura osob](/firemni-kultura-organizace-lidi#kultura-osob)
-- Seberealizace
-- Sdílení informací
+- [Seberealizace](/firemni-kultura-seberealizace)
+- [Sdílení informací](/firemni-kultura-sdileni-informaci)
 - Plnění úkolů
 - Osobní bezpečí
 - Uznání členů v rámci organizace
+- Podpora členů v organizaci
 - …a další věci
 
 ![Firemní kultura]({{ site.url }}/assets/firemni-kultury.png)
@@ -145,11 +146,12 @@ záleží na konkrétní organizaci a může se lišit. Obvykle to bývá:
   - [Kultura rolí](/firemni-kultura-organizace-lidi#kultura-rolí)
   - [Kultura úkolů](/firemni-kultura-organizace-lidi#kultura-úkolů)
   - [Kultura osob](/firemni-kultura-organizace-lidi#kultura-osob)
-- Seberealizace
-- Sdílení informací
+- [Seberealizace](/firemni-kultura-seberealizace)
+- [Sdílení informací](/firemni-kultura-sdileni-informaci)
 - Plnění úkolů
 - Osobní bezpečí
 - Uznání členů v rámci organizace
+- Podpora členů v organizaci
 - …a další věci
 
 ### Agilní kultura
@@ -187,4 +189,4 @@ očekávání, postoje a normy.
 Nejedná se o jednu hodnotu nebo soustavu hodnot, ale o extrémně komplexní systém, který zahrnuje také to,
 jak na tyto hodnoty lidé reagují.
 
-[Zpět na obsah](/firemni-kultura#obsah)
+- [Zpět na: Obsah](/firemni-kultura#obsah)
