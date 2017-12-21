@@ -168,10 +168,10 @@ Hodnoty
   inovace a zapojení komunity.
 
 Firemní klima
-: Organizační klima je na druhé straně často definováno jako opakující se vzorce chování, postojů
-  a pocitů, které charakterizují život v organizaci. V porovnání s klimatem má kultura tendenci
-  být hluboká a stabilní. Ačkoliv jsou pojmy kultura a klima příbuzné, klima se často ukazuje
-  jako snadnější posoudit a změnit. Na individuální úrovni analýzy se koncept nazývá individuální
+: Organizační klima je často definováno jako opakující se vzorce chování, postojů
+  a pocitů, které charakterizují život v organizaci. Ačkoliv jsou pojmy kultura a klima příbuzné,
+  klima se často ukazuje jako snadnější posoudit a změnit, naopak firemní kultura je hluboká a stabilní.
+  Na individuální úrovni analýzy se koncept nazývá individuální
   psychologické klima. Tato individuální vnímání jsou často shromažďována pro analýzu na úrovni týmu,
   skupiny nebo celé organizace.
 
