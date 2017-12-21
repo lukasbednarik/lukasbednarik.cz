@@ -23,10 +23,9 @@ permalink: /firemni-kultura
   - [Kultura osob](/firemni-kultura-organizace-lidi#kultura-osob)
 - [Seberealizace](/firemni-kultura-seberealizace)
 - [Sdílení informací](/firemni-kultura-sdileni-informaci)
-- Plnění úkolů
 - Osobní bezpečí
-- Uznání členů v rámci organizace
-- Podpora členů v organizaci
+- [Uznání členů v rámci organizace](/firemni-kultura-uznani-clenu-organizace)
+- [Kompetence](/firemni-kultura-kompetence)
 - …a další věci
 
 ![Firemní kultura]({{ site.url }}/assets/firemni-kultury.png)
@@ -148,10 +147,9 @@ záleží na konkrétní organizaci a může se lišit. Obvykle to bývá:
   - [Kultura osob](/firemni-kultura-organizace-lidi#kultura-osob)
 - [Seberealizace](/firemni-kultura-seberealizace)
 - [Sdílení informací](/firemni-kultura-sdileni-informaci)
-- Plnění úkolů
 - Osobní bezpečí
-- Uznání členů v rámci organizace
-- Podpora členů v organizaci
+- [Uznání členů v rámci organizace](/firemni-kultura-uznani-clenu-organizace)
+- [Kompetence](/firemni-kultura-kompetence)
 - …a další věci
 
 ### Agilní kultura
@@ -163,30 +161,26 @@ jako v příkladu "kultura tým lídrů" výše.
 
 ### Slovníček
 
-#### Hodnoty
+Hodnoty
+: Důležitá a trvalá přesvědčení nebo ideály sdílené členy kultury o tom, co je dobré nebo špatné
+  a co je žádoucí nebo nežádoucí. Hodnoty mají velký vliv na chování a postoj člověka a slouží
+  jako obecné pokyny ve všech situacích. Některé společné obchodní hodnoty jsou poctivost,
+  inovace a zapojení komunity.
 
-Důležitá a trvalá přesvědčení nebo ideály sdílené členy kultury o tom, co je dobré nebo špatné
-a co je žádoucí nebo nežádoucí. Hodnoty mají velký vliv na chování a postoj člověka a slouží
-jako obecné pokyny ve všech situacích. Některé společné obchodní hodnoty jsou poctivost,
-inovace a zapojení komunity.
+Firemní klima
+: Organizační klima je na druhé straně často definováno jako opakující se vzorce chování, postojů
+  a pocitů, které charakterizují život v organizaci. V porovnání s klimatem má kultura tendenci
+  být hluboká a stabilní. Ačkoliv jsou pojmy kultura a klima příbuzné, klima se často ukazuje
+  jako snadnější posoudit a změnit. Na individuální úrovni analýzy se koncept nazývá individuální
+  psychologické klima. Tato individuální vnímání jsou často shromažďována pro analýzu na úrovni týmu,
+  skupiny nebo celé organizace.
 
-#### Firemní klima
-
-Organizační klima je na druhé straně často definováno jako opakující se vzorce chování, postojů
-a pocitů, které charakterizují život v organizaci. V porovnání s klimatem má kultura tendenci
-být hluboká a stabilní. Ačkoliv jsou pojmy kultura a klima příbuzné, klima se často ukazuje
-jako snadnější posoudit a změnit. Na individuální úrovni analýzy se koncept nazývá individuální
-psychologické klima. Tato individuální vnímání jsou často shromažďována pro analýzu na úrovni týmu,
-skupiny nebo celé organizace.
-
-#### Firemní kultura
-
-Kultura není člověku vrozená, ale člověk si ji osvojuje až jako člen společnosti,
-kde se tato kultura pěstuje a předává.
-Firemní kultura obsahuje sdílenou filosofii, ideologii, hodnoty, přesvědčení, předpoklady,
-očekávání, postoje a normy.
-
-Nejedná se o jednu hodnotu nebo soustavu hodnot, ale o extrémně komplexní systém, který zahrnuje také to,
-jak na tyto hodnoty lidé reagují.
+Firemní kultura
+: Kultura není člověku vrozená, ale člověk si ji osvojuje až jako člen společnosti,
+  kde se tato kultura pěstuje a předává.
+  Firemní kultura obsahuje sdílenou filosofii, ideologii, hodnoty, přesvědčení, předpoklady,
+  očekávání, postoje a normy.
+  Nejedná se o jednu hodnotu nebo soustavu hodnot, ale o extrémně komplexní systém, který zahrnuje také to,
+  jak na tyto hodnoty lidé reagují.
 
 - [Zpět na: Obsah](/firemni-kultura#obsah)
