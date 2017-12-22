@@ -41,7 +41,7 @@ Malá encyklopedie metodik vývoje softwaru.
 - Agile
 - Agile Modeling (AM)
 
-## Slovníček
+## Metodika, metoda nebo metodologie?
 
 Metoda
 : Metoda (z řeckého met-hodos – doslova "za cestou", cesta za něčím) je postup nebo návod, jak získávat správné poznatky, prostředek poznání.
