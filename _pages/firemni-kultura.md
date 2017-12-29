@@ -48,7 +48,7 @@ První problém nastal, jakmile firma začala najímat nové SM na plný úvazek
 postupně zaměstnáni tři noví SM. Během dalších devíti měsíců všichni tři firmu opustili.
 Kvůli nedostatku SM byly vytvořeny další full time role SM. Jakoby se management snažil uplatnit
 Weinbergovu zásadu špatného managementu: “Pokud něco nefunguje, dělejte toho víc.” Novým SM se k velkému
-překvapení ve firmě opět nedařilo. Během následujících několika měsíců znovu všichni firmu opustili.
+překvapení ve firmě opět nedařilo. Během následujících několika měsíců znovu všichni z firmy odešli.
 
 Závěr vedení byl dvojí. Za prvé se firmě nedaří hledat dobré SM, protože s tímto typem pozice nemá firma zkušenosti.
 Za druhé, každý SM odešel z jiného důvodu (stěhování, vyhoření, 2 byli vyhozeni, lepší nabídka v jiné firmě, ...),
@@ -64,13 +64,14 @@ zdatnost tým lídra. Půlené role skrytě fungovaly v tomto režimu. Full time
 a tvrdě narazili na všech frontách. Nepodpora vedení vedla zaměstnance k odchodům, ačkoliv při přímých diskuzích
 s vedením uváděli jiné důvody. Pokud se člověk jednou rozhodne změnit práci, většinou za tím stojí komplikovaný
 systém důvodů, ne jen jedna jednoduchá věc.
+
 Vedení firmy si nenechalo zasahovat do procesů a dokonce i samotný rozvoj lidí řešilo samo.
 Co se týká osobního rozvoje samotného managementu, je jasné, že "management přece žádný rozvoj nepotřebuje,
-už tak je dokonalý".
+už tak je výborný".
 
 Tento příklad ukazuje sílu firemní kultury. Kultura jsou skrytá přesvědčení, sdílená očekávání, postoje,
 hodnoty… Kultura vzniká samostatně a významně ovlivňuje, jakým způsobem se v rámci organizace rozhodujeme.
-Zavedení Scrumu v nevhodné firemní kultuře bývá kontraproduktivní.
+Zavedení Scrumu v nevhodné firemní kultuře je kontraproduktivní.
 
 ### Kultura není vidět
 
@@ -82,8 +83,8 @@ Kulturu Čechů neodhalíme, pokud sami nevyjedeme za hranice. Stejně tak kultu
 konzultanti a nově příchozí zaměstnanci. Nově nastoupivši zaměstnanci ale musejí podstoupit období “zaučování”,
 kdy mají dostatek času se asimilovat a kulturu vstřebat.
 
-Kultura má tendenci sama sebe stabilizovat v pozitivním i negativním smyslu.
-Jedinci, kterým se nepodaří se do společnosti začlenit, jsou postaveni na její okraj nebo jsou zcela vyloučeni.
+Kultura má tendenci sama sebe stabilizovat.
+Jedinci, kterým se nepodaří do společnosti začlenit, jsou postaveni na její okraj nebo jsou zcela vyloučeni.
 
 ### Definice firemní kultury
 
@@ -122,15 +123,15 @@ orientace na lidi nebo na úkoly, rychlost zpětné vazby, míra rizika…
 
 Mým cílem bylo vytvořit otevřený model kultur, který by umožnil kultury klasifikovat a zároveň se nelimitoval na
 omezený počet zdrojů kultury. Následující rozdělení kultur tedy umožňuje mít těchto zdrojů nekonečně mnoho.
-Záleží jen na nás, jaké zdroje pro danou organizaci budeme považovat za nejzásadnější. Tato neurčitost může být
-ve výsledku velmi pozitivní pro popis organizací, protože různé organizace mohou klást důraz na různé části své kultury.
+Záleží jen na nás, jaké zdroje pro danou organizaci budeme považovat za nejzásadnější. Tato neurčitost je
+pro popis organizací výhodou, protože různé organizace mohou klást důraz na různé části své kultury.
 Zůstává tedy na konzultantovi, aby vybral nejdůležitější zdroje kultury (např. pomocí koučování).
 
 Organizace jsou nástrojem ke splnění konkrétních úkolů a dosažení vytyčených cílů.
 Nejdůležitější potřebou každé organizace je její samotné přežití (podobně jako živý organismus).
 Potřeba přežití a plnění úkolů zahrnuje práci se členy organizace, tedy práci s lidmi.
 Typicky (ale ne nutně vždy) je nutné zaměstnance nejakým způsobem organizovat, sdílet s nimi informace,
-nějakým způsobem reagovat na jejich potřeby seberealizace a osobního bezpečí atd.
+nějakým způsobem reagovat na jejich potřeby seberealizace, osobního bezpečí atd.
 Objevují se tak dva rozměry problému - první říká, jaké potřeby má organizace nebo její členové,
 druhý rozměr popisuje, jak na tyto potřeby organizace reaguje. Následující typologie kultur
 zachycuje firemní kulturu v obou rozměrech.
@@ -154,8 +155,8 @@ záleží na konkrétní organizaci a může se lišit. Obvykle to bývá:
 
 Často se setkáme s tvrzením, že k zavedení "agile" ve firmě je nutné změnit dvě věci: proces a mindset.
 Právě mindset (to, jakým způsobem uvažujeme) souvisí s kulturou společnosti. K zavedení "agile" je tedy
-nutné pracovat s kulturou. Pokud se tak nestane, mindset lidí zůstane stejný i přes změny v procesech
-jako v příkladu "kultura tým lídrů" výše.
+nutné pracovat s kulturou. Pokud se tak nestane, mindset lidí zůstane stejný i přes všechny změny v procesech.
+(Viz příklad "kultura tým lídrů" výše.)
 
 ![Firemní kultura]({{ site.url }}/assets/firemni-kultury.png)
 

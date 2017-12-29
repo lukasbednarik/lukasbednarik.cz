@@ -8,9 +8,6 @@ Je oceňován osobní výkon, týmový výkon nebo relativní výkon vůči něk
 Případně není odměněn výkon, ale dobré vycházení s jinými lidmi?
 Jakým způsobem si zaměstnanci mohou získat uznání při začleňování do společnosti?
 
-Uznání členů v rámci organizace úzce souvisí s očekávaným plněním
-úkolů a začleňováním do společnosti. Toto je cesta, kterou se dělá skutečná práce.
-
 ## Obsah
 
 - [Relativní výkon](/firemni-kultura-uznani-clenu-organizace#relativní-výkon)
@@ -31,7 +28,7 @@ jednotlivců, nikoliv však celkovou spolupráci v organizaci.
 
 ![Relativní výkon zaměstnance]({{ site.url }}/assets/relativni-vykon.png)
 
-Dle rčení "mezi slepými jednookým králem" může i nejlepší člověk ve firmě stále začátečníkem v oboru.
+Dle rčení "mezi slepými jednookým králem" může i nejlepší člověk ve firmě být stále začátečníkem v oboru.
 
 ## Absolutní osobní výkon
 
@@ -44,8 +41,9 @@ respekt svých nadřízených i kolegů.
 
 Problém s oceněním absolutního výkonu je, že žádné "absolutní měřítko" vlastně neexistuje.
 Hodnotící člověk je tak ponechán svému osobnímu měřítku, které je většinou pro
-hodnocenou osobu lichotivé. Tento typ hodnocení můžeme najít například u výzkumníků ve firmě,
-kteří jsou velmi specializovaní a nelze je jednoše srovnat s jinými zaměstnanci.
+hodnocenou osobu lichotivé. Tento typ hodnocení ve velmi čisté formě můžeme najít
+například u výzkumníků,
+kteří jsou velmi specializovaní a nelze je jednoše srovnávat s ostatními zaměstnanci.
 
 ## Výkon týmu
 
@@ -56,7 +54,7 @@ srovnává tým s jiným týmem, absolutní porovnání hodnotí schopnost týmu
 
 ![Výkon týmu]({{ site.url }}/assets/tymovy-vykon.png)
 
-Klíčová je spolupráce a důvěra v týmu.
+Pro výkon týmu je klíčová spolupráce a důvěra.
 
 ## Loajalita
 

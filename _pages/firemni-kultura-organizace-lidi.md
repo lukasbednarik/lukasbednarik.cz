@@ -22,11 +22,12 @@ Dle Harrosona a Handyho jsou typy kultur čtyři: kultura moci, kultura rolí, k
 
 Tato typologie vznikla jako jedna z prvních a ačkoliv se dnes považuje za překonanou, jednotlivé typy jsou
 v praxi snadno pozorovatelné. Navštívíme-li několik společností, snadno najdeme paralely s jednotlivými kulturami.
-Stejně tak v literatuře existuje souvislost s rozdělením kultur Geralda Weinberga nebo novějším a serióznějším výzkumem “kmenů”
+Stejně tak v literatuře existuje souvislost této typologie
+s rozdělením kultur Geralda Weinberga nebo novějším a serióznějším výzkumem “kmenů”
 Dave Logana (kniha Zrození kmenového vůdce).
 
 Kultury jsou čtyři, ale dvě zmíněné - kulturu úkolů a osob - musíme v porovnáním s Harrisonovým pojetím mírně aktualizovat,
-abychom dosáhli shody s pozdějšími autory. Můžeme předpokládat, že v 70. letech nebyla kultura úkolů a osob tolik rozšířená,
+chceme-li dosáhnout shody s pozdějšími autory. Můžeme předpokládat, že v 70. letech nebyla kultura úkolů a osob tolik rozšířená,
 aby poskytla autorům typologie dostatečně velký studijní vzorek. Do kultury osob zapadá například fenomén samoorganizovaných týmů,
 o kterém před 50-ti lety nemohla být řeč.
 
@@ -40,8 +41,8 @@ neboť není tolik závislá na schopnostech jednotlivců jako ostatní kultury.
 
 V kultuře úkolů se za nejdůležitější faktor považuje úroveň dovedností a kompetence daný úkol vyřešit.
 Organizace jsou projektově založené a orientované na úkoly. Přitom není podstatné, kdo který úkol řeší.
-Podstané je, že úkol bude vyřešen. Tento způsob organizace klade důraz na funkční týmy bez striktně stanovených rolí
-(tj. nikdo neřekne “toto se mně už netýká, to dělat nebudu”).
+Podstané je, že úkol bude vyřešen. Tento způsob organizace klade důraz na funkční týmy bez striktně stanovených rolí,
+kde nikdo neřekne: “Toto se mě už netýká, to dělat nebudu.”
 
 Kultura osob je nejvzácnější, přesto s příchodem agilních metod řízení se situace zlepšuje.
 Hierarchie v této kultuře slouží spíše jako vodítko k rozdělení rolí, ale není formálně svazující.
@@ -90,18 +91,17 @@ ostatních (i nevědomky), nastolí atmosféru strachu a lidé se budou bát pro
 Existuje mnoho reálných příkladů organizací, kde převažuje tato kultura. Příkladem silného vůdce je Steve Jobs, který navzdory
 všem nevýhodám této kultury dosáhl úspěchu.
 
-
 ## Kultura rolí
 
 > Hodnoty: Stabilita, škálovatelnost
 
 V kultuře rolí jsou lidé vedeni předpisy, normami a různými elektronickými nebo informačními systémy.
-Organizace s touto kulturou mají tendenci být vysoce byrokratické s jasně vymezenými autoritami, odpovědností
+Organizace s touto kulturou mají tendenci být vysoce byrokratické s jasně vymezenými autoritami, odpovědnostmi
 a definovanými rolemi.
 
 Jeden z charakteristických rysů kultury rolí je, že přikládá popisům funkcí větší váhu, než osobnostem lidí,
 kteří tyto funkce zastávají. Jasně vymezená pravidla snižují počet konfliktů mezi lidmi
-(věty typu “tohle není moje práce” / “za tohle já nemůžu”) a omezují zmatek, protože je přesně určeno,
+(myšlenky typu “tohle není moje práce” / “za tohle já nemůžu”) a omezují zmatek, protože je přesně určeno,
 kdo je za co zodpovědný. Popis práce může někdy zaměstnance ochránit před zneužíváním a vykořisťováním
 ze strany nadřízených.
 
@@ -117,7 +117,8 @@ je ideálem lidí “dokonalý proces” a “dokonalý nástroj”. Právě kul
 peníze do zavádění Scrumu (který s fixními pravidly této kultury nakonec nebude fungovat) a instalace nových
 super-nástrojů jako je Microsoft Foundation Server, JIRA, programy pro projektové řízení atd.
 Zdálo by se, že už jen samotný nástroj - ne, už jen vyslovení jeho jména - kultuře pomůže.
-Přece: “Nobody ever got fired for choosing IBM!”
+Hezky to vystihlo IBM ve svém reklamním sloganu: “Nobody ever got fired for choosing IBM!”
+"IBM" - cítíte moc toho jména?
 
 Ačkoliv rutinní postupy přinášejí stabilitu, jejich nevýhodou je právě to, že jsou “rutinní”.
 Často chybí zpětná vazba, jestli procesy, které se někdy osvědčily jako přínosné, stále plní svoji funkci.
@@ -129,7 +130,7 @@ Absence zpětné vazby se týká i produktu a termínu doručení. Kdy bude soft
 říkají vývojáři. Nikdo ale neví, co to znamená. Projektový manager zanese do tabulky “90% hotovo”.
 Opět - co to znamená? Špatně odhadnutá komplexita vývoje vede na velmi malé množství velmi problematických produktů.
 Právě v časech krize se obvykle zjeví jedinci, kteří převezmou velení a posunou kulturu do režimu kultury moci.
-Naopak výhodou této kultury může být, že je schopna doručit rozumně kvalitní produkt za rozumnou cenu - alespoň většinou.
+Naopak výhodou této kultury může být, že je schopna *většinou* doručit rozumně kvalitní produkt za rozumnou cenu.
 
 Úspěch kultury rolí ve velkých korporátech pramení právě z možnosti “automatizace lidí” a toho, že velké firmy
 si mohou dovolit udělat několik velmi špatných rozhodnutí. Zákazníkům těchto firem často nezbývá nic jiného,
@@ -144,23 +145,22 @@ Typickými příklady této kultury jsou některé velké řetězce supermarket�
 Funkční jednotkou kultury úkolů je tým, jehož členové spolupracují za dosažením sdíleného cíle.
 Naplnění tohoto cíle je postaveno nad zájmy jednotlivců a dokonce i nad některé procesy organizace.
 Lidé výrazně spolupracují v rámci týmu, ale často jen omezeně mezi týmy.
-Respekt členů týmu může být postaven na schopnosti řešit konkrétní problém a pomoci tak
-týmu k dosažení cíle.
+Respekt členů týmu může být získán schopností řešit konkrétní problém a pomoci dosažení cíle.
 
 ![Kultura úkolů]({{ site.url }}/assets/kultura-ukolu.png)
 
 Charakteristickým znakem kultury úkolů je větší svoboda a flexibilita zaměstnanců.
 Zaměstnanci se pro vyřešení zadaného úkolu musejí někdy pouštět mimo oblast své specializace
-a být tak schopni řešit širokou škálu problémů. Tato, ze své podstaty dynamická kultura,
+a být schopni řešit širokou škálu problémů. Tato, ze své podstaty dynamická kultura,
 má potenciál přispět ke zvýšení produktivity zaměstnanců.
 
 Zpětná vazba v kultuře úkolů je nejsilnější uvnitř týmu. Vývojáři si vzájemně důvěřují
 a management je chápán jako nástroj vývoje, ne jako překážka nebo dokonce nutné zlo.
 
-Kultura úkolů může mít problém nefungují-li dobře týmy. V týmech se významně projevují
+Kultura úkolů může mít problém, nefungují-li dobře týmy. V týmech se významně projevují
 osobní vztahy, na kterých může veškerá snaha o spolupráci a důvěru ztroskotat.
-Například Scrum tento problém řeší přidáním osoby Scrum Mastera do týmu,
-který je za vztahy v týmu (do jisté míry) zodpovědný.
+Například Scrum tento problém řeší osobou Scrum Mastera,
+který o vztahy v týmu pečuje.
 
 Kultura úkolů nemusí být vhodná pro vývojáře “supermany”, kteří chtějí osobní uznání a nejsou týmovými hráči.
 Ačkoliv za některé iniciativy lze odměnit jednotlivce, splnění úkolu je v této kultuře vždy
@@ -179,13 +179,14 @@ Příkladem může být spolupracující tým praktikující Scrum, jehož člen
 V popisu této kultury se zatím nejvíce odchýlíme od textů Rogera Harrisona a Charlese Handyho,
 neboť v 70. letech nebyl znám pojem samoorganizovaných týmů. V kultuře osob drží lidi pospolu společný zájem, vize.
 Lidé chtějí spolupracovat, protože vědí, že jen tak mohou dosáhnout vyššího cíle. Tento vyšší cíl je často vnímán
-jako společensky přínosný a prospěšný. Osobní status lidí v této kultuře je “my jsme nejlepší (bez dalšího srovnávání)”.
+jako společensky přínosný a prospěšný. Osobní status lidí v této kultuře je “my jsme skvělí (bez dalšího srovnávání)”.
 V typologii lidských kmenů Dave Logana (kniha Zrození kmenového vůdce) tato kultura odpovídá kmenu na stupni 5.
 
 ![Kultura osob]({{ site.url }}/assets/kultura-osob.png)
 
-Důsledkem sdílené vize je, že každý jednotlivec má možnost vše kolem sebe zlepšovat. Procesy, nástroje,
-rozdělení zodpovědností - nic nezůstává beze změny, brání-li to dosažení společné vize. Například v kultuře
+Každý jednotlivec má možnost vše kolem sebe zlepšovat. Procesy, nástroje,
+rozdělení zodpovědností - nic nezůstává beze změny, brání-li to dosažení společné vize.
+Například v kultuře
 rolí může mít jeden manažer na starosti minimalizaci výdajů a druhý manažer výzkum a osobní rozvoj.
 Práce těchto dvou lidí bude neefektivní, protože se vzájemně zablokují. Naopak kultura osob podobné
 střety zájmů řeší s ohledem na dosažení vyššího cíle.

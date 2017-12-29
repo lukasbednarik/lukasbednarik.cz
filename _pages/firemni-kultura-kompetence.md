@@ -22,7 +22,7 @@ Očekává se, že lidé dělají to, co se jim řekne. Zadávání úkolů fung
 
 ## Samostatnost
 
-Očekává se, že lidé si sami berou další úkoly k dosažení předem dohodnutého cíle.
+Očekává se, že si zaměstnanci sami berou další úkoly k dosažení předem dohodnutého cíle.
 Zádávání úkolů funguje "pull" způsobem.
 
 ## Skupinová kompetence

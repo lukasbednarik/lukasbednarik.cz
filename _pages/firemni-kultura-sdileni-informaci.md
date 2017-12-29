@@ -19,13 +19,13 @@ potřeby: potřeba vědět, rozumnět a zkoumat.
 
 ## Kultura dle přístupu ke sdílení informací
 
-Informovanost může zaměstnance více zapojit do fungování firmy, zvýšit jejich pracovní nasazení,
-efektivitu jejich rozhodování a pozitivně motivovat. Mnozí lidé jsou na druhou stranu přesvědčeni,
-že negativní informace (například: firma je ve ztrátě) mohou demotivovat a způsobovat odchod lidí.
+Informovanost může zaměstnance více zapojit do fungování firmy, zvýšit jejich produktivitu,
+efektivitu, zlepšit rozhodování a pozitivně motivovat. Mnozí lidé jsou na druhou stranu přesvědčeni,
+že negativní informace (například: "firma je ve ztrátě") mohou demotivovat a způsobovat odchod lidí.
 Přístup organizace k šiření nebo nešíření určitých informací spoluurčuje její kulturu.
 
 Psycholožka Shelly Gable vytvořila framework dělící lidi dle toho, jak reagují na pozitivní zprávy.
-Reakce může být v jedné ose konstruktivní nebo destruktivní, aktivní nebo pasivní ve druhé ose.
+Reakce může být v jedné ose konstruktivní nebo destruktivní, ve druhé ose aktivní nebo pasivní.
 Věřím, že můžeme analogickým způsobem rozdělit i přístup společnosti ke sdílení informací.
 
 ![Sdílení informací]({{ site.url }}/assets/sdileni-informaci.png)
@@ -40,7 +40,7 @@ které jsou záměrně vytvořeny nebo pozměněny.
 
 Management firmy s touto kulturou zastává stanovisko, že negativní informace by mohly zaměstnance demotivovat
 a způsobit tak odchod lidí z firmy. Informace, které se dostanou k lidem, jsou pečlivě vybírány.
-Zveřejnění informací je vždy plánováno na "správný čas". Fakta, která by mohla působit negativně, jsou prezentovány
+Zveřejnění informací je vždy plánováno na "správný čas". Fakta, která by mohla působit negativně, jsou prezentována
 jinou formou nebo pomoci jiných čísel, takže v závěru nevypadají tak negativně.
 
 ## Informační vakuum
@@ -48,7 +48,7 @@ jinou formou nebo pomoci jiných čísel, takže v závěru nevypadají tak nega
 Ve firmě se směrem od vedení šíří jen velmi malé množství informací. Ve většině případů management mlčí.
 Protože lidi většinou přitahují negativní informace (na tomto faktu je založeno celé TV zpravodajství),
 sdílejí mezi sebou na chodbách a v kuchyňkách převážně "drby" a negativní postoje.
-Toto chování vede ke špatné atmosféře ve firmě.
+Toto chování můte vést ke špatné atmosféře ve firmě.
 
 ![Informační vakuum]({{ site.url }}/assets/informacni-vakuum.png)
 

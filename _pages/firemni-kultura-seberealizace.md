@@ -52,13 +52,13 @@ nacházet seberealizaci. Rozdělení není žádným způsobem kompletní.
 Lidé na svoji potřebu seberealizace rezignovali a jen dělají svoji práci.
 Častým důvodem, proč lidé rezignují, je nesplnění některé nižší potřeby z Maslowy pyramidy potřeb.
 Příkladem může být "potřeba bezpečí a jistoty".
-křičící šéf v žádném případě nevytváří prostředí, ve kterém je možné se seberealizovat.
+Křičící šéf v žádném případě nevytváří prostředí, ve kterém je možné se seberealizovat.
 
-Může se stát, že práce lidi pomalu sama ničí. Kvalita výkonu je nízká a množství odvedené práce minimální.
+Může se stát, že práce lidi pomalu sama ničí. Kvalita výkonu je mizerná a množství odvedené práce minimální.
 
 ## Destruktivní seberealizace
 
-Zaměstnanci se realizují na úkor zájmů organizace. Tímto způsobem mohou i aktivně organizaci škodit.
+Zaměstnanci se realizují na úkor zájmů organizace a mohou i aktivně organizaci škodit.
 Trochu paradoxně není podmínkou, že lidi jejich práce nebaví - může je bavit, proto se seberealizují.
 
 ## Smysl v práci
@@ -76,6 +76,10 @@ V životě není nic dokonalé a hodiny strávené nad tvořením nejlepšího z
 
 Velmi konstruktivním způsobem seberealizace je osobní rozvoj. Zaměstnance jejich práce baví, aktivně
 se rozvíjejí a sami chtějí přebírat nové zajímavé úkoly a další zodpovědnost.
+
+Bohužel tento způsob seberealizace nemusí trvat věčně. Lidé se mohou dostat do bodu, kdy mají
+pocit, že se "již všechno naučili". Management by měl zaměstnance podporovat v hledání nových
+oblastí osobního rozvoje.
 
 - [Zpět na: Obsah](/firemni-kultura-seberealizace#obsah)
 - [Zpět na: Firemní kultura](/firemni-kultura)
