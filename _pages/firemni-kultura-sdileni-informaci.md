@@ -28,16 +28,15 @@ Psycholožka Shelly Gable vytvořila framework dělící lidi dle toho, jak reag
 Reakce může být v jedné ose konstruktivní nebo destruktivní, aktivní nebo pasivní ve druhé ose.
 Věřím, že můžeme analogickým způsobem rozdělit i přístup společnosti ke sdílení informací.
 
-- (destruktivní, aktivní): Dezinformace
-- (destruktivní, pasivní): Informační vakuum
-- (konstruktivní, pasivní): Pasivní transparentnost
-- (konstruktivní, aktivní): Aktivní transparentnost
+![Sdílení informací]({{ site.url }}/assets/sdileni-informaci.png)
 
 ## Dezinformace
 
 Dezinformace se v nejobecnější rovině dělí na pasivní, kdy dochází k manipulaci již existující informace,
 ve smyslu jejího zpoždění nebo zatajení. Druhou skupinou je aktivní dezinformace, která se týká informací,
 které jsou záměrně vytvořeny nebo pozměněny.
+
+![Dezinformace]({{ site.url }}/assets/dezinformace.png)
 
 Management firmy s touto kulturou zastává stanovisko, že negativní informace by mohly zaměstnance demotivovat
 a způsobit tak odchod lidí z firmy. Informace, které se dostanou k lidem, jsou pečlivě vybírány.
@@ -51,6 +50,8 @@ Protože lidi většinou přitahují negativní informace (na tomto faktu je zal
 sdílejí mezi sebou na chodbách a v kuchyňkách převážně "drby" a negativní postoje.
 Toto chování vede ke špatné atmosféře ve firmě.
 
+![Informační vakuum]({{ site.url }}/assets/informacni-vakuum.png)
+
 ## Pasivní transparentnost
 
 Vedení firmy využívá zavedené kanály pro informování zaměstnanců. Ačkoliv se k lidem nějaké informace dostanou,
@@ -61,6 +62,8 @@ chybí zpětná vazba, jak na tyto informace zaměstnanci reagují a jsou-li inf
 Vedení aktivně sdílí všechny relevantní informace se zaměstnanci a aktivně hledá oblasti, ve kterých
 lidem informace chybí. Zaměstnanci se mohou vedení doptávat, proto tento způsob sdílení
 funguje většinou tváří v tvář.
+
+![Aktivní transparentnost]({{ site.url }}/assets/aktivni-transparentnost.png)
 
 - [Zpět na: Obsah](/firemni-kultura-sdileni-informaci#obsah)
 - [Zpět na: Firemní kultura](/firemni-kultura)

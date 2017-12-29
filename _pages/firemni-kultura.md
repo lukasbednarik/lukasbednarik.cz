@@ -28,7 +28,7 @@ permalink: /firemni-kultura
 - [Kompetence](/firemni-kultura-kompetence)
 - …a další věci
 
-![Firemní kultura]({{ site.url }}/assets/firemni-kultury.png)
+![Firemní kultura]({{ site.url }}/assets/firemni-kultura-puzzle.jpg)
 
 ## Co je to firemní kultura
 
@@ -57,8 +57,6 @@ konzultant, který právě v této chvíli přišel do firmy a má začít situa
 
 Co se vlastně stalo? Proč se firmě nedaří udržet SM na plný úvazek, zatímco SM s půlenou rolí zůstavají?
 Věřili byste vysvětlení managementu, že půlení SM zůstávají, protože jsou to veterání ve firmě a vždy zůstali?
-
-![Firemní kultura]({{ site.url }}/assets/firemni-kultura-puzzle.jpg)
 
 Můj názor je, že za všechno může kultura společnosti. Myšlení lidí ve společnosti X s.r.o. nikdy neopustilo
 systém tým lídrů. Vedení společnosti očekávalo od SM přímý vliv na produkt a vývojáři očekávali technickou
@@ -158,6 +156,8 @@ záleží na konkrétní organizaci a může se lišit. Obvykle to bývá:
 Právě mindset (to, jakým způsobem uvažujeme) souvisí s kulturou společnosti. K zavedení "agile" je tedy
 nutné pracovat s kulturou. Pokud se tak nestane, mindset lidí zůstane stejný i přes změny v procesech
 jako v příkladu "kultura tým lídrů" výše.
+
+![Firemní kultura]({{ site.url }}/assets/firemni-kultury.png)
 
 ### Slovníček
 
