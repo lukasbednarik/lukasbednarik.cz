@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: Nexus framework
-tags: agile scrum
+permalink: /nexus-framework
 ---
 
 Nexus je framework pro vývoj produktů, u kterých je nutné koordinovat 3 až 9 Scrum týmů.

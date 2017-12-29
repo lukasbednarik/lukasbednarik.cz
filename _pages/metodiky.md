@@ -12,7 +12,7 @@ Malá encyklopedie metodik vývoje softwaru.
 - Kanban
 - Lean
 - Crystal
-- Extreme Programming (XP)
+- [Extreme Programming (XP)](/extremni-programovani)
 - DevOps
 - Agile Unified Process (AUP)
 - Dynamic Systems Development Method (DSDM)
@@ -22,7 +22,7 @@ Malá encyklopedie metodik vývoje softwaru.
 
 ## Škálované agilní metodiky
 
-- Nexus
+- [Nexus](/nexus-framework)
 - Large Scale Scrum (LeSS)
 - Disciplined Agile Delivery (DAD)
 - Scaled Agile Framework (SAFe)
@@ -38,7 +38,7 @@ Malá encyklopedie metodik vývoje softwaru.
 
 ## Ostatní
 
-- Agile
+- [Agile](/agile)
 - Agile Modeling (AM)
 
 ## Metodika, metoda nebo metodologie?
