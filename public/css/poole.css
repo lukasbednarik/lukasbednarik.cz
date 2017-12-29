@@ -344,7 +344,6 @@ tbody tr:nth-child(odd) th {
 }
 
 .post-tags {
-  display: block;
   float: left;
   margin-top: -.5rem;
   margin-bottom: 1rem;
@@ -353,7 +352,6 @@ tbody tr:nth-child(odd) th {
 
 /* Meta data line below post title */
 .post-date {
-  display: block;
   margin-top: -.5rem;
   margin-bottom: 1rem;
   color: #9a9a9a;

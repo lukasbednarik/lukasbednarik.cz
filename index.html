@@ -12,9 +12,9 @@ title: Domů
       </a>
     </h1>
     {% include tags.html %}
-    <span class="post-date">
+    <div class="post-date">
       {% include date.html date=post.date %}
-    </span>
+    </div>
     {{ post.content }}
   </div>
   {% endfor %}

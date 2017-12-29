@@ -7,17 +7,16 @@ markdown:         kramdown
 highlighter:      rouge
 permalink:        /:title/
 include:          ["_pages"]
-
-title:            'Lukáš Bednařík'
-# description:      'Praktiky, kultury a metodiky vývoje software. Baví mě optimalizovat, hledat souvislosti.'
-# description:      'No Scrum bullshit ...ale praktiky a fungující proces.'
-description:      'No Scrum bullshit ...ale spokojení lidé a kvalitní produkt.'
 url:              'http://lukasbednarik.cz'
 baseurl:          '/'
-
-author:
-  name:           'Lukáš Bednařík'
-  url:            '#'
-
 paginate:         5
 future:           false
+
+title:            'Lukáš Bednařík'
+author:
+  name:           'Lukáš Bednařík'
+  email:          'lukas@lukasbednarik.cz'
+description:      'No Scrum bullshit ...ale spokojení lidé a kvalitní produkt.'
+seo:
+  description:    'Praktiky, kultury a metodiky vývoje software. No Scrum bullshit ...ale spokojení lidé a kvalitní produkt.'
+  keywords:       'firemní kultury,praktiky,metodiky,vývoj software,školení,extrémní programování,workshop'

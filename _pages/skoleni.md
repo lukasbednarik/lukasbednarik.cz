@@ -70,7 +70,3 @@ git clone https://github.com/sand-dollar/clean-project
 ```
 
 Na workshop je nutné si přinést svůj notebook a předem si vyzkoušet, že jste schopni projekt zkompilovat.
-
-[//]: # (Příprava na Professional Scrum Master certifikaci)
-[//]: # (Design patterns)
-[//]: # (Firemní kultury)
