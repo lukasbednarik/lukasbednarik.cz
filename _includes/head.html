@@ -10,6 +10,7 @@
   <meta property="og:title" content="{{ site.author.name }}" />
   <meta property="og:description" content="{{ site.seo.description }}" />
 
+
   <title>
     {% if page.title == "Home" %}
       {{ site.title }} &middot; {{ site.tagline }}
@@ -32,37 +33,4 @@
 
   <!-- Google tracking code -->
   {% include google-analytics.html %}
-
-  <script>
-    (function(window, document, undefined){
-    window.onload = init;
-    function init(){
-      // Function for smoothing the rotation
-      ;(function() {
-        var throttle = function(type, name, obj) {
-          var obj = obj || window;
-          var running = false;
-          var func = function() {
-            if (running) { return; }
-            running = true;
-            requestAnimationFrame(function() {
-              obj.dispatchEvent(new CustomEvent(name));
-              running = false;
-            });
-          };
-          obj.addEventListener(type, func);
-        };
-        throttle ("scroll", "optimizedScroll");
-      })();
-      // Rotation
-      var leftgear = document.getElementById("leftgear");
-      var rightgear1 = document.getElementById("rightgear1");
-      window.addEventListener("scroll", function() {
-        leftgear.style.transform = "rotate("+window.pageYOffset/50+"deg)";
-        rightgear1.style.transform = "rotate("+-window.pageYOffset/10+"deg)";
-        rightgear2.style.transform = "rotate("+window.pageYOffset/5+"deg)";
-      });
-    }
-    })(window, document, undefined);
-  </script>
 </head>
