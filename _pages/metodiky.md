@@ -4,7 +4,8 @@ title: 'Metodiky vývoje softwaru'
 permalink: /metodiky
 ---
 
-Malá encyklopedie metodik vývoje softwaru.
+Malá encyklopedie metodik vývoje softwaru. Na úvod jedna krátká úvaha, proč
+vás jeden framework nezachrání. (TODO - link)
 
 ## Agilní metodiky
 
@@ -24,8 +25,10 @@ Malá encyklopedie metodik vývoje softwaru.
 
 - [Nexus](/nexus-framework)
 - Large Scale Scrum (LeSS)
-- Disciplined Agile Delivery (DAD)
+- Disciplined Agile Delivery (DAD 2.0 / DA 2.0)
 - Scaled Agile Framework (SAFe)
+- Scrum of Scrums (SoS)
+- XScale
 
 ## Klasické metodiky
 
