@@ -8,11 +8,10 @@ permalink: /skoleni
 
 - **Kapacita:** max 8 lidí na workshop
 - **Délka:** 1 den, 9:00 - 15:30
-- **Cena:** Zatím jsme v testovacím běhu. Zdarma!
 
 | Termín                   | Prostor                                       | Jazyk | Volná místa |
 |:------------------------ |:--------------------------------------------- |:-----:|:-----------:|
-| 27. leden 2018           | [Impact Hub Brno](https://www.hubbrno.cz/en/) | C++   | 6           |
+| 27. leden 2018           | [Impact Hub Brno](https://www.hubbrno.cz/en/) | Java  | obsazeno    |
 
 ![Lukáš Bednařík]({{ site.url }}/assets/xp-fall.png)
 
