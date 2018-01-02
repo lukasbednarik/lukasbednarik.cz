@@ -9,6 +9,14 @@ permalink: /kontakt
 - Vývoj: [GitHub](https://github.com/sand-dollar), [StackOverflow](http://stackoverflow.com/users/4734434/luk%C3%A1%C5%A1-bedna%C5%99%C3%ADk)
 - Bydlište: Brno
 
+> *Praktiky a metodiky vývoje software, firemní kultury.
+> Nepreferuji Scrum.
+> Jakákoliv metodika, která řeší problémy vaší firemní kultury, může být úspěšná.*
+
+![Lukáš Bednařík]({{ site.url }}/assets/lukasbednarik.jpg)
+
+Foto 2016.
+
 # Co se povedlo
 
 ### 2017
@@ -38,24 +46,3 @@ permalink: /kontakt
 - Privátní projekt [puzzleSEQ](https://github.com/puzzleSEQ) - framework v C++ / Qt pro analýzu sekvenačních dat
 - Konference Qt World Summit v Berlíně
 - Pracuji na vývoji neviditelných vojenských radiolokátorů [VERA-NG](https://cs.wikipedia.org/wiki/Pasivn%C3%AD_radiolok%C3%A1tor_V%C4%9Bra) v C++11
-
-# Co mě zajímá
-
-„Je to v jiných firmách stejné jako u nás? Dá se pracovat i jinak? Je chyba ve vývoji nebo v managementu?“
-To jsou otázky, které mě zavedly ke studiu praktik, metodik vývoje software a firemních kultur.
-
-> *Praktiky a metodiky vývoje software, firemní kultury.*
-
-Vývoj software je kooperativní hra. Navzdory tomu vývoj v mnoha firmách připomíná spíše souboj
-mezi vývojáři a manažerem.
-Manažer má vyšší plat, vyšší ego a sedí na lepší židli. Jméno manažera je na dveřích kanceláře napsáno modře.
-Vývojář má málo peněz, málo zodpovědnosti a velmi málo důvodů odvádět dobrou práci. Jeho jméno je napsáno
-černě. Zmíněné rozdělení můžeme nazvat hierarchickým (klasickým) managementem. S nástupem filozofie
-post-moderního managementu a agilních metod se ukázaly nedostatky klasického přístupu.
-
-Agile chápu v souvislosti s rozdělením firemních kultur dle Geralda Weinberga. Nepreferuji Scrum.
-Jakákoliv metodika, která řeší problémy vaší firemní kultury, může být úspěšná.
-
-![Lukáš Bednařík]({{ site.url }}/assets/lukasbednarik.jpg)
-
-Foto 2016.
