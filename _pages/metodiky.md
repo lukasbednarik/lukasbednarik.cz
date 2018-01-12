@@ -29,6 +29,7 @@ vás jeden framework nezachrání. (TODO - link)
 - Scaled Agile Framework (SAFe)
 - Scrum of Scrums (SoS)
 - XScale
+- Scrum@Scale
 
 ## Klasické metodiky
 
