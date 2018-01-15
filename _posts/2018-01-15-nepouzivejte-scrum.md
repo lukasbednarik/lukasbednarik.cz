@@ -29,12 +29,9 @@ jako tým a hlavně… hlavně komunikujte.” Stačí to k vytvoření kvalitn�
 
 Kam zmizely například vývojářské praktiky, práce s rizikem a projekt management.
 Dle Scrumu si praktiky zvolí váš zkušený tým sám. Ale co když tým není zkušený a
-management nedá peníze na školení? Co budete jako Scrum Master dělat? Ani na certifikaci
-Super Über Certified Scrum Master se nedozvíte, že bez správné průběžné integrace nebude
-váš Scrum nikdy správně fungovat. Poslední kniha Jeffa Sutherlanda se jmenuje “Doing Twice
-the Work in Half the Time” (dělat 2x tolik práce za polovinu času). Jeff tedy říká, že
-Scrum vám zvýší rychlost práce 4x. Jeff mluví o Scrumu, na ty ostatní praktiky v knize
-také jaksi zapomněl.
+vy nedostanete peníze na školení? Co budete jako Scrum Master dělat? Ani na certifikaci
+Super Über Certified Scrum Master se nedozvíte, že bez kvalitní průběžné integrace nebude
+váš Scrum nikdy fungovat.
 
 Scrum je výborný ke zprostředkovávání zpětné vazby a optimalizaci procesů. Bez možností
 a schopností řešit problémy, na které tento framework poukáže, je Scrum jen velmi málo užitečný.

@@ -4,7 +4,7 @@ title: PCA výcvik
 tags: vzdělávání koučování
 ---
 
-Výcviky koučování zažívají renesanci. Ceny se pohybují kolem 50 000 Kč až 130 000 Kč a
+Výcviky koučování zažívají renesanci. Ceny se pohybují od 50 000 Kč do 130 000 Kč a
 nabízejí je organizace jako
 [ICF Czech Republic](https://www.coachfederation.cz/cz/certifikace.html),
 [ČAKO](http://www.cako.cz/cs/vyber-kouce/akreditovane-vycviky/),
@@ -23,9 +23,8 @@ Naopak by měl pomocí empatie, přijetí a shody podpořit druhého člověka v
 
 V situacích, kdy s někým nesouhlasíme a dokonce máme pocit, že se nám druhý člověk snaží škodit,
 je dle Rogerovské filozofie důležité si uvědomit, že každý člověk smýšlí o sobě samém jako o “dobrém člověku”.
-Toto pojetí souvisí s přijetím sebe sama a s výjimkou několika málo psychopatů se sebevražednými
-sklony opravdu o sobě musíme přemýšlet v dobrém. Otázka, proč se nám jiný člověk snaží uškodit souvisí
-s jeho motivy. PCA se mimo jiné soustředí právě na hledání těchto motivů, na pochopení sebe sama a druhých lidí.
+Otázka, proč se nám jiný člověk snaží uškodit, souvisí
+s jeho motivy. PCA se (mimo jiné) soustředí právě na hledání těchto motivů, na pochopení sebe sama a druhých lidí.
 Kladení otevřených otázek terapeutem funguje podobně jako při klasickém koučování.
 
 ![PCA v praxi]({{ site.url }}/assets/pca-practice.jpg)
