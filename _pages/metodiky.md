@@ -16,6 +16,7 @@ vás jeden framework nezachrání. (TODO - link)
 - [Extreme Programming (XP)](/extremni-programovani)
 - DevOps
 - Agile Unified Process (AUP)
+- [OpenUP](http://epf.eclipse.org/wikis/openup/)
 - Dynamic Systems Development Method (DSDM)
 - Joint Application Development (JAD)
 - Prototyping Model (PM)
@@ -25,7 +26,7 @@ vás jeden framework nezachrání. (TODO - link)
 
 - [Nexus](/nexus-framework)
 - Large Scale Scrum (LeSS)
-- Disciplined Agile Delivery (DAD 2.0 / DA 2.0)
+- [Disciplined Agile Delivery](http://www.disciplinedagiledelivery.com/) (DAD 2.0 / DA 2.0)
 - Scaled Agile Framework (SAFe)
 - Scrum of Scrums (SoS)
 - XScale
