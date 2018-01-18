@@ -44,7 +44,7 @@ vás jeden framework nezachrání. (TODO - link)
 ## Ostatní
 
 - [Agile](/agile)
-- [Post-agilism](https://www.skorks.com/2008/10/are-you-actually-a-post-agilist/)
+- [Post-agilism](https://www.skorks.com/2008/10/are-you-actually-a-post-agilist/) / [Agnostic Agile](http://agnosticagile.org/)
 - Agile Modeling (AM)
 
 ## Metodika, metoda nebo metodologie?
