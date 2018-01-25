@@ -65,10 +65,10 @@ jak do sebe zapadají praktiky XP a v čem je jejich spojení vyjímečné.
 
 ### Materiály
 
-Prázdný C++ projekt pro praktickou část naleznete v [GIT repozitáři](https://github.com/sand-dollar/clean-project):
+Prázdný projekt s nastaveným testovacím prostředím a dalšími instrukcemi naleznete v [GIT repozitáři](https://github.com/sand-dollar/clean-project):
 
 ```
 git clone https://github.com/sand-dollar/clean-project
 ```
 
-Na workshop je nutné si přinést svůj notebook a předem si vyzkoušet, že jste schopni projekt zkompilovat.
+Na workshop je nutné si přinést svůj notebook a **předem si vyzkoušet**, že jste schopni projekt zkompilovat.
