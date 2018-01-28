@@ -11,6 +11,7 @@ vás jeden framework nezachrání. (TODO - link)
 
 - Scrum
 - Kanban
+- Scrumban
 - Lean
 - Crystal
 - [Extreme Programming (XP)](/extremni-programovani)
