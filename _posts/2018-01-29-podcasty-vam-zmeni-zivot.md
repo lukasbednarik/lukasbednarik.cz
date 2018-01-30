@@ -7,7 +7,7 @@ tags: podcast
 Podcasty vám [změní život jako máloco](http://www.pavelsima.cz/blog/nejlepsi-podcasty),
 píše marketingový guru Pavel Šíma a já s ním souhlasím.
 
-### Podcast je nuda
+### Podcast vás nepustí
 
 Také máte ve svém prohlížeči v záložkách videa, na která by jste se rádi podívali, ale není na to čas?
 Záznamy z konferencí, tématické přednášky, rozhovory… Dlouho mi trvalo, než jsem pochopil, že u těchto
