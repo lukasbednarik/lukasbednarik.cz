@@ -9,7 +9,7 @@ permalink: /skoleni
 - **Kapacita:** max 8 lidí na workshop
 - **Délka:** 1 den, 9:00 - 15:30
 - **Jazyk:** C++ nebo Java
-- **Cena:** 600 Kč / osoba
+- **Zaváděcí cena:** 600 Kč / osoba
 
 | Termín                   | Prostor                                       | Jazyk | Volná místa |
 |:------------------------ |:--------------------------------------------- |:-----:|:-----------:|
