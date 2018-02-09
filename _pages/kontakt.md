@@ -19,6 +19,10 @@ Foto 2016.
 
 # Co se povedlo
 
+### 2018
+
+- [Workshop eXtrémního programování](/sluzby) spuštěn veřejně
+
 ### 2017
 
 - Spuštěn projekt [Agilní kalendář](http://agilnikalendar.cz)
