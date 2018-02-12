@@ -12,7 +12,6 @@ vás jeden framework nezachrání. (TODO - link)
 - Kanban
 - Scrum
 - Scrumban
-- Zombie Scrum
 - Lean
 - Crystal
 - [Extreme Programming (XP)](/extremni-programovani)
@@ -48,6 +47,7 @@ vás jeden framework nezachrání. (TODO - link)
 - [Agile](/agile)
 - [Post-agilism](https://www.skorks.com/2008/10/are-you-actually-a-post-agilist/) / [Agnostic Agile](http://agnosticagile.org/)
 - Agile Modeling (AM)
+- Zombie Scrum
 
 ## Metodika, metoda nebo metodologie?
 
