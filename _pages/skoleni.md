@@ -12,7 +12,7 @@ permalink: /skoleni
 - **Zaváděcí cena:** 600 Kč
 
 | Termíny                  | Prostor                                       | Jazyk | Volná místa |           |
-|:------------------------ |:--------------------------------------------- |:-----:|:-----------:|:----------|
+|:------------------------ |:--------------------------------------------- |:-----:|:-----------:|:---------:|
 | ~~2. únor 2018~~         | [Impact Hub Brno](https://www.hubbrno.cz/en/) | Java  | obsazeno    |           |
 | 13. duben 2018           | [Impact Hub Brno](https://www.hubbrno.cz/en/) | ?     | 8           | [Registrace](https://goo.gl/forms/1OPsuwd5m570Erwu2) |
 
