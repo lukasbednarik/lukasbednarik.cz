@@ -9,9 +9,10 @@ vás jeden framework nezachrání. (TODO - link)
 
 ## Agilní metodiky
 
-- Scrum
 - Kanban
+- Scrum
 - Scrumban
+- Zombie Scrum
 - Lean
 - Crystal
 - [Extreme Programming (XP)](/extremni-programovani)
