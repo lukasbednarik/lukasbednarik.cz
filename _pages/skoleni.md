@@ -11,12 +11,12 @@ permalink: /skoleni
 - **Jazyk:** C++ nebo Java
 - **Zaváděcí cena:** 600 Kč
 
-| Termíny                  | Prostor                                       | Jazyk | Volná místa |
-|:------------------------ |:--------------------------------------------- |:-----:|:-----------:|
-| ~~2. únor 2018~~         | [Impact Hub Brno](https://www.hubbrno.cz/en/) | Java  | obsazeno    |
-| 13. duben 2018           | [Impact Hub Brno](https://www.hubbrno.cz/en/) | ?     | 8           |
+| Termíny                  | Prostor                                       | Jazyk | Volná místa |           |
+|:------------------------ |:--------------------------------------------- |:-----:|:-----------:|:----------|
+| ~~2. únor 2018~~         | [Impact Hub Brno](https://www.hubbrno.cz/en/) | Java  | obsazeno    |           |
+| 13. duben 2018           | [Impact Hub Brno](https://www.hubbrno.cz/en/) | ?     | 8           | [Registrace](https://goo.gl/forms/1OPsuwd5m570Erwu2) |
 
-Další termíny na vyžádání.
+Další termíny a místa na vyžádání.
 
 ![Lukáš Bednařík]({{ site.url }}/assets/xp-fall.png)
 
