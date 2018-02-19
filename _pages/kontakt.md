@@ -21,7 +21,8 @@ Foto 2016.
 
 ### 2018
 
-- [Workshop eXtrémního programování](/sluzby) spuštěn veřejně
+- Uvádím první letošní [Agile Open Café](https://agilniasociace.cz/info/agile-open-cafe-brno-v-roce-2018/)
+- [Workshop eXtrémního programování](/sluzby) beží veřejně, termíny jsou vypsány
 
 ### 2017
 
