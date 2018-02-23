@@ -56,7 +56,7 @@ Jádro dobrých praktik tvoří párové programování, refaktoring a unit-test
 - refaktorizace kódu,
 - unit-testování.
 
-![XP Practices]({ site.url }}/assets/xp-practices.png)
+![XP Practices]({{ site.url }}/assets/xp-practices.png)
 
 XP je extrémní také v počtu zpětných vazeb:
 
