@@ -4,10 +4,11 @@ title: 'Metodiky vývoje softwaru'
 permalink: /metodiky
 ---
 
-Malá encyklopedie metodik vývoje softwaru. Na úvod jedna krátká úvaha, proč
-vás jeden framework nezachrání. (TODO - link)
+Malá encyklopedie metodik vývoje softwaru.
 
-## Agilní metodiky
+## Seznam metodik
+
+### Agilní metodiky
 
 - Kanban
 - Scrum
@@ -17,36 +18,41 @@ vás jeden framework nezachrání. (TODO - link)
 - [Extreme Programming (XP)](/extremni-programovani)
 - DevOps
 - Agile Unified Process (AUP)
-- [OpenUP](http://epf.eclipse.org/wikis/openup/)
+- [OpenUP](http://epf.eclipse.org/wikis/openup/) (externí odkaz)
 - Dynamic Systems Development Method (DSDM)
 - Joint Application Development (JAD)
 - Prototyping Model (PM)
 - Feature Driven Development (FDD)
+- [Agile Modeling (AM)](http://www.agilemodeling.com/) (externí odkaz)
+- Adaptive Software Development (ASD)
 
-## Škálované agilní metodiky
+### Škálované agilní metodiky
 
 - [Nexus](/nexus-framework)
-- Large Scale Scrum (LeSS)
-- [Disciplined Agile Delivery](http://www.disciplinedagiledelivery.com/) (DAD 2.0 / DA 2.0)
-- Scaled Agile Framework (SAFe)
+- [Large Scale Scrum (LeSS)](/lagre-scale-scrum) TODO
+- [Disciplined Agile Delivery (DAD 2.0 / DA 2.0)](http://www.disciplinedagiledelivery.com/) (externí odkaz)
+- [Scaled Agile Framework (SAFe)](/scaled-agile-framework) TODO
 - Scrum of Scrums (SoS)
-- XScale
-- Scrum@Scale
+- [XScale](http://xscalealliance.org) (externí odkaz)
+- [Scrum@Scale](https://www.scrumatscale.com/) (externí odkaz)
 
-## Klasické metodiky
+### Klasické metodiky
 
 - Waterfall
-- Spiral
+- V-Model
+- Spiral Development
 - Rapid Application Development (RAD)
 - Personal Software Process (PSP)
 - Rational Unified Process (RUP)
-- Enterprise Unified Process (EUP)
+- [Enterprise Unified Process (EUP)](http://enterpriseunifiedprocess.com/) (externí odkaz)
 
-## Ostatní
+### Filozofické směry
 
-- [Agile](/agile)
-- [Post-agilism](https://www.skorks.com/2008/10/are-you-actually-a-post-agilist/) / [Agnostic Agile](http://agnosticagile.org/)
-- Agile Modeling (AM)
+- [Agilní metodiky](/agile)
+- [Post-Agilism](/post-agilism) TODO
+
+### Parodie
+
 - Zombie Scrum
 
 ## Metodika, metoda nebo metodologie?
