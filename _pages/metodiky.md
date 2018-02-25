@@ -14,12 +14,13 @@ Malá encyklopedie metodik vývoje softwaru.
 - Scrum
 - Scrumban
 - Lean
+- DevOps
 - Crystal
 - [Extreme Programming (XP)](/extremni-programovani)
 - DevOps
 - Agile Unified Process (AUP)
 - [OpenUP](http://epf.eclipse.org/wikis/openup/) (externí odkaz)
-- Dynamic Systems Development Method (DSDM)
+- [Dynamic Systems Development Method (DSDM)](https://www.agilebusiness.org/resources/dsdm-handbooks/dsdm-atern-handbook-2008) (externí odkaz)
 - Joint Application Development (JAD)
 - Prototyping Model (PM)
 - Feature Driven Development (FDD)
@@ -43,8 +44,11 @@ Malá encyklopedie metodik vývoje softwaru.
 - Spiral Development
 - Rapid Application Development (RAD)
 - Personal Software Process (PSP)
+- Team Software Process (TSP)
+- Unified Process (UP)
 - Rational Unified Process (RUP)
 - [Enterprise Unified Process (EUP)](http://enterpriseunifiedprocess.com/) (externí odkaz)
+- Model-Driven Engineering (MDE)
 
 ### Filozofické směry
 
