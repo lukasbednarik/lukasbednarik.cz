@@ -9,4 +9,4 @@ Dnes proběhl první celodenní workshop extrémního programování. Workshop h
 šlo o testovací běh. Skupina vývojářů, která se zúčastnila, byla skvělá a nuda to rozhodně nebyla.
 
 Druhé kolo workhopu plánuji na duben. Opět využijeme krásné prostory
-brněnského Impact Hubu. Máte-li už teď zájem, napište mi. [Míst je jen 8!](/skoleni)
+brněnského Impact Hubu. Máte-li už teď zájem, napište mi. [Míst je jen 8!](/workshop-extremniho-programovani)

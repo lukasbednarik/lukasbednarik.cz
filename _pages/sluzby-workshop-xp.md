@@ -1,10 +1,8 @@
 ---
 layout: page
-title: 'Školení'
-permalink: /skoleni
+title: 'Workshop eXtrémního programování'
+permalink: /workshop-extremniho-programovani
 ---
-
-## Workshop eXtrémního programování
 
 - **Kapacita:** max 8 lidí na workshop
 - **Délka:** 1 den, 9:00 - 15:30
@@ -20,17 +18,9 @@ Další termíny, místa a programovací jazyky na vyžádání.
 
 ![Lukáš Bednařík]({{ site.url }}/assets/xp-fall.png)
 
-### Obsah
+## Obsah
 
-Původní Scrum využíval všechny praktiky extrémního programování (XP),
-ale Ken Schwaber přesvědčil Jeffa Sutherlanda, aby tyto praktiky ze Scrumu vynechal
-a sousředil se pouze na proces a organizaci týmu.
-Bez ověřených vývojářských praktik ale nelze dosáhout
-slibovaného nárůstu výkonnosti týmu. Cena za změnu
-požadavků v pozdní fázi projektu, kdy jsme nuceni bojovat s nepřehledným kódem,
-může být velmi vysoká.
-
-V tomto workshopu se zaměříme právě na tyto *best practices* agilního vývoje.
+V tomto workshopu se zaměříme na vývojářské *best practices* agilního vývoje.
 V praxi si vyzkoušíme TDD (test-driven development), unit-testování a párové programování
 v cyklu unit-test &rarr; implementace &rarr; refaktoring &rarr; unit-test. Vysvětlíme si,
 co je to stub, mock, seam a naučíme se psát unit-testy, které jsou udržovatelné,
@@ -39,7 +29,7 @@ důvěryhodné a čitelné.
 Mimo jiné se dozvíte, jak do sebe zapadá XP a Scrum, jak zavést XP ve Scrum frameworku,
 jak do sebe zapadají praktiky XP a v čem je jejich spojení vyjímečné.
 
-### Osnova
+## Osnova
 
 1. Historie Extrémního Programování (XP)
 1. Praktiky XP jako puzzle
@@ -65,7 +55,7 @@ jak do sebe zapadají praktiky XP a v čem je jejich spojení vyjímečné.
 1. Kvalita softwaru
 1. Nástroje a frameworky
 
-### Materiály
+## Materiály
 
 Prázdný projekt s nastaveným testovacím prostředím a dalšími instrukcemi naleznete v [GIT repozitáři](https://github.com/sand-dollar/clean-project):
 
