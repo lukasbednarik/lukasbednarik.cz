@@ -5,8 +5,8 @@ permalink: /sluzby
 ---
 
 Mým cílem není prodat, ale *podporovat*. V prvním kroku se snažím zjistit požadavky na školení od účastníků i zadavatele.
-Co je zajímá? Co si od školení slibují? Co by rádi i neradi? Co jim pomáhá? Na čem by rádi zapracovali?
-Následuje příprava školení “na míru”. Nesnažím se jen předat znalosti, ale naučit účastníky tomu, co jim pomůže v praxi.
+Co je zajímá? Co si od školení slibují? Co by rádi i neradi? Co jim pomáhá? Na čem by chtěli zapracovat?
+Následuje příprava *školení na míru*. Nesnažím se jen předat znalosti, ale naučit účastníky tomu, co jim pomůže v praxi.
 
 ## [Extrémní programování](/workshop-extremniho-programovani)
 
@@ -41,7 +41,7 @@ Agile není jen *proces*, ale také *mindset*. Mindset je způsob, jakým lidé 
 součástí firemní kultury. Na kurzu se dozvíte, proč je firemní kultura důležitá, jaké jsou typologie firemních kultur a
 jak může lídr kulturu pozitivně ovlivňovat.
 
-# Koučování
+# Konzultace
 
 Vývoj software má z pohledu vývojáře tři roviny: firemní kulturu, metodiku a praktiky vývoje.
 O všechny tři oblasti se aktivně zajímám a jsem schopen vám s nimi pomoci.
@@ -53,5 +53,6 @@ který bude ve vašich podmínkách fungovat.
 # Vývoj v C++ / Qt
 
 Nebojím se jít s kůží na trh a vést tým vývojářů příkladem. Mohu sednout k počítači a začít programovat
-skutečnou aplikaci v C++ / Qt. Mohu pomoci se zlepšením architektury programu, UML návrhem, nastavením projektu a
+skutečnou aplikaci v C++ / Qt. Mohu pomoci se zlepšením architektury programu, UML návrhem,
+průběžnou integrací, nastavením projektu a
 využíváním nejnovějších features standardu C++17.
