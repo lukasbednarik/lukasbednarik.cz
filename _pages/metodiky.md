@@ -6,6 +6,13 @@ permalink: /metodiky
 
 Malá encyklopedie metodik vývoje softwaru.
 
+{% comment %}
+Viz také historie: https://en.wikipedia.org/wiki/Software_development_process
+Super info!
+
+Kanban: https://scrumorg-website-prod.s3.amazonaws.com/drupal/2018-02/2018%20Kanban%20Guide%20for%20Scrum%20Teams.pdf
+{% endcomment %}
+
 ## Seznam metodik
 
 ### Agilní metodiky
