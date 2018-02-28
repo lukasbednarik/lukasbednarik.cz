@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Podcasty vám změní život
-tags: podcast
+tags: vzdělávání
 ---
 
 Podcasty vám [změní život jako máloco](http://www.pavelsima.cz/blog/nejlepsi-podcasty),
