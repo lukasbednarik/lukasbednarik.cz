@@ -75,9 +75,9 @@ Alistair Cockburn je jedním ze signatářů agilního manifestu a autor metodik
 
 Certifikáty ICAgile jsou rozděleny do třech úrovní:
 
-– Certified ICAgile Professional (stříbrný odznáček),
-– ICAgile Expert (zlatý odznáček),
-– Master Agilist (modrý odznáček).
+- Certified ICAgile Professional (stříbrný odznáček),
+- ICAgile Expert (zlatý odznáček),
+- Master Agilist (modrý odznáček).
 
 ![Certifikace ICAgile]({{ site.url }}/assets/icagile-certifications.png)
 
