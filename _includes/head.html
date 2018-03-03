@@ -33,4 +33,33 @@
 
   <!-- Google tracking code -->
   {% include google-analytics.html %}
+
+  <!-- Rotating gear -->
+  <script>
+    (function(window, document, undefined){
+    window.onload = init;
+    function init(){
+      ;(function() {  // Function for smoothing the rotation
+        var throttle = function(type, name, obj) {
+          var obj = obj || window;
+          var running = false;
+          var func = function() {
+            if (running) { return; }
+            running = true;
+            requestAnimationFrame(function() {
+              obj.dispatchEvent(new CustomEvent(name));
+              running = false;
+            });
+          };
+          obj.addEventListener(type, func);
+        };
+        throttle ("scroll", "optimizedScroll");
+      })();
+      var gear = document.getElementById("gear");
+      window.addEventListener("scroll", function() {
+        gear.style.transform = "rotate("+window.pageYOffset/50+"deg)";
+      });
+    }
+    })(window, document, undefined);
+  </script>
 </head>
