@@ -46,12 +46,6 @@ html {
   }
 }
 
-@media (min-width: 48em) and (max-height: 38em) {
-  .sidebar p {
-    display: none;
-  }
-}
-
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
