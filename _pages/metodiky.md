@@ -33,6 +33,7 @@ Kanban: https://scrumorg-website-prod.s3.amazonaws.com/drupal/2018-02/2018%20Kan
 - Feature Driven Development (FDD)
 - [Agile Modeling (AM)](http://www.agilemodeling.com/) (externí odkaz)
 - Adaptive Software Development (ASD)
+- [SEMAT](http://semat.org/home) (externí odkaz)
 
 ### Škálované agilní metodiky
 
@@ -60,11 +61,11 @@ Kanban: https://scrumorg-website-prod.s3.amazonaws.com/drupal/2018-02/2018%20Kan
 ### Filozofické směry
 
 - [Agilní metodiky](/agile)
-- [Post-Agilism](/post-agilism) TODO
+- [Post-Agile](/post-agile)
 
 ### Parodie
 
-- Zombie Scrum
+- [Zombie Scrum](https://blog.agilistic.nl/the-rise-of-zombie-scrum/) (externí odkaz)
 
 ## Metodika, metoda nebo metodologie?
 
