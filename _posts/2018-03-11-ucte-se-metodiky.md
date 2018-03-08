@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Encyklopedie metodik
+title: Učte se metodiky
 tags: metodiky agile
 ---
 
@@ -9,7 +9,7 @@ tags: metodiky agile
 Jedním ze základních požadavků na Agilního kouče by měla být znalost více metodik
 vývoje software. Vždyť ani Scrum není process nebo technika, je to framework.
 Scrum pomáhá lidem efektivně přistupovat k řešení komplexních problémů.
-Příručka Scrumu uvádí, že Scrum může sloužit jako obálka dalších praktik,
+Příručka Scrumu říká, že Scrum může sloužit jako obálka dalších praktik,
 technik nebo metodik. Jak ale můžeme efektivně využívat Scrum, když jediné,
 co známe, je Scrum? Jak najít efektivní proces spojující Scrum a další metodiky,
 když žádné další metodiky neznáme?
@@ -32,7 +32,7 @@ ani jemu se v jeho podmínkách nepodařilo vše stoprocentně nasadit.
 Samotný Jeff Sutherland ve své knize popisuje, jak Scrum zachránil
 refaktoring databáze FBI, ale viděli jste vy sami někdy *čistý Scrum*
 na vlastní oči? Existuje vůbec čistý Scrum (kromě Scrumu Jeffa Sutherlanda)?
-Existuje čistý člověk bez viny?
+A existuje čistý člověk bez viny?
 
 U všech metodik platí: Nejprve se učte, pak adaptujte.
 Říkají to zastánci Extrémního programování, říkají to zastánci Scrumu.
@@ -42,7 +42,5 @@ dokáže nebo nedokáže. Až následně můžeme adaptovat.
 ## Encyklopedie metodik
 
 Slovem *adaptovat* se dostáváme opět na začátek článku. Potřebujeme znát
-také jiné metodiky. Nedávno jsem rozjel velký projekt: [encyklopedii metodik](/metodiky).
-Budete-li mě podezírat, že nepíšu články, možná právě studuji některou metodiku.
-Možná za rok, možná později, bude encyklopedie kompletní. Zatím odkazovanou
-stránku vnímejte jen jako nezkontrolovanou rozpracovanou verzi.
+také jiné metodiky. Nedávno jsem rozjel velký projekt: encyklopedii metodik.
+Budete-li mě podezírat, že nepíšu články, možná právě studuji některou metodiku :)
