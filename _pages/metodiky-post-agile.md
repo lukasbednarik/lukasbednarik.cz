@@ -46,6 +46,8 @@ dnešní komerční *Agile* neklade takový důraz na přístup lidí k lidem a 
 který Agilní framework je nejlepší. (Například: "Scrum je nejlepší, nechte se certifikovat!"
 "My děláme XP, jsme víc než jakýkoliv Scrum tým." Atd.)
 
+## Kritika
+
 Kritika spojení "post-Agile" je dvojí. Jednak některé praktiky spoulu rezonují
 lépe než jiné. Najít správnou kombinaci může být obtížné a celek (metodika) je více
 než jen suma částí (praktik). Vytvoření efektivní metodiky na základě elementárních

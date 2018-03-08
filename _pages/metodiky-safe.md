@@ -18,7 +18,9 @@ This is one way its different from Nexus, as Nexus is only Scrum.
 
 
 
+## Kritika
 
+Role SM v SAFe spíše připomíná team lídra nad kterým je ještě "master SM" nebo tak nějak.
 
 
 - [Zpět na: Přehled metodik](/metodiky)
