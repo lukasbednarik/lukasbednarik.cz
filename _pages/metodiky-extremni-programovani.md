@@ -91,4 +91,15 @@ XP sympatizuje s pěti základními hodnotami:
 - odvaha,
 - zpětná vazba.
 
+## Kritika
+
+Zastánci XP kladou důraz na párové programování a vývoj způsobem  *test firts*,
+což jsou praktiky, které nevyhovují každému.
+Párové programování je samo o sobě relativně kontroverzní,
+protože jeho efektivnost velmi závisí na dobrém zvládnutí, praxi a konkrétních lidech.
+
+## Certifikace
+
+Za XP stojí komunita lidí a neexistuje žádná dominantní certifikační autorita.
+
 - [Zpět na: Přehled metodik](/metodiky)
