@@ -4,7 +4,7 @@ title: Učte se metodiky
 tags: metodiky agile
 ---
 
-## Jedny body nepasují všem
+## Jedny boty nepasují všem
 
 Jedním ze základních požadavků na Agilního kouče by měla být znalost více metodik
 vývoje software. Vždyť ani Scrum není process nebo technika, je to framework.
@@ -32,7 +32,7 @@ ani jemu se v jeho podmínkách nepodařilo vše stoprocentně nasadit.
 Samotný Jeff Sutherland ve své knize popisuje, jak Scrum zachránil
 refaktoring databáze FBI, ale viděli jste vy sami někdy *čistý Scrum*
 na vlastní oči? Existuje vůbec čistý Scrum (kromě Scrumu Jeffa Sutherlanda)?
-A existuje čistý člověk bez viny?
+A existuje čistý člověk?
 
 U všech metodik platí: Nejprve se učte, pak adaptujte.
 Říkají to zastánci Extrémního programování, říkají to zastánci Scrumu.
