@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Učte se metodiky
+title: Tisíce metodik
 tags: metodiky agile
 ---
 
@@ -43,4 +43,4 @@ dokáže nebo nedokáže. Až následně můžeme adaptovat.
 
 Slovem *adaptovat* se dostáváme opět na začátek článku. Potřebujeme znát
 také jiné metodiky. Nedávno jsem rozjel velký projekt: encyklopedii metodik.
-Budete-li mě podezírat, že nepíšu články, možná právě studuji některou metodiku :)
+Doufám, že do roka bude encyklopedie spuštěna oficiálně.
