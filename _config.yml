@@ -9,7 +9,7 @@ permalink:        /:title/
 include:          ["_pages"]
 url:              'http://lukasbednarik.cz'
 baseurl:          '/'
-paginate:         5
+paginate:         11
 future:           false
 
 title:            'Lukáš Bednařík'
@@ -18,5 +18,5 @@ author:
   email:          'lukas@lukasbednarik.cz'
 description:      'No Scrum bullshit ...ale spokojení lidé a kvalitní produkt.'
 seo:
-  description:    'Praktiky, kultury a metodiky vývoje software. No Scrum bullshit ...ale spokojení lidé a kvalitní produkt.'
+  description:    'Praktiky a metodiky vývoje software. No Scrum bullshit ...ale spokojení lidé a kvalitní produkt.'
   keywords:       'firemní kultury,praktiky,metodiky,vývoj software,školení,extrémní programování,workshop'

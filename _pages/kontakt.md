@@ -9,7 +9,7 @@ permalink: /kontakt
 - Vývoj: [GitHub](https://github.com/sand-dollar), [StackOverflow](http://stackoverflow.com/users/4734434/luk%C3%A1%C5%A1-bedna%C5%99%C3%ADk)
 - Bydlište: Brno
 
-> *Praktiky a metodiky vývoje software, firemní kultury.
+> *Praktiky a metodiky vývoje software.
 > Nepreferuji Scrum.
 > Jakákoliv metodika, která řeší problémy vaší firemní kultury, může být úspěšná.*
 

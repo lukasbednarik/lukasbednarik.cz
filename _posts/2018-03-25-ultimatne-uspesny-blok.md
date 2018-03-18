@@ -20,9 +20,9 @@ nějaká zlepšení. Ale snažím se psát, neprogramovat.
 
 Jeff Atwood ([Coding Horror](https://blog.codinghorror.com)), autor jednoho z nejnavštěvovanějších
 developerských blogů, popsal [jediný krok](https://blog.codinghorror.com/how-to-achieve-ultimate-blog-success-in-one-easy-step/),
-který je nutný k dosažení ultimátního blogového úspěchu. V tomto mu plně věřím,
+který je nutný k dosažení ultimátního blogového úspěchu. V tomto mu plně věřím -
 stačí jen jedna věc.
 
 Po roce blogování bych se chtěl posunout dál. Psát častěji než každých 14 dní
 (fajn, kadenci Coding Horror 6 článků do týdne nezvládám). Psaní mě již nebolí,
-je to dokonce fajn relax a témat mám spousty. Jo, chtělo to rok. První rok je nejtěžší.
+je to dokonce fajn relax a témat mám spousty. Jo, chtělo to rok. První rok je těžký.
