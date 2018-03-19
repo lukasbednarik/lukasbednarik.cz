@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Proč nejsem CEO
+title: Proč nebýt CEO
 tags: život
 ---
 
