@@ -4,8 +4,10 @@ title: 'Kontakt'
 permalink: /kontakt
 ---
 
-- Mobil: 723 759 530
-- Email: <a href="mailto:lukas@lukasbednarik.cz" target="_top">lukas@lukasbednarik.cz</a>
+## Informace
+
+- Mobil: [723 759 530](tel:+420723759530)
+- Email: [lukas@lukasbednarik.cz](mailto:lukas@lukasbednarik.cz)
 - Přidejte si mě na sociálních sítích
   - [LinkedIn](https://cz.linkedin.com/in/lukasbednarik)
   - [Facebook](https://www.facebook.com/p43uD)
@@ -20,7 +22,7 @@ Další [informace o mně](/o-mne) najdete na samostatné stránce.
 
 <form id="contact" action="https://formspree.io/lukas@lukasbednarik.cz" method="POST">
   <fieldset>
-    <input placeholder="Jméno" type="text" name="name" tabindex="1" required autofocus>
+    <input placeholder="Jméno" type="text" name="name" tabindex="1" required>
   </fieldset>
   <fieldset>
     <input placeholder="Email" type="email" name="_replyto" tabindex="2" required>
@@ -29,7 +31,9 @@ Další [informace o mně](/o-mne) najdete na samostatné stránce.
     <textarea placeholder="Jak vám můžu pomoci?" name="message" tabindex="3" required></textarea>
   </fieldset>
   <fieldset>
-    <button name="submit" type="submit" id="contact-submit" data-submit="...Odesílám">Odeslat email</button>
+    <button name="submit" type="submit" id="contact-submit" data-submit="...Odesílám" tabindex="4">Odeslat email</button>
   </fieldset>
 </form>
+
+
 
