@@ -12,7 +12,7 @@ permalink: /workshop-extremniho-programovani
 | Termíny                  | Prostor                                       | Jazyk | Poznámky      |
 |:------------------------ |:--------------------------------------------- |:-----:|:--------------|
 | ~~2. únor 2018~~         | [Impact Hub Brno](https://www.hubbrno.cz/en/) | Java  | Plně obsazeno |
-| 13. duben 2018           | [Impact Hub Brno](https://www.hubbrno.cz/en/) | Java  | [Registrovat](https://goo.gl/forms/1OPsuwd5m570Erwu2){:target="_blank"} |
+| 18. květen 2018          | [Impact Hub Brno](https://www.hubbrno.cz/en/) | Java  | [Registrovat](https://goo.gl/forms/1OPsuwd5m570Erwu2){:target="_blank"} |
 
 Další termíny, místa a programovací jazyky na vyžádání.
 
