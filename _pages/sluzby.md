@@ -4,24 +4,30 @@ title: 'Školení'
 permalink: /sluzby
 ---
 
-Mým cílem není prodat, ale *podporovat*. V prvním kroku se snažím zjistit požadavky na školení od účastníků i zadavatele.
+## Školení na míru
+
+Mým cílem není prodat, ale *podporovat*.
+V prvním kroku se snažím zjistit požadavky na školení od účastníků i zadavatele.
 Co je zajímá? Co si od školení slibují? Co by rádi i neradi? Co jim pomáhá? Na čem by chtěli zapracovat?
 Následuje příprava *školení na míru*. Nesnažím se jen předat znalosti, ale naučit účastníky tomu, co jim pomůže v praxi.
+
+Téma školení se může týkat praktik, metodik nebo agilního vývoje obecně.
+Pro informaci o ceně mě prosím [kontaktujte](/kontakt).
 
 ## [Extrémní programování](/workshop-extremniho-programovani)
 
 Zavedli jste agilní vývoj, ale na rychlosti dokončování projektů se to příliš neprojevilo?
 Možná jen nemáte v týmu ty správné vývojářské praktiky. Možná je problém ve vaší codebase.
 
+![Workshop XP]({{ site.url }}/assets/workshop-java-3a.jpg)
+
+[Workshop extrémního programování](/workshop-extremniho-programovani) je určený pro vývojáře a jejich Scrum Mastery nebo tým lídry.
+
 První Scrum využíval všechny praktiky extrémního programování. Snad proto byl tak úspěšný.
 Ken Schwaber později přesvědčil Jeffa Sutherlanda,
 aby tyto praktiky ze Scrumu vynechal a sousředil se pouze na proces a organizaci týmu.
 Bez ověřených vývojářských praktik a jejich vhodné kombinace
 ale nelze dosáhout Scrumem slibovaného nárůstu výkonnosti týmu.
-
-[Workshop extrémního programování](/workshop-extremniho-programovani) je určený pro vývojáře a jejich Scrum Mastery nebo tým lídry.
-
-![Workshop XP]({{ site.url }}/assets/workshop-java-3a.jpg)
 
 Workshopem vás provede extrémní programátor a
 signatář [software craftmanship manifesta](http://manifesto.softwarecraftsmanship.org).
@@ -34,12 +40,6 @@ Unit testování je klíčová praktika extrémního programování (a ve worksh
 Unit testy nejen že snižují počet defektů, ale přispívají ke správnému designu kódu. Ačkoliv mnoho vývojářů píše unit testy,
 jen velmi málo lidí umí psát dobré unit testy. Dobré testy jsou jednoduché, rychlé, nezávislé, čitelné, plně automatické
 a znovupoužitelné.
-
-## Firemní kultura
-
-Agile není jen *proces*, ale také *mindset*. Mindset je způsob, jakým lidé uvažují, řeší své problémy a je neodmyslitelnou
-součástí firemní kultury. Na kurzu se dozvíte, proč je firemní kultura důležitá, jaké jsou typologie firemních kultur a
-jak může lídr kulturu pozitivně ovlivňovat.
 
 # Konzultace
 
