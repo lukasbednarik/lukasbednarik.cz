@@ -9,10 +9,10 @@ permalink: /workshop-extremniho-programovani
 - **Jazyk:** C++ nebo Java
 - **Zaváděcí cena:** 600 Kč
 
-| Termíny                  | Prostor                                       | Jazyk | Volná místa | Registrace |
-|:------------------------ |:--------------------------------------------- |:-----:|:-----------:|:----------:|
-| ~~2. únor 2018~~         | [Impact Hub Brno](https://www.hubbrno.cz/en/) | Java  | obsazeno    | -          |
-| 13. duben 2018           | [Impact Hub Brno](https://www.hubbrno.cz/en/) | Java  | 8           | [Registrace](https://goo.gl/forms/1OPsuwd5m570Erwu2){:target="_blank"} |
+| Termíny                  | Prostor                                       | Jazyk | Poznámky      |
+|:------------------------ |:--------------------------------------------- |:-----:|:--------------|
+| ~~2. únor 2018~~         | [Impact Hub Brno](https://www.hubbrno.cz/en/) | Java  | Plně obsazeno |
+| 13. duben 2018           | [Impact Hub Brno](https://www.hubbrno.cz/en/) | Java  | [Registrovat](https://goo.gl/forms/1OPsuwd5m570Erwu2){:target="_blank"} |
 
 Další termíny, místa a programovací jazyky na vyžádání.
 
