@@ -4,7 +4,7 @@ title: 'Školení'
 permalink: /sluzby
 ---
 
-## [Extrémní programování](/workshop-extremniho-programovani)
+## Extrémní programování
 
 Zavedli jste agilní vývoj, ale na rychlosti dokončování projektů se to příliš neprojevilo?
 Možná jen nemáte v týmu ty správné vývojářské praktiky. Možná je problém ve vaší codebase.
