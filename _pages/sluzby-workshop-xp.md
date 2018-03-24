@@ -25,7 +25,6 @@ jak do sebe zapadají praktiky XP a v čem je jejich spojení vyjímečné.
 
 Workshopem vás provede extrémní programátor a
 signatář [software craftmanship manifesta](http://manifesto.softwarecraftsmanship.org).
-[Prohlédněte si detaily a termíny.](/workshop-extremniho-programovani)
 
 ## Osnova
 
