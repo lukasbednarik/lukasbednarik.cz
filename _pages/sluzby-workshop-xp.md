@@ -8,16 +8,7 @@ permalink: /workshop-extremniho-programovani
 - **Délka:** 1 den, 9:00 - 15:30
 - **Jazyk:** C++ nebo Java
 - **Zaváděcí cena:** 800 Kč
-
-| Termíny                  | Prostor                                       | Jazyk | Poznámky      |
-|:------------------------ |:--------------------------------------------- |:-----:|:--------------|
-| ~~2. únor 2018~~         | [Impact Hub Brno](https://www.hubbrno.cz/en/) | Java  | Plně obsazeno |
-| 27. duben 2018           | [Impact Hub Brno](https://www.hubbrno.cz/en/) | Java  | [Registrovat](https://goo.gl/forms/1OPsuwd5m570Erwu2){:target="_blank"} |
-| 6. září 2018             | [Impact Hub Brno](https://www.hubbrno.cz/en/) | C++   | [Registrovat](https://goo.gl/forms/1OPsuwd5m570Erwu2){:target="_blank"} |
-
-Další termíny, místa a programovací jazyky na vyžádání.
-
-![Lukáš Bednařík]({{ site.url }}/assets/xp-fall.png)
+- **Registrace:** [Chci to!](https://goo.gl/forms/1OPsuwd5m570Erwu2){:target="_blank"}
 
 ## Obsah
 
@@ -27,8 +18,14 @@ v cyklu unit-test &rarr; implementace &rarr; refaktoring &rarr; unit-test. Vysv�
 co je to stub, mock, seam a naučíme se psát unit-testy, které jsou udržovatelné,
 důvěryhodné a čitelné.
 
+![Lukáš Bednařík]({{ site.url }}/assets/xp-fall.png)
+
 Mimo jiné se dozvíte, jak do sebe zapadá XP a Scrum, jak zavést XP ve Scrum frameworku,
 jak do sebe zapadají praktiky XP a v čem je jejich spojení vyjímečné.
+
+Workshopem vás provede extrémní programátor a
+signatář [software craftmanship manifesta](http://manifesto.softwarecraftsmanship.org).
+[Prohlédněte si detaily a termíny.](/workshop-extremniho-programovani)
 
 ## Osnova
 

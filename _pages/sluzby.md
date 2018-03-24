@@ -4,6 +4,24 @@ title: 'Školení'
 permalink: /sluzby
 ---
 
+## [Extrémní programování](/workshop-extremniho-programovani)
+
+Zavedli jste agilní vývoj, ale na rychlosti dokončování projektů se to příliš neprojevilo?
+Možná jen nemáte v týmu ty správné vývojářské praktiky. Možná je problém ve vaší codebase.
+
+Workshop extrémního programování je určený pro vývojáře a jejich Scrum Mastery nebo tým lídry.
+&nbsp;[&rarr; Cena, osnova, materiály a podrobnosti.](/workshop-extremniho-programovani)
+
+![Workshop XP]({{ site.url }}/assets/workshop-java-3a.jpg)
+
+| Termíny                  | Prostor                                       | Jazyk | Poznámky      |
+|:------------------------ |:--------------------------------------------- |:-----:|:--------------|
+| ~~2. únor 2018~~         | [Impact Hub Brno](https://www.hubbrno.cz/en/) | Java  | Plně obsazeno |
+| 27. duben 2018           | [Impact Hub Brno](https://www.hubbrno.cz/en/) | Java  | [Registrovat](https://goo.gl/forms/1OPsuwd5m570Erwu2){:target="_blank"} |
+| 6. září 2018             | [Impact Hub Brno](https://www.hubbrno.cz/en/) | C++   | [Registrovat](https://goo.gl/forms/1OPsuwd5m570Erwu2){:target="_blank"} |
+
+Další termíny, místa a programovací jazyky [na vyžádání](/kontakt).
+
 ## Školení na míru
 
 Mým cílem není prodat, ale *podporovat*.
@@ -13,25 +31,6 @@ Následuje příprava *školení na míru*. Nesnažím se jen předat znalosti, 
 
 Téma školení se může týkat praktik, metodik nebo agilního vývoje obecně.
 Pro informaci o ceně mě prosím [kontaktujte](/kontakt).
-
-## [Extrémní programování](/workshop-extremniho-programovani)
-
-Zavedli jste agilní vývoj, ale na rychlosti dokončování projektů se to příliš neprojevilo?
-Možná jen nemáte v týmu ty správné vývojářské praktiky. Možná je problém ve vaší codebase.
-
-![Workshop XP]({{ site.url }}/assets/workshop-java-3a.jpg)
-
-[Workshop extrémního programování](/workshop-extremniho-programovani) je určený pro vývojáře a jejich Scrum Mastery nebo tým lídry.
-
-První Scrum využíval všechny praktiky extrémního programování. Snad proto byl tak úspěšný.
-Ken Schwaber později přesvědčil Jeffa Sutherlanda,
-aby tyto praktiky ze Scrumu vynechal a sousředil se pouze na proces a organizaci týmu.
-Bez ověřených vývojářských praktik a jejich vhodné kombinace
-ale nelze dosáhout Scrumem slibovaného nárůstu výkonnosti týmu.
-
-Workshopem vás provede extrémní programátor a
-signatář [software craftmanship manifesta](http://manifesto.softwarecraftsmanship.org).
-[Prohlédněte si detaily a termíny.](/workshop-extremniho-programovani)
 
 {% comment %} 
 ## Unit testing
