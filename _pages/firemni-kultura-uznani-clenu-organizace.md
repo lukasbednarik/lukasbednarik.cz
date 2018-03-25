@@ -1,7 +1,8 @@
 ---
 layout: page
-title: 'Firemní kultura: Uznání členů organizace'
+title: 'Uznání členů organizace'
 permalink: /firemni-kultura-uznani-clenu-organizace
+parent: /firemni-kultura
 ---
 
 Je oceňován osobní výkon, týmový výkon nebo relativní výkon vůči někomu?

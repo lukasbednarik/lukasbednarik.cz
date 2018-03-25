@@ -1,7 +1,8 @@
 ---
 layout: page
-title: 'Firemní kultura: Organizace lidí'
+title: 'Organizace lidí'
 permalink: /firemni-kultura-organizace-lidi
+parent: /firemni-kultura
 ---
 
 Roger Harrison a Charles Handy rozdělili už v roce 1972 firemní kultury na základě způsobu organizace lidí.

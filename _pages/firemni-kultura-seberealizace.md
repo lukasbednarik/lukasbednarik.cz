@@ -1,7 +1,8 @@
 ---
 layout: page
-title: 'Firemní kultura: Seberealizace'
+title: 'Seberealizace'
 permalink: /firemni-kultura-seberealizace
+parent: /firemni-kultura
 ---
 
 > Seberealizace je instinktivní potřeba naplnit své schopnosti a snaha být nejlepším jakým jen člověk může být.

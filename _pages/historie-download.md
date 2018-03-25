@@ -2,6 +2,7 @@
 layout: page
 title: 'Download'
 permalink: /download-rebelska-historie-vyvoje-softwaru
+parent: /knihy
 ---
 
 Link ke stažení knihy vám bude zaslán na email automaticky.

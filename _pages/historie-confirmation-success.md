@@ -2,6 +2,7 @@
 layout: page
 title: 'Email ověřen'
 permalink: /confirmation-success
+parent: /knihy
 ---
 
 Vaše emailová adresa byla ověřena. Uf, dalo to práci.

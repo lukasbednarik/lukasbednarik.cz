@@ -1,7 +1,8 @@
 ---
 layout: page
-title: 'Firemní kultura: Kompetence'
+title: 'Kompetence'
 permalink: /firemni-kultura-kompetence
+parent: /firemni-kultura
 ---
 
 Rozdělení z hlediska toho, mají-li zaměstnanci dostatečný přehled k samostatnému plnění zadaných úkolů.

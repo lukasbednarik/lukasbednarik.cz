@@ -2,6 +2,7 @@
 layout: page
 title: 'Ego stránka'
 permalink: /o-mne
+parent: /kontakt
 ---
 
 Kontaktní informace naleznete na stránce [kontakt](/kontakt).

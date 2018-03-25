@@ -619,6 +619,26 @@ a.sidebar-nav-item:focus {
   }
 }
 
+#path {
+    display: none;
+    margin-left: 19rem;
+}
+
+@media (min-width: 48em) {
+  #path {
+    max-width: 40rem;
+    margin-right: 2rem;
+    display: block;
+  }
+}
+
+@media (min-width: 64em) {
+  #path {
+    margin-right: 4rem;
+    display: block;
+  }
+}
+
 /* Custom theme espresso
  * Test at: https://coolors.co/
  */
@@ -636,6 +656,7 @@ a.sidebar-nav-item:focus {
   background-color: #3C1414;
 }
 .content a,
+#path a,
 .related-posts li a:hover {
   /*color: #682323;*/
   color: #3C8BD2;

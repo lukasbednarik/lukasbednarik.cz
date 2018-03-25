@@ -1,7 +1,8 @@
 ---
 layout: page
-title: 'Firemní kultura: Sdílení informací'
+title: 'Sdílení informací'
 permalink: /firemni-kultura-sdileni-informaci
+parent: /firemni-kultura
 ---
 
 Člověk ze své podstaty potřebuje vědět, co se děje. Pátá příčka Maslowy pyramidy potřeb jsou kognitivní

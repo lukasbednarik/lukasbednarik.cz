@@ -2,6 +2,7 @@
 layout: page
 title: 'Workshop eXtrémního programování'
 permalink: /workshop-extremniho-programovani
+parent: /sluzby
 ---
 
 - **Kapacita:** max 8 lidí na workshop

@@ -7,6 +7,18 @@
 
     {% include sidebar.html %}
 
+    <div id="path">
+      <a href="/">Home</a>
+      {%- if page.parent != '' -%}
+        {%- for parent in site.pages -%}{%- if parent.url == page.parent -%}
+          &nbsp;/ <a href="{{ parent.url }}">{{ parent.title }}</a>
+        {%- endif -%}{%- endfor -%}
+      {%- endif -%}
+      {%- if page.url != '/' -%}
+        &nbsp;/ <a href="{{ page.url }}">{{ page.title }}</a>
+      {%- endif -%}
+    </div>
+
     <div class="content container">
       {{ content }}
     </div>

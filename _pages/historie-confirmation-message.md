@@ -2,6 +2,7 @@
 layout: page
 title: 'Téměř hotovo...'
 permalink: /confirmation-message
+parent: /knihy
 ---
 
 Potřebujeme ještě potvrdit vaši emailovou adresu.
