@@ -31,6 +31,9 @@ Další [informace o mně](/o-mne) najdete na samostatné stránce.
     <textarea placeholder="Jak vám můžu pomoci?" name="message" tabindex="3" required></textarea>
   </fieldset>
   <fieldset>
+    <input type="text" name="_gotcha" style="display:none" />
+    <input type="hidden" name="_next" value="/email-uspesne-odeslan" />
+    <input type="hidden" name="_language" value="cs" />
     <button name="submit" type="submit" id="contact-submit" data-submit="...Odesílám" tabindex="4">Odeslat email</button>
   </fieldset>
 </form>
