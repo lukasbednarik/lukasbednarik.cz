@@ -7,3 +7,5 @@ parent: /kontakt
 
 Váš email byl úspěšně odeslán. Můžete se vrátit na stránku
 [kontaktů](/kontakt) nebo pokračovat na [index](/).
+
+![Email odeslán]({{ site.url }}/assets/email-odeslan.jpg)
