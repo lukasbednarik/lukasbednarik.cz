@@ -70,5 +70,5 @@ přímo říká: *Žádné unit testy jsou lepší než špatné unit testy.*
 Donutíte-li dělat TDD tým, který to neumí, je to horší, než kdyby žádné testy nepsali.
 A vývojáři obvykle ani nevědí, že dělají něco špatně.
 
-Podobně bych mohl pokražovat s dalšími agilními praktikami, jejichž povrchní pochopení
+Podobně bych mohl pokračovat s dalšími agilními praktikami, jejichž povrchní pochopení
 produktu nepomůže. Proto se koučové specializují.
