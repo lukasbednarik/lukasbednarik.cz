@@ -677,6 +677,7 @@ a.sidebar-nav-item:focus {
 #path {
     display: none;
     margin-left: 19rem;
+    font-size: 0.8rem;
 }
 
 @media (min-width: 48em) {
