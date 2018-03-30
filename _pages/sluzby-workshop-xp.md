@@ -9,7 +9,7 @@ parent: /sluzby
 - **Délka:** 1 den, 9:00 - 15:30
 - **Jazyk:** C++ nebo Java
 - **Zaváděcí cena:** 800 Kč
-- **Registrace:** [Chci to!](/workshop-extremniho-programovani-rezervace)
+- **Rezervace:** [Chci to!](/workshop-extremniho-programovani-rezervace)
 
 ## Obsah
 

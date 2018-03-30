@@ -12,7 +12,7 @@ Hlavní problém při blogování pro programátora je vydržet *nekódovat*,
 ale psát. V průběhu několika posledních let jsem zkoušel různé blogovací
 platformy ([Kirby](https://getkirby.com/), Ghost), ale žádná mi plně nevyhovovala. Upravoval jsem design,
 javascript a nakonec si dokonce zkusil napsat [vlastní CMS](https://github.com/sand-dollar/ixCMS),
-což byla pro vývojáře jasná ~~volba~~ cesta do pekel. Nakonec mě nejvíce zaujal [Jekill](https://jekyllrb.com/)
+což byla pro vývojáře jasná ~~volba~~ cesta do pekel. Nakonec mě nejvíce zaujal [Jekyll](https://jekyllrb.com/)
 hostovaný přímo na GitHub.com. Nedávno jsem zjistil, že pro neprogramátory a odpůrce Gitu existuje
 služba [Forestry](https://forestry.io/), která dělá commity za vás.
 Váš web na GitHubu může být od webu s plnohodnotným CMS k nerozeznání
