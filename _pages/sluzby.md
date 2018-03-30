@@ -17,8 +17,8 @@ Workshop extrémního programování je určený pro vývojáře a jejich Scrum 
 | Termíny                  | Prostor                                       | Jazyk | Poznámky      |
 |:------------------------ |:--------------------------------------------- |:-----:|:--------------|
 | ~~2. únor 2018~~         | [Impact Hub Brno](https://www.hubbrno.cz/en/) | Java  | Plně obsazeno |
-| 27. duben 2018           | [Impact Hub Brno](https://www.hubbrno.cz/en/) | Java  | [Registrovat](https://goo.gl/forms/1OPsuwd5m570Erwu2){:target="_blank"} |
-| 6. září 2018             | [Impact Hub Brno](https://www.hubbrno.cz/en/) | C++   | [Registrovat](https://goo.gl/forms/1OPsuwd5m570Erwu2){:target="_blank"} |
+| 27. duben 2018           | [Impact Hub Brno](https://www.hubbrno.cz/en/) | Java  | [Registrovat](/workshop-extremniho-programovani-rezervace) |
+| 6. září 2018             | [Impact Hub Brno](https://www.hubbrno.cz/en/) | C++   | [Registrovat](/workshop-extremniho-programovani-rezervace) |
 
 Další termíny, místa a programovací jazyky [na vyžádání](/kontakt).
 

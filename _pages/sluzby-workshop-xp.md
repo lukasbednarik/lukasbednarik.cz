@@ -9,7 +9,7 @@ parent: /sluzby
 - **Délka:** 1 den, 9:00 - 15:30
 - **Jazyk:** C++ nebo Java
 - **Zaváděcí cena:** 800 Kč
-- **Registrace:** [Chci to!](https://goo.gl/forms/1OPsuwd5m570Erwu2){:target="_blank"}
+- **Registrace:** [Chci to!](/workshop-extremniho-programovani-rezervace)
 
 ## Obsah
 
@@ -55,10 +55,12 @@ signatář [software craftmanship manifesta](http://manifesto.softwarecraftsmans
 
 ## Materiály
 
-Prázdný projekt s nastaveným testovacím prostředím a dalšími instrukcemi naleznete v [GIT repozitáři](https://github.com/sand-dollar/clean-project):
+Prázdný projekt s nastaveným testovacím prostředím a dalšími instrukcemi
+naleznete v [GIT repozitáři](https://github.com/sand-dollar/clean-project):
 
 ```
 git clone https://github.com/sand-dollar/clean-project
 ```
 
-Na workshop je nutné si přinést svůj notebook a **předem si vyzkoušet**, že jste schopni projekt zkompilovat.
+Na workshop je nutné si přinést svůj notebook a **předem si vyzkoušet**,
+že jste schopni projekt zkompilovat.

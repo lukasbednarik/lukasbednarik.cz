@@ -510,6 +510,61 @@ fieldset {
  color:#888;
 }
 
+/* Radio button for form */
+
+/* The container */
+.btncontainer {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/* Hide the browser's default radio button */
+.btncontainer input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+}
+
+/* Create a custom radio button */
+.checkmark {
+    position: absolute;
+    top: 4px;
+    left: 2px;
+    height: 22px;
+    width: 22px;
+    background-color: #ddd;
+    border-radius: 50%;
+}
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+
+/* Show the indicator (dot/circle) when checked */
+.btncontainer input:checked ~ .checkmark:after {
+    display: block;
+}
+
+/* Style the indicator (dot/circle) */
+.btncontainer .checkmark:after {
+ 	top: 7px;
+	left: 7px;
+	width: 8px;
+	height: 8px;
+	border-radius: 50%;
+	background: white;
+}
+
 /*** HYDE THEME ***/
 
 /*
@@ -644,22 +699,16 @@ a.sidebar-nav-item:focus {
  */
 
 
-#contact button {
-	background:#3C8BD2;
+#contact button, .btncontainer input:checked ~ .checkmark {
+	background-color: #3C8BD2;
 }
 
-#contact button:hover {
-	background-color:#3C1414;
-}
-
-.sidebar {
-  background-color: #3C1414;
-}
-.content a,
-#path a,
-.related-posts li a:hover {
-  /*color: #682323;*/
+.content a, #path a, .related-posts li a:hover {
   color: #3C8BD2;
+}
+
+#contact button:hover, .sidebar, .btncontainer:hover input ~ .checkmark {
+	background-color: #3C1414;
 }
 
 /* If theme color is blue, change header color back to black :) */
