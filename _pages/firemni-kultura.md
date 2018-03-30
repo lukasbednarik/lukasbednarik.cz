@@ -2,6 +2,7 @@
 layout: page
 title: 'Firemní kultura'
 permalink: /firemni-kultura
+parent: /projekty
 ---
 
 > Kultura je systém všech významů, činností a vzorců chování, které nejsou člověku vrozené.
