@@ -1,5 +1,6 @@
 # Témata
 
+- má smysl se učit C++ v 2018? (https://www.youtube.com/watch?v=7xVrYnyQ04M) - jaký typ práce chcete dělat?
 - viz notes/principy.md notes/procesy.md -> použít jako podklady pro nové články
 - kultury dle weinberga
 - highlights z Knihy o kanbanu
