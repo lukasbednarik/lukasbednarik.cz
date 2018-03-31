@@ -523,6 +523,7 @@ fieldset {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
+    overflow: hidden;
 }
 
 /* Hide the browser's default radio button */
