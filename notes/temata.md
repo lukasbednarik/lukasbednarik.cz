@@ -1,6 +1,6 @@
 # Témata
 
-- pohovory v iXperta (není co zlepšovat, staré otázky)
+- "Kanban tabule" - vyhledávané. Udělat přehled kanban tabulí jako v http://leankanban.com/patterns-of-kanban-maturity/
 - viz notes/principy.md notes/procesy.md -> použít jako podklady pro nové články
 - kultury dle weinberga
 - highlights z Knihy o kanbanu
