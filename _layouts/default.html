@@ -8,7 +8,7 @@
     {% include sidebar.html %}
 
     <div id="path">
-      <a href="/">Home</a>
+      <a href="/">Domů</a>
       {%- if page.parent != '' -%}
         {%- for parent1 in site.pages -%}{%- if parent1.url == page.parent -%}
           {%- if parent1.parent != '' -%}
@@ -24,7 +24,7 @@
           &nbsp;/ <a href="{{ parent1.url }}">{{ parent1.title }}</a>
         {%- endif -%}{%- endfor -%}
       {%- endif -%}
-      {%- if page.url != '/' -%}
+      {%- if page.title != 'Domů' -%}
         &nbsp;/ <a href="{{ page.url }}">{{ page.title }}</a>
       {%- endif -%}
     </div>
