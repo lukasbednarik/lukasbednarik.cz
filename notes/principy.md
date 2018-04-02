@@ -1,17 +1,3 @@
-TODO: Kapitolu významně zkrátit.
-TODO: Navázat příběhy více k managementu. Nedělat to úplně obecné jako princip.
-
-# Multidisciplinární management
-
-Dříve než otočíte stránku, zapomeňte všechno, co víte o managementu.
-Mohli bychom si povídat, co znamená "Organizace 1.0" a jaký je rozdíl k "Organizaci 2.0".
-Mohli bychom popsat moderní pohled na management, tzv. Organizace 3.0 [cite: Jurgen, Management 3.0]
-nebo kategorizovat různé přístupy jako to dělá C. Carnall [cite Managing Change in Organizations, Colin Carnall].
-My začneme na čistém listu papíru, s čistou hlavou, bez předsudků. Management
-je multidisciplinární obor, který je stále více formovát poznatky pronikajícími ze statistiky,
-sociologie, psychologie, teorie her, systémového myšlení nebo samoorganizace. Zvolíme na tomto místě opačný přístup, než
-veškerá manažerská literatura, a pomocí poznatků z jiných oborů zformujeme nový způsob manažerského myšlení
-(místo abychom naše myšlení zpětně obhajovali poznatky z jiných oborů).
 
 Než začneme měnit systém, změníme naše myšlení.
 
@@ -24,170 +10,6 @@ některou z obměn tohoto rozhodovacího procesu. Nejtragičtější jsou selhá
 
 Spolehlivost pozorování je tématem všech vědeckých prací, které mají co dočinění s experimentem. V této kapitole
 si mimo jiné vysvětlíme zkreslení výběrem, korelaci a kauzalitu.
-
-### Selection bias (česky "výběrové zkreslení", ale "zkreslení výběrem" je lepší)
-
-#### Kupujemem rajčata
-
-Je pondělí ráno a vy jdete si koupit pár rajčat na trh. Zastavíte se u obchodníka, důkladně si prohlédnete tři rajčata a když nejsou pomačkaná a zdají se dostatečně zralá, řeknete, ať vám jich dá kilo.
-
-Nemusí se vám to líbit, ale právě jste provedli něco, čemu se říká "statistical inference". Z vlastností třech rajčat jste zkusili odhadnout kvalitu všech rajčat u obchodníka, který vám z nich náhodně vybere kilo. Statistical inference funguje dobře, pokud je výběr reprezentativního vzorku čistě náhodný.
-
-Představme si novou situaci, kdy za nás tři testovací rajčata vybere obchodník. Protože je to dobrý obchodník, vybere nejkrásnější rajčata z bedýnky. Naivně bychom si mohli myslet, že takto krásná budou všechna rajčata - tomu se říká výběrové zkreslení. Náš úsudek o všech rajčatech je zkreslen špatným výběrem reprezentativního vzorku.
-
-Odhalit zkreslení výběrem nemusí být někdy snadné, protože "nemáme možnost volby". Obchodník může vybrat bedýnku krásných rajčat, která ukazuje na trhu, ale zákazníkům prodává rajčata z pytle pod pultem. Zde si můžeme (mylně) myslet, že všechna rajčata, která obchodník má, jsou krásná.
-
-Podobná je situace, pokud obchodník umístí nejkrásnější rajčata na vrchol bedýnky a my si koupíme celou bedýnku. Z našeho vzorku, což jsou rajčata která vidíme, usuzujeme, že takto budou vypadat rajčata v celé bedýnce. Ve skutečnosti na spod jsou ta rozmačkaná a zhnilá.
-
-#### Anketa marketingového oddělení
-
-Vaše společnost vyvíjí nový produkt BestMessanger, který se má stát nejlepším komunikačním nástrojem na trhu. BestMessanger funguje na platformách Windows a Linux. Jste v beta fázi vývoje a rozhodnete se, že zkusíte oslovit 500 zákazníků, kteří by mohli mít o nový produkt zájem. Pět set potencionálním zákazníkům poskytnete zkušební beta verzi zdarma výměnou za zpětnou vazbu. Vaše zkušební verze zobrazí po třech dnech používání dialogové okno s dotazníkem, ale dotazník lze i přeskočit. Bug lze nahlásit kdykoliv během používání pomocí menu "nápověda".
-
-Používali by jste BestMessanger v praxi?
-
-1. Rozhodně ano. (80%)
-2. Možná. (15%)
-3. Rozhodně ne. (5%)
-
-Výsledek ankety je povzbudivý. Dodejme, že nebyl nahlášen jediný bug. Podařilo se vytvořit dokonalý software.
-
-A nebo také ne...
-
-I když neúmyslně, účastníci ankety jsou filtrováni. Anketa se zobrazí jen lidem, kteří vydrželi produkt používat déle něž 3 dny. Nespokojení lidé, kteří produkt ihned odinstalovali, nejsou součástí výsledků.
-
-Mohlo se stát, že v instalačním skriptu byla chyba a produkt se nepodařilo na platformě Windows vůbec nainstalovat. Lidé, kteří produkt nenainstalovali, nemohli nahlásit chybu. Pokud se ankety účastnili jen uživatelé s Linux, mohly být výsledky dále zkresleny, protože na Linux existuje méně software a uživatelé jsou obecně tolerantnější v tom, co jsou schopni zvládnout.
-
-#### Náhodný výběr uživatelů
-
-Společnost S-Noir vyvinula nový produkt X-Communicator. Produkt byl původně vyvíjen pro dvě společnosti, které byly z produktu nadšeny. Další 3 zákazníci hodnotily produkt jako "výborný". Nyní má X-Communicator zasáhnout širší trh.
-
-Opět i v tomto případě můžeme narazit na selection bias. Pomocí 5 zákazníků usuzujeme, jak na X-Communicator bude reagovat celý trh. "Early adopters" (uživatelé novinek) jsou tolerantnější k chybám a obvykle produkt používají kvůli několika požadovaným vlastnostem. Větší publikum bude pravděpodobně využívat širší spektrum vlastností a objeví několikanásobně více chyb.
-
-#### Výběr bugů z backlogu
-
-Manažer společnosti Com Soft si všimnul, že se v backlogu nebezpečně kupí bugy. Protože chtěl předejít kolapsu kvality, rozhodl, že všichni vývojáři budou opravovat jen chyby. Za první týden bylo opraveno 20 ze 100 nahlášených chyb a manažer slíbil, že za další měsíc bude opraveno vše.
-
-V tomto případě mohli selection bias do systému zavléci sami vývojáři, kteří si začali vybírat bugy, které lze snadno a rychle opravit. Rozhodně nemusí platit, že za dalších 5 týdnů budou všechny chyby opraveny. (Nyní neuvažujme fault feedback ratio, tj. případ, kdy oprava chyby může způsobit chybu jinde.)
-
-#### Ropná pole
-
-Analogií výběru bugů z backlogy je navrtávání ropných polí v Texasu.
-V následujícím grafu ukazuje osa *x* počet pokusných vrtů a osa *y* normované množství objevené ropy.
-
-![images/plot-discovery-rate.png](images/plot_discovery_rate.png)
-[citace: Root, Drew: The pattern of petroleum discovery rates]
-
-Z grafu je vidět, že několik málo vrtů vedlo k objevení většiny známé ropy. Lineární aproximace
-"uděláme dvojnásobek vrtů, abychom objevili dvojnásobek ropy" rychle přestala fungovat.
-Na začátku 20. století se odhadem ropných zásob nikdo nezabýval, protože se zdálo, že ropy
-bude navždy dostatek.
-
-David H. Root a Lawrence J. Drew vysvětlují, že velká ložiska jsou objevena první,
-protože je nejsnadnější je objevit.
-[citace: Root, Drew: The pattern of petroleum discovery rates]
-Zkreslení výběrem spočívá v častějším objevování velkých ložisek při prvních
-průzkumných vrtech.
-
-Stejnou křivku jako na obrázku výše můžeme zaznametat při objevování počtu bugů v testování.
-Na ose *x* je doba testování, na ose *y* počet objevených bugů. Během prvního dne
-testování je objeveno nejvýce chyb a množství nově objevených chyb další dny klesá.
-Stejným způsobem, jakým bychom odhadovali množství neobjevené ropy, můžeme odhadnout
-množství bugů, které zatím unikly objevení v testech.
-
-#### Nedokončené projekty
-
-Manažer společnosti Com Soft si ve své honbě za optimalizací firmy vyžádal statistiku počtu nahlášených bugů na tisíc řádků kódu pro každý projekt.
-Výsledky ze všech 150-ti projektů byly vyneseny do histogramu, který vykreslil očekávanou exponenciálně klesající distribuci.
-
-Na meetingu, kde byl histogram prezentován, padl dotaz, jestli jsou v histogramu zakresleny i nedokončené projekty.
-Nebyly. Nedokončené projekty byly záměrně vynechány, "protože... no... jsou prostě nedokončené".
-Po další diskuzi se ukázalo, že nedokončené projekty jsou zejména tři. Všechny tři patří mezi největší, které firma akceptovala.
-Na jednom z nich se stále aktivně pracuje. Závěr mohl být, že společnost Com Soft neumí dodávat velké projekty.
-Bohužel, data histogramu, záměrně určitým způsobem vybraná, tomu nenasvědčovala.
-
-Analogie tohoto histogramu může být "dobu práce na projektu dělená prvotním odhadem práce"
-nebo "celková délka vývoje". Snadno můžeme udělat stejnou chybu a vynechat nedokončené projekty.
-
-*Nevynechávejte nedokončené projekty ze statistik!*
-
-#### Filtrování informací
-
-Ke zkreslování informací nemusí docházet jenom na grafech, ale zkreslení výběrem
-se může projevit i na informacích, které dostáváte od svých kolegů při své každodenní práci.
-
-Předpokládejme, že jste v roli šéfa malého vývojářského týmu. Pokud mezi vámi a týmem
-není naprostá důvěra, budou vám vývojáři prezentovat jen určitý druh informací.
-Vývojáři:
-
-- mohou mí strach, že budou potrestáni
-- nechtějí být sami pověřeni nápravou, už tak mají mnoho práce
-- myslí, že k nápravě nedojde
-- mají strach o své prémie
-- nechtějí naštvat vedení
-
-Informace, které si najdou k vedení cestu, jsou nutně filtrovány. Vedení, což jste vy,
-dostává více pozitivních zpráv než negativních. Z pohledu vedení se zoufalá situace
-může jevit optimisticky. Často jsem začil, že vývojáři jsou v důsledku velmi deprivováni.
-
-K dalšímu filtrování dochází v tom smyslu, že někteří lidé nejsou vůbec slyšení.
-Například vrcholový management musí spoléhat na informace ze středního managementu,
-přitom střední management má strach o své prémie.
-
-V jedné firmě, kde jsem pracoval, se nedostatek důvěry vývojářů projevil osobitým způsobem.
-Nově nastoupivši scrum master musel na retrospektivách vyřešit desítky problémů typu
-"tupé nože v kuchyňce", chybějící sešívačka, nesvítící světlo, špatně chladící lednice...
-Scrum master si získal reputaci, že "s problémy opravdu něco dělá", a po čase začal
-řešit převážně věci týkající se vývoje.
-
-#### Výhra ve sportce
-
-Pravděpodobnost, že ve Sportce uhodnete 6 čísel z 49 možných je
-"jedna ku čtyřicet devět nad šesti"
-
-1 / (49 6) =  1 / 13983816
-
-Průměrně tedy vyhraje jeden ze cca 14 miliónů vsazených losů.
-
-Mám kamaráda, který uznává, že pravděpodobnost 1 : 14 miliónů
-je malá, ale přesto "pokaždé někdo vyhraje!"
-
-Zkreslení výběrem je opět v informacích, které se k člověku dostanou.
-Všichni se dozvědí o jednom šťastlivci, který vyhrál 15 miliónů,
-ale nikdo nemluví o miliónech vsazených losů, které
-stály 20Kč (jeden sloupec) a nic nevyhrály. Informace, které se dostanou
-k lidem v mass-mediích, jsou silně zkreslené.
-
-Podobné zkreslení vidíme při leteckých neštěstích nebo pokousání žralokem.
-Například pravděpodobnost pokousání žralokem je v USA menší, než pravděpodobnost
-nechtěného zastřelení kojencem. Přesto se všichni bojí žraloků.
-
-#### Kognitivní bublina
-
-Až budou v České Republice opět volby, možná si přečtete pár článků o svém kandidátovi.
-Čemu ale budete věřit? Jistě narazíte na důvody, proč kandidáta volit, i na negativa.
-Člověk filtruje informace podle jednoduchého klíče: co podporuje jeho názor, tomu uvěří mnohem snáze
-a text přijme jako pravdivý. Naopak text, který je k jeho pohledu nepřátelský, odsoudí
-a označí jej za nerelevantní, nesmyslný nebo radikální.
-Tato tendence je obzvláště viditelná, když ve volbách soupeří dva přibližně stejně silní kandidáti
-(ČR 2013: Miloš Zeman vs. Karel Schwarzenberg, USA 2016: Donald Trump vs. Hillary Clinton).
-
-Facebook i Google vás ve vašem výběru rádi podpoří a začnou preferovat hledání tématicky
-zaměřená na stránky, které jste v poslední době navštívili. Možná napíšete někde něco do diskuze,
-možná se přidáte k příslušné skupině na Facebooku a nevědomky se začnete obklopovat lidmi,
-kteří smýšlejí stejně jako vy. Dostanete se do kognitivní bubliny. Informace, které přijímáte,
-jsou silně polarizovány. Budete si jisti, že váš kandidát je jediná racionální volba.
-
-Podobné chování najdeme i ve firmě. Lidé se sdružují kolem společných názorů, například:
-
-- "Ředitel X je blbec."
-- "Kdybychom unit-testovali, byli bychom mnohem produktivnější."
-- "Dávají nám staré a pomalé počítače. Firma na nás šetří."
-
-#### Shrnutí
-
-Při pozorování nebo analýze musíme uvažovat možnost, že naše data mohou být zkreslena výběrem.
-Takováto data nejsou reprezentativní vzhledem k populaci a nejsou z populace vybrána náhodně.
-Pokud o zkreslení výběrem víme, můžeme na něj udělat korekci nebo data interpretovat jiným způsobem.
 
 ### Systematická chyba
 
@@ -871,12 +693,6 @@ Connanescence je metrika zavedená Meilir Page-Jones, aby mu podpořila diskuzi 
 závislostmi mezi moduly. Dva moduly jsou connanescentní, pokud při změně jednoho z nich musí být druhý
 modul také modifikován, aby byla zachována konzistence kódu.
 
-## Psychologie --- TODO
-
-Co lidi motivuje. Řeč těla a empatie. Možná viz Management 3.0 kniha.
-
-TODO - Tady se zeptat a poradit.
-
 ### Teorie S
 
 Podle http://davidboje.com/horsesense/psl/pages/postmoderndefined.html
@@ -1007,76 +823,6 @@ V žádném modelu nemůžeme zahrnou všechny vlivy, ale obvykle jen to nejdůl
 
 
 TODO Udělat jeden příklad a zbytek nechat do kapitoly Procesy.
-
-### Lineární předpojatost
-
-Lidská mysl miluje linearitu. Za oteplování atmosféry může CO<sub>2</sub>, za špatnou
-atmosféru ve firmě manažeři a sousedovi děti budou mít špatnou práci, protože se špatně učí.
-
-Smysl pro příčinu a následek je u člověka velmi dobře vyvinutý a v nebezpečných dobách mohl
-mít značný význam pro přežití. Pokud jsou v okolí predátoři, je dobré utíkat. Cena za to, že někdy
-budeme utíkat zbytečně, je velmi malá v porovnání s případnou ztrátou života. Psycholog Paul
-Bloom říká: "Pokud uslyšíte šustit keře, budete předpokládat, že v nich někdo nebo něco je..." [1].
-
-Experimenty s dětmi ve věku 7-8 let ukazují stejný způsob uvažování. Ptáci existují, aby pěkně zpívali;
-řeka existuje, aby čluny měly na čem plout a skály jsou tu proto, aby se zvířata měla na co drápat [2].
-(Zkuste se zeptat doma dětí...)
-
-Smysl pro příčinu a následek používáme intuitivně v každodenním životě, i když ne tak jako děti.
-Pokud například řekneme vývojářům, aby dělali méně bugů, budou dělat méně bugů
-a psát kvalitnější software. Jestliže řekneme, že má být projekt hotový v lednu, bude hotový v lednu.
-Rozvržení práce je také lineární: pokud vývojář dokončí design, je design hotový a může se začít programovat
-(s věcmi jako změna požadavků nebo chyby v designu se nepočítá - vážně, design může mít
-také chyby stejně jako kód).
-
-V roce 2017 se rozšířili zprávy o hrozícím protržení přehrady v Oroville, USA. Doslova: "...přehrada se může protrhnout během hodiny..." Je-li v přehradě hodně vody
-a odpadávají-li z ní kusy betonu, budete předpokládat, že se přehrada brzy protrhne.
-V okolních městech USA bylo zbytečně evakuováno 200 000 lidí. Zpětné vyšetřování ukázalo,
-že protržení přehrady nikdy nehrozilo.
-
-Gerald Weinberg ve své konzultantské praxi nazývá tento způsob uvažování Causation Fallacy [3, str. 105]:
-"Každý následek má příčinu a můžeme rozeznat, co je co. (Neplatí!)"
-
-Náš svět je bohužel zoufale nelineární. Tak fajn, začneme tou atmosférou :)
-
-#### Efekt oteplování atmosféry
-
-Protože nelineární efekty jsou obecnou záležitostí, podíváme se, jak fungují v přírodě. K aplikaci v software engineering je to potom už jenom krůček.
-
-Při studiu efektu oteplování atmosféry existuje několik významných zpětných vazeb. Některé jsou pozitivní, jiné negativní. To také vysvětluje, proč se mohou vědci tak dlouho hádat, jestli se atmosféra otepluje nebo ochlazuje (a v novinách už jsem viděl obě varianty) - modelování tolika efektů není snadné.
-
-##### Led - odraz záření
-
-Prvním cyklem, který vezmeme v úvahu je efekt tání ledovců. Tání ledovců způsobuje zmenšování bílé plochy, která velmi dobře odráží sluneční záření. V důsledku toho země pohlcuje více záření, otepluje se a ledovce tají rychleji.
-
-![feedback-loop-ledovce.svg](images/feedback-loop-ledovce.svg)
-
-V diagramu značím (+) pozitivní efekt, (-) negativní efekt. Pokud bychom uvažovali jen tento diagram, nelze říci, proč vlastně tání ledovců začalo. Náš intuitivní smysl pro příčinu a následek zde selhává.
-
-##### Zvětrávání
-
-Proč všechny ledovce už dávno neroztály? Protože ledovcový cyklus není jediný. Existuje i negativní zpětná vazba v podobě zvětrávání hornin. Oteplování klimatu zvyšuje rychlost zvětrávání hornin. Zvětrávání hornin způsobuje pohlcování CO<sub>2</sub>, tedy snižování skleníkového plynu a zmírňuje oteplování klimatu.
-
-![feedback-loop-zvetravani.svg](images/feedback-loop-zvetravani.svg)
-
-Pomocí kladné a záporné zpětné vazby lze stabilizovat obecný systém - například biologický systém (proces v buňce) nebo také kulturu ve společnosti.
-
-##### Mraky
-
-Zpětných vazeb v oteplování klimatu jsou spousty a stále mluvíme jen o přírodních zákonech, tj. vynecháváme roli člověka. Dalším cyklem je "cyklus mraků". Oteplování klimatu zvyšuje množství vody v atmosféře, tedy zvyšuje oblačnost. Mraky ve vysokých výškách mají tendenci odrážet sluneční záření zpět do vesmíru, tedy ochlazují zemi.
-
-![feedback-loop-mraky.svg](images/feedback-loop-mraky.svg)
-
-Podobně vypadající cykly lze najít v každé společnosti. Lineární akce managementu někdy vypadají, jakoby se snažili zvrátit situaci nošením ledu na pól, a vůbec si neuvědomují, že proti nim pracují další zpětné vazby.
-
-TODO!!! Zkombinovat alespoň dva z obrázků do jednoho jako příklad složitějšího diagramu!!!
-
-#### Reference
-1. Michael Brooks, Born believers: How your brain creates God, 2009
-2. sott.net, [online](https://www.sott.net/article/174965-Born-believers-How-your-brain-creates-God)
-3. Richard M. Weinberg, How Software Is Built, 2014
-4. https://www.e-education.psu.edu/earth103/node/668
-5. Frederick P. Brooks, The Mythical Man-Month, 1995
 
 ### Nelineární efekty ve firmě
 
@@ -1360,139 +1106,182 @@ Položí tedy jednoduchou otázku, například: "Které dvě řeky
 mají soutok v Českých Budějovicích?". Protože odpověď na otázku všichni znají (nebo si ji snadno zjistí), není
 znalost odpovědi konkurenční výhodou.
 
-### Vyjednávání
-
-Kapitolu o vyjednávací taktice jsem původně ani nechtěl do knihy zařadit, ale uvědomil jsem si, jak často různé taktiky kolem sebe slýchávám.
-Lidé je používají intuitivně, aniž by si uvědomili, že jde o taktiku s kořeny v teorii her. Zde uvádím jen několik nejběžnějších taktik.
-Taktika je jednoduchý manévr, tah nebo protitah.
-Se základní znalostí vyjednávacích taktik budete vědět, jak tahy protistrany neutralizovat.
-
-Největší chybou při vyjdednávání je si myslet, že *druhá strana musí prohrát, abyste vy mohli vyhrát*
-(zmiňuje např. Max H. Bazerman). Když ani jedna strana nemůže vyhrát, z teorie her víme,
-že musíme změnit pravidla hry. V nové hře mohou vyhrát obě strany.
-
-#### Deadline
-
-> "Pokud to nebude do pátku, nemůžu ručit za termín dodání."
-
-Tlak termínu může obě jednající strany donutit, aby udělaly rozhodnutí a jednaly. Termíny mohou být skutečné nebo umělé. Externí termíny
-jsou vynucené třetí stranou, interní jsou stanovené vaší organizací.
-
-Obrana: Osoba nastavující termín počítá s tím, že je v lidské povaze věřit, že termíny jsou skutečné. Pokud se chcese pokusit zneutralizovat termín,
-otestujte ho. Položte několik otázek a zjistěte, jak skutečný termín je a jak je pevný. V případě skutečného termínu se zeptejte,
-odkud termín pochází, je-li možné jeho prodloužení a jaké jsou důsledky nedodržení termínu.
-
-Z pohledu teorie her se jedná o omezení možností. Vysvětlím na příkladu. Manažer chce donutit vývojáře pracovat rychleji a stanoví umělý termín
-dokončení projektu na únor. Dokončení projektu v dubnu by ale firmě žádné potíže nezpůsobilo. Tabulka možností vypadá takto
-
-----------------------------------------
-termín dokončení | penále
-únor | ne
-březen | ne
-duben | ne
-květen | ano
-----------------------------------------
-
-Náš manažer si myslí, že nemá smysl prezentovat vývojářům celou tabulku, protože by si vybrali nejposlednější termín. Zisk vývojáře je v tomto případě největší - dostane nejvíce času a peněz za stejnou práci. Manažer použije "omezení možností" a prezentuje jen část tabulky
-tvrdíc, že další možnosti neexistují.
-
-----------------------------------------
-termín dokončení | penále
-únor | ne
-----------------------------------------
-
-Napadení termínu v tomto případě znamená odkrytí větší části tabulky.
-
-#### Omezená autorita
-
-> "Bude to muset schválit můj šéf."
-
-Vyjednávající zdůrazní svoji omezenou autoritu a zpomalí vyjednávání. Výhodou je získání více času na rozhodování, případně i snížení
-tlaku protistrany.
-
-Obrana: Musíte zjistit, kdo dělá rozhodnutí a setkat se s tímto člověkem. Vždy když je to možné, je důležité začít vyjednávat s tím, kdo má pravomoc
-dělat rozhodnutí.
-
-S touto taktikou jsem se setkal například při žádosti o zvýšení platu. Když můj vedoucí sliboval sedmý měsíc projednání mého platu se svým nadřízeným, z firmy jsem odešel (nyní lépe rozumím tomu, co se stalo. Když jsem řekl, že odcházím, vytvořil jsem "věrohodnou hrozbu" a zvýšení platu najednou nebylo problém. Teorie her vám v životě pomůže dělat lepší rozhodnutí.)
-
-Alternativou omezené autority je "chybějící osoba". V případě "chybějící osoby" nemůžete udělat závazné rozhodnutí bez tohoto člověka:
-
-> "Nemůžu s vámi diskutovat termín dodávky, protože náš projektový manager je po zbytek týdne mimo firmu."
-
-#### Morálka
-
-> "Nabídněte nám férovou cenu. Nemůžete očekávat, že zaplatíme tolik při vašich problémech s cloud-dovým úložištěm."
-
-Odvolání se na morálku má připomenout, že cíl vyjednávání je vzájemná spokojenost. Tato taktika apeluje na váš smysl pro "fair play"
-a zahrnuje mnoho prohlášení, jejichž účelem je dostat vás na druhou stranu.
-
-Obrana: Připomenutí podmínek a ve vysvětlení, že tyto podmínky jsou v nejlepším zájmu obou stran. Zjistěte, jaká je skrytá motivace druhé strany a čeho
-se druhá strana doopravky obává.
-
-#### Hodný a zlý
-
-Hodný a zlý. Všichni jsme tuto situaci mnohokrát viděli v televizi. Jeden člen vyjednávacího týmu zastává extrémně radikální pozici,
-klade nadměrné požadavky a odmítá rozumné ústupky. Neochota slevit vás může zastrašit, vyvést z rovnováhy a snížit vaše očekávání.
-Najednou přijde do hry "hodný" vyjednavač se smířlivými, mírně lichotivými poznámkami, a nabídne rozumnější nabídku.
-I když druhá nabídka je relativně lepší, stále nemusí být dost dobrá v absolutním smyslu.
-Člověk má přirozené nutkání s druhou nabídkou souhlasit.
-
-Obrana: Dávejte si pozor na svoje původní požadavky. I když nabídka hodného vyjednavače může znít fantasticky v porovnání
-se zlým vyjednavačem, stále to nemusí být nabídka dost dobrá pro vaši stranu. Zjistěte, jestli nabízené podmínky
-souhlasí s vašimi požadavky.
-
-Příklad: Některé zahraniční společnosti využívají této taktiky při diskuzi o platu. Nejde o to, že by nemohli svým zaměstnancům
-platit více, ale chtějí, aby zaměstnanci měli pocit, že si při vyjednávání sáhli na dno a byli maximálně spokojeni:
-"Podařilo se mi domluvit nástupní plat 50 000Kč. Je to skvělé. To mému kolegovi Frantovi, tomu se něco takového určitě povést nemohlo..."
-
-#### Každý to tak dělá
-
-> "Jak od vás můžeme dále nakupovat, když všichni ostatní už snížili ceny?"
-
-> "Nikdo na našem oddělení nemá takový plat, jaký chcete. (Btw. to neznamená, že si jej nezasloužím.)"
-
-Malé děti jsou mistři této taktiky: "Mami, každý ve třídě má nový mobil." Nicméně tato taktika se vyskytuje často také v obchodě. Cílem je přidat na věrohodnosti svému
-tvrzení a oslabit protistranu.
-
-Obrana: Použijte ověřená data (standardní marže, průmyslové standardy, inflace, ...) a stanovte si férové podmínky dohody.
-Dále si zjistěte, co konkurence nabízí a jaké mají vztahy s ostatními klienty. "Kdo jsou všichni?"
-
-#### Asociace
-
-> "Tento projekt mi připomíná jednu zakázku pro SAND s.r.o."
-
-Nejúspěšnější obhodníci používají tuto taktiku na začátku hovoru, aby přidaly svým slovům věrohodnosti a zlepšili svoji vyjednávací pozici.
-Taktika se někdy nazývaná "name-dropping" spočívá v asociaci s různými jmény firem, lidí, produktů, ...
-Asociace může být velmi efektivní, pokud je pravdivá, ale také velmi manipulativní, pokud je nepravdivá.
-
-Obrana: zeptejte se druhé strany na to, co dělaly pro jiné firmy nebo lidi, které v rozhovoru zmiňují. Na jakých podmínkách se dohodli.
-Jak velká byla jejich objednávka? Zjistěte co nejvíce detailů o tom, co druhá strana se zmiňovanými subjekty dělala v minulosti.
-
-### Literatura --- TODO
-
-Studium teorie her může mít mnoho praktických aplikací. Pokud se chcete o tomto tématu dovědět více,
-doporučuji některou z následujících knížek.
-
-TODO
-
-## Management --- TODO ???
-
-Ačkoliv Jurgen Appelo vyšla kniha Management 3.0, nic takového, jako management 3.0 neexistuje.
-Jsme stále v přechodu od klasického k postmodernímu managementu...
-
-
-Styl managementu. Navázat na biologii a samo organizování. viz také Management 3.0 kniha.
-Říci, že existuje "moderní výkum" k managementu. Vzít nějaký časový vývoj z Cornella.
-
-Interakce lidí není obecně ničím omezena. Někteří dokonce rozlišují formální a neformální strukturu organizace
-(zmíněno v Cornell). Je lepší rovnou vyjít z principu samoorganizace.
-
-tato kniha vás nebude provázet historií managementu, proto naskakujeme přímo přehledem jiných disciplín.
-
-Klasické období managementu viz např. Taylor: https://cs.wikipedia.org/wiki/Frederick_Winslow_Taylor
-Takto bychom mohli mluvit o jednotlivých obdobích...
-
-
 ## nějaké poznámky --- TODO
 
 Scotty principle: http://www.urbandictionary.com/define.php?term=Scotty%20Principle
+
+# Procesy
+
+Problém v ERA i iXperta: Chození marketingu přímo za vývojáři a ptaní se,
+kdy to bude. Vývojáře zajímavá feature samozřejmě zajímá a začnou na ní pracovat
+mimo svůj plán. To způsobí zdržení očekávaného úkolu.
+
+## Model bugů
+
+Některé zpětné vazby (spojit do jednoho diagramu)!
+
+Počet bugů ->  pressure to fix -> higher FFR -> more bad fixes
+
+pressure to fix -> deprese -> more bad fixes
+
+bad fixes -> design debt -> bigger fix time -> presure to fix
+
+## Omyl řízení
+
+NE: Kontroller, který nemá mnoho práce, je špatný kontroller.
+NE: Kontroller, který má hodně práce, je dobrý kontroler.
+
+Vysvětlit na příkladu. Třeba code review odhaluje jen minimum chyb a vývoj
+software funguje dobře. Mohlo by se zdát, že můžeme code review úplně odstranit.
+Odstranění code review se ale projeví negativně a chyby se začnou objevovot.
+
+Code review:
+- motivating people to work with more precision
+- raising awareness of the importance of quality work
+- teaching people how to find faults before coming to reviews
+- detecting indicators of poor work, before that work actually produces faults
+- teaching people to prevent faults by using good techniques they see in reviews
+
+
+Lepší příklad - podobně jako code review: policista měří rychlost aut na dálnici
+a auta jezdí pomalu. Zdá se, že policista je zde zbytečný. Pokud ale odejde,
+auta zrychlí.
+
+TODO Udělat diagram s code review a vysvětlit...
+
+Vicous cycle. Manažer má moc práce a proto musí pracovat ještě více a nedělá dobrá rozhodnutí.
+Viz Weinberg, Zmiňuje to i Carnall
+
+Ukázat, že zpětná vazba záčasto závisí jen na malých detailech. Např. jestli PO
+kontroluje při schvalování commitu i kvalitu kódu. Tyto podměty by měly vycházet přímo
+z týmu, aby si za nimi tým stál.
+
+## PO
+
+Jak rozloží firmu produkťák, který je povýšen za představení nějakého návrhu, ale už jej nemusí
+realizovat.
+
+## Double loop learning
+
+Single loop vs double loop leargnin (upravujeme mental model).
+https://en.wikipedia.org/wiki/Double-loop_learning
+
+
+### Dobrý a špatný vývojář
+
+Dobrý vývojář má na výběr psát kvalitní nebo špatný kód. Psaní kvalitního kódu je náročnější - ne časově, ale na soustředění a invenci.
+
+Špatný vývojář umí psát jen špatný kód. Navíc je nepoučitelný, takže lepšímu vývojáři se nepodaří ho nic naučit (situace v ERA).
+
+Investice:
+- špatný kód: 1
+- kvalitní kód: 3
+
+Špatný vývojář ale dobrý kód kazí svým špatným. Tabulka celkového zisku je náledující:
+
+|              | špatný kód | kvalitní kód |
+|--------------|------------|--------------|
+| špatný kód   | 1          | 3            |
+| kvalitní kód | 3          | 6            |
+
+Průměrný zisk na programátora pro "špatný + kvalitní kód" je 3 / 2 = 1,5. Tedy dobrý programátor dostane méně, než do systému vložil. Špatný vice, než do systému vložil.
+
+Dobry programator muze byt deprimovan a jeho nejlepsi odpoved je hrat 1 a setrit vlastni kapacitu... pokud nezmane druheho cloveka je nejlepsi psat shit.
+
+Toto se často stává, pokud jsou oba hodnoceni stejně (stejná pozice i finance).
+"Proč se zbytečně snažit?"
+
+Odtud také plyne, jak je důležité mít kvalitní lidi v týmu. A pokud je máme, tak jim věřit.
+
+### Optimální pořadí implementace
+
+Řekněme, že product owner chce naimplementovat 2 feature. Vývojář nabídne, že pokud udělá nejdříve refactoring, bude implementace rychlejší. Možnosti jsou tyto:
+
+1. feature A (3 dny) ---> feature B (3 dny)
+2. feature A (3 dny) ---> feature B (3 dny) ---> refactoring (5 dní)
+3. refactoring (4 dny) ---> feature A (2 dny) ---> feature B (2 dny)
+
+
+Ve 2. případě implementace nových věcí ztíží refactoring, který pak trvá ještě déle. Naopak refaktoring před další implementací usnadní tuto implementaci.
+
+Pokud vývojář trvá na refaktoringu, rozhodne se obvykle product owner pro 2. (refaktoring odloží až bude čas). Pokud vývojář netrvá na refaktoringu, rozhodne se pro 1.
+
+Tento obrázek dává smysl, pokud by pak nepřišlo hlášení bugů. Předpokládejme N = 10 bugů, kterým šlo refaktoringem předejít. Řešení každého bugu trvá 1/2 dne.
+(V praxi jsou to často malé opravy, na které se však dříve či později přijde a uživatel je nahlásí. Například špatná chybová zpráva, neověřená nulová / chybová hodnota, dvě stejné věci řešeny pokaždé jinak takže se někdy jedna z nich chová pro uživatele divně, ...)
+
+K možnostem výše doplníme:
+
+1. (1) ---> 10 bugů (5 dní)
+2. (2) ---> nic
+3. (3) ---> nic
+
+Celková doba (doba, kterou společnost vývojáři zaplatí za práci na projektu)
+
+1. 11 dní
+2. 11 dní
+3. 8 dní (rychlejší o 27%)
+
+Není divu, že vývojář, který toto vidí, může být zoufalý, protože kdyby byla práce jen na něm, mohl 3 dny strávit na dovolené v horách.
+
+Místo dnů doplňte u většího projektu měsíce.
+
+Tento model ovšem uvažuje, že vývojář ví, co dělá, a dokáže kvalitu kódu po refaktoringu uchovat i po implementování dalších featur (je dobré, ale ne nutné, pokud předem ví, co bude požadováno za features).
+
+Pokud je vývojář špatný, nedokáže první refaktoring udělat úspěšně. Implementace se urychlí jen částečně a zmizí jen část bugů.
+
+refactoring (4 dny) ---> feature A (2 dny) ---> feature B (3 dny) ---> 7 bugů (7/2 dní)
+
+Celkem 12,5 dní. Protože produkt owner svým vývojářům nevěří, nezvolí variantu 3., která by mohla být rychlejší (8 dní).
+
+## Scrum
+
+Analyzovat scum (Jeff Sutherland, Scrum) na diagramech system thinking.
+
+## Jak korporát dokáže zabavit sám sebe
+
+Příkazy managementu se mění každý půlrok: pracujte na ICE, rozhodně nepracujte na ICE, pracujte na ICE, nepracujte na ICE, ...
+
+Výsledkem je nedefinovaný stav dokončení ICE. Na nedokončený ICE jsou už reportovány bugy.
+
+Overhead s reportováním bugů, přitom to nemá smysl pro nedokončenou feature.
+
+
+## 500 bug backlog
+
+Rozbor příkladu, jak pracovat s týmem, jehož backlog obsahuje hlavně sustaining (500 bugs).
+Jaké jsou problémy scrumu (stručně) a jak to řeší kanban.
+V našem příkladu zvládne vývojář za sprint (14 dní) vyřešit v průměru 2 issues.
+
+Možnosti vedení:
+1) kanban
+2) samoorganizace. (Například jako v open source???)
+Každý bug je pro začátek ohodnocen řekněme 2 story pointy.
+Vývojář si může vybrat libovolný bug z backlogu. Product Owner přidává
+story pointy těm bugům, na kterých chce, aby se pracovalo. Vývojář, který
+vidí, že může získat mnoho story pointů (SP) vyřešením jednoduchého problému
+začně na tomto problému pracovat. Pro vývojáře je to "snadná kořist".
+Důležité: Vývojáři jsou (finančně) hodnoceni dle odvedené práce v SP
+plus mají fixní část mzdy.
+Výhody: každý může pracovat, jak moc mu to zrovna vyhovuje.
+Každý si bere věci, které jsou snadné pro něj - tj. optimální rozložení kapacit / odbornosti.
+
+## Team building vs. prémie
+
+Proplacení team buildingových hospod vs. prémie pro zaměstnance na konci roku.
+Každý zaměstnanec chce samozřejmě prémie. Prémie se rozdávají za splnění očekávaného ročního obratu.
+Nicméně pro zaměstnance je tohle magické číslo, které nemůže nijak ovlivnit.
+Naproti tomu team buildingové hospody mohou přispět k pohodě v práci a k motivaci lidí, tedy
+i k vyšším výkonům. Pro společnost jsou výhodnější. I když stále - paradoxně - zaměstnanci chtějí prémie.
+Je na vedení společnosti aby analyzovaly dopady svých akcí...
+
+
+Více peněz vs teambuilding. Stejně jako výzkum více peněz vs každodenní procházky
+a kdo je šťastnější (myslím že je to ze Sutherland, Scrum). Lidé mají velmi špatný odhad
+ohledně toho, co je udělá šťastnými.
+
+
+## Fault feedback ratio
+
+Simulace šíření chyb, tj. pokud oprava existující chyby způsobý "e" nových chyb.
+Pokud se proměnnou "e" rozhodneme měřit, můžeme se dozvědět hodně o kvalitě
+systému. Odvození rovnic viz papír.
