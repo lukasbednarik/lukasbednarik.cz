@@ -1,6 +1,8 @@
 # Témata
 
 - "Kanban tabule" - vyhledávané. Udělat přehled kanban tabulí jako v http://leankanban.com/patterns-of-kanban-maturity/
+- Co je špatného na SAFe (kritika)
+
 - viz notes/principy.md notes/procesy.md -> použít jako podklady pro nové články
 - kultury dle weinberga
 - highlights z Knihy o kanbanu
@@ -10,7 +12,6 @@ Overhelming. Ztraci se build inspect adapt
 - toastmasters jako cesta k seberozvoji
 - Shein str 146 kriteria urcujici pravdu - dopsat ke kulturam
 - dead march (ERA) - ma to jmeno
-- Co je špatného na SAFe (kritika)
 - hodnoty XP https://agilevelocity.com/agile/xp-values-forgotten-agile-guidance/
 - Syndrom vyhoření (jak se to projevuje, viz kniha)
 - https://www.16personalities.com/
