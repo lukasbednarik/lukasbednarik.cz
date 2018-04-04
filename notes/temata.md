@@ -1,5 +1,6 @@
 # Témata
 
+- Info o vzniku stranky http://jaktodelamja.cz/
 - "Kanban tabule" - vyhledávané. Udělat přehled kanban tabulí jako v http://leankanban.com/patterns-of-kanban-maturity/
 - Co je špatného na SAFe (kritika)
 
