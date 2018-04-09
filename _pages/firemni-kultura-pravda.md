@@ -6,17 +6,17 @@ parent: /firemni-kultura
 ---
 
 Rozdělení firemních kultur dle způsobu, jímž kultury nalézají "pravdu".
-Z filozofického hlediska neexistuje absolutní pravda, pouze společensky podmíněná pravda.
+Z filozofického hlediska neexistuje absolutní pravda, pouze pravda společensky podmíněná.
 Rozdělení je převzato z knihy Organizational Culture and Leadership od Edgara H. Scheina.
 
 ## Obsah
 
-- [Dogma](/firemni-kultura-kompetence#dogma)
-- [Odhalené dogma](/firemni-kultura-kompetence#odhalene-dogma)
-- [Skupinová kompetence](/firemni-kultura-kompetence#skupinová-kompetence)
-- [Debata](/firemni-kultura-kompetence#debata)
-- [Pragmatismus](/firemni-kultura-kompetence#pragmatismus)
-- [Vědecká metoda](/firemni-kultura-kompetence#vedecka-metoda)
+- [Dogma](/firemni-kultura-pravda#dogma)
+- [Odhalené dogma](/firemni-kultura-pravda#odhalené-dogma)
+- [Skupinová kompetence](/firemni-kultura-pravda#skupinová-kompetence)
+- [Debata](/firemni-kultura-pravda#debata)
+- [Pragmatismus](/firemni-kultura-pravda#pragmatismus)
+- [Vědecká metoda](/firemni-kultura-pravda#vědecká-metoda)
 
 - [Zpět na: Firemní kultura](/firemni-kultura)
 

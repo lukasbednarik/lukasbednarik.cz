@@ -27,7 +27,6 @@ parent: /projekty
 - [Kritéria určující pravdu](/firemni-kultura-pravda)
 - [Uznání členů v rámci organizace](/firemni-kultura-uznani-clenu-organizace)
 - [Kompetence](/firemni-kultura-kompetence)
-- …a další věci
 
 ![Firemní kultura]({{ site.url }}/assets/firemni-kultura-puzzle.jpg)
 
@@ -147,10 +146,9 @@ záleží na konkrétní organizaci a může se lišit. Obvykle to bývá:
   - [Kultura osob](/firemni-kultura-organizace-lidi#kultura-osob)
 - [Seberealizace](/firemni-kultura-seberealizace)
 - [Sdílení informací](/firemni-kultura-sdileni-informaci)
-- Osobní bezpečí
+- [Kritéria určující pravdu](/firemni-kultura-pravda)
 - [Uznání členů v rámci organizace](/firemni-kultura-uznani-clenu-organizace)
 - [Kompetence](/firemni-kultura-kompetence)
-- …a další věci
 
 ### Agilní kultura
 
