@@ -10,7 +10,6 @@
 - zadavano prace TL, napr. vytvorit fci toUpper nemelo smysl. Deliver deliver! Lidi delaji jen co se jim zada. 
 Overhelming. Ztraci se build inspect adapt 
 - toastmasters jako cesta k seberozvoji
-- Shein str 146 kriteria urcujici pravdu - dopsat ke kulturam
 - dead march (ERA) - ma to jmeno
 - hodnoty XP https://agilevelocity.com/agile/xp-values-forgotten-agile-guidance/
 - Syndrom vyhoření (jak se to projevuje, viz kniha)
