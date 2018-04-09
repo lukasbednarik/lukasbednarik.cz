@@ -2,6 +2,7 @@
 
 - "Kanban tabule" - vyhledávané. Udělat přehled kanban tabulí jako v http://leankanban.com/patterns-of-kanban-maturity/
 - Co je špatného na SAFe (kritika)
+- Skalovani Kanbnabu - 3 moznosti jako v knize
 
 - viz notes/principy.md notes/procesy.md -> použít jako podklady pro nové články
 - kultury dle weinberga
