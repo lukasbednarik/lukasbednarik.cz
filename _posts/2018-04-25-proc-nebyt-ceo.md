@@ -2,6 +2,7 @@
 layout: post
 title: Proč nebýt CEO
 tags: život
+published: false
 ---
 
 V záplavě všech těch *founder* a *CEO* pracovních zkušeností na LinkedIn
