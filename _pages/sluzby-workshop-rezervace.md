@@ -22,12 +22,8 @@ Další termíny, místa a programovací jazyky [na vyžádání](/kontakt).
     <input placeholder="Telefon" type="tel" name="phone" tabindex="3" required>
   </fieldset>
   <fieldset>
-    <label class="btncontainer">27. 4. 2018 (Java)
-      <input type="radio" name="date" tabindex="4" value="27. 4. 2018 (Java)" checked>
-      <span class="checkmark"></span>
-    </label>
     <label class="btncontainer">6. 9. 2018 (C++)
-      <input type="radio" name="date" tabindex="5" value="6. 9. 2018 (C++)">
+      <input type="radio" name="date" tabindex="5" value="6. 9. 2018 (C++)" checked>
       <span class="checkmark"></span>
     </label>
   </fieldset>
