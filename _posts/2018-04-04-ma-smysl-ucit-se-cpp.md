@@ -45,7 +45,7 @@ software se hledá obtížně, ale je tu. Jděte do C++, pokud by se vám líbil
 na věcech zmíněných výše, nebo alespoň pokud chcete mít praktickou zkušenost
 s jazykem blízkým k hardware.
 
-P.S. Rozhodnete-li se užit jazyk C++, pozor na jeden častý mýtus:
+P.S. Rozhodnete-li se učit jazyk C++, pozor na jeden častý mýtus:
 "Při učení C++ se hodí nejprve znát jazyk C." Ne! To není pravda!
 Přes podobnost syntaxe je C jiný programovací jazyk. "C-čkové myšlení"
 se při přechodu do C++ jen těžko odnaučuje. Za důkaz by mi posloužily miliony
