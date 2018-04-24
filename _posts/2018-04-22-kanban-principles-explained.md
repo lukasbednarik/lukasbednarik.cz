@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Principy kanbanu
+title: Principy Kanbanu
 tags: kanban agile
 ---
 
