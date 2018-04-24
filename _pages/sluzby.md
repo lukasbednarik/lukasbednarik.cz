@@ -22,6 +22,13 @@ Workshop extrémního programování je určený pro vývojáře a jejich Scrum 
 
 Další termíny, místa a programovací jazyky [na vyžádání](/kontakt).
 
+## Unit testing
+
+Unit testování je klíčová praktika extrémního programování (a ve workshopu XP ji věnuji mnoho pozornosti).
+Unit testy nejen že snižují počet defektů, ale přispívají ke správnému designu kódu. Ačkoliv mnoho vývojářů píše unit testy,
+jen velmi málo lidí umí psát dobré unit testy. Dobré testy jsou jednoduché, rychlé, nezávislé, čitelné, plně automatické
+a znovupoužitelné.
+
 ## Školení na míru
 
 Mým cílem není prodat, ale *podporovat*.
@@ -32,14 +39,7 @@ Následuje příprava *školení na míru*. Nesnažím se jen předat znalosti, 
 Téma školení se může týkat praktik, metodik nebo agilního vývoje obecně.
 Pro informaci o ceně mě prosím [kontaktujte](/kontakt).
 
-{% comment %} 
-## Unit testing
-
-Unit testování je klíčová praktika extrémního programování (a ve workshopu XP ji věnuji mnoho pozornosti).
-Unit testy nejen že snižují počet defektů, ale přispívají ke správnému designu kódu. Ačkoliv mnoho vývojářů píše unit testy,
-jen velmi málo lidí umí psát dobré unit testy. Dobré testy jsou jednoduché, rychlé, nezávislé, čitelné, plně automatické
-a znovupoužitelné.
-
+{% comment %}
 # Konzultace
 
 Vývoj software má z pohledu vývojáře tři roviny: firemní kulturu, metodiku a praktiky vývoje.
