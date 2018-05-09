@@ -11,7 +11,7 @@ Kontaktní informace naleznete na stránce [kontakt](/kontakt).
 > Nepreferuji Scrum.
 > Jakákoliv metodika, která řeší problémy vaší firemní kultury, může být úspěšná.*
 
-# Co se povedlo
+## Co se povedlo
 
 ### 2018
 

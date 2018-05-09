@@ -10,7 +10,7 @@ permalink: /kontakt
 - Email: [lukas@lukasbednarik.cz](mailto:lukas@lukasbednarik.cz)
 - Přidejte si mě na sociálních sítích
   - [LinkedIn](https://cz.linkedin.com/in/lukasbednarik)
-  - [Facebook](https://www.facebook.com/p43uD)
+  - [Facebook](https://www.facebook.com/lukasbednarikcz)
   - [GitHub](https://github.com/sand-dollar)
   - [StackOverflow](http://stackoverflow.com/users/4734434/luk%C3%A1%C5%A1-bedna%C5%99%C3%ADk)
 - Bydliště: Brno
