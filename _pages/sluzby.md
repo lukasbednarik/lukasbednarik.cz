@@ -14,7 +14,7 @@ Workshop extrémního programování je určený pro vývojáře a jejich Scrum 
 
 ![Workshop XP]({{ site.url }}/assets/workshop-java-3a.jpg)
 
-| Termíny                  | Prostor                                       | Jazyk | Poznámky      |
+| Termíny 2018             | Prostor                                       | Jazyk | Poznámky      |
 |:------------------------ |:--------------------------------------------- |:-----:|:--------------|
 | ~~2. únor 2018~~         | [Impact Hub Brno](https://www.hubbrno.cz/en/) | Java  | Plně obsazeno |
 | ~~28. duben 2018~~       | [Impact Hub Brno](https://www.hubbrno.cz/en/) | Java  | Plně obsazeno |
@@ -22,12 +22,23 @@ Workshop extrémního programování je určený pro vývojáře a jejich Scrum 
 
 Další termíny, místa a programovací jazyky [na vyžádání](/kontakt).
 
-## Unit testing
+## Kanban
 
-Unit testování je klíčová praktika extrémního programování (a ve workshopu XP ji věnuji mnoho pozornosti).
-Unit testy nejen že snižují počet defektů, ale přispívají ke správnému designu kódu. Ačkoliv mnoho vývojářů píše unit testy,
-jen velmi málo lidí umí psát dobré unit testy. Dobré testy jsou jednoduché, rychlé, nezávislé, čitelné, plně automatické
-a znovupoužitelné.
+Kanban je framework, který se přizpůsobí vám, a následně začne pomalu měnit vaši firemní kulturu.
+Kanban je velmi adaptibilní. Právě proto, že Kanban přímo nepředepisuje co a jak dělat,
+může být zpočátku relativně obtížný. Ukážeme si, jak zavést Kanban formou postupné změny,
+jak Kanban zefektivní a zeštíhlí váš proces a jak Kanban přispívá k neustálému zlepšování.
+
+## Úvod do agilních metodik
+
+Na půldenním kurzu úvodu do agilních metodik si představíme Agilní manifest
+a aplikaci filozofie tohoto manifestu v praxi. Detailněji se seznámíme se Scrumem jako s nejrozšířenějším
+agilním frameworkem. Představíme si role Scrum Master, Product Owner, Scrum události a artefakty.
+Popíšeme si nejběžnější situace, se kterými se můžete jako Scrum Master setkat.
+Kromě Scrumu si něco řekneme také o dalších agilních frameworcích jako je Extrémní
+programování (lze výborně kombinovat se Scrumem) a Kanban (flexibilnější alternativa Scrumu).
+
+V praktické části si vyzkoušíme některé techniky pro efektivní plánování a odhadování.
 
 ## Školení na míru
 
@@ -53,5 +64,4 @@ který bude ve vašich podmínkách fungovat.
 
 Nebojím se jít s kůží na trh a vést tým vývojářů příkladem. Mohu sednout k počítači a začít programovat
 skutečnou aplikaci v C++ / Qt. Mohu pomoci se zlepšením architektury programu, UML návrhem,
-průběžnou integrací, nastavením projektu a
-využíváním nejnovějších features standardu C++17.
+průběžnou integrací, nastavením projektu a využíváním nejnovějších features standardu C++17.
