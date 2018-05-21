@@ -29,6 +29,8 @@ Kanban je velmi adaptibilní. Právě proto, že Kanban přímo nepředepisuje c
 může být zpočátku relativně obtížný. Ukážeme si, jak zavést Kanban formou postupné změny,
 jak Kanban zefektivní a zeštíhlí váš proces a jak Kanban přispívá k neustálému zlepšování.
 
+Kurz provázejí případové studie a zkušenosti z praxe.
+
 ## Úvod do agilních metodik
 
 Na půldenním kurzu úvodu do agilních metodik si představíme Agilní manifest
