@@ -15,3 +15,4 @@ Overhelming. Ztraci se build inspect adapt
 - hodnoty XP https://agilevelocity.com/agile/xp-values-forgotten-agile-guidance/
 - Syndrom vyhoření (jak se to projevuje, viz kniha)
 - https://www.16personalities.com/
+- enneagram
