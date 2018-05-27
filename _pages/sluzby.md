@@ -22,6 +22,7 @@ Workshop extrémního programování je určený pro vývojáře a jejich Scrum 
 
 Další termíny, místa a programovací jazyky [na vyžádání](/kontakt).
 
+{% comment %}
 ## Kanban
 
 Kanban je framework, který se přizpůsobí vám, a následně začne pomalu měnit vaši firemní kulturu.
@@ -30,6 +31,7 @@ může být zpočátku relativně obtížný. Ukážeme si, jak zavést Kanban f
 jak Kanban zefektivní a zeštíhlí váš proces a jak Kanban přispívá k neustálému zlepšování.
 
 Kurz provázejí případové studie a zkušenosti z praxe.
+{% endcomment %}
 
 ## Úvod do agilních metodik
 
