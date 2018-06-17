@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Agile Open Space 2018
-tags:
+tags: události
 ---
 
 Ve středu 13. 6. 2018 proběhl další ročník Agile Open Space.

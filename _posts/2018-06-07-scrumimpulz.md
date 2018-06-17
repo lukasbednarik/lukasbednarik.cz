@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ScrumImpulz 2018
-tags: konference
+tags: události
 ---
 
 Minulý týden jsem navštívil šestý ročník konference ScrumImpulz v Bratislavě.
