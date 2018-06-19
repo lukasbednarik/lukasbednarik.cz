@@ -22,4 +22,4 @@ Témata přednášek byla vesměs praktická:
 Ve srovnání s tvrdou konkurencí brněnských a pražských konferencí byla ScrumImpulz slabší.
 Nejvíc mi vadily dlouhé přestávky vždy po dvojici prezentací, dále ne všichni řečníci byli
 tak zkušení, aby za ně byl návštěvník ochoten zaplatit 109€ vstupu na konferenci.
-Mám rád Bratislavu a na ScrumImpulz jsem se těšil. Snad pro příští rok to bude zase lepší.
+Mám rád Bratislavu a na ScrumImpulz jsem se těšil. Snad příští rok to bude zase lepší.
