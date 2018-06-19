@@ -8,7 +8,7 @@ Video, které mě tento týden nejvíce zaujalo, je prezentace Allena Holuba s n
 The Dead of Agile. Pokud jste video ještě neviděli, je to rozhodně *must see* pro
 každého, kdo se pohybuje ve světě vývoje softwaru.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HZyRQ8Uhhmk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HZyRQ8Uhhmk?rel=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 Allen připodobňuje zavádění Agilního vývoje ve velkých společnostech ke
 [Cargo kultu](https://cs.wikipedia.org/wiki/Cargo_kult).
