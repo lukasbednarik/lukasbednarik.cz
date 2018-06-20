@@ -57,6 +57,7 @@ Podpořte tým a tým podpoří vás.
 
 - **Cena:** 5000 Kč / tým
 
+Cenu mých služeb určuje poptávka. Mám-li více práce než stíhám, zdražuji. Je-li práce málo, zlevňuji.
 Termíny [dle domluvy](/kontakt).
 
 ## Mob programming
