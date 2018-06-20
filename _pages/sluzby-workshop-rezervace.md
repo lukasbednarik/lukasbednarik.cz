@@ -7,7 +7,7 @@ parent: /workshop-extremniho-programovani
 
 Zde si můžete rezervovat místo na [workshop eXtrémního programování](/workshop-extremniho-programovani).
 Rezervace je platná 7 dní a vaše účast bude závazně potvrzena až po připsání platby.
-Zaváděcí cena jen 800Kč. Pokyny k platbě vám budou zaslány obratem.
+Zaváděcí cena je 800Kč. Pokyny k platbě vám budou zaslány obratem.
 
 Další termíny, místa a programovací jazyky [na vyžádání](/kontakt).
 

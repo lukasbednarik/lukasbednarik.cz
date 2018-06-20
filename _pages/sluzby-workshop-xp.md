@@ -5,29 +5,32 @@ permalink: /workshop-extremniho-programovani
 parent: /sluzby
 ---
 
+- [Shrnutí](/workshop-extremniho-programovani#shrnutí)
+- [Osnova](/workshop-extremniho-programovani#osnova)
+- [Materiály](/workshop-extremniho-programovani#materiály)
+- [Příprava](/workshop-extremniho-programovani#příprava)
+
+## Shrnutí
+
 - **Kapacita:** max 8 lidí na workshop
 - **Délka:** 1 den, 9:00 - 15:30
-- **Jazyk:** C++ nebo Java
-- **Zaváděcí cena:** 800 Kč
-- **Rezervace:** [Chci to!](/workshop-extremniho-programovani-rezervace)
-
-## Obsah
-
-V tomto workshopu se zaměříme na vývojářské *best practices* agilního vývoje.
-V praxi si vyzkoušíme TDD (test-driven development), unit-testování a párové programování
-v cyklu unit-test &rarr; implementace &rarr; refaktoring &rarr; unit-test. Vysvětlíme si,
-co je to stub, mock, seam a naučíme se psát unit-testy, které jsou udržovatelné,
-důvěryhodné a čitelné.
+- **Jazyky:** Java, C++, C#
 
 ![Lukáš Bednařík]({{ site.url }}/assets/xp-fall.png)
 
-Mimo jiné se dozvíte, jak do sebe zapadá XP a Scrum, jak zavést XP ve Scrum frameworku,
-jak do sebe zapadají praktiky XP a v čem je jejich spojení vyjímečné.
-
-Workshopem vás provede extrémní programátor a
-signatář [software craftmanship manifesta](http://manifesto.softwarecraftsmanship.org).
-
 ## Osnova
+
+Best practices efektivního vývoje. Vyzkoušíme si párové programování a test-driven development
+v cyklu unit-test &rarr; implementace &rarr; refaktoring &rarr; unit-test.
+Povíme si, co je to stub, mock, seam, jaké existují testovací vzory a jak
+psát unit-testy, které jsou udržovatelné, důvěryhodné a čitelné.
+Celý workshop je zastřešen teorií Extrémního programování, která vysvětluje,
+proč kombinace některých praktik jsou efektivnější.
+Vzniklá metodika je pak více než jen součet svých částí.
+
+Nakonec si řekneme, jak do sebe zapadá XP a Scrum a jak zavést XP ve Scrum frameworku.
+
+**Konečnou osnovu kurzu vždy přizpůsobuji potřebám zákazníka.**
 
 1. Historie Extrémního Programování (XP)
 1. Praktiky XP jako puzzle
@@ -53,6 +56,9 @@ signatář [software craftmanship manifesta](http://manifesto.softwarecraftsmans
 1. Kvalita softwaru
 1. Nástroje a frameworky
 
+Workshopem vás provede extrémní programátor a
+signatář [software craftmanship manifesta](http://manifesto.softwarecraftsmanship.org).
+
 ## Materiály
 
 Prázdný projekt s nastaveným testovacím prostředím a dalšími instrukcemi
@@ -62,5 +68,11 @@ naleznete v [GIT repozitáři](https://github.com/sand-dollar/clean-project):
 git clone https://github.com/sand-dollar/clean-project
 ```
 
-Na workshop je nutné si přinést svůj notebook a **předem si vyzkoušet**,
-že jste schopni projekt zkompilovat.
+## Příprava
+
+Je důležité přinést si **vlastní notebook**
+a zkompilovat si **[prázdný projekt](https://github.com/sand-dollar/clean-project)**.
+
+Kvůli párovému programování je nutné si **nainstalovat grafické IDE** (ideálně
+[Visual Studio Code](https://code.visualstudio.com/)), protože váš kolega nemusí znát klávesové
+zkratky pro VIM či Emacs.
