@@ -81,6 +81,8 @@ Skupina lidí programujících různými jazyky je vítána.
 - **Délka:** 1 den, 9:00 - 15:30
 - **Jazyky:** bez omezení
 
+![Mob programming]({{ site.url }}/assets/abstract-architecture.png)
+
 ### Pro vývojáře
 
 - **Cena:** Testovací režim - v přípravě
