@@ -70,7 +70,7 @@ Myšlenkově náročný proces psaní softwaru je komplikován špatným způsob
 metodikou, neporozuměním zákazníkovi a v neposlední řadě lidskými vlastnostmi a vztahy. Lidé neznají
 způsob, jak psát perfektní kód. Systémy, pyšnící se extrémní bezpečností nebo spolehlivostí, nejsou
 ve skutečnosti vůbec bezpečné nebo spolehlivé. Často jde jen o marketing. Nakonec neúspěchem končí
-více softwarových projektů, než si drtivá většina jejich manažerů připouští1.
+více softwarových projektů, než si drtivá většina jejich manažerů připouští.
 
 Způsob vývoje softwaru se během posledních desetiletí výrazně změnil. Bohužel lidé jen velmi obtížně
 dokážou změnit svůj mentální model (tj. model fungování světa a věcí, na jehož základě dělají svá rozhodnutí).
