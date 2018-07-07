@@ -4,7 +4,7 @@ title: Kanban jako nástroj
 tags: agile metodiky
 ---
 
-## Minimalistický Kanban
+## Minimalismus
 
 Porovnáme-li Kanban s jinou Agilní metodikou (Scrum, XP, ...),
 bude Kanban vypadat minimalisticky. Kromě pěti základních principů
