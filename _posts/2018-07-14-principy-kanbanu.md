@@ -7,7 +7,7 @@ tags: agile metodiky
 V jednom z předchozích článků jsem si dělal [legraci z pěti principů Kanbanu](/kanban-principles-explained):
 
 - vizualizujte,
-- omezte rozpracovanou práci,
+- omezte rozdělanou práci,
 - řiďte tok hodnoty,
 - mějte psaná pravidla,
 - neustále se zlepšujte.
@@ -16,14 +16,8 @@ Dnes si tyto principy popíšeme poctivěji.
 
 ## Vizualizujte
 
-Kanban neříká, co a jak vizualizovat. Začněte tedy tam, kde jste teď:
+Kanban neříká, co a jak vizualizovat. Začněte tam, kde jste teď:
 snažte se porozumnět současnému procesu tak, jak se opravdu děje v praxi.
-
-Jako příklad si můžeme vzít vývoj software. Zákazník zadá požadavek,
-ten je schálen, je navržena patřičná změna architektury produktu,
-změna je implementována, testována a předána zákazníkovi.
-Zde máme šest stavů, ve kterých se můžeme nacházet: požadavek, schválení,
-návrh architektury, implementace, test, předání zákazníkovi.
 
 Kanban respektuje všechny role, tituly i rozdpovědnosti lidí ve firmě.
 Nejdříve porozumějte současnému procesu. Kolik úkolů je průměrně v jednotlivých stavech?
@@ -31,7 +25,7 @@ Jak dlouho a kde úkol čeká? Kde je úzké hrdlo? Můžeme nějak rozšířit 
 získali ještě více informací? Co blokuje některé úkoly?
 Vytvořte vizualizaci, která vám umožní vidět skutečné problémy a dělat lepší rozhodnutí.
 
-## Omezte rozdělanou; práci
+## Omezte rozdělanou práci
 
 Přepínání kontextu je zlo. Kanban to ví. Kanban chce omezit rozdělanou práci.
 Kromě zmenšení ztráty z přepínání kontextu má tato změna ještě další pozitivní efekt.
@@ -71,10 +65,9 @@ Maximalizovat tok hodnoty znamená být schopen správně prioritizovat a doruč
 Stanovte explicitní pravidla pro svůj proces. Pravidla by měla být jednoduchá, dobře definovaná,
 viditelně umístěná, měla by se vždy dodržovat a současně být připravena být okamžitě změněna.
 
-Všimněte si, že dodržování pravidel a připravenost pravidla změnit, spolu souvisí.
+Dodržování pravidel a připravenost pravidla změnit, spolu souvisí.
 Velmi špatnou aplikací principů Kanbanu je nastavit WIP limity a nikdy se nepokusit tyto limity překročit
-nebo snížit. Pravidla jsou pevně dána právě proto, abychom odlišili, kdy dodržujeme proces a kdy
-už experimentujeme a inovujeme.
+nebo snížit. Pravidla jsou pevně dána proto, abychom je mohli porušit.
 
 WIP limity jsou jen jedním typem pravidel. Mezi další pravidla patří definice přechodů
 mezi stavy na kanban tabuli (kdy je úkol připraven, kdy je dokončen...),

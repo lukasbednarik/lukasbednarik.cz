@@ -14,12 +14,12 @@ User stories je formát zaznamenávání požadavků z uživatelské perspektivy
 Bill Wake, autor knihy "eXtreme Programming Explored", navrhl akronym INVEST jako memotechnickou
 pomůcku pro to, jak by měla vypadat dobře definovaná user story:
 
-- **I**ndependent (nezávislá; stories lze řešit v libovolném pořadí),
-- **N**egotiable (umožňuje další vyjednávání a specifikaci),
-- **V**aluable (hodnotná pro zákazníka),
-– **E**stimable (může být estomována),
-– **S**mall (malá),
-– **T**estable (testovatelná).
+-  **I**ndependent (nezávislá; stories lze řešit v libovolném pořadí),
+-  **N**egotiable (umožňuje další vyjednávání a specifikaci),
+-  **V**aluable (hodnotná pro zákazníka),
+-  **E**stimable (může být estomována),
+-  **S**mall (malá),
+-  **T**estable (testovatelná).
 
 Scrum požaduje psaní tiketů ve formátu user story (přesněji říká, že každý přírůstek produktu by měl mít
 nějakou hodnotu pro zákazníka). User story může být dobrý formát pro novou funkcionalitu, ale
