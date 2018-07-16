@@ -31,7 +31,7 @@ Jak dlouho a kde úkol čeká? Kde je úzké hrdlo? Můžeme nějak rozšířit 
 získali ještě více informací? Co blokuje některé úkoly?
 Vytvořte vizualizaci, která vám umožní vidět skutečné problémy a dělat lepší rozhodnutí.
 
-## Omezte rozpracovanou práci
+## Omezte rozdělanou; práci
 
 Přepínání kontextu je zlo. Kanban to ví. Kanban chce omezit rozdělanou práci.
 Kromě zmenšení ztráty z přepínání kontextu má tato změna ještě další pozitivní efekt.

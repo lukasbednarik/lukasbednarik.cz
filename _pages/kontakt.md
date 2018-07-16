@@ -4,19 +4,9 @@ title: 'Kontakt'
 permalink: /kontakt
 ---
 
-## Informace
-
-- Mobil: [723 759 530](tel:+420723759530)
-- Email: [lukas@lukasbednarik.cz](mailto:lukas@lukasbednarik.cz)
-- Přidejte si mě na sociálních sítích
-  - [LinkedIn](https://cz.linkedin.com/in/lukasbednarik)
-  - [Facebook](https://www.facebook.com/lukasbednarikcz)
-  - [GitHub](https://github.com/sand-dollar)
-  - [StackOverflow](http://stackoverflow.com/users/4734434/luk%C3%A1%C5%A1-bedna%C5%99%C3%ADk)
-- Bydliště: Brno
-- IČ: [75488931](http://wwwinfo.mfcr.cz/cgi-bin/ares/darv_res.cgi?odp=html&ICO=75488931)
-
-Další [informace o mně](/o-mne) najdete na samostatné stránce.
+Pomáhám firmám vyvíjet software rychleji a levněji.
+Pomáhám vývojářům v kariérním rozvoji.
+Mojí doménou jsou praktiky a metodiky vývoje softwaru.
 
 ## Rychlý email
 
@@ -38,5 +28,19 @@ Další [informace o mně](/o-mne) najdete na samostatné stránce.
   </fieldset>
 </form>
 
+## Informace
 
+- Mobil: [723 759 530](tel:+420723759530)
+- Email: [lukas@lukasbednarik.cz](mailto:lukas@lukasbednarik.cz)
+- Přidejte si mě na sociálních sítích
+  - [LinkedIn](https://cz.linkedin.com/in/lukasbednarik)
+  - [Facebook](https://www.facebook.com/lukasbednarikcz)
+  - [GitHub](https://github.com/sand-dollar)
+  - [StackOverflow](http://stackoverflow.com/users/4734434/luk%C3%A1%C5%A1-bedna%C5%99%C3%ADk)
+- Bydliště: Brno
+- IČ: [75488931](http://wwwinfo.mfcr.cz/cgi-bin/ares/darv_res.cgi?odp=html&ICO=75488931)
 
+Další [informace o mně](/o-mne) najdete na samostatné stránce.
+
+![Lukáš Bednařík]({{ site.url }}/assets/lukasbednarik.jpg)
+Foto 2016.

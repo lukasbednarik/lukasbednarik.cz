@@ -1,17 +1,11 @@
 ---
 layout: page
-title: 'Ego stránka'
+title: 'Co se povedlo'
 permalink: /o-mne
 parent: /kontakt
 ---
 
 Kontaktní informace naleznete na stránce [kontakt](/kontakt).
-
-> *Praktiky a metodiky vývoje software.
-> Nepreferuji Scrum.
-> Jakákoliv metodika, která řeší problémy vaší firemní kultury, může být úspěšná.*
-
-## Co se povedlo
 
 ### 2018
 
@@ -49,6 +43,3 @@ Kontaktní informace naleznete na stránce [kontakt](/kontakt).
 - Privátní projekt [puzzleSEQ](https://github.com/puzzleSEQ) - framework v C++ / Qt pro analýzu sekvenačních dat.
 - Konference Qt World Summit v Berlíně.
 - Pracuji na vývoji neviditelných vojenských radiolokátorů [VERA-NG](https://cs.wikipedia.org/wiki/Pasivn%C3%AD_radiolok%C3%A1tor_V%C4%9Bra) v C++11.
-
-![Lukáš Bednařík]({{ site.url }}/assets/lukasbednarik.jpg)
-Foto 2016.
