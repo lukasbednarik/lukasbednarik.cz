@@ -4,7 +4,8 @@ title: 'Kontakt'
 permalink: /kontakt
 ---
 
-Pomáhám firmám vyvíjet software rychleji a levněji.
+Jsem technický kouč.
+Pomáhám týmům vyvíjet software rychleji a kvalitněji.
 Pomáhám vývojářům v kariérním rozvoji.
 Mojí doménou jsou praktiky a metodiky vývoje softwaru.
 
@@ -18,7 +19,7 @@ Mojí doménou jsou praktiky a metodiky vývoje softwaru.
     <input placeholder="Email" type="email" name="_replyto" tabindex="2" required>
   </fieldset>
   <fieldset>
-    <textarea placeholder="Jak vám můžu pomoci?" name="message" tabindex="3" required></textarea>
+    <textarea placeholder="S čím vám můžu pomoci?" name="message" tabindex="3" required></textarea>
   </fieldset>
   <fieldset>
     <input type="text" name="_gotcha" style="display:none" />

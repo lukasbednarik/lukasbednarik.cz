@@ -17,7 +17,9 @@ author:
   name:           'Lukáš Bednařík'
   email:          'lukas@lukasbednarik.cz'
 #description:      'No Scrum bullshit ...ale spokojení lidé a kvalitní produkt.'
-description:      'Jsem technický kouč. Zabývám se efektivním vývojem softwaru.'
+#description:      'Jsem technický kouč. Zabývám se efektivním vývojem softwaru.'
+#description:      'Jsem technický kouč. Pomáhám týmům vyvíjet software rychleji a kvalitněji.'
+description:      'Pomáhám týmům vyvíjet software rychleji a kvalitněji.'
 seo:
-  description:    'Praktiky a metodiky vývoje software. No Scrum bullshit ...ale spokojení lidé a kvalitní produkt.'
-  keywords:       'firemní kultury,praktiky,metodiky,vývoj software,školení,extrémní programování,workshop'
+  description:    'Pomáhám týmům vyvíjet software rychleji a kvalitněji.'
+  keywords:       'firemní kultury,praktiky,metodiky,vývoj software,školení,extrémní programování,workshop,kanban'
