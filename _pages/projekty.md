@@ -13,9 +13,9 @@ Kalendář se zaměřuje jen na tuzemské akce.
 
 ## [Code Beer](https://codebeer.cz)
 
-Za Code Beer se skrývá komunita, která propojuje vývojáře seniory,
+Za Code Beer stojí komunita propojující vývojáře seniory,
 juniory a lidi se zájmem o vývoj software. Členové komunity se vzájemně
-podporují a díky tomu rostou. Sdílíme zkušenosti z rostoucích firem, z korporátů, konferencí. 
+podporují a díky tomu rostou. Sdílíme zkušenosti z rostoucích firem, korporátů a konferencí. 
 
 ![Code Beer]({{ site.url }}/assets/code-beer-small.png)
 
