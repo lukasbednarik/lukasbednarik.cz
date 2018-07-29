@@ -11,11 +11,13 @@ title: Domů
         {{ post.title }}
       </a>
     </h1>
-    {% include tags.html %}
-    <div class="post-date">
-      {% include date.html date=post.date %}
+    <div class="post-body">
+      {% include tags.html %}
+      <div class="post-date">
+        {% include date.html date=post.date %}
+      </div>
+      {{ post.content }}
     </div>
-    {{ post.content }}
   </div>
   {% endfor %}
 </div>
