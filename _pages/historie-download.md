@@ -7,7 +7,7 @@ parent: /knihy
 
 Link ke stažení knihy vám bude zaslán na email automaticky.
 
-<form action="//lukasbednarik.us16.list-manage.com/subscribe/post?u=5db63c35ed1c101df9888cc83&amp;id=59ebc90bb8" method="post" id="contact" class="validate" novalidate>
+<form action="https://lukasbednarik.us16.list-manage.com/subscribe/post?u=5db63c35ed1c101df9888cc83&amp;id=59ebc90bb8" method="post" id="contact" class="validate" novalidate>
   <fieldset>
     <input type="email" value="" name="EMAIL" class="email" tabindex="1" placeholder="Váš email" required>
   </fieldset>
