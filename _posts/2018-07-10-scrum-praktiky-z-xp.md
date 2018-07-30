@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 praktiky Scrumu převzaté z XP
-tags: scrum, xp
+tags: scrum xp
 ---
 
 S mainstreamovým rozšířením Scrumu to vypadá, jakoby všechny dobré Agilní praktiky
