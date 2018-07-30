@@ -352,7 +352,7 @@ tbody tr:nth-child(odd) th {
 .pagination-item {
   display: block;
   padding: 0.2rem 1rem;
-  border: 1px solid rgba(60, 20, 20, 0.25);
+  border: 1px solid #ccc;
 }
 .pagination-item:first-child {
   margin-bottom: -1px;
@@ -361,6 +361,8 @@ tbody tr:nth-child(odd) th {
 /* Only provide a hover state for linked pagination items */
 a.pagination-item:hover {
   background-color: #f0f0f0;
+  color:#3C1414;
+  text-decoration: none;
 }
 
 @media (min-width: 30em) {
@@ -723,3 +725,6 @@ a.sidebar-nav-item:focus {
   }
 }
 
+a.pagination-item {
+   color: #313131;
+}
