@@ -5,7 +5,7 @@ tags: praktiky programování
 ---
 
 Během přípravy na mobování v praxi jsem si sepsal několik situací, na které
-můžeme narazit v praxi. Nejde o mé zkušenosti, čerpal jsem z videí a blogů.
+můžeme narazit. Nejsou to mé zkušenosti, čerpal jsem z videí a blogů.
 
 Nevíte-li, [co vlastně mobování je](/mob-programming-dejte-mu-sanci), přečtěte si můj první článek.
 
