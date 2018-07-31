@@ -11,7 +11,7 @@ Co jim pomáhá? Na čem by chtěli zapracovat?
 Následuje příprava *školení na míru*. Nesnažím se jen předat znalosti,
 ale naučit účastníky tomu, co jim pomůže v praxi.
 
-## Extrémní programování
+## [Extrémní programování](/workshop-extremniho-programovani)
 
 Váš kód se na vás už nebude lepit jako smola. Workshop je cesta k technické excelenci,
 pocitu z dobře odvedené práce a k prohloubení týmové spolupráce.
@@ -23,7 +23,7 @@ pocitu z dobře odvedené práce a k prohloubení týmové spolupráce.
 
 ![Workshop XP]({{ site.url }}/assets/workshop-java-3a.jpg)
 
-## Mob programming
+## [Mob programming](/mob-programming)
 
 Mob programming, jeden z trendů posledních let,
 podpoří týmového ducha, sdílení znalostí a kvalitu kódu.
@@ -37,7 +37,7 @@ zrychlí se tok informací a nevzniká legacy code.
 
 ![Mob programming]({{ site.url }}/assets/abstract-architecture.png)
 
-## Agilní architektura
+## [Agilní architektura](/skoleni-agilni-architektura)
 
 Jakmile jednou vytvoříme architekturu softwarového projektu,
 jak zabráníme tomu, aby v průběhu času degradovala?
