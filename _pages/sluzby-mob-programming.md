@@ -38,11 +38,7 @@ Skupina lidí programujících různými jazyky je vítána.
 
 ### Pro vývojáře
 
-| Termíny 2018             | Prostor                                       | Poznámky      |
-|:------------------------ |:--------------------------------------------- |:--------------|
-| říjen 2018               | [Impact Hub Brno](https://www.hubbrno.cz/en/) | V přípravě    |
-
-- **Cena:** Testovací režim - v přípravě
+- **Cena:** Na dotaz
 
 Termíny [dle domluvy](/kontakt).
 

@@ -40,11 +40,7 @@ V praktické části si vyzkoušíme Architektonické kata.
 
 ### Pro vývojáře a firmy
 
-| Termíny 2018             | Prostor                                       | Poznámky      |
-|:------------------------ |:--------------------------------------------- |:--------------|
-| říjen 2018               | [Impact Hub Brno](https://www.hubbrno.cz/en/) | V přípravě    |
-
-- **Cena:** Testovací režim - v přípravě
+- **Cena:** Na dotaz
 
 Termíny [dle domluvy](/kontakt).
 
