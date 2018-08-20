@@ -67,18 +67,18 @@ Konečnou osnovu kurzu vždy přizpůsobuji konkrétním potřebám zákazníka.
 
 1. Historie Extrémního Programování (XP)
 1. Praktiky XP jako puzzle
+   - Párové programování
+   - Průběžná integrace (CI)
+   - Unit-testování
+   - Sdílené vlastnictví kódu
+   - Jednoduchý design
+   - Metafora
+   - Plánovací hra
 1. Unit-testování
      - Dobrý unit-test
      - Stub
      - Mock
      - Frameworky Catch a FakeIt
-1. Párové programování
-1. Průběžná integrace (CI)
-1. Další praktiky XP
-   - Sdílené vlastnictví kódu
-   - Jednoduchý design
-   - Metafora
-   - Plánovací hra
 1. Práce s legacy kódem
    - Unit-testování v legacy kódu
    - Refaktoring
@@ -87,7 +87,17 @@ Konečnou osnovu kurzu vždy přizpůsobuji konkrétním potřebám zákazníka.
    - Společné praktiky Scrumu a XP
    - XP ve Scrumu jako cesta ke zlepšování
 1. Kvalita softwaru
+1. Jak psát dobré *stories* a *tasks*
+1. Objektově orientovaný design pomocí CRC karet
+1. Současné trendy
+   - Mob programming
+   - #NoProjects
+   - #NoEstimates
+   - BDD / DDD
+   - DevOps
+   - Continuous release
 1. Nástroje a frameworky
+
 
 ![Lukáš Bednařík]({{ site.url }}/assets/xp-fall.png)
 
