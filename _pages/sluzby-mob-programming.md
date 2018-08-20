@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Mob Programming'
+title: 'Mob programming'
 permalink: /mob-programming
 parent: /sluzby
 ---
@@ -44,7 +44,19 @@ Termíny [dle domluvy](/kontakt).
 
 ## Detailní osnova školení
 
-V přípravě. Bude zveřejněna.
+Osnova je orientační.
+Konečnou osnovu kurzu vždy přizpůsobuji konkrétním potřebám zákazníka.
+
+1. Špatné zkušenosti s Agilním vývojem
+1. Praktiky jako puzzle - jak do sebe zapadají
+1. Párové programování
+1. Mob programming
+     - Úvod a základní principy
+     - Proč mobování funguje
+     - Časté chyby
+1. Mob programming prakticky
+1. Retrospektiva
+
 
 ## Materiály a příprava
 
