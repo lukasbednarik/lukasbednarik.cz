@@ -12,6 +12,42 @@ layout: default
 </div>
 
 <div class="related">
+  {%- assign titlePrinted = 0 -%}
+  {%- for tag in page.tags -%}
+    {%- if titlePrinted == 1 -%}
+      {%- break -%}
+    {%- endif -%}
+    {%- for post in site.tags[tag] -%}
+      {%- if page.url == post.url -%}
+        {%- continue -%}
+      {%- endif -%}
+      <h2>Podobné příspěvky</h2>
+      {%- assign titlePrinted = 1 -%}
+      {%- break -%}
+    {%- endfor -%}
+  {%- endfor -%}
+  {%- assign similarPosts = 5 -%}
+  <ul class="related-posts">
+    {%- for tag in page.tags -%}
+      {%- for post in site.tags[tag] limit:5 -%}
+        {%- if similarPosts == 0 -%}
+          {%- break -%}
+        {%- endif -%}
+        {%- if page.url == post.url -%}
+          {%- continue -%}
+        {%- endif -%}
+        {%- assign similarPosts = similarPosts | minus: 1 -%}
+        <li>
+          <h3>
+            <a href="{{ post.url }}">
+              {{ post.title }}
+            </a>
+          </h3>
+        </li>
+      {%- endfor -%}
+    {%- endfor -%}
+  </ul>
+
   <h2>Nedávné příspěvky</h2>
   <ul class="related-posts">
     {%- for post in site.related_posts limit:5 -%}
