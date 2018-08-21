@@ -46,7 +46,7 @@ Metodika, kterou se naučíte, je více než jen součet svých částí.
 | ~~28. duben 2018~~       | [Impact Hub Brno](https://www.hubbrno.cz/en/) | Java  | Plně obsazeno |
 | 6. září 2018             | [Impact Hub Brno](https://www.hubbrno.cz/en/) | C++   | [Rezervovat](/workshop-extremniho-programovani-rezervace) |
 
-- **Cena:** 800 Kč / člověk
+- **Cena:** 900 Kč / člověk
 
 Další termíny, místa a programovací jazyky [na vyžádání](/kontakt).
 
@@ -58,7 +58,7 @@ Cenu mých služeb určuje poptávka.
 Mám-li více práce než stíhám, zdražuji.
 Je-li práce málo, zlevňuji.
 
-- **Cena:** 5000 Kč / tým
+- **Cena:** 6000 Kč / tým
 
 ## Detailní osnova školení
 
