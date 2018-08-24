@@ -4,8 +4,11 @@ title: Agilní konference na rok 2018
 tags: události
 ---
 
-O řečnících stále nepadlo ani slovo, ale termíny největších konferencí v ČR už známe. Mezi hlavní organizátory agilních konferencí u nás
-patří Agilia a Agilní Asociace.
+O řečnících stále nepadlo ani slovo, ale termíny největších konferencí v ČR už známe.
+Mezi hlavní organizátory agilních konferencí u nás patří Agilia a Agilní Asociace.
+
+**Update:** Nově najdete všechny konference a meetupy v [Agilním kalendáři](https://agilnikalendar.cz/).
+Zajímá-li vás, [jak kalendář vznikl](/agilni-kalendar/), čtěte tady.
 
 ### Agile Coach Camp
 

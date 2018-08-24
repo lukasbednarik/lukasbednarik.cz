@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ideální pohovor
-tags: management pohovory
+tags: pohovory
 ---
 
 ## Pohled uchazeče
@@ -70,5 +70,6 @@ Takto zjistíme, jestli uchazeč umí:
 - navrhnout jednoduchý design a diskutovat nad ním,
 - psát unit testy (budeme-li to vyžadovat).
 
-Obrazovku notebooku je dobré promítnout na velké plátno nebo TV, takže
+Obrazovku notebooku je dobré promítnout na velké plátno nebo [sdílet
+kód realtime](/jak-na-programovani-pri-pohovorech/), takže
 všichni přítomní mohou sledovat, co se děje.

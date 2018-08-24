@@ -4,8 +4,8 @@ title: Jak na programování při pohovorech
 tags: pohovory
 ---
 
-V jednom z předchozích článků jsem psal, jak by bylo krásné vyzkoušet kandidáta na pohovoru
-přímo pomocí párového programování. Pokud se nejedná o test teoretických znalostí, pak psaní
+V jednom z [předchozích článků](/idealni-pohovor/) jsem psal, jak by bylo krásné vyzkoušet kandidáta na pohovoru
+přímo pomocí [párového programování](/parove-programovani/). Pokud se nejedná o test teoretických znalostí, pak psaní
 kódu na tabuli zbytečně vyvádí kandidáty z komfortní zóny a navíc po nich chceme něco, co již
 nikdy ve firmě dělat nebudou. Programovat ale umět musí. Jak na to?
 

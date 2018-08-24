@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Principy Kanbanu
-tags: agile metodiky
+tags: kanban metodiky
 ---
 
 V jednom z předchozích článků jsem si dělal [legraci z pěti principů Kanbanu](/kanban-principles-explained):
@@ -39,7 +39,8 @@ z připravené hromádky.
 Nakonec, méně rozpracovaných úkolů znamená, že to, co se jednou otevře, je rychleji doručeno zákazníkovi.
 Firma má méně rozpracovaných úkolů "skladem" a doručené dodávky generují zisk.
 
-Limit rozdělané práce, tzv. "Work In Progress" limit, se obvykle označuje zkráceně WIP limit.
+[Limit rozdělané práce](/wip-vs-kapacita/),
+tzv. "Work In Progress" limit, se obvykle označuje zkráceně WIP limit.
 
 ## Řiďte tok hodnoty
 

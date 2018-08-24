@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Samoorganizace týmu
-tags: agile scrum
+tags: scrum leadership
 ---
 
 Na konci knihy *Scrum and XP from the Trenches* jsem nalezl dvě pěkné citace na téma

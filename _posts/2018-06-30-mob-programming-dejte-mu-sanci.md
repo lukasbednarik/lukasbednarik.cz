@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mob Programming - dejte mu šanci
-tags: praktiky programování
+tags: mobování praktiky programování
 ---
 
 Mob programming je fenoménem posledních let.
@@ -70,8 +70,8 @@ Tak například:
 - hotové věci se ihned zkoušejí - rychlá zpětná vazba od produkťáka nebo zákazníka znamená
   méně zbytečné práce pro tým.
 
-Největší síla mobování spočívá právě v eliminování zbytečné práce, zbytečné komunikace
-a zbytečných meetingů. Rád bych otázku "jak může Mob Programming být efektivní" parafrázoval
+Největší síla mobování spočívá právě v eliminování zbytečné práce, zbytečné komunikace, zbytečných meetingů.
+Rád bych otázku "jak může Mob Programming být efektivní" parafrázoval
 otázkou "jak může programování, ve kterém každý pracuje na svém úkolu samostatně, být efektivní?"
 
 Autor mobování, Woody Zuill, nedoporučuje tuto praktiku každému. Woody společně s týmem hledal způsob,

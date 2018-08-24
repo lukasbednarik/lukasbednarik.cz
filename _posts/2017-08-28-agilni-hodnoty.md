@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Agilní hodnoty
-tags: agile scrum
+tags: scrum agile
 ---
 
 ## Proč jsou hodnoty důležité
@@ -32,11 +32,11 @@ zaměstnanců probublaly nahoru k vedení. Jsou-li hodnoty diktovány vedením
 
 ## Agilní hodnoty
 
-Agilní manifest mluví o čtyřech hodnotách vývoje software.
+Agilní manifest mluví o [čtyřech hodnotách vývoje software](/agile-s-velkym-a/).
 Komunikace a důvěra jsou
 z mého pohledu stavebním kamenem jakéhokoliv současného způsobu řízení
 (agilní metodiky, Management 3.0 nebo cokoliv jiného).
-Agilní metodiky mluví o samoorganizovaných týmech a postmoderní
+Agilní metodiky mluví o [samoorganizovaných týmech](/samoorganizace-v-tymu/) a postmoderní
 management klade důraz na to, aby lidé viděli smysl ve své práci.
 
 Jako kouč se snažím držet těchto třech hodnot a podporovat je:

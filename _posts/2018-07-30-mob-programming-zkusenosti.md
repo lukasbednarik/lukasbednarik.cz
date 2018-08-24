@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Zkušenosti z mobování
-tags: praktiky programování
+tags: mobování praktiky programování
 ---
 
 Během přípravy na mobování v praxi jsem si sepsal několik situací, na které

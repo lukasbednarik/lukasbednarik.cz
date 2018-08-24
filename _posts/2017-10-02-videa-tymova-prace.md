@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Důvěra a rovnost v týmu
-tags: management
+tags: leadership
 ---
 
 Motivace lidí a týmů je velmi komplexní téma. Ovšem dříve, než budeme mluvit o faktorech

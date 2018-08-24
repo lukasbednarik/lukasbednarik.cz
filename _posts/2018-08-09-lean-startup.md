@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lean startup
-tags: agile lean
+tags: lean metodiky agile
 ---
 
 Vyvíjíte produkt a netušíte, jak budou zákazníci reagovat.

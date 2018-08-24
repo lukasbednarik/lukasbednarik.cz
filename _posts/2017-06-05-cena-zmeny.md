@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cena změny v agilním vývoji
-tags: agile management praktiky
+tags: management praktiky agile
 ---
 
 Jeden ze starých univerzálních předpokladů ve vývoji software je, že cena za změnu požadavků
@@ -17,9 +17,10 @@ znamená psát kvalitní kód. Křivka samotná je výsledkem použitých prakti
 
 ![]({{ site.url }}/assets/cena-zmeny-klasicky-a-agilni-vyvoj.svg)
 
-Ve snaze co nejvíce omezit křivku ceny za změnu se dle mého názoru dostalo nejdále extrémní programování.
-Extrémní programování je založeno na třech klíčových praktikách: refaktoringu, párovém programování,
-unit testování.
+Ve snaze co nejvíce omezit křivku ceny za změnu se dle mého názoru dostalo nejdále
+[Extrémní programování](/xp-jako-puzzle/).
+Extrémní programování je založeno na třech klíčových praktikách: refaktoringu, [párovém programování](/parove-programovani/),
+[unit testování](/unit-testing/).
 
 ## Refaktoring
 
@@ -60,4 +61,6 @@ To nemusí platit, pokud:
 
 Možná potom má smysl psát automatické testy. Pokud psaní testů vynecháte, refaktoring a párové programování
 nebudou nikdy dobře fungovat.
+
+Chcete-li vědět víc, příhlašte se na můj [workshop eXtrémního programování](/workshop-extremniho-programovani).
 

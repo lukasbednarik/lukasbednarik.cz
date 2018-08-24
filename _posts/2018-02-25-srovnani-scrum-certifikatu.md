@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Srovnání Scrum certifikátů
-tags: scrum agile
+tags: vzdělávání scrum
 ---
 
 > Agilní certifikáty jsou k ničemu. Přesto si jeden pořiďte.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Typy agilních koučů
-tags: agile koučování
+tags: koučování agile
 ---
 
 ## Co kouč musí umět

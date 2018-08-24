@@ -6,7 +6,8 @@ tags: efektivita kanban
 
 S přibývajícím množstvím úkolů kolem prezentací a tohoto webu jsem
 začal mít mírný zmatek kolem toho, co je třeba udělat.
-Hledal jsem jednoduchý online kanban board pro osobní použití.
+Protože pro organizaci práce používám [Kanban](/principy-kanbanu/),
+hledal jsem jednoduchý online kanban board pro osobní použití.
 Nakonec jsem vyzkoušel tři: Trello, Kanbanachi a KanbanFlow.
 
 Mezi největší výhody online kanban boardu patří

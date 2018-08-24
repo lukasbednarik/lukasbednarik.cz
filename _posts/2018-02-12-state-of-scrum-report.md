@@ -27,4 +27,4 @@ Z definice Scrumu tyto týmy vlastně nedělají Scrum. Chybějící retrospekti
 nepochopení Scrumu týmy.
 
 State of Scrum report se na 36 stranách snaží čtenáře přesvědčit, že Scrum je super a společnosti
-z něj mají užitek. Při kritičtějším pohledu se nicméně celý report rozpadá.
+z něj mají užitek. Při kritičtějším pohledu se celý report rozpadá jako domeček z karet.

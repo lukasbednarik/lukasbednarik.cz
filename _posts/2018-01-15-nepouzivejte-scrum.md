@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nepoužívejte Scrum, nechcete-li řešit problémy
-tags: scrum agile
+tags: scrum leadership agile
 ---
 
 Scrum je výborný framework umožňující zpětnou vazbu vývojářům,

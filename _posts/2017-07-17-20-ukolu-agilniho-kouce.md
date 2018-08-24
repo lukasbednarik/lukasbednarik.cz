@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 20 úkolů Agilního kouče
-tags: agile management
+tags: koučování agile
 ---
 
 Přehled úkolů a zodpovědností agilního kouče (AC), které vnímám jako důležité.
@@ -43,4 +43,5 @@ Děláte všechny tyto věci? Pak musíte být velmi unaveni.
 >
 > --- ScrumMaster manifesto
 
-Role Agilního kouče je práce na plný úvazek. Říká se, že maximální počet týmů, které může agilní kouč efektivně vést, jsou dva.
+Role Agilního kouče je práce na plný úvazek. Říká se, že maximální počet týmů,
+které může agilní kouč efektivně vést, jsou dva. Agilních koučů můžeme rozlišit [několik typů](/typy-agilnich-koucu/).

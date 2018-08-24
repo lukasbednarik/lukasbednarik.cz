@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Principy Kanbanu
-tags: kanban agile
+tags: kanban principy
 ---
 
-Kanban stojí na pěti klíčových principech:
+[Kanban](/kanban-jako-nastroj/) stojí na pěti klíčových principech:
 
 - vizualizace workflow,
-- omezení WIP,
+- omezení [WIP](/wip-vs-kapacita/),
 - řízení toku (flow),
 - explicitním nastavení pravidel,
 - společném zlepšování.

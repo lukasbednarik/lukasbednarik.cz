@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Zkreslení výběrem
-tags: principy statistika
+tags: matematika principy
 ---
 
 Zkreslení výběrem je matematický fenomén, který chtě nechtě každý den zažíváme v praxi.

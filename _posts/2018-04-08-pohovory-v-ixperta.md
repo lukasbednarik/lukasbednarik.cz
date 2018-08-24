@@ -4,7 +4,7 @@ title: Stále stejné pohovory
 tags: pohovory
 ---
 
-Jednou z věcí, které jsem se naučil ve své krátké kariéře agilního kouče, je nedělat
+Jednou z věcí, kterou jsem se naučil na své pozici "agilního kouče", je nedělat
 změnu tam, kde není vítána. Jednou z takových změn byl můj pokus o zlepšení přijímacích pohovorů.
 Bylo to v době, kdy jsme akutně sháněli nového člena našeho Scrum týmu. Představy ideálního vývojáře
 byly přibližně takovéto: dobrá znalost programovacího jazyka, komunikativní, týmový hráč, zkušenosti
@@ -25,7 +25,7 @@ typ vývojáře, který se ale vůbec nemusí hodit pro práci, jaká se u nás 
 Otázky, které na pohovorech můj šéf kladl, se za posledních pět let nezměnily.
 Mí kolegové a já jsme byli všichni přijati dle úplně stejných otázek.
 
-Bylo na čase se zamyslet nad tím, jak vlastně děláme pohovory. Klademe správné otázky?
+Bylo na čase se zamyslet nad tím, [jak by měl vypadat dobrý pohovor](/idealni-pohovor/). Klademe správné otázky?
 Pomáhají nám tyto otázky zjistit to, co chceme zjistit? Nebo je to jenom taková naše formalita?
 Nejsme předujatí? Umožňujeme různorodost lidí v týmu? Chtěl jsem si promluvit se šéfem.
 

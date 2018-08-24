@@ -1,11 +1,14 @@
 ---
 layout: post
 title: Párové programování
-tags: praktiky
+tags: programování praktiky
 ---
 
 Mohou dva lidé pracující u jednoho počítače dodat produkt za stejný čas jako dva lidé pracující každý na svém počítači?
 Zastánci párového programování tvrdí, že ano, i když je to neintuitivní.
+
+Extrémnější analogií párového programování je tzv.
+[mob programming](/mob-programming-dejte-mu-sanci), kdy u jednoho počítače sedí celý tým.
 
 ## Co vidíme
 

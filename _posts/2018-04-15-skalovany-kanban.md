@@ -4,7 +4,7 @@ title: Škálovaný Kanban
 tags: kanban metodiky
 ---
 
-Jak můžeme škálovat Kanban? Odpověď je překvapivě jednoduchá:
+Jak můžeme škálovat [Kanban](/kanban-jako-nastroj/)? Odpověď je překvapivě jednoduchá:
 Aplikováním Kanbanu ve větším měřítku. Jakmile máme zavedený
 kanban pro alespoň jednu službu, existují tři dimenze,
 do nichž může náš kanban růst.
@@ -28,7 +28,7 @@ lze rozpadnout na jasně definované user stories, jenž mají být doručeny z�
 Tyto high-level features lze dále rozložit na drobnější user stories,
 na kterých bude konkrétní tým pracovat.
 
-Kanban používá stále stejné principy a funguje v jakémkoliv měřítku -
+[Kanban používá stále stejné principy](/principy-kanbanu/) a funguje v jakémkoliv měřítku -
 ať jde o úkoly trvající hodiny nebo měsíce.
 Obvykle se můžeme setkat se čtyřmi úrovněmi Kanbanu:
 

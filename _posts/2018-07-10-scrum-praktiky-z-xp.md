@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 praktiky Scrumu převzaté z XP
-tags: scrum xp
+tags: xp scrum
 ---
 
 S mainstreamovým rozšířením Scrumu to vypadá, jakoby všechny dobré Agilní praktiky
@@ -49,4 +49,4 @@ a meeting kratší. Scrumem určená maximální doba meetingu je 15 minut.
 Scrum není plnohodnotná metodika, je to framework. Framework je rámec, do kterého by si týmy
 měly zasadit vlastní praktiky a který by jim měl pomoci k neustálému zlepšování.
 Inspirace z jiných metodik je proto důležitá. Jaké další praktiky doporučuje Extrémní programování?
-Navštivte můj [workshop XP](/sluzby), kde se o Extrémním programováním dozvíte skoro vše.
+Navštivte můj [workshop Extrémního programování](/sluzby), kde se dozvíte skoro vše.

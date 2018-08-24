@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Je Extrémní programování extrémní?
-tags: xp agile metodiky
+tags: xp metodiky
 ---
 
-Na přednášce o Extrémním programování v Kentico mi byl položen
+Na přednášce o [Extrémním programování](/workshop-extremniho-programovani) v Kentico mi byl položen
 zajímavý dotaz: "Je Extrémní programování stále extrémní?"
 Tazatel poukazoval na to, že *dobré praktiky* doporučované Extrémním
 programováním jsou dnes již tak běžné, že za nimi vlastně není nic neobvyklého.
@@ -25,7 +25,7 @@ viděna jako extrémní. Je tomu tak ale i dnes?
 
 ## Praktiky XP dnes
 
-XP učí dobré vývojářské praktiky a jejich použití se společnost od společnosti liší.
+XP učí [dobré vývojářské praktiky](/xp-jako-puzzle/) a jejich použití se společnost od společnosti liší.
 Pracujete-li skutečně agilně, hlídáte-li si technický dluh, zákazník je pro vás spolupracující partner,
 vývojáři jsou experti na slovo vzatí, pak vás zřejmě XP nic nového nenaučí.
 Buď tak, nebo jen žijete v *agilní iluzi*.

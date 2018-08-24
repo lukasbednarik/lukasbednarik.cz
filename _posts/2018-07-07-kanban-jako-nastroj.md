@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Kanban jako nástroj
-tags: agile metodiky
+tags: kanban agile
 ---
 
 ## Minimalismus
 
 Porovnáme-li Kanban s jinou Agilní metodikou (Scrum, XP, ...),
-bude Kanban vypadat minimalisticky. Kromě pěti základních principů
+bude Kanban vypadat minimalisticky. Kromě pěti [základních principů](/principy-kanbanu/)
 
 - vizualizujte,
 - omezte rozpracovanou práci,
@@ -32,11 +32,13 @@ co vlastně dělat. Pokud při aplikaci této metodiky náhodou selžete, pak js
 správnou věc a tedy nedodrželi metodu. Takže ano, metoda "udělej vždy správnou věc" je sto procentně úspěšná.
 
 Kanban nás omezuje jen velmi málo (a méně než třeba Scrum). Kanban neříká, co bychom měli dělat,
-kromě základních pěti principů. Na praktickou aplikaci je to zoufale málo.
+kromě pěti principů. Na praktickou aplikaci je to zoufale málo.
 
 Jak tedy použít Kanban v praxi? Začněte tam, kde jste nyní. Dělejte drobné změny a postupně se zlepšujte.
-Principy Kanbanu by vám měly pomoci zlepšení hledat. A abyste to všechno dali dohromady,
-musíte znát mnohem víc, než Kanban. Čtěte o jiných metodikách, lean přístupu a vedení lidí.
+[Principy Kanbanu](/principy-kanbanu/) by vám měly pomoci zlepšení hledat. A abyste to všechno dali dohromady,
+musíte znát mnohem víc, než Kanban. [Čtěte o jiných metodikách](/ucte-se-metodiky/), lean přístupu a vedení lidí.
+
+Výhodou Kanbanu je, že lze velmi [snadno škálovat](/skalovany-kanban/).
 
 ## Dva odstavce historie
 

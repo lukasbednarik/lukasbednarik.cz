@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dobré unit testy
-tags: agile praktiky
+tags: testování programování praktiky
 ---
 
 Před několika lety jsem pracoval na produktu, u nějž byla vyžadována extrémní spolehlivost.

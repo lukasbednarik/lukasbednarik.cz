@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6 vyjednávacích taktik
-tags: principy teorie-her
+tags: matematika principy
 ---
 
 ## Vyjednávání
