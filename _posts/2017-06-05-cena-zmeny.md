@@ -62,5 +62,5 @@ To nemusí platit, pokud:
 Možná potom má smysl psát automatické testy. Pokud psaní testů vynecháte, refaktoring a párové programování
 nebudou nikdy dobře fungovat.
 
-Chcete-li vědět víc, příhlašte se na můj [workshop eXtrémního programování](/workshop-extremniho-programovani).
+Chcete-li vědět víc, příhlašte se na můj [workshop Extrémního programování](/workshop-extremniho-programovani).
 

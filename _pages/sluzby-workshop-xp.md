@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Workshop eXtrémního programování'
+title: 'Workshop Extrémního programování'
 permalink: /workshop-extremniho-programovani
 parent: /sluzby
 ---

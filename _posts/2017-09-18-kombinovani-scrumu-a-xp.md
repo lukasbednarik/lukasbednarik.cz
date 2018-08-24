@@ -4,7 +4,7 @@ title: Kombinování Scrumu a XP
 tags: xp scrum
 ---
 
-Scrum a XP (eXtrémní programování) lze velmi dobře zkombinovat.
+Scrum a XP (Extrémní Programování) lze velmi dobře zkombinovat.
 První Scrum dokonce využíval všechny praktiky XP, ale Ken Schwaber přesvědčil Jeff Sutherlanda,
 aby přenechal výběr konkrétních praktik vývojářům. Scrum tak nechává zodpovědnost za praktiky na
 vývojářích a pomocí retrospektiv jim umožňuje hledat cestu, jak se dále zlepšovat.

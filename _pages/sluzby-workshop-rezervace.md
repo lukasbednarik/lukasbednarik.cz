@@ -5,7 +5,7 @@ permalink: /workshop-extremniho-programovani-rezervace
 parent: /workshop-extremniho-programovani
 ---
 
-Zde si můžete rezervovat místo na [workshop eXtrémního programování](/workshop-extremniho-programovani).
+Zde si můžete rezervovat místo na [workshop Extrémního programování](/workshop-extremniho-programovani).
 Rezervace je platná 7 dní a vaše účast bude závazně potvrzena až po připsání platby.
 Pokyny k platbě vám budou zaslány obratem.
 
