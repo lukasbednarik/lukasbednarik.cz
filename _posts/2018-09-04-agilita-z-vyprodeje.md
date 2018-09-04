@@ -14,8 +14,10 @@ svíčkové, neznamená to, že vám takové jídlo bude chutnat. Raději bych s
 šéfkuchaře, který ví, co dělá, a umí dobře uvařit. Se Scrumem je to podobné. Dáte-li dohromady
 všechny jeho ingredience, vůbec to neznamená, že se vám výsledek bude líbit, že vás bude bavit a že bude fungovat.
 
-Existují konzultantské firmy, které dokonce mohou vaši firmu certifikovat, že "provozuje pravý Scrum".
+Existují konzultantské firmy, které mohou vaši firmu dokonce certifikovat, že "provozuje pravý Scrum".
 Je to certifikace ingrediencí v trochu jiném světle. Máte-li rádi papíry, budete mít rádi i takový certifikát.
+
+![Sleva 50%]({{ site.url }}/assets/sales-50-off.png)
 
 Ve skutečnosti všechno začíná u dobrých vývojářských praktik a u podpory managementu.
 To, co mě baví, jsou právě tyto praktiky. Podporu managementu si mohou získat vývojáři,
@@ -23,7 +25,7 @@ kteří umí vysvětlit, v čem je která praktika přínosná a proč dělají 
 Vždyť vývojáři i management mají stejný cíl: Doručit fungující software rychle.
 
 Ne s každým kódem můžete naskočit na Agilní vývoj. Bude-li někdo tvrdit, že ano, že jen stačí provést
-reorganizaci a změnu procesů, nevěřil bych mu. Máte-li v codebase 1000 budů (a v takovém týmu jsem pracoval),
+reorganizaci a změnu procesů, nevěřil bych mu. Máte-li v codebase 1000 bugů (a v takovém týmu jsem pracoval),
 nemůžete dělat Scrum už jen proto, že nejste schopni bug estimovat a tedy nebudete schopni
 měřit velocity týmu. Oprava některých bugů může trvat i tři týdny (zažil jsem) a pak nejste shopni doručit
 sprint. Navíc práce na bugu se špatně škáluje - je velmi těžké zařídit, aby na jedné chybě mohl dělat celý tým.
@@ -34,4 +36,4 @@ I kdyby jste udělali kompletní reorganizaci celé firmy, těch 1000 bugů v co
 
 Musíme se znovu vrátit na začátek - k nedoceněnému [Extrémnímu programování](/sluzby),
 dobrým praktikám vývoje, software craftmanship a
-neustálému zlepšování. "Agilita" potom přijde sama.
+neustálému zlepšování. "Agilita" potom často přijde sama.
