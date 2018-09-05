@@ -35,5 +35,5 @@ na konci každého sprintu. Takže na konci sprintu nebudete mít použitelný p
 I kdyby jste udělali kompletní reorganizaci celé firmy, těch 1000 bugů v codebase pořád zůstane.
 
 Musíme se znovu vrátit na začátek - k nedoceněnému [Extrémnímu programování](/sluzby),
-dobrým praktikám vývoje, software craftmanship a
-neustálému zlepšování. "Agilita" potom často přijde sama.
+dobrým praktikám vývoje, software craftmanship, rychlé zpětné vazbě a
+neustálému zlepšování. Agilita potom často přijde sama.
