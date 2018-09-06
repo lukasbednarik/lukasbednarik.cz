@@ -18,63 +18,71 @@ Je to certifikace ingrediencí v trochu jiném světle. Máte-li rádi papíry, 
 
 ![Sleva 50%]({{ site.url }}/assets/sales-50-off.png)
 
-## Dvě strany téže mince
+## Dva díly Agility
 
 ### Technická Agilita
 
-Ne s každým kódem můžete naskočit na Agilní vývoj. Bude-li někdo tvrdit, že ano, že jen stačí provést
-reorganizaci a změnu procesů, nevěřil bych mu. Máte-li v codebase 1000 bugů (a v takovém týmu jsem pracoval),
-nemůžete dělat Scrum už jen proto, že nejste schopni bug estimovat a tedy nemůžete
-měřit velocity týmu. Oprava některých bugů trvá i tři týdny (zažil jsem) a pak nejste schopni doručit
-sprint. Navíc práce na bugu se špatně škáluje - je velmi těžké zařídit, aby na jedné chybě mohl dělat celý tým.
+Ne s každým kódem můžete naskočit na Agilní vývoj. Bude-li někdo tvrdit, že ano,
+že jen stačí provést reorganizaci a změnu procesů, nevěřil bych mu.
+Máte-li v codebase 1000 bugů (a v takovém týmu jsem pracoval),
+nemůžete dělat Scrum už jen proto, že nejste schopni bug estimovat a
+tedy nemůžete měřit velocity týmu. Oprava některých bugů trvá i tři týdny (zažil jsem)
+a pak nejste schopni doručit sprint. Navíc práce na bugu se špatně škáluje - je velmi těžké zařídit,
+aby na jedné chybě mohl dělat celý tým.
 
-Další kritickou věcí je automatizace. Nemáte-li automatizované testy, nemůžete dělat release
-na konci každého sprintu. Takže na konci sprintu nebudete mít použitelný produkt a opět neděláte Scrum.
-I kdyby jste provedli kompletní reorganizaci celé firmy, těch 1000 bugů v codebase pořád zůstane.
+Další kritickou věcí je automatizace. Nemáte-li automatizované testy,
+nemůžete dělat release na konci každého sprintu. Takže na konci sprintu nebudete mít použitelný
+produkt a opět neděláte Scrum. I kdyby jste provedli kompletní reorganizaci celé firmy,
+těch 1000 bugů v codebase pořád zůstane.
 
-Vyřešením problému kvality kódu, automatizace testování, continuous integration / release, unit testů
-(které téměř žádný vývojář neumí psát dobře a neví o tom), vytváření smysluplných metrik a DevOps praktik
-se dostáváme to sféry Technické Agility.
+Vyřešením problému kvality kódu, automatizace testování, continuous integration / release,
+unit testů (které téměř žádný vývojář neumí psát dobře a neví o tom),
+vytváření smysluplných metrik a DevOps praktik se dostáváme to sféry Technické Agility.
 
 ### Business Agilita
 
-Druhá strana mince je tzv. Business Agilita. Business Agilita bývá definována jako schopnost
-umět rychle a flexibilně reagovat na změny trhu a požadavky zákazníka.
-Pro mě Business Agilita znamená *nenechat development pracovat na zbytečných věcech*,
+Druhá strana mince je tzv. Business Agilita. Business Agilita bývá definována jako
+schopnost umět rychle a flexibilně reagovat na změny trhu a požadavky zákazníka.
+Pro mě Business Agilita znamená nenechat development pracovat na zbytečných věcech,
 což se z velké části kryje s Lean startup přístupem.
 
-Předpokládejme, že jsme dostali geniální nápad. Založíme sociální síť založenou čistě na audio nahrávkách.
-Uživatelé mohou nahrávat krátké, 42 vteřinové zprávy, které potom zveřejní svým kamarádům.
-Nahrávání funguje z počítače i mobilního telefonu.
+Předpokládejme, že jsme dostali geniální nápad.
+Založíme sociální síť založenou čistě na audio nahrávkách. Uživatelé mohou nahrávat krátké,
+42 vteřinové zprávy, které potom zveřejní svým kamarádům. Nahrávání funguje z počítače i mobilního telefonu.
 
-Začneme pracovat na nové aplikaci. Po devíti měsících vývoje se rozhodneme síť spustit, abychom zjistili,
-jak na ni budou uživatelé reagovat. A uspějeme... Uspějeme jen v tom, že uvidíme, co se stane.
-Obrovský příliv nadšených nových uživatelů bych neočekával.
+Začneme pracovat na nové aplikaci. Po devíti měsících vývoje se rozhodneme síť spustit,
+abychom zjistili, jak na ni budou uživatelé reagovat. A uspějeme… Uspějeme jen v tom,
+že uvidíme, co se stane. Obrovský příliv nadšených nových uživatelů bych neočekával.
 
-Nestačilo by jen vytvořit úvodní stránku sociální sítě, připravit reklamní video, v níž vysvětlíme,
-jak síť funguje, a sledovat, kolik uživatelů se na základě těchto informací rozhodne
-do naší aplikace zaregistrovat? Zpětnou vazbu můžeme získat ještě předním, než napíšeme první řádek kódu!
-Skutečnost, že několik uživatelů naštveme, nám vynahradí všechny ty ušetřené peníze.
+Nestačilo by jen vytvořit úvodní stránku sociální sítě, připravit reklamní video,
+v němž vysvětlíme, jak síť funguje, a sledovat, kolik uživatelů se na základě těchto
+informací rozhodne do naší aplikace zaregistrovat? Zpětnou vazbu můžeme získat ještě předním,
+než napíšeme první řádek kódu! Několik uživatelů sice naštveme, ale všechny ty ušetřené peníze nám to vynahradí.
 
-Každý kousek nově vytvořeného produktu testujeme na uživatelích
-(cyklus build-measure-learn). Když nemáme jednoho zákazníka,
-kterému bychom ukázali demo jako ve Scrumu, potřebujeme AB testování a rozhovory s uživateli.
-Může to být skličující zkušenost, ale jen tak si můžeme být jisti, že opravdu reagujeme
-na potřeby skutečného zákazníka. Naopak stavěním produktu na domněnkách Product Ownera
-a věštěním z křišťálové koule jeho nadřízeného se daleko nedostaneme.
+![Cyklus build-measure-learn]({{ site.url }}/assets/build-measure-learn.png)
 
-![Sleva 50%]({{ site.url }}/assets/build-measure-learn.png)
+Každý kousek nově vytvořeného produktu testujeme na uživatelích (cyklus build-measure-learn).
+Když nemáme jednoho zákazníka, kterému bychom ukázali demo jako ve Scrumu,
+potřebujeme AB testování a rozhovory s uživateli. Může to být skličující zkušenost,
+ale jen tak si můžeme být jisti, že opravdu reagujeme na potřeby skutečného zákazníka.
+Naopak stavěním produktu na domněnkách Product Ownera a věštěním z křišťálové
+koule jeho nadřízeného se daleko nedostaneme.
 
 Tohle je Business Agilita. Development nedělá zbytečné věci, na potřeby zákazníka se reaguje rychle a svižně.
-Málo se mluví o tom, kolik firem ve své existenci
-[provedlo Pivot](https://www.forbes.com/sites/jasonnazar/2013/10/08/14-famous-business-pivots/).
-Trefit milionový business napoprvé se nepovedlo ani v Twitteru, PayPalu nebo Starbucks.
+Někdy je potřeba [udělat Pivot]((https://www.forbes.com/sites/jasonnazar/2013/10/08/14-famous-business-pivots/
+už v zaběhnutém businessu. Trefit milionový trh napoprvé se nepovedlo ani Twitteru,
+PayPalu nebo Starbucks.
 
-## Zpět do pralesa
+## Zpět na začátek
+
+Technická i Business Agilita firmě pomůže. Nicméně spojíte-li oba díly skládačky dohromady, stane se malý zázrak.
 
 Technická Agilita bez Business Agility nedává smysl, protože development bude pracovat na zbytečných věcech.
-Business Agilita bez té technické nebude fungovat dobře, protože změny budou trvat dlouho a
-nezvládneme častý release softwaru už kvůli nárokům na testování.
-Vraťme se tedy opět na začátek - k nedoceněnému [Extrémnímu programování](https://lukasbednarik.cz/sluzby),
-dobrým praktikám vývoje, software craftmanship, rychlé zpětné vazbě, těsnějšímu propojení
-oddělení ve firmě a neustálému zlepšování. Agilita jako celek potom přijde sama.
+Business Agilita bez té technické také nebude fungovat dobře.
+Změny budou trvat dlouho a nezvládne se častý release softwaru (např. už kvůli nárokům na testování).
+Teprve oba díly společně mohou vytvořit funkční a extrémně efektivní celek.
+
+Navrhuji vrátit se opět na začátek a tam začít. Vraťme se k nedoceněnému Beckovu
+[Extrémnímu programování](/sluzby),
+dobrým praktikám vývoje, rychlé zpětné vazbě, těsnějšímu propojení prodeje, podpory, vývoje a marketingu.
+Agilita potom přijde sama.
