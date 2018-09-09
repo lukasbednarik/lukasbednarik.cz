@@ -1,14 +1,14 @@
 ---
 layout: page
-title: 'Školení'
+title: 'Workshopy'
 permalink: /sluzby
 ---
 
 Mým cílem není prodat, ale *podporovat*.
-V prvním kroku se snažím zjistit požadavky na školení od účastníků i zadavatele.
-Co je zajímá? Co si od školení slibují? Co by rádi i neradi?
+V prvním kroku se snažím zjistit požadavky na workshop od účastníků i zadavatele.
+Co je zajímá? Co si od workshopu slibují? Co by rádi i neradi?
 Co jim pomáhá? Na čem by chtěli zapracovat?
-Následuje příprava *školení na míru*. Nesnažím se jen předat znalosti,
+Následuje příprava *workshopu na míru*. Nesnažím se jen předat znalosti,
 ale naučit účastníky tomu, co jim pomůže v praxi.
 
 ## [Extrémní programování](/workshop-extremniho-programovani)
