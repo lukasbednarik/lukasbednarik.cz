@@ -12,4 +12,4 @@ tags: kanban principy
 - explicitním nastavení pravidel,
 - společném zlepšování.
 
-![Kanban Principles Explained]({{ site.url }}/assets/kanban-principles-explained.png)
+![Kanban Principles Explained](/assets/kanban-principles-explained.png)

@@ -43,7 +43,7 @@ seberealizace zaměstnanců by pravděpodobně byla také na samém vrcholu. Je 
 na kterou bude organizace pomýšlet, po vyřešení všech svých problémů vnitřní integrace
 a vnější adaptace.
 
-![Maslowa pyramida potřeb]({{ site.url }}/assets/maslow.png)
+![Maslowa pyramida potřeb](/assets/maslow.png)
 
 V následujícím rozdělení jsem vybral několik chování, ve kterých mohou zaměstnanci
 nacházet seberealizaci. Rozdělení není žádným způsobem kompletní.

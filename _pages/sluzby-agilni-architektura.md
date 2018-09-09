@@ -34,7 +34,7 @@ V praktické části si vyzkoušíme Architektonické kata.
 - **Kapacita:** neomezeno
 - **Délka:** 1 den, 9:00 - 15:30
 
-![Agilní architektura]({{ site.url }}/assets/abstract-architecture.png)
+![Agilní architektura](/assets/abstract-architecture.png)
 
 ## Termíny a cena
 

@@ -28,7 +28,7 @@ parent: /projekty
 - [Uznání členů v rámci organizace](/firemni-kultura-uznani-clenu-organizace)
 - [Kompetence](/firemni-kultura-kompetence)
 
-![Firemní kultura]({{ site.url }}/assets/firemni-kultura-puzzle.jpg)
+![Firemní kultura](/assets/firemni-kultura-puzzle.jpg)
 
 ## Co je to firemní kultura
 
@@ -157,7 +157,7 @@ Právě mindset (to, jakým způsobem uvažujeme) souvisí s kulturou společnos
 nutné pracovat s kulturou. Pokud se tak nestane, mindset lidí zůstane stejný i přes všechny změny v procesech.
 (Viz příklad "kultura tým lídrů" výše.)
 
-![Firemní kultura]({{ site.url }}/assets/firemni-kultury.png)
+![Firemní kultura](/assets/firemni-kultury.png)
 
 ### Slovníček
 

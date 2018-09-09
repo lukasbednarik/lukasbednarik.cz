@@ -27,7 +27,7 @@ Letos (2018) byl změněn systém certifikací. Původní cesta od CSM (Certifie
 k CSP (Certified Scrum Professional) byla prodloužena mezistupněm A-CSM (Advanced Certified
 Scrum Master). Na druhou stranu k získání CSP již není nutné sbírat tzv. SEU (Scrum Educational Unit) body.
 
-![Certifikace scrum.org]({{ site.url }}/assets/scrum-alliance-certifikace.png)
+![Certifikace scrum.org](/assets/scrum-alliance-certifikace.png)
 
 Cesta k CSP se tak svým způsobem zjednodušila, ale prodražila. Sbírání SEU bodů v
 českých podmínkách bylo velmi obtížné. (SEU body se udělovaly například za práci pro Scrum Allianci,
@@ -47,7 +47,7 @@ Získat certifikát od scrum.org lze bez absolvování jakéhokoliv kurzu jen s 
 Po zaplacení poplatku za zkoušku máte jeden pokus na vyplnění časově omezeného testu.
 Testy nižších úrovní jsou spíše teoretické, ve vyšších úrovních přibývají otázky z praxe.
 
-![Certifikace scrum.org]({{ site.url }}/assets/scrum-org-certifications.png)
+![Certifikace scrum.org](/assets/scrum-org-certifications.png)
 
 Ani scrum.org se nevyhnul rozšiřování svého portfolia. Původní zkouška PSM II
 byla roku 2016 přejmenována na PSM III a celá vzdělávací cesta se prodloužila
@@ -79,7 +79,7 @@ Certifikáty ICAgile jsou rozděleny do třech úrovní:
 - ICAgile Expert (zlatý odznáček),
 - Master Agilist (modrý odznáček).
 
-![Certifikace ICAgile]({{ site.url }}/assets/icagile-certifications.png)
+![Certifikace ICAgile](/assets/icagile-certifications.png)
 
 Prerekvizitou pro všechny certifikáty je absolvování základního kurzu Agile Fundamentals,
 kde lektoři mimo jiné vysvětlí, jaký je rozdíl mezi "být Agile" a "dělat Agile".

@@ -19,7 +19,7 @@ humanistické psychologie. PCA mluví o nedirektivním přístupu a věří v po
 Terapeut nemá právo ostatní lidi soudit na základě svých přesvědčení, myšlenek a hodnot.
 Naopak by měl pomocí empatie, přijetí a shody podpořit druhého člověka v seberealizaci. 
 
-![PCA výcvik]({{ site.url }}/assets/pca.png)
+![PCA výcvik](/assets/pca.png)
 
 V situacích, kdy s někým nesouhlasíme a dokonce máme pocit, že se nám druhý člověk snaží škodit,
 je dle Rogerovské filozofie důležité si uvědomit, že každý člověk smýšlí o sobě samém jako o “dobrém člověku”.
@@ -27,7 +27,7 @@ Otázka, proč se nám jiný člověk snaží uškodit, souvisí
 s jeho motivy. PCA se (mimo jiné) soustředí právě na hledání těchto motivů, na pochopení sebe sama a druhých lidí.
 Kladení otevřených otázek terapeutem funguje podobně jako při klasickém koučování.
 
-![PCA v praxi]({{ site.url }}/assets/pca-practice.jpg)
+![PCA v praxi](/assets/pca-practice.jpg)
 
 Znalosti Rogerovské psychologie lze využít v každém povolání, kde se pracuje s lidmi, a také je můžeme
 aplikovat sami na sebe. Právě prací na sobě začíná většina výcviků. Typický základní PCA výcvik trvá 3,5 roku.

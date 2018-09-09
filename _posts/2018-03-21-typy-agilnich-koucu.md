@@ -21,7 +21,7 @@ Kromě těchto základních dovedností má Agilní kouč obvykle jednu speciali
 - obchodní mistrovství,
 - mistrovství v transformaci organizací.
 
-![PCA výcvik]({{ site.url }}/assets/lyssa-adkins-framework.jpg)
+![PCA výcvik](/assets/lyssa-adkins-framework.jpg)
 Obrázek: [Agile Coaching Competency Framework](http://www.agilecoachinginstitute.com/agile-coaching-resources/)
 
 ## Typy agilních koučů

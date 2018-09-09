@@ -10,7 +10,7 @@ která je konečně dostupná ke stažení na tomto webu.
 Na knize jsem se naučil, jak je důležité mít dobrou osnovu, mít definici cílového čtenáře a zaměření knihy.
 Překvapením pro mě bylo, že toto platí i u tak malé knížečky, jako je Rebelská historie.
 
-![Lukáš Bednařík]({{ site.url }}/assets/kniha-rebelska-historie-obalka-2.png)
+![Lukáš Bednařík](/assets/kniha-rebelska-historie-obalka-2.png)
 
 ## 14 dní psaní
 

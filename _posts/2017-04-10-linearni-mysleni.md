@@ -46,7 +46,7 @@ Příkladem může být velmi zjednodušený model počtu bugů na projektu.
 Čím více je v projektu bugů, tím větší je tlak na vývojáře, aby chyby opravovali.
 Větší tlak ale může nutit vývojáře spěchat a dělat další chyby.
 
-![]({{ site.url }}/assets/pocet-bugu.png)
+![](/assets/pocet-bugu.png)
 
 Do tohoto diagramu bychom mohli přikreslit další vlivy (například "míra deprese vývojářů"),
 ale pro jednoduchou ilustraci to stačí.
@@ -69,7 +69,7 @@ skvěle poslouží pro zjednodušenou analýzu, nicméně neobsahuje
 "náhodné fluktuace" a komplexní chování, které může vést na nepředvídatelnost
 celého systému.
 
-![]({{ site.url }}/assets/pocet-bugu-chaos.png)
+![](/assets/pocet-bugu-chaos.png)
 
 V devadesátých letech se lidé začaly pokoušet aplikovat teorii komplexity v managementu.
 [Stephen Hawking](https://cs.wikipedia.org/wiki/Stephen_Hawking) označil komplexitu za nejdůležitější vědu pro 21. století

@@ -34,7 +34,7 @@ Metodika, kterou se naučíte, je více než jen součet svých částí.
 - **Délka:** 1 den, 9:00 - 15:30
 - **Jazyky:** Java, C#, C++
 
-![Workshop XP]({{ site.url }}/assets/workshop-java-3a.jpg)
+![Workshop XP](/assets/workshop-java-3a.jpg)
 
 ## Termíny a cena
 
@@ -99,7 +99,7 @@ Konečnou osnovu kurzu vždy přizpůsobuji konkrétním potřebám zákazníka.
 1. Nástroje a frameworky
 
 
-![Lukáš Bednařík]({{ site.url }}/assets/xp-fall.png)
+![Lukáš Bednařík](/assets/xp-fall.png)
 
 Workshopem vás provede extrémní programátor a
 signatář [software craftmanship manifesta](http://manifesto.softwarecraftsmanship.org).

@@ -9,6 +9,6 @@ Vaše informace k rezervaci byly odeslány. Rezervace místa je platná 7 dní a
 závazně potvrzena až po připsání platby.
 Pokyny k platbě vám budou zaslány obratem.
 
-![Rezervováno]({{ site.url }}/assets/reserved.png)
+![Rezervováno](/assets/reserved.png)
 
 Můžete se vrátit zpět na stránku [školení](/sluzby).

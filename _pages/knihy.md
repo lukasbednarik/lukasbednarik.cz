@@ -6,7 +6,7 @@ permalink: /knihy
 
 ## Rebelská historie vývoje softwaru
 
-![Rebelská historie vývoje softwaru]({{ site.url }}/assets/kniha-rebelska-historie-obalka-1.png)
+![Rebelská historie vývoje softwaru](/assets/kniha-rebelska-historie-obalka-1.png)
 
 ### Info
 

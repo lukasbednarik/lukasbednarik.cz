@@ -21,7 +21,7 @@ pocitu z dobře odvedené práce a k prohloubení týmové spolupráce.
 - **Jazyky:** Java, C#, C++
 - **Další informace:** [další informace zde!](/workshop-extremniho-programovani)
 
-![Workshop XP]({{ site.url }}/assets/workshop-java-3a.jpg)
+![Workshop XP](/assets/workshop-java-3a.jpg)
 
 ## [Mob programming](/mob-programming)
 
@@ -35,7 +35,7 @@ zrychlí se tok informací a nevzniká legacy code.
 - **Jazyky:** bez omezení
 - **Další informace:** [další informace zde!](/mob-programming)
 
-![Mob programming]({{ site.url }}/assets/abstract-architecture.png)
+![Mob programming](/assets/abstract-architecture.png)
 
 ## [Agilní architektura](/skoleni-agilni-architektura)
 
@@ -51,7 +51,7 @@ umět své znalosti aplikovat v rámci Agilního vývoje.
 - **Délka:** 1 den, 9:00 - 15:30
 - **Další informace:** [další informace zde!](/skoleni-agilni-architektura)
 
-![Agilní architektura]({{ site.url }}/assets/abstract-architecture.png)
+![Agilní architektura](/assets/abstract-architecture.png)
 
 
 {% comment %}

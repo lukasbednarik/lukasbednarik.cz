@@ -43,5 +43,5 @@ Mojí doménou jsou praktiky a metodiky vývoje softwaru.
 
 Další [informace o mně](/o-mne) najdete na samostatné stránce.
 
-![Lukáš Bednařík]({{ site.url }}/assets/lukasbednarik.jpg)
+![Lukáš Bednařík](/assets/lukasbednarik.jpg)
 Foto 2016.

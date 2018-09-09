@@ -20,7 +20,7 @@ Výhodou i nevýhodou současně je jednoduchost prostředí. Sdílení kódu je
 Ten, kdo prostředí založil, se stává jeho správcem. Na druhou stranu CodePad umožňuje pracovat jen v jednom souboru,
 takže TDD takto nevyzkoušíte (ok, to nemusí vadit).
 
-![CodePad]({{ site.url }}/assets/codepad.jpg)
+![CodePad](/assets/codepad.jpg)
 
 V situaci, kdy sedíte s kandidátem v jedné místnosti, je CodePad ideální. Kandidát může pracovat na vlastním notebooku,
 na kterém se cítí pohodlně. Můžete testovat skutečnou dovednost programování a nikoli to,
