@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Komunita'
-permalink: /projekty
+permalink: /komunita
 ---
 
 ## [Agilní kalendář](https://agilnikalendar.cz/)
@@ -18,6 +18,8 @@ juniory a lidi se zájmem o vývoj software. Členové komunity se vzájemně
 podporují a díky tomu rostou. Sdílíme zkušenosti z rostoucích firem, korporátů a konferencí. 
 
 ![Code Beer](/assets/code-beer-small.png)
+
+# Články a knihy
 
 ## [Rebelská historie vývoje softwaru](/knihy)
 
