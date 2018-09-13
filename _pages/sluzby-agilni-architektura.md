@@ -46,7 +46,22 @@ Termíny [dle domluvy](/kontakt).
 
 ## Detailní osnova školení
 
-V přípravě. Bude zveřejněna.
+Osnova je orientační.
+Konečnou osnovu kurzu vždy přizpůsobuji konkrétním potřebám zákazníka.
+
+1. SOLID principy dobrého designu
+   - Single responsibility principle
+   - Open/closed principle
+   - Liskov substitution principle
+   - Interface segregation principle
+   - Dependency inversion principle
+1. Architectural patterns
+1. Microservices
+   - Antipatterns
+1. Evoluční architektura
+1. Design by Coding (DbC)
+1. Architektura v Agilním (Scrum) týmu
+
 
 ## Materiály a příprava
 
