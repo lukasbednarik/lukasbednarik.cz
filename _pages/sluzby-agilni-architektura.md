@@ -15,6 +15,18 @@ parent: /sluzby
 
 {% comment %}
 TODO: Doplnit co ucítí, když si to koupí. Sekce pro firmy a sekce pro vývojáře.
+Např. (http://www.aguarra.com/Trainings/SAFD):
+
+- I'm not sure what software architecture is about and how it's any different from design.
+- I don't understand why we need "software architecture".
+- My manager has told me that I'm the software architect on our new project, but I'm not sure what that actually means.
+- I want to get involved in designing software but I'm not sure what I should learn.
+- I've been given some requirements and asked to design some software, but I'm not sure where to start.
+- I need to make some major enhancements to my system, but I'm not sure where to start.
+- I've been asked to write a software architecture document but I'm not sure what to include in it.
+- I'm not sure who to talk to in my organisation about how best to integrate what we're building.
+- I understand what software architecture is all about, but I'm not sure how to tackle it on my project.
+- My project seems like a chaotic mess; everybody is doing their own thing and there's no shared vision. Help!
 {% endcomment %}
 
 Jakmile jednou vytvoříme architekturu softwarového projektu,
