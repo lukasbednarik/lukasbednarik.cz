@@ -44,7 +44,7 @@ Metodika, kterou se naučíte, je více než jen součet svých částí.
 |:------------------------ |:--------------------------------------------- |:-----:|:--------------|
 | ~~2. únor 2018~~         | [Impact Hub Brno](https://www.hubbrno.cz/en/) | Java  | Plně obsazeno |
 | ~~28. duben 2018~~       | [Impact Hub Brno](https://www.hubbrno.cz/en/) | Java  | Plně obsazeno |
-| 6. září 2018             | [Impact Hub Brno](https://www.hubbrno.cz/en/) | C++   | Rezervace uzavřena |
+| ~~6. září 2018~~         | [Impact Hub Brno](https://www.hubbrno.cz/en/) | C++   | Rezervace uzavřena |
 
 - **Cena:** 900 Kč / člověk
 
