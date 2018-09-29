@@ -35,7 +35,7 @@ zrychlí se tok informací a nevzniká legacy code.
 - **Jazyky:** bez omezení
 - **Další informace:** [další informace zde!](/mob-programming)
 
-![Mob programming](/assets/abstract-architecture.png)
+![Mob programming](/assets/mob-programming.png)
 
 ## [Agilní architektura](/skoleni-agilni-architektura)
 

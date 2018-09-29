@@ -9,6 +9,7 @@ Kontaktní informace naleznete na stránce [kontakt](/kontakt).
 
 ### 2018
 
+- Jsem expertem / konzultantem pro [akcelerační programy v Impact Hub Brno](https://www.hubbrno.cz/akcelerace/mentoring/).
 - Organizuji první [Code Beer](https://codebeer.cz).
 - [Agilní kalendář](http://agilnikalendar.cz) je široce znám a používán Agilní komunitou.
 - Účastním se většiny setkání brněnských Scrum Masterů a mnoha agilních konferencí.
