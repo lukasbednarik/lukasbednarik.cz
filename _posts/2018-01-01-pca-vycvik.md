@@ -9,7 +9,7 @@ nabízejí je organizace jako
 [ICF Czech Republic](https://www.coachfederation.cz/cz/certifikace.html),
 [ČAKO](http://www.cako.cz/cs/vyber-kouce/akreditovane-vycviky/),
 [Systemický institut](http://www.systemicky-institut.cz/cs/vycvik-koucovani-2/),
-[Result Coaches](http://www.resultscoaches.cz/studijni-programy) a další.
+[Neuroleadership](https://www.neuroleadership.cz) a další.
 Pokud nechcete platit velké peníze a chcete se zaměřit více na psychologii člověka,
 možná pro vás mohou být alternativou méně známé PCA výcviky.
 
