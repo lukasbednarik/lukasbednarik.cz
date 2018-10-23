@@ -11,19 +11,22 @@ Co jim pomáhá? Na čem by chtěli zapracovat?
 Následuje příprava *workshopu na míru*. Nesnažím se jen předat znalosti,
 ale naučit účastníky tomu, co jim pomůže v praxi.
 
-## [Extrémní programování](/workshop-extremniho-programovani)
+## [Technická Agilita](/workshop-technicka-agilita)
 
 Váš kód se na vás už nebude lepit jako smola. Workshop je cesta k technické excelenci,
-pocitu z dobře odvedené práce a k prohloubení týmové spolupráce.
+k prohloubení týmové spolupráce a k produktivitě.
+
+Dle přání můžeme obsah workhopu zaměřit více na DevOps, TDD, design best practices,
+refactoring, continuous integration nebo continuous release.
 
 - **Kapacita:** max 8 lidí na workshop
 - **Délka:** 1 den, 9:00 - 15:30
 - **Jazyky:** Java, C#, C++
-- **Další informace:** [další informace zde!](/workshop-extremniho-programovani)
+- **Další informace:** [další informace zde!](/workshop-technicka-agilita)
 
-![Workshop XP](/assets/workshop-java-3a.jpg)
+![Technická Agilita](/assets/workshop-java-3a.jpg)
 
-## [Mob programming](/mob-programming)
+## [Mob programming](/workshop-mob-programming)
 
 Mob programming, jeden z trendů posledních let,
 podpoří týmového ducha, sdílení znalostí a kvalitu kódu.
@@ -33,11 +36,11 @@ zrychlí se tok informací a nevzniká legacy code.
 - **Kapacita:** max 8 lidí na workshop
 - **Délka:** 1 den, 9:00 - 15:30
 - **Jazyky:** bez omezení
-- **Další informace:** [další informace zde!](/mob-programming)
+- **Další informace:** [další informace zde!](/workshop-mob-programming)
 
 ![Mob programming](/assets/mob-programming.png)
 
-## [Agilní architektura](/skoleni-agilni-architektura)
+## [Agilní architektura](/workshop-agilni-architektura)
 
 Jakmile jednou vytvoříme architekturu softwarového projektu,
 jak zabráníme tomu, aby v průběhu času degradovala?
@@ -49,7 +52,7 @@ umět své znalosti aplikovat v rámci Agilního vývoje.
 
 - **Kapacita:** neomezeno
 - **Délka:** 1 den, 9:00 - 15:30
-- **Další informace:** [další informace zde!](/skoleni-agilni-architektura)
+- **Další informace:** [další informace zde!](/workshop-agilni-architektura)
 
 ![Agilní architektura](/assets/abstract-architecture.png)
 

@@ -1,15 +1,15 @@
 ---
 layout: page
-title: 'Agilní Architektura'
-permalink: /skoleni-agilni-architektura
+title: 'Workshop Agilní Architektura'
+permalink: /workshop-agilni-architektura
 parent: /sluzby
 ---
 
-- [O co jde?](/skoleni-agilni-architektura#o-co-jde)
-- [Termíny a cena](/skoleni-agilni-architektura#termíny-a-cena)
-- [Detailní osnova školení](/skoleni-agilni-architektura#detailní-osnova-školení)
-- [Materiály a příprava](/skoleni-agilni-architektura#materiály-a-příprava)
-- [Informace o dalších termínech a školeních](/skoleni-agilni-architektura#informace-o-dalších-termínech-a-školeních)
+- [O co jde?](/workshop-agilni-architektura#o-co-jde)
+- [Termíny a cena](/workshop-agilni-architektura#termíny-a-cena)
+- [Detailní osnova školení](/workshop-agilni-architektura#detailní-osnova-školení)
+- [Materiály a příprava](/workshop-agilni-architektura#materiály-a-příprava)
+- [Informace o dalších termínech a školeních](/workshop-agilni-architektura#informace-o-dalších-termínech-a-školeních)
 
 ## O co jde?
 
@@ -86,9 +86,3 @@ Materiály ze školení budou účastníkům zpřístupněny po jeho ukončení.
 Prosím, vyplňte svůj email, chcete-li dostávat informace o dalších termínech a školeních.
 
 {% include email-subscribe.html %}
-
-
-
-
-
-

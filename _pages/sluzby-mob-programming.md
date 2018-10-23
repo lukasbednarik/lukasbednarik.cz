@@ -1,15 +1,15 @@
 ---
 layout: page
-title: 'Mob programming'
-permalink: /mob-programming
+title: 'Workshop Mob programming'
+permalink: /workshop-mob-programming
 parent: /sluzby
 ---
 
-- [O co jde?](/mob-programming#o-co-jde)
-- [Termíny a cena](/mob-programming#termíny-a-cena)
-- [Detailní osnova školení](/mob-programming#detailní-osnova-školení)
-- [Materiály a příprava](/mob-programming#materiály-a-příprava)
-- [Informace o dalších termínech a školeních](/mob-programming#informace-o-dalších-termínech-a-školeních)
+- [O co jde?](/workshop-mob-programming#o-co-jde)
+- [Termíny a cena](/workshop-mob-programming#termíny-a-cena)
+- [Detailní osnova školení](/workshop-mob-programming#detailní-osnova-školení)
+- [Materiály a příprava](/workshop-mob-programming#materiály-a-příprava)
+- [Informace o dalších termínech a školeních](/workshop-mob-programming#informace-o-dalších-termínech-a-školeních)
 
 ## O co jde?
 
