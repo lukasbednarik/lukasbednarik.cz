@@ -35,7 +35,7 @@ Metodika, kterou se naučíte, je více než jen součet svých částí.
 
 - **Kapacita:** max 8 lidí na workshop
 - **Délka:** 1 den, 9:00 - 15:30
-- **Jazyky:** Java, C#, C++
+- **Jazyky:** Java, C#, C++, Node.Js, PHP
 
 ![Workshop Technická Agilita](/assets/workshop-java-3a.jpg)
 

@@ -21,7 +21,7 @@ refactoring, continuous integration nebo continuous release.
 
 - **Kapacita:** max 8 lidí na workshop
 - **Délka:** 1 den, 9:00 - 15:30
-- **Jazyky:** Java, C#, C++
+- **Jazyky:** Java, C#, C++, Node.Js, PHP
 - **Další informace:** [další informace zde!](/workshop-technicka-agilita)
 
 ![Technická Agilita](/assets/workshop-java-3a.jpg)
