@@ -16,7 +16,8 @@ title: Domů
       <div class="post-date">
         {% include date.html date=post.date %}
       </div>
-      {{ post.content }}
+      {{ post.excerpt }}
+      <a href="{{ post.url }}">Více...</a>
     </div>
   </div>
   {% endfor %}

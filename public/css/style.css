@@ -390,7 +390,7 @@ a.pagination-item:hover {
  *
  * Tag archive page.
  */
- 
+
 .tag-cloud {
   list-style: none;
   padding: 0;
@@ -680,7 +680,6 @@ a.sidebar-nav-item:focus {
 /* If theme color is blue, change header color back to black :) */
 .content h1.post-title a {
   color: #313131;
-  background-color: rgba(60, 20, 20, 0.25);
   width: 100%;
   display: block;
   padding-left: 1rem;
