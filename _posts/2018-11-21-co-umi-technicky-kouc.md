@@ -18,7 +18,7 @@ Metodik a frameworků kolem vývoje softwaru existují spousty. Například:
 - ScrumBan,
 - škálované metodiky (SAFe, LeSS, Nexus, ...).
 
-Neočekával bych, že technický kouč bude mistream desítek metodik, ale že bude znát všechny alespoň
+Neočekával bych, že technický kouč bude mistrem desítek metodik, ale že bude znát všechny alespoň
 přehledově, s několika má praktické zkušenosti a dokáže je vhodně nasadit.
 
 ### Vývojářské praktiky
