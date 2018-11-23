@@ -82,7 +82,7 @@ Business Agilita bez té technické také nebude fungovat dobře.
 Změny budou trvat dlouho a nezvládne se častý release softwaru (např. už kvůli nárokům na testování).
 Teprve oba díly společně mohou vytvořit funkční a extrémně efektivní celek.
 
-Navrhuji vrátit se opět na začátek a tam začít. Vraťme se k nedoceněnému Beckovu
-[Extrémnímu programování](/sluzby),
+Navrhuji vrátit se opět na začátek a tam začít. Vraťme se k nedoceněnému Beckovu Extrémnímu programování
+(workshop [Technická Agilita](/sluzby)),
 dobrým praktikám vývoje, rychlé zpětné vazbě, těsnějšímu propojení prodeje, podpory, vývoje a marketingu.
 Agilita potom přijde sama.

@@ -15,7 +15,7 @@ Kontaktní informace naleznete na stránce [kontakt](/kontakt).
 - Účastním se většiny setkání brněnských Scrum Masterů a mnoha agilních konferencí.
 - [Povídám o XP](https://www.facebook.com/events/373745716426679/) pro cca 60 lidí v Kentico.
 - Uvádím první letošní [Agile Open Café](https://agilniasociace.cz/info/agile-open-cafe-brno-v-roce-2018/).
-- [Workshop Extrémního programování](/sluzby) beží veřejně, termíny jsou vypsány.
+- [Workshop Technická Agilita](/sluzby) beží veřejně, termíny jsou vypsány.
 
 ### 2017
 
