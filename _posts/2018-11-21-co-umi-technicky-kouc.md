@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Co umí technický kouč
+title: Co umí Agilní technický kouč
 tags: koučování agile xp
 ---
 
-V minulém článku [co umí technický kouč](/co-dela-technicky-kouc) jsem psal o tom, s čím vám
+V minulém článku [co dělá Agilní technický kouč](/co-dela-technicky-kouc) jsem psal o tom, s čím vám
 může kouč pomoci prakticky. Dnes bych se chtěl zaměřit na to, co technický kouč umí.
 
 ### Metodiky

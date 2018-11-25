@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Co dělá technický kouč
+title: Co dělá Agilní technický kouč
 tags: koučování agile xp
 ---
 
