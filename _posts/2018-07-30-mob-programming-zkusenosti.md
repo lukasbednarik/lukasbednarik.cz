@@ -14,7 +14,7 @@ Nevíte-li, [co vlastně mobování je](/mob-programming-dejte-mu-sanci), přeč
 Začíná-li tým s Mob Programming, může to v místnosti vypadat jako v kurníku.
 Každý mluví přes sebe. Každý ví nejlépe, jak daný problém vyřešit. Každý prosazuje své (nejlepší) řešení.
 
-V tomto okamžiku je velmi důležitá role kouče. Vaším úkolem je přimět tým, aby se soustředil na problém,
+V tomto okamžiku je velmi [důležitá role kouče](/co-dela-technicky-kouc). Vaším úkolem je přimět tým, aby se soustředil na problém,
 který řeší, a vyřešil jej. Až potom můžete napsat test. A až potom můžete optimalizovat řešení.
 Odložte tedy optimalizaci na později.
 

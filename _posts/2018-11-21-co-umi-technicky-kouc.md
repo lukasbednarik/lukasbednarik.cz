@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Co umí Agilní technický kouč
+title: Co umí technický Agilní kouč
 tags: koučování agile xp
 ---
 
-V minulém článku [co dělá Agilní technický kouč](/co-dela-technicky-kouc) jsem psal o tom, s čím vám
+V minulém článku [co dělá technický Agilní kouč](/co-dela-technicky-kouc) jsem psal o tom, s čím vám
 může kouč pomoci prakticky. Dnes bych se chtěl zaměřit na to, co technický kouč umí.
 
 ### Metodiky
@@ -18,7 +18,7 @@ Metodik a frameworků kolem vývoje softwaru existují spousty. Například:
 - ScrumBan,
 - škálované metodiky (SAFe, LeSS, Nexus, ...).
 
-Neočekával bych, že technický kouč bude mistrem desítek metodik, ale že bude znát všechny alespoň
+Neočekával bych, že technický Agilní kouč bude mistrem desítek metodik, ale že bude znát všechny alespoň
 přehledově, s několika má praktické zkušenosti a dokáže je vhodně nasadit.
 
 ### Vývojářské praktiky

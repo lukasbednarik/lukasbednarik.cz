@@ -28,9 +28,9 @@ Obrázek: [Agile Coaching Competency Framework](http://www.agilecoachinginstitut
 
 ### Technické mistrovství
 
-Technický kouč se nesmí bát ušpinit si ruce. Jeho doménou je architektura, design,
+[Technický kouč](/co-umi-technicky-kouc) se nesmí bát ušpinit si ruce. Jeho doménou je architektura, design,
 kódování, testování, technické praktiky, software craftsmanship. To vše v kontextu
-agilního vývoje. Technický kouč je schopen vést tým vývojářů příkladem
+agilního vývoje. [Technický kouč je schopen](/co-dela-technicky-kouc) vést tým vývojářů příkladem
 a důkladně argumentovat k použití *best practices* tak, aby tým pochopil,
 proč to dělá.
 

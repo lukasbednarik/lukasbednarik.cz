@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Co dělá Agilní technický kouč
+title: Co dělá technický Agilní kouč
 tags: koučování agile xp
 ---
 
@@ -25,7 +25,7 @@ Kontext a cíle každého produktu jsou jiné. Několik situací pro ilustraci:
 - Vyvíjíte software pro kritické systémy vyžadující extrémní míru stability.
 - Co řeknou zákazníci, pokud zaměníte technologii X za Y?
 
-Technologie, praktiky i filozofie vývoje jsou v každé situaci trošku jiné. Technický kouč by vám měl být schopen pomoci.
+Technologie, praktiky i filozofie vývoje jsou v každé situaci trošku jiné. Technický Agilní kouč by vám měl být schopen pomoci.
 Cílem je, aby vývoj podporoval byznys v segmentu, který přináší maximální zisk. Ne aby se byznys přizpůsoboval
 softwaru, který se náhodou podařilo vyvinout.
 
@@ -37,7 +37,7 @@ technologiím i infrastruktuře. A možná někoho takového nechcete najímat n
 
 ### Kouč je tu pro tým
 
-Technický kouč pomáhá členům vývojářských týmů. Je to kolega při párovém programování, učí psát udržovatelné testy,
+Technický Agilní kouč pomáhá členům vývojářských týmů. Je to kolega při párovém programování, učí psát udržovatelné testy,
 odhalí neuvážený přešlap v architektuře a ví, v jakém vývojovém stupni se tým právě nachází a jak jej posunout na stupeň další.
 Technický kouč vede workshopy, školí, mentoruje a samozřejmě koučuje.
 
@@ -51,7 +51,7 @@ Uvedu některé z těch zajímavějších.
 ### Nemožné se stává možným
 
 Slyšeli jste někdy větu "tohle tu máme z historických důvodů; tohle už nezměníme"?
-Technický kouč může ukázat, jak snadné může být něco změnit. Během jednoho dne
+Technický Agilní kouč může ukázat, jak snadné může být něco změnit. Během jednoho dne
 udělá prototyp přechodu na novou technologii, rozmotá kód, na jehož refaktoring si nikdo netroufal,
 nebo změní část architektury (přestože tým tvrdil, že "tohle bude trvat měsíce").
 
@@ -60,7 +60,7 @@ Nemožné se stává možným. Dost výmluv.
 ### Agilní osvěta
 
 "Agile" není jen management. Je úsměvné nutit tým doručovat *přírůstek produktu* každý týden, když k tomu není vybudovaná technická infrastruktura,
-neexistují zažité praktiky a kód není pokrytý testy. Technický kouč umí technické praktiky zasadit do frameworku Agilního vývoje tak,
+neexistují zažité praktiky a kód není pokrytý testy. Technický Agilní kouč umí technické praktiky zasadit do frameworku Agilního vývoje tak,
 aby vývoj začal fungovat.
 
 ### Workshopy
