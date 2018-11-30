@@ -4,13 +4,13 @@ title: Agilní hodnoty
 tags: scrum agile
 ---
 
-## Proč jsou hodnoty důležité
-
 Pokud by jste měli udělat nějaké rozhodnutí za větší skupinu lidí,
 jak víte, že vaše rozhodnutí bude v jejich zájmu?
 V krajním případě by mohlo vaše rozhodnutí ovlivňovat nejen vaši
 firmu, ale celou Českou Republiku - kandidujete například do vlády.
 Co napíšete do svého volebního programu?
+
+## Hodnoty spojují skupinu
 
 Ze zkušenosti víme, že fráze jako "zvýšení bezpečnosti ve městech"
 mají na kandidátkách šanci na úspěch. Proč? Protože lidé mají rádi

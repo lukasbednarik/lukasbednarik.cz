@@ -8,6 +8,7 @@ Scrum a XP (Extrémní Programování) lze velmi dobře zkombinovat.
 První Scrum dokonce využíval všechny praktiky XP, ale Ken Schwaber přesvědčil Jeff Sutherlanda,
 aby přenechal výběr konkrétních praktik vývojářům. Scrum tak nechává zodpovědnost za praktiky na
 vývojářích a pomocí retrospektiv jim umožňuje hledat cestu, jak se dále zlepšovat.
+
 Scrum samotný se soustředí na management a organizaci týmu. Toto zaměření Scrumu možná pomohlo
 jeho rychlejšímu rozšíření. Na druhou stranu se mohou trápit týmy, které si neosvojily
 praktiky umožňující udržitelný agilní vývoj.

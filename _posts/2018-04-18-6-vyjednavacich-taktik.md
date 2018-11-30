@@ -4,11 +4,9 @@ title: 6 vyjednávacích taktik
 tags: matematika principy
 ---
 
-## Vyjednávání
-
 Většinu vyjednávacích taktik používají lidí intuitivně.
 Taktika je jednoduchý manévr, tah nebo protitah.
-Níže je přehled šesti nejběžnějších, se kterými se můžete setkat.
+Zde je přehled šesti nejběžnějších, se kterými se můžete setkat.
 V praxi nejde ani tak o to jednotlivé taktiky použít,
 jako spíše být schopni je identifikovat a neutralizovat.
 

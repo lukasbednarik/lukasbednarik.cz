@@ -4,8 +4,8 @@ title: Má smysl učit se C++ v roce 2018?
 tags: programování
 ---
 
-Má smysl učit se C++ i v roce 2018? Jednou větou: "Ano, pokud jsou
-systémy psané v C++ to, co vás zajímá."
+Má smysl učit se C++ i v roce 2018? Jednou větou:
+"Ano, pokud jsou systémy psané v C++ to, co vás zajímá."
 Více větami: viz zbytek článku.
 
 Jazyk C++ vytvořil Bjarne Stroustrup v 80. letech v Bellových laboratorých.

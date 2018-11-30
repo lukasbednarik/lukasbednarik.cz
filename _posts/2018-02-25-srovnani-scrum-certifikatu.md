@@ -4,8 +4,6 @@ title: Srovnání Scrum certifikátů
 tags: vzdělávání scrum
 ---
 
-> Agilní certifikáty jsou k ničemu. Přesto si jeden pořiďte.
-
 Zatímco zisk některých certifikátů je jen otázka peněz, v jiných případech
 je nutné doložit praxi. Na atraktivním trhu Scrum certifikátů
 se podmínky, za kterých jsou jednotlivé certifikáty udělovány, každých několik let mění.
@@ -13,6 +11,8 @@ se podmínky, za kterých jsou jednotlivé certifikáty udělovány, každých n
 Přes všechna negativa certifikací - a přiznejme si, je to hlavně o penězích - představují
 certifikáty hodnotu pro své držitele. Vypovídají o úsilí se vzdělávat
 a ochotě do vzdělání investovat svůj čas i peníze.
+
+> Agilní certifikáty jsou k ničemu. Přesto si jeden pořiďte.
 
 ## Scrum Alliance
 

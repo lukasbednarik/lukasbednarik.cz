@@ -4,17 +4,8 @@ title: Kanban jako nástroj
 tags: kanban agile
 ---
 
-## Minimalismus
-
 Porovnáme-li Kanban s jinou Agilní metodikou (Scrum, XP, ...),
 bude Kanban vypadat minimalisticky. Kromě pěti [základních principů](/principy-kanbanu/)
-
-- vizualizujte,
-- omezte rozpracovanou práci,
-- řiďte tok hodnoty,
-- mějte psaná pravidla,
-- neustále se zlepšujte,
-
 Kanban vlastně nic neříká. Když si tyto principy přečte člověk poprvé, rozhodně neví, co dělat.
 Právě proto je Kanban zpočátku obtížný.
 

@@ -7,6 +7,7 @@ tags: agile
 Jedním z mnoha korporátních slov, které v posledních několika letech slyšíme stále dokola, je “agile”:
 “Chceme být agilní organizací.” Je to stejné klišé, jako když řekneme “chceme být inovativní”
 a “chceme mít plochou organizační strukturu”.
+
 Slovo [“agile” ztratilo svůj zamýšlený význam](/dead-of-agile/).
 Slyšel jsem manažery popisující, jak se jejich organizace stala agilní:
 “Máme agilní vývojáře, takže jsme agilní organizací.” Nebo: “Specifikace našeho produktu se neustále mění a my se této

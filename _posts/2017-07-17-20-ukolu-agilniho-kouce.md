@@ -4,7 +4,8 @@ title: 20 úkolů Agilního kouče
 tags: koučování agile
 ---
 
-Přehled úkolů a zodpovědností agilního kouče (AC), které vnímám jako důležité.
+Role Agilního kouče je práce na plný úvazek.
+Zde je přehled úkolů a zodpovědností agilního kouče (AC), které vnímám jako důležité.
 
 ## Týmový rozsah
 

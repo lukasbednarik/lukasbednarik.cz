@@ -4,10 +4,10 @@ title: Ideální pohovor
 tags: pohovory
 ---
 
-## Pohled uchazeče
-
 Jako uchazeč o práci vývojáře jsem ve své době absolvoval dlouhé kolečko pohovorů.
 Všechny pohovory měly jedno společné - jistou dávku nesmyslnosti.
+
+## Kolečko pohovorů
 
 V jedné firmě jsem musel odhadovat, kolik vagónů má pražské metro,
 a vysvětlovat, jak bych přeléval vodu mezi 3 litrovou a 5 litrovou nádobou

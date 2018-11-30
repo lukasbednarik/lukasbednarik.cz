@@ -4,7 +4,7 @@ title: Kanban ve 100 slovech
 tags: kanban metodiky
 ---
 
-Existuje mnoho variant Kanbanu, ale jádro je vždy stejné:
+Existuje mnoho variant Kanbanu, ale jádro je vždy stejné.
 
 1. Vizualizace workflow
    - Rozdělte práci na menší úkoly. Vytvořte kartičku pro každý úkol a přilepte ji na zeď.

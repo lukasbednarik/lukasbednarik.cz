@@ -4,10 +4,12 @@ title: Typy agilních koučů
 tags: koučování agile
 ---
 
+Spojení "Agilní kouč" velmi zpopularizovala Lyssa Adkins ve své knize Coaching Agile Teams (rok 2010).
+Lyssa je velmi konkrétní v tom, co by měl Agilní kouč umět.
+
 ## Co kouč musí umět
 
-Spojení "Agilní kouč" velmi zpopularizovala Lyssa Adkins ve své knize Coaching Agile Teams (rok 2010).
-Lyssa je velmi konkrétní v tom, co by měl Agilní kouč umět:
+Agilní kouč by se měl orientovat v následujících oblastech:
 
 - výborná znalost Agilních praktik,
 - profesionální koučování,

@@ -4,10 +4,10 @@ title: Tisíce metodik
 tags: metodiky agile
 ---
 
-## Jedny boty nepasují všem
-
 Jedním ze základních požadavků na Agilního kouče by měla být znalost více metodik
 vývoje software. Vždyť ani Scrum není process nebo technika, je to framework.
+
+## Znáte jen Scrum?
 Scrum pomáhá lidem efektivně přistupovat k řešení komplexních problémů.
 Příručka Scrumu říká, že Scrum může sloužit jako obálka dalších praktik,
 technik nebo metodik. Jak ale můžeme efektivně využívat Scrum, když jediné,
