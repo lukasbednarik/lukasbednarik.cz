@@ -4,19 +4,6 @@
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
   <meta name="robots" content="index, follow">
-  <meta name="author" content="{{ site.author.name }}">
-  <meta name="keywords" content="{{ site.seo.keywords }}">
-  <meta name="description" lang="cs" content="{{ site.seo.description }}">
-  <meta property="og:title" content="{{ site.author.name }}" />
-  <meta property="og:description" content="{{ site.seo.description }}" />
-
-  <title>
-    {% if page.title == "Home" %}
-      {{ site.title }} &middot; {{ site.tagline }}
-    {% else %}
-      {{ page.title }} &middot; {{ site.title }}
-    {% endif %}
-  </title>
 
   <!-- CSS -->
   <link rel="stylesheet" href="/public/css/style.css">
@@ -37,4 +24,7 @@
     gtag('js', new Date());
     gtag('config', 'UA-104534530-1');
   </script>
+
+  <!-- SEO -->
+  {% seo %}
 </head>

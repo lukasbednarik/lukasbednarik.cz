@@ -13,7 +13,7 @@ parent: /sluzby
 
 ## O co jde?
 
-**Pro vývojáře:** 
+**Pro vývojáře:**
 Váš kód se na vás už nebude lepit jako smola. Workshop je cesta k technické excelenci,
 k prohloubení týmové spolupráce a k produktivitě.
 
@@ -108,7 +108,7 @@ signatář [software craftmanship manifesta](http://manifesto.softwarecraftsmans
 
 Je důležité si přinést **vlastní notebook**
 a **zkompilovat** si prázdný projekt, který naleznete v
-[GIT repozitáři](https://github.com/sand-dollar/clean-project)
+[GIT repozitáři](https://github.com/lukasbednarik/clean-project)
 společně s dalšími instrukcemi.
 
 Kvůli párovému programování je nutné si **nainstalovat grafické IDE** (ideálně

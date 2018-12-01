@@ -2,6 +2,7 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
   - redcarpet
+  - jekyll-seo-tag
 
 markdown:         kramdown
 highlighter:      rouge
@@ -16,10 +17,16 @@ title:            'Lukáš Bednařík'
 author:
   name:           'Lukáš Bednařík'
   email:          'lukas@lukasbednarik.cz'
-#description:      'No Scrum bullshit ...ale spokojení lidé a kvalitní produkt.'
-#description:      'Jsem technický kouč. Zabývám se efektivním vývojem softwaru.'
-#description:      'Jsem technický kouč. Pomáhám týmům vyvíjet software rychleji a kvalitněji.'
 description:      'Technický Agilní kouč. Kvalitnější software rychleji.'
-seo:
-  description:    'Pomáhám týmům vyvíjet software rychleji a kvalitněji.'
-  keywords:       'firemní kultury,praktiky,metodiky,vývoj software,školení,extrémní programování,workshop,kanban'
+lang: cs_CZ
+twitter:
+  username: lukasbednarikcz
+  card: summary
+social:
+  name: Lukáš Bednařík
+  links:
+    - https://twitter.com/lukasbednarikcz
+    - https://www.facebook.com/lukasbednarikcz
+    - https://www.linkedin.com/in/lukasbednarik
+    - https://github.com/lukasbednarik
+# logo
