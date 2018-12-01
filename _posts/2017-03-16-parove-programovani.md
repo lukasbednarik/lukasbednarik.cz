@@ -4,7 +4,8 @@ title: Párové programování
 tags: programování praktiky
 ---
 
-Mohou dva lidé pracující u jednoho počítače dodat produkt za stejný čas jako dva lidé pracující každý na svém počítači?
+Mohou dva lidé pracující u jednoho počítače dodat produkt za stejný
+čas jako dva lidé pracující každý na svém počítači?
 Zastánci párového programování tvrdí, že ano, i když je to neintuitivní.
 
 Extrémnější analogií párového programování je tzv.

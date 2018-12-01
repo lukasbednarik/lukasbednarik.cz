@@ -2,6 +2,7 @@
 layout: post
 title: Scrum punč
 tags: události
+description: Scrum punč 5. 12. 2018 na náměstí Svobody v Brně.
 ---
 
 Máme tu Scrum punč! Dne 5. 12. 2018 na náměstí Svobody v Brně.
