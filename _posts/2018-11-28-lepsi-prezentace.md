@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Jak dostat své prezentace na vyšší úroveň? Nahrávejte se!
+title: Lepší prezentace
 tags: vzdělávání koučování
+description: Metod, jak zlepšit své prezentační dovednosti, je obrovské množství.
+  Pokud máte rádi koučování a na všechno by jste si nejraději přišli sami, zkuste tento nápad.
 ---
 
 Metod, jak zlepšit své prezentační dovednosti, je obrovské množství.
