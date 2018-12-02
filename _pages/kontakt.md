@@ -6,8 +6,7 @@ permalink: /kontakt
 
 Jsem technický Agilní kouč.
 Pomáhám týmům vyvíjet software rychleji a kvalitněji.
-Pomáhám vývojářům v kariérním rozvoji.
-Mojí doménou jsou technologie, praktiky a metodiky vývoje softwaru.
+Zajímám se o technologie, praktiky a metodiky vývoje softwaru.
 
 ## Rychlý email
 
