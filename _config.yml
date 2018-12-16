@@ -1,6 +1,5 @@
 plugins:
   - jekyll-paginate
-  - jekyll-gist
   - redcarpet
   - jekyll-seo-tag
 
