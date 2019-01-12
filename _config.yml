@@ -89,15 +89,18 @@ features:
 - title: Mob Programming
   description: Mob programming, jeden z trendů posledních let, podpoří týmového ducha, sdílení znalostí a kvalitu kódu. Nikdo se na žádném problému nezasekne, code review se dělá průběžně, zrychlí se tok informací a nevzniká legacy code.
   icon: pe-7s-users
-  link: /workshop-mob-programming/
+  link: Více...
+  link-url: /workshop-mob-programming/
 - title: Technická Agilita
   description: Váš kód se na vás už nebude lepit jako smola. Workshop je cesta k technické excelenci, k prohloubení týmové spolupráce a k produktivitě. Dle přání můžeme obsah workhopu zaměřit více na DevOps, TDD, design best practices, refactoring, continuous integration nebo continuous release.
   icon: pe-7s-study
-  link: /workshop-technicka-agilita/
+  link: Více...
+  link-url: /workshop-technicka-agilita/
 - title: Agilní Architektura
   description: Jakmile jednou vytvoříme architekturu softwarového projektu, jak zabráníme tomu, aby v průběhu času degradovala? Je možné navrhnout architekturu, která je na změnu připravena?
   icon: pe-7s-keypad
-  link: /workshop-agilni-architektura/
+  link: Více...
+  link-url: /workshop-agilni-architektura/
 
 #####################################
 ##########  S čím pomáhám  ##########
