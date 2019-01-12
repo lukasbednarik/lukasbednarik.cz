@@ -24,19 +24,19 @@
       {% for feature in site.features %}
 
       <div class="col-md-4 col-md-push-0 col-sm-8 col-sm-push-2 col-xs-10 col-xs-push-1 feature">
-        <a href="{{ site.baseurl }}{{ feature.link }}">
-          <div class="icon parent">
-            <div class="circle parent">
-              <div class="circle child-center">
-                <i class="{{ feature.icon }} child-center"></i>
+        <div class="content text-center content-header">
+          <a href="{{ site.baseurl }}{{ feature.link }}">
+            <div class="icon parent">
+              <div class="circle parent">
+                <div class="circle child-center">
+                  <i class="{{ feature.icon }} child-center"></i>
+                </div>
               </div>
             </div>
-          </div>
-        </a>
-        <div class="content text-center">
-          <a href="{{ site.baseurl }}{{ feature.link }}">
             <h3>{{ feature.title }}</h3>
           </a>
+        </div>
+        <div class="content text-center">
           <p>{{ feature.description }} <a href="{{ site.baseurl }}{{ feature.link }}">Více...</a></p>
         </div>
       </div>

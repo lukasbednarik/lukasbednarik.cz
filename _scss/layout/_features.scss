@@ -60,34 +60,25 @@ section.features-section {
         margin-bottom: 1.25rem;
       }
 
-      h3, p {
+      h3 {
         transition: color $transition-links $transition-links-type;
       }
     }
 
     // Hover Mode
-    &:hover {
-
-      .icon {
-        .circle {
+    .content-header {
+      a:hover {
+        .icon {
           .circle {
-            background: $primary;
+            .circle {
+              background: $primary;
+            }
           }
         }
-      }
-
-      .content {
-
         h3 {
           color: $primary;
         }
-
-        p {
-          color: $secondary;
-        }
-
       }
-
     }
 
   }
