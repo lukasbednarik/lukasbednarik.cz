@@ -7,6 +7,8 @@ tags: kanban metodiky
 V jednom z předchozích článků jsem si dělal [legraci z pěti principů Kanbanu](/kanban-principles-explained).
 Dnes si tyto principy popíšeme poctivěji.
 
+<!--more-->
+
 Pět principů kanbanu:
 
 - vizualizujte,

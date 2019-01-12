@@ -9,6 +9,8 @@ Aplikováním Kanbanu ve větším měřítku. Jakmile máme zavedený
 kanban pro alespoň jednu službu, existují tři dimenze,
 do nichž může náš kanban růst.
 
+<!--more-->
+
 ## Škálování do šířky
 
 Škálovat do šířky znamená zachytit delší část životního cyklu úkolů.

@@ -10,6 +10,8 @@ Strávíte tři měsíce zjišťováním požadavků zákazníka, šest až dev�
 mesíců vývojem produktu a pak konečně ukážete své dílo zákazníkovi.
 A uspějete...
 
+<!--more-->
+
 Uspějete v tom, že uvidíte, co se stane. S produktem nejspíše nepochodíte.
 Zákazníci si budou stěžovat, že produkt nefunguje, jak si představovali,
 že neřeší jejich problém a že ho vlastně vůbec nechtějí používat.

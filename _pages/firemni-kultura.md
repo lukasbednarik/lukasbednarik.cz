@@ -1,8 +1,8 @@
 ---
 layout: page
 title: 'Firemní kultura'
-permalink: /firemni-kultura
-parent: /komunita
+permalink: /firemni-kultura/
+header-img: 'firemni-kultura-puzzle.jpg'
 ---
 
 > Kultura je systém všech významů, činností a vzorců chování, které nejsou člověku vrozené.
@@ -10,25 +10,23 @@ parent: /komunita
 
 ## Obsah
 
-- [Co je to firemní kultura](/firemni-kultura#co-je-to-firemní-kultura)
-  - [Příběh kultury tým lídrů](/firemni-kultura#příběh-kultury-tým-lídrů)
-  - [Kultura není vidět](/firemni-kultura#kultura-není-vidět)
-  - [Definice firemní kultury](/firemni-kultura#definice-firemní-kultury)
-  - [Otevřená typologie firemních kultur](/firemni-kultura#otevřená-typologie-firemních-kultur)
-  - [Agilní kultura](/firemni-kultura#agilní-kultura)
-  - [Slovníček](/firemni-kultura#slovníček)
-- [Organizace lidí](/firemni-kultura-organizace-lidi)
-  - [Kultura moci](/firemni-kultura-organizace-lidi#kultura-moci)
-  - [Kultura rolí](/firemni-kultura-organizace-lidi#kultura-rolí)
-  - [Kultura úkolů](/firemni-kultura-organizace-lidi#kultura-úkolů)
-  - [Kultura osob](/firemni-kultura-organizace-lidi#kultura-osob)
-- [Seberealizace](/firemni-kultura-seberealizace)
-- [Sdílení informací](/firemni-kultura-sdileni-informaci)
-- [Kritéria určující pravdu](/firemni-kultura-pravda)
-- [Uznání členů v rámci organizace](/firemni-kultura-uznani-clenu-organizace)
-- [Kompetence](/firemni-kultura-kompetence)
-
-![Firemní kultura](/assets/firemni-kultura-puzzle.jpg)
+- [Co je to firemní kultura](#co-je-to-firemní-kultura)
+  - [Příběh kultury tým lídrů](#příběh-kultury-tým-lídrů)
+  - [Kultura není vidět](#kultura-není-vidět)
+  - [Definice firemní kultury](#definice-firemní-kultury)
+  - [Otevřená typologie firemních kultur](#otevřená-typologie-firemních-kultur)
+  - [Agilní kultura](#agilní-kultura)
+  - [Slovníček](#slovníček)
+- [Organizace lidí](/firemni-kultura-organizace-lidi/)
+  - [Kultura moci](/firemni-kultura-organizace-lidi/#kultura-moci)
+  - [Kultura rolí](/firemni-kultura-organizace-lidi/#kultura-rolí)
+  - [Kultura úkolů](/firemni-kultura-organizace-lidi/#kultura-úkolů)
+  - [Kultura osob](/firemni-kultura-organizace-lidi/#kultura-osob)
+- [Seberealizace](/firemni-kultura-seberealizace/)
+- [Sdílení informací](/firemni-kultura-sdileni-informaci/)
+- [Kritéria určující pravdu](/firemni-kultura-pravda/)
+- [Uznání členů v rámci organizace](/firemni-kultura-uznani-clenu-organizace/)
+- [Kompetence](/firemni-kultura-kompetence/)
 
 ## Co je to firemní kultura
 
@@ -139,16 +137,16 @@ zachycuje firemní kulturu v obou rozměrech.
 S čím se musí organizace vypořádat (co se v ní musí nastavit)
 záleží na konkrétní organizaci a může se lišit. Obvykle to bývá:
 
-- [Organizace lidí](/firemni-kultura-organizace-lidi)
-  - [Kultura moci](/firemni-kultura-organizace-lidi#kultura-moci)
-  - [Kultura rolí](/firemni-kultura-organizace-lidi#kultura-rolí)
-  - [Kultura úkolů](/firemni-kultura-organizace-lidi#kultura-úkolů)
-  - [Kultura osob](/firemni-kultura-organizace-lidi#kultura-osob)
-- [Seberealizace](/firemni-kultura-seberealizace)
-- [Sdílení informací](/firemni-kultura-sdileni-informaci)
-- [Kritéria určující pravdu](/firemni-kultura-pravda)
-- [Uznání členů v rámci organizace](/firemni-kultura-uznani-clenu-organizace)
-- [Kompetence](/firemni-kultura-kompetence)
+- [Organizace lidí](/firemni-kultura-organizace-lidi/)
+  - [Kultura moci](/firemni-kultura-organizace-lidi/#kultura-moci)
+  - [Kultura rolí](/firemni-kultura-organizace-lidi/#kultura-rolí)
+  - [Kultura úkolů](/firemni-kultura-organizace-lidi/#kultura-úkolů)
+  - [Kultura osob](/firemni-kultura-organizace-lidi/#kultura-osob)
+- [Seberealizace](/firemni-kultura-seberealizace/)
+- [Sdílení informací](/firemni-kultura-sdileni-informaci/)
+- [Kritéria určující pravdu](/firemni-kultura-pravda/)
+- [Uznání členů v rámci organizace](/firemni-kultura-uznani-clenu-organizace/)
+- [Kompetence](/firemni-kultura-kompetence/)
 
 ### Agilní kultura
 
@@ -157,7 +155,7 @@ Právě mindset (to, jakým způsobem uvažujeme) souvisí s kulturou společnos
 nutné pracovat s kulturou. Pokud se tak nestane, mindset lidí zůstane stejný i přes všechny změny v procesech.
 (Viz příklad "kultura tým lídrů" výše.)
 
-![Firemní kultura](/assets/firemni-kultury.png)
+![Firemní kultura]({{ site.baseurl }}/images/blog/firemni-kultury.png)
 
 ### Slovníček
 
@@ -183,4 +181,4 @@ Firemní kultura
   Nejedná se o jednu hodnotu nebo soustavu hodnot, ale o extrémně komplexní systém, který zahrnuje také to,
   jak na tyto hodnoty lidé reagují.
 
-- [Zpět na: Obsah](/firemni-kultura#obsah)
+- [Zpět na: Obsah](/firemni-kultura/#obsah)

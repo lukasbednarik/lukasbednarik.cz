@@ -1,15 +1,11 @@
 ---
 layout: page
 title: 'Workshop Mob programming'
-permalink: /workshop-mob-programming
-parent: /sluzby
+tagline: 'Workshopy'
+permalink: /workshop-mob-programming/
+header-img: 'workshop-photo.jpg'
+parent: '#workshopy'
 ---
-
-- [O co jde?](/workshop-mob-programming#o-co-jde)
-- [Termíny a cena](/workshop-mob-programming#termíny-a-cena)
-- [Detailní osnova školení](/workshop-mob-programming#detailní-osnova-školení)
-- [Materiály a příprava](/workshop-mob-programming#materiály-a-příprava)
-- [Informace o dalších termínech a školeních](/workshop-mob-programming#informace-o-dalších-termínech-a-školeních)
 
 ## O co jde?
 
@@ -32,15 +28,11 @@ Skupina lidí programujících různými jazyky je vítána.
 - **Délka:** 1 den, 9:00 - 15:30
 - **Jazyky:** bez omezení
 
-![Mob programming](/assets/mob-programming.png)
-
 ## Termíny a cena
-
-### Pro vývojáře
 
 - **Cena:** Na dotaz
 
-Termíny [dle domluvy](/kontakt).
+Termíny [dle domluvy]({{ site.baseurl }}/#kontakt).
 
 ## Detailní osnova školení
 
@@ -63,8 +55,4 @@ Konečnou osnovu kurzu vždy přizpůsobuji konkrétním potřebám zákazníka.
 Po přihlášení na workshop vám pošlu krátký online dotazník.
 Cílem dotazníku je spojit lidi dle programovacích jazyků a zkušeností.
 
-## Informace o dalších termínech a školeních
-
-Prosím, vyplňte svůj email, chcete-li dostávat informace o dalších termínech a školeních.
-
-{% include email-subscribe.html %}
+{% include workshop-list.html %}

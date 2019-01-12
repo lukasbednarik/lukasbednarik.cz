@@ -1,11 +1,14 @@
 ---
 layout: page
 title: 'Co se povedlo'
-permalink: /o-mne
-parent: /kontakt
+permalink: /o-mne/
+tagline: Lukáš Bednařík
 ---
 
-Kontaktní informace naleznete na stránce [kontakt](/kontakt).
+### 2019
+
+- Nová website
+- Zakládáme komunitu #CzechAgile
 
 ### 2018
 
@@ -15,13 +18,13 @@ Kontaktní informace naleznete na stránce [kontakt](/kontakt).
 - Účastním se většiny setkání brněnských Scrum Masterů a mnoha agilních konferencí.
 - [Povídám o XP](https://www.facebook.com/events/373745716426679/) pro cca 60 lidí v Kentico.
 - Uvádím první letošní [Agile Open Café](https://agilniasociace.cz/info/agile-open-cafe-brno-v-roce-2018/).
-- [Workshop Technická Agilita](/sluzby) beží veřejně, termíny jsou vypsány.
+- [Workshop Technická Agilita](/workshop-agilni-architektura/) beží veřejně, termíny jsou vypsány.
 
 ### 2017
 
 - Spuštěn projekt [Agilní kalendář](http://agilnikalendar.cz).
 - Účastním se nejrůznějších setkání brněnských Scrum Masterů.
-- Dokončení knihy [Rebelská historie vývoje software](/knihy).
+- Dokončení knihy [Rebelská historie vývoje software](/knihy/).
 - Workshop Extrémního programování pro [iXperta s.r.o.](http://www.ixperta.com/)
 - Certifikát [Scaled Professional Scrum](https://www.scrum.org/certification-list) ([scrum.org](https://www.scrum.org)).
 - Certifikát [Professional Scrum Master II](https://www.scrum.org/certification-list) ([scrum.org](https://www.scrum.org)).

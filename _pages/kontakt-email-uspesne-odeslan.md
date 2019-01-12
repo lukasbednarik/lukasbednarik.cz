@@ -1,11 +1,11 @@
 ---
 layout: page
 title: 'Email úspěšně odeslán'
-permalink: /email-uspesne-odeslan
-parent: /kontakt
+permalink: /email-uspesne-odeslan/
 ---
 
-Váš email byl úspěšně odeslán. Můžete se vrátit na stránku
-[kontaktů](/kontakt) nebo pokračovat na [index](/).
+Váš email byl úspěšně odeslán. Můžete se vrátit
+na [index]({{ site.baseurl }}/) nebo
+na [blog]({{ site.baseurl }}/blog/).
 
-![Email odeslán](/assets/email-odeslan.jpg)
+![Email odeslán]({{ site.baseurl }}/images/blog/email-odeslan.jpg)

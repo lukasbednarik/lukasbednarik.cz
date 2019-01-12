@@ -7,6 +7,8 @@ tags: vzdělávání
 Podcasty vám [změní život jako máloco](http://www.pavelsima.cz/blog/nejlepsi-podcasty),
 píše marketingový guru Pavel Šíma a já s ním souhlasím.
 
+<!--more-->
+
 ### Podcast vás nepustí
 
 Také máte ve svém prohlížeči v záložkách videa, na která by jste se rádi podívali, ale není na to čas?

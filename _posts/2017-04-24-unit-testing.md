@@ -8,6 +8,8 @@ Před několika lety jsem pracoval na produktu, u nějž byla vyžadována extr�
 Podle několika výzkumů unit testy snižují počet defektů následně nalezených v kódu o
 40-80%. Zákazník si tedy vyžádal k produktu unit testy. A všichni vývojáři je psali.
 
+<!--more-->
+
 Brzy jsem si uvědomil, že mí kolegové nepíší unit testy, ale "nějaké testy".
 Jakoby si jen stačilo stáhnout unit-testovací framework a přečíst pár návodů na internetu.
 Vzpomněl jsem si na knihu *The Art of Unit Testing*, kde
@@ -23,7 +25,7 @@ a podpora managementu se pozvolna vytrácí.
 Na druhou stranu *dobré unit testy* mohou skutečně zvýšit kvalitu kódu, zmenšit počet defektů
 a dokonce i urychlit vývoj.
 
-![](/assets/it-works-on-my-machine.jpg)
+![]({{ site.baseurl }}/images/blog/it-works-on-my-machine.jpg)
 
 Dobrý unit test by měl:
 

@@ -10,6 +10,8 @@ Bylo to v době, kdy jsme akutně sháněli nového člena našeho Scrum týmu. 
 byly přibližně takovéto: dobrá znalost programovacího jazyka, komunikativní, týmový hráč, zkušenosti
 z jiných firem nebo vlastní projekty, schopný vyznat se ve vícevláknové aplikaci.
 
+<!--more-->
+
 Mysleli jsme si, že něco takového by mohla splňovat většina kandidátů. A nesplňovala.
 Po pěti neúspěšných pohovorech jsem začal přemýšlet nad tím, co děláme špatně.
 Vodí k nám agentury nevhodné uchazeče? Většina lidí totiž přišla na pohovor

@@ -8,6 +8,8 @@ Byly doby, kdy se zdálo, že microservices jsou odpověď na všechno.
 Vždyť přece Netflix je úspěšný, Netflix dělá microservices.
 Proto když budeme dělat microservices, budeme také úspěšní.
 
+<!--more-->
+
 Tím, že systém rozdělíme na menší části, se komplexita systému nutně nezmenší.
 Jen přesuneme část komplexity do konfiguračního managementu a infrastruktury.
 Vznikají nové problémy:

@@ -8,6 +8,8 @@ Zatímco zisk některých certifikátů je jen otázka peněz, v jiných přípa
 je nutné doložit praxi. Na atraktivním trhu Scrum certifikátů
 se podmínky, za kterých jsou jednotlivé certifikáty udělovány, každých několik let mění.
 
+<!--more-->
+
 Přes všechna negativa certifikací - a přiznejme si, je to hlavně o penězích - představují
 certifikáty hodnotu pro své držitele. Vypovídají o úsilí se vzdělávat
 a ochotě do vzdělání investovat svůj čas i peníze.
@@ -27,7 +29,7 @@ Letos (2018) byl změněn systém certifikací. Původní cesta od CSM (Certifie
 k CSP (Certified Scrum Professional) byla prodloužena mezistupněm A-CSM (Advanced Certified
 Scrum Master). Na druhou stranu k získání CSP již není nutné sbírat tzv. SEU (Scrum Educational Unit) body.
 
-![Certifikace scrum.org](/assets/scrum-alliance-certifikace.png)
+![Certifikace scrum.org]({{ site.baseurl }}/images/blog/scrum-alliance-certifikace.png)
 
 Cesta k CSP se tak svým způsobem zjednodušila, ale prodražila. Sbírání SEU bodů v
 českých podmínkách bylo velmi obtížné. (SEU body se udělovaly například za práci pro Scrum Allianci,
@@ -41,13 +43,13 @@ Ken Schwaber, zakladatel Scrum Alliance, v roce 2009 organizaci opustil, aby zal
 [Scrum.org](https://www.scrum.org/). Na otázku, proč se tomu tak stalo, Ken Schwaber odpovídá:
 
 > [My journey with Scrum] ... has been shaped by two opposing forces: the desire to do the right thing,
-> and the desire to make money. I formed Scrum.org to refocus my efforts on doing the right thing. 
+> and the desire to make money. I formed Scrum.org to refocus my efforts on doing the right thing.
 
 Získat certifikát od scrum.org lze bez absolvování jakéhokoliv kurzu jen s pomocí samostudia.
 Po zaplacení poplatku za zkoušku máte jeden pokus na vyplnění časově omezeného testu.
 Testy nižších úrovní jsou spíše teoretické, ve vyšších úrovních přibývají otázky z praxe.
 
-![Certifikace scrum.org](/assets/scrum-org-certifications.png)
+![Certifikace scrum.org]({{ site.baseurl }}/images/blog/scrum-org-certifications.png)
 
 Ani scrum.org se nevyhnul rozšiřování svého portfolia. Původní zkouška PSM II
 byla roku 2016 přejmenována na PSM III a celá vzdělávací cesta se prodloužila
@@ -57,7 +59,7 @@ kolik chtějí.
 
 Podmínky pro získání PSM jsou:
 
-- základní porozumnění Scrumu ze [Scrum Guide](http://www.scrumguides.org/index.html),
+- základní porozumnění Scrumu ze [Scrum Guide](https://www.scrumguides.org/index.html),
 - alespoň 85% úspěšnost v 60 minutovém testu.
 
 Podaří-li se vám uspět u PSM, složení dalších certifikátů (PSPO - Professional
@@ -79,7 +81,7 @@ Certifikáty ICAgile jsou rozděleny do třech úrovní:
 - ICAgile Expert (zlatý odznáček),
 - Master Agilist (modrý odznáček).
 
-![Certifikace ICAgile](/assets/icagile-certifications.png)
+![Certifikace ICAgile]({{ site.baseurl }}/images/blog/icagile-certifications.png)
 
 Prerekvizitou pro všechny certifikáty je absolvování základního kurzu Agile Fundamentals,
 kde lektoři mimo jiné vysvětlí, jaký je rozdíl mezi "být Agile" a "dělat Agile".

@@ -7,6 +7,8 @@ tags: koučování agile
 Role Agilního kouče je práce na plný úvazek.
 Zde je přehled úkolů a zodpovědností agilního kouče (AC), které vnímám jako důležité.
 
+<!--more-->
+
 ## Týmový rozsah
 
 Agilní kouč:

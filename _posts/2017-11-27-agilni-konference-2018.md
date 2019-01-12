@@ -7,6 +7,8 @@ tags: události
 O řečnících stále nepadlo ani slovo, ale termíny největších konferencí v ČR už známe.
 Mezi hlavní organizátory agilních konferencí u nás patří Agilia a Agilní Asociace.
 
+<!--more-->
+
 **Update:** Nově najdete všechny konference a meetupy v [Agilním kalendáři](https://agilnikalendar.cz/).
 Zajímá-li vás, [jak kalendář vznikl](/agilni-kalendar/), čtěte tady.
 
@@ -24,7 +26,7 @@ Tradiční a snad i největší event v ČR. Registrace na Agile Prague bude spu
 
 - Termín: 10. - 11. září 2018
 - Místo: Praha
-- Web: [agileprague.com](http://agileprague.com/)
+- Web: [agileprague.com](https://agileprague.com/)
 
 ### Agilia Prague
 
@@ -56,7 +58,7 @@ Nejde o klasickou konferenci, ale spíše o workshop pro Scrum Mastery. Návšt�
 
 - Termín: 10. září 2018
 - Místo: Praha
-- Web: [agiliascrumday.com](http://www.agiliascrumday.com/)
+- Web: [agiliascrumday.com](http://agiliascrumday.com)
 
 ### Agilia Budapest
 
@@ -64,7 +66,7 @@ Produkt management, produkt ownership, produkt portfolio… To jsou některá z 
 
 - Termín: 15. říjen 2018
 - Místo: Budapešť
-- Web: [agiliabudapest.com](http://www.agiliabudapest.com/)
+- Web: [agiliabudapest.com](http://agiliabudapest.com)
 
 ### ScrumImpulz
 

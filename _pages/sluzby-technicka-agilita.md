@@ -1,29 +1,20 @@
 ---
 layout: page
 title: 'Workshop Technická Agilita'
-permalink: /workshop-technicka-agilita
-parent: /sluzby
+tagline: 'Workshopy'
+permalink: /workshop-technicka-agilita/
+header-img: 'workshop-photo.jpg'
+parent: '#workshopy'
 ---
-
-- [O co jde?](/workshop-technicka-agilita#o-co-jde)
-- [Termíny a cena](/workshop-technicka-agilita#termíny-a-cena)
-- [Detailní osnova školení](/workshop-technicka-agilita#detailní-osnova-školení)
-- [Materiály a příprava](/workshop-technicka-agilita#materiály-a-příprava)
-- [Informace o dalších termínech a školeních](/workshop-technicka-agilita#informace-o-dalších-termínech-a-školeních)
 
 ## O co jde?
 
-**Pro vývojáře:**
-Váš kód se na vás už nebude lepit jako smola. Workshop je cesta k technické excelenci,
-k prohloubení týmové spolupráce a k produktivitě.
-
-Dle přání můžeme obsah workhopu zaměřit více na DevOps, TDD, design best practices,
-refactoring, continuous integration nebo continuous release.
-
-**Pro firmy:**
 Zavedli jste Agilní vývoj, ale na doručování projektů se to příliš neprojevilo?
 Veděli jste, že většina Agilních metodik včetně Scrumu předpokládá nějaké vývojářské best practices v týmu?
 Nepřešlapujte na místě a přihlašte se na workshop.
+
+Váš kód se na vás už nebude lepit jako smola. Workshop je cesta k technické excelenci,
+k prohloubení týmové spolupráce a k produktivitě.
 
 Řekneme si vše o best practices efektivního vývoje.
 Vyzkoušíme si párové programování a test-driven development.
@@ -37,31 +28,15 @@ Metodika, kterou se naučíte, je více než jen součet svých částí.
 - **Délka:** 1 den, 9:00 - 15:30
 - **Jazyky:** Java, C#, C++, Node.Js, PHP
 
-![Workshop Technická Agilita](/assets/workshop-java-3a.jpg)
-
 ## Termíny a cena
 
-### Pro vývojáře
-
-| Termíny 2018             | Prostor                                       | Jazyk | Poznámky      |
-|:------------------------ |:--------------------------------------------- |:-----:|:--------------|
-| ~~2. únor 2018~~         | [Impact Hub Brno](https://www.hubbrno.cz/en/) | Java  | Plně obsazeno |
-| ~~28. duben 2018~~       | [Impact Hub Brno](https://www.hubbrno.cz/en/) | Java  | Plně obsazeno |
-| ~~6. září 2018~~         | [Impact Hub Brno](https://www.hubbrno.cz/en/) | C++   | Rezervace uzavřena |
-
-- **Cena:** 900 Kč / člověk
-
-Další termíny, místa a programovací jazyky [na vyžádání](/kontakt).
-
-### Pro firmy
-
-Termíny [dle domluvy](/kontakt).
+Termíny [dle domluvy]({{ site.baseurl }}/#kontakt).
 
 Cenu mých služeb určuje poptávka.
 Mám-li více práce než stíhám, zdražuji.
 Je-li práce málo, zlevňuji.
 
-- **Cena:** 6000 Kč / tým
+- **Cena:** 9000 Kč / tým
 
 ## Detailní osnova školení
 
@@ -99,7 +74,7 @@ Konečnou osnovu kurzu vždy přizpůsobuji konkrétním potřebám zákazníka.
 1. Nástroje a frameworky
 
 
-![Lukáš Bednařík](/assets/xp-fall.png)
+![Lukáš Bednařík]({{ site.baseurl }}/images/blog/xp-fall.png)
 
 Workshopem vás provede extrémní programátor a
 signatář [software craftmanship manifesta](http://manifesto.softwarecraftsmanship.org).
@@ -115,8 +90,4 @@ Kvůli párovému programování je nutné si **nainstalovat grafické IDE** (id
 [Visual Studio Code](https://code.visualstudio.com/)), protože váš kolega nemusí znát klávesové
 zkratky pro VIM či Emacs.
 
-## Informace o dalších termínech a školeních
-
-Prosím, vyplňte svůj email, chcete-li dostávat informace o dalších termínech a školeních.
-
-{% include email-subscribe.html %}
+{% include workshop-list.html %}

@@ -8,6 +8,8 @@ Když někdo na brněnském setkání Scrum Masterů nadhodil téma "co komunitu
 objevily se dvě věci. První z nich byla komunikační roztříštěnost komunity, druhou byla
 neexistence jednotného místa, kde by se člověk mohl informovat o všech agilních akcích.
 
+<!--more-->
+
 ### Komunikace v brněnské komunitě Scrum Masterů
 
 Někdo komunikuje přes

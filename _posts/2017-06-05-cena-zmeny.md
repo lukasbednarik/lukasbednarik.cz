@@ -8,6 +8,8 @@ Jeden ze starých univerzálních předpokladů ve vývoji software je, že cena
 v programu roste exponenciálně s časem. (Viz např. Steve McConnell, Code Complete,
 kde uvádí tabulku.) Budeme-li tomuto předpokladu věřit, agilní vývoj nedává žádný smysl.
 
+<!--more-->
+
 Předpoklad agilního vývoje je jiný. Věříme tomu, že můžeme křivku ceny za změnu požadavků
 zploštit. Možná až do té míry, že asymptoticky dosahuje jen konstantní (konečné) hodnoty.
 
@@ -15,7 +17,7 @@ Plochá křivka dělá agilní praktiky možnými. A naopak. Agilní praktiky js
 že tuto křivku kontrolujeme. Z toho tak nějak plyne, že využívání agilních praktik
 znamená psát kvalitní kód. Křivka samotná je výsledkem použitých praktik a technologií.
 
-![](/assets/cena-zmeny-klasicky-a-agilni-vyvoj.svg)
+![]({{ site.baseurl }}/images/blog/cena-zmeny-klasicky-a-agilni-vyvoj.svg)
 
 Ve snaze co nejvíce omezit křivku ceny za změnu se dle mého názoru dostalo nejdále
 [Extrémní programování](/xp-jako-puzzle/).
@@ -52,7 +54,7 @@ Možná potom má smysl psát kód v páru. Lidé pracující sami velmi často 
 ## Unit testování
 
 Nemá smysl psát všechny ty testy. Testy zaberou příliš mnoho času. Vývojáři nechtějí psát testy.
-To nemusí platit, pokud: 
+To nemusí platit, pokud:
 
 - design je maximálně jednoduchý, takže psaní testů není obtížné;
 - praktikujete párové programování. Nenapadá-li vás žádný další test, vašeho kolegu pravděpodobně napadne. A naopak;

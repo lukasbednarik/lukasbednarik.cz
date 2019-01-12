@@ -1,8 +1,34 @@
 ---
-layout: default
+layout: article
 ---
 
-<div class="page">
-  <h1 class="page-title">{{ page.title }}</h1>
-  {{ content }}
-</div>
+<!-- Blog Article -->
+<article class="blog-article blog-single-page clearfix">
+
+  <header class="article-header">
+      <div class="article-title">
+        <h3 class="title">{{ page.title }}</h3>
+        <h4 class="category">
+          {%- if page.parent -%}
+            {%- assign letter = page.parent | slice: 0 -%}
+            {%- if '#' == letter -%}
+              <a href="{{ site.baseurl }}/{{ page.parent }}">{{ page.parent | slice: 1,page.parent.size }}</a>
+            {%- else -%}
+              {%- for parent in site.pages -%}
+                {%- if parent.url == page.parent -%}
+                  <a href="{{ site.baseurl }}{{ parent.url }}">{{ parent.title }}</a>
+                  {%- break -%}
+                {%- endif -%}
+              {%- endfor -%}
+            {%- endif -%}
+          {%- endif -%}
+        </h4>
+      </div>
+  </header>
+
+  <!-- Article Content -->
+  <div class="article-content">
+    {{ content }}
+  </div>
+
+</article>

@@ -1,0 +1,71 @@
+<!-- Site Header -->
+<header class="site-header" id="domu">
+
+  <!-- Parallax Header Image -->
+  <div class="parallax-wrapper cover-index" style="background-image: url('{{ site.baseurl }}/images/design/header-image.jpg');">
+    <canvas id="particles"></canvas>
+  </div>
+
+  <div class="container">
+
+    <!-- Site Navigation Bar -->
+    <div class="row site-navigation-bar parent">
+
+      <!-- Logo -->
+      <div class="col-sm-2 col-xs-4 logo child-center-v">
+        <a href="{{ site.baseurl }}/" class="logo">LB</a>
+      </div>
+
+      <!-- Toggle Mobile Menu -->
+      <div class="col-xs-8 toggle-menu child-center-v">
+
+        <!-- Burger -->
+        <div class="navTrigger">
+          <i></i><i></i><i></i>
+        </div>
+
+      </div>
+
+      {% include navigation.html %}
+
+    </div>
+
+    <!-- Site Header Banner -->
+    <div class="row header-banner parent">
+      <div class="child-center-v">
+        <div class="heading-content text-center">
+
+          <!-- Heading Title -->
+          <div class="row heading-title">
+            <h2>{{ site.headter-tagline }}</h2>
+            <hr class="small">
+            <h1 class="thin">{{ site.header-title }}</h1>
+          </div>
+
+          <!-- Header Buttons -->
+          <div class="row buttons-header">
+            <div class="col-lg-4 col-lg-push-2 col-md-4 col-md-push-2 col-sm-8 col-sm-push-2 col-xs-10 col-xs-push-1">
+              <a href="{{ site.baseurl }}#workshopy" class="button-cta button-focus">Workshopy</a>
+            </div>
+            <div class="col-lg-4 col-lg-push-2 col-md-4 col-md-push-2 col-sm-8 col-sm-push-2 col-xs-10 col-xs-push-1">
+              <a href="{{ site.baseurl }}/blog/" class="button-cta">Blog</a>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <!-- Arrow Down -->
+    <div class="row arrow-down-section">
+
+        <div class="wrapper-arrow child-center">
+          <a href="#bio" class="arrow-down">
+            <i class="pe-7s-angle-down"></i>
+          </a>
+        </div>
+
+    </div>
+
+  </div>
+</header>

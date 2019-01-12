@@ -8,6 +8,8 @@ Mohou dva lidé pracující u jednoho počítače dodat produkt za stejný
 čas jako dva lidé pracující každý na svém počítači?
 Zastánci párového programování tvrdí, že ano, i když je to neintuitivní.
 
+<!--more-->
+
 Extrémnější analogií párového programování je tzv.
 [mob programming](/mob-programming-dejte-mu-sanci), kdy u jednoho počítače sedí celý tým.
 
@@ -58,16 +60,16 @@ Výzkum univerzity v Utahu (A. Cockburn, L. Williams. The Costs and Benefits of 
 ukazuje data, která bychom asi intuitivně očekávali. Párové programování nás
 z počátku může stát více času, ale jakmile se tým sladí, je tento rozdíl zanedbatelný.
 
-![](/assets/pair-programming-1.png)
+![]({{ site.baseurl }}/images/blog/pair-programming-1.png)
 
 Párové programování vede k odhalení více chyb během implementace. Výsledkem je kvalitnější kód.
 
-![](/assets/pair-programming-2.png)
+![]({{ site.baseurl }}/images/blog/pair-programming-2.png)
 
 Dva vývojáři jsou schopni nalézt efektivnější řešení problému. Výsledný kód je kratší. Kratší kód znamená méně
 práce při údržbě a další ušetřené peníze v delším časovém horizontu.
 
-![](/assets/pair-programming-3.png)
+![]({{ site.baseurl }}/images/blog/pair-programming-3.png)
 
 Cena opravy jedné chyby roste exponenciálně s časem, kdy je chyba objevena a opravena. Párové programování
 přispívá k objevování chyb v nejranější fázi implementace!
@@ -87,7 +89,7 @@ Mezi překážky párového programování patří:
 
 ### Ping-Pong
 
-[Ping-pong](http://c2.com/cgi/wiki?PairProgrammingPingPongPattern) je jedna z variant TDD.
+[Ping-pong](http://wiki.c2.com/?PairProgrammingPingPongPattern) je jedna z variant TDD.
 Vývojář *A* napíše test, který selže. Vývojář *B* implementuje feature tak,
 že test projde, a napíše nový test, který selže. Vývojář *A* implementuje...
 
@@ -102,7 +104,7 @@ ale aby se jednalo o skutečně kolaborativní proces.
 ### Další techniky
 
 - selective pairing
-- [cross functional pairing](http://www.solutionsiq.com/experience-design-and-cross-functional-pairing/)
+- [cross functional pairing](https://www.solutionsiq.com/resource/blog-post/experience-design-and-cross-functional-pairing/)
 - distributed pairing
 
 ## Anti-patterns - co nechceme

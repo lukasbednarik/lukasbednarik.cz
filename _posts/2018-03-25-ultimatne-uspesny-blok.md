@@ -8,6 +8,8 @@ V březnu tento blog oslavil první rok. Když se dívám zpětně,
 nejdůležitější bylo vytrvat. V minulosti jsem blogů začínal
 nespočet.
 
+<!--more-->
+
 Hlavní problém při blogování pro programátora je vydržet *nekódovat*,
 ale psát. V průběhu několika posledních let jsem zkoušel různé blogovací
 platformy ([Kirby](https://getkirby.com/), Ghost), ale žádná mi plně nevyhovovala. Upravoval jsem design,

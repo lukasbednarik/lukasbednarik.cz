@@ -1,0 +1,106 @@
+/**
+ *
+ *  Contact Section Style
+ *
+ *  @package gleesik_layout
+ *
+ **/
+
+section.contact-section {
+  color: $light-blue;
+
+  // Section Header
+  header.section-header {
+    h2, h3, h4 {
+      color: $white;
+    }
+
+    hr {
+      background: $white;
+    }
+  }
+
+  // Form Container
+  .form-container {
+    margin-top: 80px;
+
+    .text-wrap {
+      display: block;
+      //width: 100px; // width: calc(100% - 100px);
+      margin-bottom: 30px;
+      text-align: left;
+
+      ul {
+        display: block;
+        //list-style-type: square;
+        margin-top: 1em;
+        margin-bottom: 1em;
+        margin-left: 0;
+        margin-right: 0;
+        padding-left: 40px;
+        line-height: 1.4;
+
+        li {
+          display: list-item;
+          margin-bottom: 0.75em;
+        }
+      }
+    }
+
+    // Contact Form
+    form.contact-form {
+
+      fieldset {
+        margin-bottom: 30px;
+      }
+
+      input, textarea {
+        color: $white;
+
+        &:hover,
+        &:active {
+          color: $white;
+          border-color: $primary;
+          background: transparentize($primary, 0.75);
+
+          // Placeholders
+          &::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+            color: $white;
+          }
+          &::-moz-placeholder { /* Firefox 19+ */
+            color: $white;
+          }
+          &:-ms-input-placeholder { /* IE 10+ */
+            color: $white;
+          }
+          &:-moz-placeholder { /* Firefox 18- */
+            color: $white;
+          }
+        }
+
+        .required  {
+          border: inherit;
+         }
+      }
+
+      // Form Action
+      .form-action {
+        text-align: center;
+
+        .send-button {
+          text-transform: uppercase;
+          width: 40%;
+
+          // Responsive Media
+          @media (max-width: 500px) {
+            display: block;
+            width: 100%;
+          }
+        }
+      }
+
+    }
+
+  }
+
+}

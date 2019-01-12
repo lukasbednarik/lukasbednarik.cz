@@ -1,8 +1,8 @@
 ---
 layout: page
 title: 'Organizace lidí'
-permalink: /firemni-kultura-organizace-lidi
-parent: /firemni-kultura
+permalink: /firemni-kultura-organizace-lidi/
+parent: /firemni-kultura/
 ---
 
 Roger Harrison a Charles Handy rozdělili už v roce 1972 firemní kultury na základě způsobu organizace lidí.
@@ -10,14 +10,14 @@ Dle Harrosona a Handyho jsou typy kultur čtyři: kultura moci, kultura rolí, k
 
 ## Obsah
 
-- [Úvod do rozdělení](/firemni-kultura-organizace-lidi#úvod-do-rozdělení)
-  - [Která kultura je nejlepší](/firemni-kultura-organizace-lidi#která-kultura-je-nejlepší)
-- [Kultura moci](/firemni-kultura-organizace-lidi#kultura-moci)
-- [Kultura rolí](/firemni-kultura-organizace-lidi#kultura-rolí)
-- [Kultura úkolů](/firemni-kultura-organizace-lidi#kultura-úkolů)
-- [Kultura osob](/firemni-kultura-organizace-lidi#kultura-osob)
+- [Úvod do rozdělení](#úvod-do-rozdělení)
+  - [Která kultura je nejlepší](#která-kultura-je-nejlepší)
+- [Kultura moci](#kultura-moci)
+- [Kultura rolí](#kultura-rolí)
+- [Kultura úkolů](#kultura-úkolů)
+- [Kultura osob](#kultura-osob)
 
-- [Zpět na: Firemní kultura](/firemni-kultura)
+- [Zpět na: Firemní kultura](/firemni-kultura/)
 
 ## Úvod do rozdělení
 
@@ -68,7 +68,7 @@ Výhodou této kultury je rychlejší rozhodování, větší využití talentu 
 organizačních změn. Kultura moci může být velmi účinná v době nejistoty a mimořádné situace,
 kdy je potřeba rozhodovat rázně a včas.
 
-![Kultura moci](/assets/kultura-moci.png)
+![Kultura moci]({{ site.baseurl }}/images/blog/kultura-moci.png)
 
 Jednou z nevýhod kultury je, že často vede k nespokojenosti zaměstnanců. Zaměstnanci jsou závislí na osobě vůdce a vyhrotí-li se
 jejich osobní vztahy s vůdcem, odcházejí ze zaměstnání (připomeňme, že nejčastějším důvodem odchodu zaměstnanců nejsou peníze,
@@ -106,10 +106,10 @@ kteří tyto funkce zastávají. Jasně vymezená pravidla snižují počet konf
 kdo je za co zodpovědný. Popis práce může někdy zaměstnance ochránit před zneužíváním a vykořisťováním
 ze strany nadřízených.
 
-![Kultura rolí](/assets/kultura-roli.png)
+![Kultura rolí]({{ site.baseurl }}/images/blog/kultura-roli.png)
 
 Formálnost kultury může vést na sociální odloučení zaměstnanců, kteří zaujmou postoj "můj život stojí za prd".
-Další nevýhodou pro zaměstnance je potlačení jejich kreativity. 
+Další nevýhodou pro zaměstnance je potlačení jejich kreativity.
 Kultura má problémy se zaváděním různých změn a s flexibilitou.
 
 Specialitou této kultury je něco, čemu říkám “hledání svatého grálu”. Kultura ví, že v procesech a předpisech
@@ -123,7 +123,7 @@ Hezky to vystihlo IBM ve svém reklamním sloganu: “Nobody ever got fired for 
 
 Ačkoliv rutinní postupy přinášejí stabilitu, jejich nevýhodou je právě to, že jsou “rutinní”.
 Často chybí zpětná vazba, jestli procesy, které se někdy osvědčily jako přínosné, stále plní svoji funkci.
-Někdy ani zaměstnanci samotní nemusejí být schopni řešit některé nejisté a nestandardní situace. 
+Někdy ani zaměstnanci samotní nemusejí být schopni řešit některé nejisté a nestandardní situace.
 Management se bez zpětné vazby musí rozhodovat “naslepo”. Pokud se něco nepovede, viní se jednoduše vývojáři.
 Vývojáři naopak viní management. Vzniklá nedůvěra mezi vývojem a vedením je zvládána právě definicemi rolí a předpisy.
 
@@ -148,7 +148,7 @@ Naplnění tohoto cíle je postaveno nad zájmy jednotlivců a dokonce i nad ně
 Lidé výrazně spolupracují v rámci týmu, ale často jen omezeně mezi týmy.
 Respekt členů týmu může být získán schopností řešit konkrétní problém a pomoci dosažení cíle.
 
-![Kultura úkolů](/assets/kultura-ukolu.png)
+![Kultura úkolů]({{ site.baseurl }}/images/blog/kultura-ukolu.png)
 
 Charakteristickým znakem kultury úkolů je větší svoboda a flexibilita zaměstnanců.
 Zaměstnanci se pro vyřešení zadaného úkolu musejí někdy pouštět mimo oblast své specializace
@@ -183,7 +183,7 @@ Lidé chtějí spolupracovat, protože vědí, že jen tak mohou dosáhnout vyš
 jako společensky přínosný a prospěšný. Osobní status lidí v této kultuře je “my jsme skvělí (bez dalšího srovnávání)”.
 V typologii lidských kmenů Dave Logana (kniha Zrození kmenového vůdce) tato kultura odpovídá kmenu na stupni 5.
 
-![Kultura osob](/assets/kultura-osob.png)
+![Kultura osob]({{ site.baseurl }}/images/blog/kultura-osob.png)
 
 Každý jednotlivec má možnost vše kolem sebe zlepšovat. Procesy, nástroje,
 rozdělení zodpovědností - nic nezůstává beze změny, brání-li to dosažení společné vize.
@@ -192,7 +192,7 @@ rolí může mít jeden manažer na starosti minimalizaci výdajů a druhý mana
 Práce těchto dvou lidí bude neefektivní, protože se vzájemně zablokují. Naopak kultura osob podobné
 střety zájmů řeší s ohledem na dosažení vyššího cíle.
 
-![Self-management (mravenci)](/assets/selfmanagement.jpg)
+![Self-management (mravenci)]({{ site.baseurl }}/images/blog/selfmanagement.jpg)
 
 Roger Harrison a Charles Handy viděli tuto kulturu v organizacích, které postrádají formální hierarchii:
 advokátní komory a kanceláře, architektonická partnerství, rodinné podniky, některé typy poradenských firem, atd.
@@ -201,5 +201,5 @@ Dnes ale můžeme kulturu osob nalézt také v plně samoorganizovaných týmech
 V porovnání s kulturou úkolů mají samoorganizované týmy v kultuře osob společnou vizi sdílenou s celou
 organizací a některé další zodpovědnosti, které by v jiné kultuře již připadly managementu.
 
-- [Zpět na: Obsah](/firemni-kultura-organizace-lidi#obsah)
-- [Zpět na: Firemní kultura](/firemni-kultura)
+- [Zpět na: Obsah](/firemni-kultura-organizace-lidi/#obsah)
+- [Zpět na: Firemní kultura](/firemni-kultura/)

@@ -1,0 +1,40 @@
+<!-- Site Footer -->
+<footer class="site-footer" id="footer">
+  <div class="container">
+
+    <div class="row">
+      <div class="col-md-6 col-md-push-3 footer-info text-center">
+
+        <div class="footer-info-text">
+          <p>Napište mi email <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> nebo si mě rovnou přidejte na sociálních sítích</p>
+        </div>
+
+        <div class="social-icons">
+          <ul class="icons">
+            <li><a href="{{ site.linkedin }}" target="_blank"><i class="fi icon-linkedin"></i></a></li>
+            <li><a href="{{ site.facebook }}" target="_blank"><i class="fi icon-facebook"></i></a></li>
+            <li><a href="{{ site.twitter }}" target="_blank"><i class="fi icon-twitter"></i></a></li>
+            <li><a href="{{ site.github }}" target="_blank"><i class="fi icon-github"></i></a></li>
+            <li><a href="{{ site.stackoverflow }}" target="_blank"><i class="fi icon-stackoverflow"></i></a></li>
+          </ul>
+        </div>
+
+      </div>
+
+      <div class="col-md-8 col-md-push-2 footer-copyright">
+        <div class="footer-text text-center">
+          <p>
+            Jsem podnikatel zapsaný v živnostenském rejstříku pod jménem Lukáš Bednařík s IČ <a href="http://wwwinfo.mfcr.cz/cgi-bin/ares/darv_res.cgi?odp=html&ICO={{ site.author.ic }}">{{ site.author.ic }}</a>
+            a místem podnikání {{ site.author.misto-podnikani }}. Nejsem plátce DPH. Prohlížením webu či odesláním kontaktního formuláře
+            souhlasíte se zpracováním osobních údajů a souborů cookies dle <a href="{{ site.baseurl }}/zasady-ochrany-osobnich-udaju/">Zásad zpracování osobních údajů</a> uvedených na tomto webu.
+            <a href="https://lukasbednarik.cz">lukasbednarik.cz</a> &copy; {{ 'now' | date: "%Y" }}
+          </p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</footer>
+
+<!-- Go To Top Button -->
+<a href="#domu" class="go-to-top-button"><i class="pe-7s-angle-up"></i></a>

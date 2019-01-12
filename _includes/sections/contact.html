@@ -1,0 +1,62 @@
+<!-- Contact Section -->
+<section class="site-section contact-section parallax" id="kontakt" style="background-image: url('{{ site.baseurl }}/images/design/contact-image.jpg');">
+
+  <div class="container">
+
+    <!-- Section Heading -->
+    <div class="row text-center">
+
+      <!-- Section Header -->
+      <header class="col-md-8 col-md-push-2 col-sm-12 section-header">
+        <h2>{{ site.contact-title }}</h2>
+        <hr class="normal">
+      </header>
+
+      <!-- Section Content -->
+      <div class="col-md-8 col-md-push-2 col-sm-12 section-content">
+        <p>{{ site.contact-description }}</p>
+      </div>
+
+    </div>
+
+    <div class="row form-container">
+
+      <!-- Contact Form -->
+      <div class="col-md-6">
+        <form id="sera-contact-form" action="https://formspree.io/{{ site.author.email }}" method="POST" class="contact-form container-fluid">
+          <fieldset>
+            <input placeholder="Jméno" type="text" name="name" tabindex="1" required>
+          </fieldset>
+          <fieldset>
+            <input placeholder="Email" type="email" name="_replyto" tabindex="2" required>
+          </fieldset>
+          <fieldset>
+            <textarea placeholder="S čím vám můžu pomoci?" name="message" tabindex="3" required></textarea>
+          </fieldset>
+          <fieldset class="form-action">
+            <input type="text" name="_gotcha" style="display:none" />
+            <input type="hidden" name="_next" value="/email-uspesne-odeslan" />
+            <input type="hidden" name="_language" value="cs" />
+            <p>Email nebude využit k zasílání newsletteru. Přečtěte si <a href="{{ site.baseurl }}/zasady-ochrany-osobnich-udaju/">Zásady ochrany osobních údajů</a>.</p>
+            <button name="submit" type="submit" id="contact-submit" data-submit="...Odesílám" tabindex="4">Odeslat email</button>
+          </fieldset>
+        </form>
+      </div>
+
+      <!-- Contact text -->
+      <div class="col-md-6">
+        <div class="text-wrap">
+          <ul>
+            <li><strong>Email:</strong> <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+            <li><strong>Mobil:</strong> <a href="tel:{{ site.author.phone | remove: ' ' }}">{{ site.author.phone }}</a></li>
+            <li><strong>IČ:</strong> <a target="_blank" href="http://wwwinfo.mfcr.cz/cgi-bin/ares/darv_res.cgi?odp=html&ICO={{ site.author.ic }}">{{ site.author.ic }}</a></li>
+            <li><strong>Místo podnikání:</strong> {{ site.author.misto-podnikani }}</li>
+            <li>Nejsem plátce DPH.</li>
+          </ul>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</section>

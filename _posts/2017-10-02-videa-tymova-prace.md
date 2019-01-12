@@ -8,6 +8,8 @@ Motivace lidí a týmů je velmi komplexní téma. Ovšem dříve, než budeme m
 jako je smysl práce (sense of purpose) a kompetence, měli bychom se zaměřit na mnohem
 triviálnější věci jako je rovnost a důvěra v týmu.
 
+<!--more-->
+
 Pro dnešek přidávám tři videa, která ukazují, že jak funguje spolupráce a férovost na nejprimitivnější úrovni.
 
 ## Spolupráce

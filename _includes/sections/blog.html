@@ -1,0 +1,59 @@
+<!-- Blog Section -->
+<section class="site-section blog-section next-section-indicator" id="blog">
+  <div class="container">
+
+    <!-- Section Heading -->
+    <div class="row text-center">
+
+      <!-- Section Header -->
+      <header class="col-md-8 col-md-push-2 col-sm-12 section-header">
+        <h2>{{ site.blog-title }}</h2>
+        <hr class="normal">
+      </header>
+
+      <!-- Section Content -->
+      <div class="col-md-8 col-md-push-2 col-sm-12 section-content">
+        <p>{{ site.blog-description }}</p>
+      </div>
+
+    </div>
+
+    <!-- Blog Articles Container -->
+    <div class="row blog-articles-container">
+
+      <!-- Jekyll LOOP -->
+      {% for post in site.posts limit:3 %}
+
+        <!-- Blog Article -->
+        <div class="col-md-4 col-md-push-0 col-sm-10 col-sm-push-1 col-xs-10 col-xs-push-1">
+          <article class="blog-article clearfix">
+
+            {% include article-header.html article=post %}
+
+            <!-- Article Content -->
+            <div class="article-content">
+              {% include article-date.html date=post.date %}
+              <div class="article-text">
+                <p>{{ post.excerpt | strip_html }}</p>
+              </div>
+              <div class="show-more">
+                <a href="{{ site.baseurl }}{{ post.url }}" class="button">Číst dál...</a>
+              </div>
+            </div>
+
+          </article>
+        </div>
+
+      {% endfor %}
+      <!-- /LOOP-->
+
+    </div>
+
+    <!-- View All Posts CTA -->
+    <div class="row view-posts text-center">
+      <hr class="normal">
+      <a href="{{ site.baseurl }}/blog/" class="button-cta button-focus col-md-3 col-sm-5 col-xs-8">Všechny příspěvky</a>
+    </div>
+
+  </div>
+</section>

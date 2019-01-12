@@ -8,6 +8,8 @@ Podaří-li se vám najít ty správné vývojáře a utvořit z nich tým,
 můžou být vaše code review opravdu toxická.
 Níže je praktický návod, jak na to.
 
+<!--more-->
+
 ## Posmívejte se
 
 Nejlepší způsob, jak zajistit, aby se daná chyba nikdy neopakovala,

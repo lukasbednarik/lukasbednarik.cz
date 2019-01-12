@@ -1,0 +1,23 @@
+{
+  "name": "lukasbednarik.cz",
+  "version": "2.0.0",
+  "description": "Personal site based on Sera theme",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "browser-sync": "^2.23.5",
+    "gulp-autoprefixer": "^4.1.0"
+  },
+  "keywords": [
+    "jekyll",
+    "gulp",
+    "sass",
+    "browsersync"
+  ],
+  "homepage": "https://lukasbednarik.cz"
+}

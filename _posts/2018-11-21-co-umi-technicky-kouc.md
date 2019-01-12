@@ -7,6 +7,8 @@ tags: koučování agile xp
 V minulém článku [co dělá technický Agilní kouč](/co-dela-technicky-kouc) jsem psal o tom, s čím vám
 může kouč pomoci prakticky. Dnes bych se chtěl zaměřit na to, co technický kouč umí.
 
+<!--more-->
+
 ### Metodiky
 
 Metodik a frameworků kolem vývoje softwaru existují spousty. Například:

@@ -10,6 +10,8 @@ Protože pro organizaci práce používám [Kanban](/principy-kanbanu/),
 hledal jsem jednoduchý online kanban board pro osobní použití.
 Nakonec jsem vyzkoušel tři: Trello, Kanbanachi a KanbanFlow.
 
+<!--more-->
+
 Mezi největší výhody online kanban boardu patří
 možnost nastavení rekurzivních úkolů, podúkolů, online dostupnost,
 možnost řazení úkolů a možnost nastavení kategorií (labels).
@@ -25,7 +27,7 @@ jsou dostupné online.
 
 ## Kanbanachi
 
-[Kanbanachi](http://www.kanbanchi.com/) se chlubí výbornou integrací s G suite.
+[Kanbanachi](https://www.kanbanchi.com) se chlubí výbornou integrací s G suite.
 Pokud žijete v Google ekosystému, je to pro vás jedna z voleb. Bohužel, u neplacené
 verze je k dispozici spousta funkcí, po jejiž použití vás aplikace vyzve k zakoupení
 placené verze. Pro mě se jedná o příliš agresivní marketing. Za pár kartiček nechci v první fázi platit.
@@ -40,4 +42,4 @@ Premium verze za 5 USD na měsíc nabízí swimlanes, kalendář, statistiky a p
 I když premium verzi nepotřebuji, jsem z KanbanFlow tak nadšený, že bych neměl problém
 ji zaplatit.
 
-![](/assets/kanban-flow-board.png)
+![]({{ site.baseurl }}/images/blog/kanban-flow-board.png)

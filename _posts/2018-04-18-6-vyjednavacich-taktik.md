@@ -10,6 +10,8 @@ Zde je přehled šesti nejběžnějších, se kterými se můžete setkat.
 V praxi nejde ani tak o to jednotlivé taktiky použít,
 jako spíše být schopni je identifikovat a neutralizovat.
 
+<!--more-->
+
 Největší chybou při vyjdednávání je myslet si, že *druhá strana musí prohrát, aby vy jste mohli vyhrát*.
 Když ani jedna strana nemůže vyhrát, z teorie her víme, že musíme změnit pravidla hry.
 V nové hře mohou vyhrát obě strany.

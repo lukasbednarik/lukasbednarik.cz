@@ -1,8 +1,8 @@
 ---
 layout: page
 title: 'Sdílení informací'
-permalink: /firemni-kultura-sdileni-informaci
-parent: /firemni-kultura
+permalink: /firemni-kultura-sdileni-informaci/
+parent: /firemni-kultura/
 ---
 
 Člověk ze své podstaty potřebuje vědět, co se děje. Pátá příčka Maslowy pyramidy potřeb jsou kognitivní
@@ -10,13 +10,13 @@ potřeby: potřeba vědět, rozumnět a zkoumat.
 
 ## Obsah
 
-- [Kultura dle přístupu ke sdílení informací](/firemni-kultura-sdileni-informaci#kultura-dle-přístupu-ke-sdílení-informací)
-- [Dezinformace](/firemni-kultura-sdileni-informaci#dezinformace)
-- [Informační vakuum](/firemni-kultura-sdileni-informaci#informační-vakuum)
-- [Pasivní transparentnost](/firemni-kultura-sdileni-informaci#pasivní-transparentnost)
-- [Aktivní transparentnost](/firemni-kultura-sdileni-informaci#aktivní-transparentnost)
+- [Kultura dle přístupu ke sdílení informací](#kultura-dle-přístupu-ke-sdílení-informací)
+- [Dezinformace](#dezinformace)
+- [Informační vakuum](#informační-vakuum)
+- [Pasivní transparentnost](#pasivní-transparentnost)
+- [Aktivní transparentnost](#aktivní-transparentnost)
 
-- [Zpět na: Firemní kultura](/firemni-kultura)
+- [Zpět na: Firemní kultura](/firemni-kultura/)
 
 ## Kultura dle přístupu ke sdílení informací
 
@@ -29,7 +29,7 @@ Psycholožka Shelly Gable vytvořila framework dělící lidi dle toho, jak reag
 Reakce může být v jedné ose konstruktivní nebo destruktivní, ve druhé ose aktivní nebo pasivní.
 Věřím, že můžeme analogickým způsobem rozdělit i přístup společnosti ke sdílení informací.
 
-![Sdílení informací](/assets/sdileni-informaci.png)
+![Sdílení informací]({{ site.baseurl }}/images/blog/sdileni-informaci.png)
 
 ## Dezinformace
 
@@ -37,7 +37,7 @@ Dezinformace se v nejobecnější rovině dělí na pasivní, kdy dochází k ma
 ve smyslu jejího zpoždění nebo zatajení. Druhou skupinou je aktivní dezinformace, která se týká informací,
 které jsou záměrně vytvořeny nebo pozměněny.
 
-![Dezinformace](/assets/dezinformace.png)
+![Dezinformace]({{ site.baseurl }}/images/blog/dezinformace.png)
 
 Management firmy s touto kulturou zastává stanovisko, že negativní informace by mohly zaměstnance demotivovat
 a způsobit tak odchod lidí z firmy. Informace, které se dostanou k lidem, jsou pečlivě vybírány.
@@ -51,7 +51,7 @@ Protože lidi většinou přitahují negativní informace (na tomto faktu je zal
 sdílejí mezi sebou na chodbách a v kuchyňkách převážně "drby" a negativní postoje.
 Toto chování můte vést ke špatné atmosféře ve firmě.
 
-![Informační vakuum](/assets/informacni-vakuum.png)
+![Informační vakuum]({{ site.baseurl }}/images/blog/informacni-vakuum.png)
 
 ## Pasivní transparentnost
 
@@ -64,7 +64,7 @@ Vedení aktivně sdílí všechny relevantní informace se zaměstnanci a aktivn
 lidem informace chybí. Zaměstnanci se mohou vedení doptávat, proto tento způsob sdílení
 funguje většinou tváří v tvář.
 
-![Aktivní transparentnost](/assets/aktivni-transparentnost.png)
+![Aktivní transparentnost]({{ site.baseurl }}/images/blog/aktivni-transparentnost.png)
 
-- [Zpět na: Obsah](/firemni-kultura-sdileni-informaci#obsah)
-- [Zpět na: Firemní kultura](/firemni-kultura)
+- [Zpět na: Obsah](/firemni-kultura-sdileni-informaci/#obsah)
+- [Zpět na: Firemní kultura](/firemni-kultura/)

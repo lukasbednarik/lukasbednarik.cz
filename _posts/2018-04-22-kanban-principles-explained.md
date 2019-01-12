@@ -2,6 +2,7 @@
 layout: post
 title: Principy Kanbanu
 tags: kanban principy
+excerpt: Pět základních principů kanbanu.
 ---
 
 [Kanban](/kanban-jako-nastroj/) stojí na pěti klíčových principech:
@@ -11,4 +12,4 @@ tags: kanban principy
 - explicitním nastavení pravidel,
 - společném zlepšování.
 
-![Kanban Principles Explained](/assets/kanban-principles-explained.png)
+![Kanban Principles Explained]({{ site.baseurl }}/images/blog/kanban-principles-explained.png)

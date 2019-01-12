@@ -7,6 +7,9 @@ tags: xp praktiky agile
 Jednotlivé praktiky extrémního programování byly známé už dlouho předtím, než
 Kent Beck vydal svoji knihu o extrémním programování (rok 1999).
 Na první pohled ale není vidět, jak do sebe tyto praktiky zapadají.
+
+<!--more-->
+
 Kent Beck poskládal známé praktiky do komplexního a vysoce efektivního
 systému jako puzzle. Kompletní skládanka z knihy *Extreme Programming Explained* je na obrázku níže.
 

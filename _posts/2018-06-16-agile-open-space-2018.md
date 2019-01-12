@@ -9,7 +9,9 @@ Agile Open Space je otevřený formát (unconference), kde témata navrhují sam
 Kvalita konference je dána kvalitou publika a to je v tomto případě opravdu mimořádné.
 Agile Open Space se tak řadí mezi agilní akce, které bych během roku jen velmi nerad vynechal.
 
-![Agile Open Space 2018](/assets/agile-open-space-2018.jpg)
+<!--more-->
+
+![Agile Open Space 2018]({{ site.baseurl }}/images/blog/agile-open-space-2018.jpg)
 *(Obrázek: [Agile Open Space](https://www.agileopenspace.cz/) 2018.)*
 
 Ať jste o Agile nikdy neslyšeli nebo jste zkušení konzultanti, Agile Open Space je event pro vás.

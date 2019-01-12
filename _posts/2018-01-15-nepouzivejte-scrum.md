@@ -13,6 +13,8 @@ k tomu, jak by mohl pomoci vývoji. Na první pohled to zní skvěle. Druhý poh
 ale odhalí, že zpětná vazba často poukazuje na problémy, které musíme řešit.
 A nechceme-li řešit problémy, je Scrum jen nefungující framework plný zbytečných meetingů.
 
+<!--more-->
+
 Příklady některých problémů:
 
 - Tým vidí přínos ve standupu, ale sám si jej nezorganizuje. Chybí “driver”, který by standup začal, když Scrum Master není přítomen. Co uděláte?

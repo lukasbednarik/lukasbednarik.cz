@@ -10,6 +10,8 @@ nejsou pro danou situaci reprezentativní. Informace, které se k nám dostanou,
 být záměrně zkresleny nebo si je jen vybíráme dle určitého klíče a tedy si je zkreslujeme sami.
 O co se konkrétně jedná?
 
+<!--more-->
+
 ## Kupujeme rajčata
 
 Zkreslení výběrem bych nejnározněj vysvětlil na příkladu kupování rajčat.
@@ -45,7 +47,7 @@ Vzniká tzv. kognitivní bublina, ve které management žije.
 Analogií výběru bugů z backlogy je navrtávání ropných polí v Texasu.
 V následujícím grafu ukazuje osa *x* počet pokusných vrtů a osa *y* normované množství objevené ropy.
 
-![Ropná pole](/assets/plot-discovery-rate.png)
+![Ropná pole]({{ site.baseurl }}/images/blog/plot-discovery-rate.png)
 [citace: Root, Drew: The pattern of petroleum discovery rates]
 
 Z grafu je vidět, že několik málo vrtů vedlo k objevení většiny známé ropy. Lineární aproximace

@@ -6,6 +6,8 @@ tags: kanban
 
 Přísahám, že už to slovo nikdy neřeknu. KAPACITA.
 
+<!--more-->
+
 V minulých týdnech jsem vysvětloval [principy Kanbanu](/principy-kanbanu/) mnoha lidem.
 Spojení "work in progress" označuje rozpracovaný úkol.
 Počet rozpracovaných úkolů se snažíme omezit, což je druhý základní princip Kanbanu.

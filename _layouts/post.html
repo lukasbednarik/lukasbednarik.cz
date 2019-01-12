@@ -1,64 +1,91 @@
 ---
-layout: default
+layout: article
 ---
 
-<div class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  {% include tags.html %}
-  <div class="post-date">
-    {% include date.html date=page.date %}
-  </div>
-  {{ content }}
-</div>
+<!-- Blog Article -->
+<article class="blog-article blog-single-page clearfix">
 
-<div class="related">
-  {%- assign titlePrinted = 0 -%}
-  {%- for tag in page.tags -%}
-    {%- if titlePrinted == 1 -%}
-      {%- break -%}
-    {%- endif -%}
-    {%- for post in site.tags[tag] -%}
-      {%- if page.url == post.url -%}
-        {%- continue -%}
-      {%- endif -%}
-      <h2>Podobné příspěvky</h2>
-      {%- assign titlePrinted = 1 -%}
-      {%- break -%}
-    {%- endfor -%}
-  {%- endfor -%}
-  {%- assign similarPosts = 5 -%}
-  <ul class="related-posts">
-    {%- for tag in page.tags -%}
-      {%- for post in site.tags[tag] limit:5 -%}
-        {%- if similarPosts == 0 -%}
+  {% include article-header.html article=page %}
+
+  <!-- Article Content -->
+  <div class="article-content">
+    {% include article-date.html date=page.date %}
+    <div class="article-text">
+      <p><i>{{ page.excerpt | strip_html }}</i></p>
+    </div>
+    <div class="post-content"></div>
+    {{ page.content }}
+  </div>
+
+  <!-- Article Tool Boxes -->
+  <div class="article-boxes">
+
+    <!-- Share Article Links Box -->
+    <div class="box clearfix">
+      <span class="title">Sdílejte na sítích</span>
+      <div class="box-content social-icons">
+        <ul class="icons global-text-color-icons">
+          <li>
+            <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}"
+              onclick="window.open(this.href, 'facebook-share', 'width=550,height=255');return false;">
+              <i class="fi icon-facebook"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://twitter.com/home?status={{ site.url }}{{ site.baseurl }}{{ page.url }}" onclick="window.open(this.href, 'twitter-share', 'width=550,height=255');return false;">
+              <i class="fi icon-twitter"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title={{ page.title }}"
+              onclick="window.open(this.href, 'facebook-share', 'width=280,height=480');return false;">
+              <i class="fi icon-linkedin"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Similar Posts Box -->
+    <div class="box clearfix">
+      {%- assign titlePrinted = 0 -%}
+      {%- for tag in page.tags -%}
+        {%- if titlePrinted == 1 -%}
           {%- break -%}
         {%- endif -%}
-        {%- if page.url == post.url -%}
-          {%- continue -%}
-        {%- endif -%}
-        {%- assign similarPosts = similarPosts | minus: 1 -%}
-        <li>
-          <h3>
-            <a href="{{ post.url }}">
-              {{ post.title }}
-            </a>
-          </h3>
-        </li>
+        {%- for post in site.tags[tag] -%}
+          {%- if page.url == post.url -%}
+            {%- continue -%}
+          {%- endif -%}
+          <span class="title">Podobné příspěvky</span>
+          {%- assign titlePrinted = 1 -%}
+          {%- break -%}
+        {%- endfor -%}
       {%- endfor -%}
-    {%- endfor -%}
-  </ul>
+      {%- assign similarPosts = 5 -%}
+      <div class="box-content similar-posts">
+        <ul>
+          {%- for tag in page.tags -%}
+            {%- for post in site.tags[tag] limit:5 -%}
+              {%- if similarPosts == 0 -%}
+                {%- break -%}
+              {%- endif -%}
+              {%- if page.url == post.url -%}
+                {%- continue -%}
+              {%- endif -%}
+              {%- assign similarPosts = similarPosts | minus: 1 -%}
+              <li>
+                <a href="{{ site.baseurl }}{{ post.url }}">
+                  {{ post.title }}
+                </a>
+              </li>
+            {%- endfor -%}
+          {%- endfor -%}
+          <li><a href="{{ site.baseurl }}/blog/">Zpět na blog</a></li>
+        </ul>
+      </div>
+    </div>
 
-  <h2>Nedávné příspěvky</h2>
-  <ul class="related-posts">
-    {%- for post in site.related_posts limit:5 -%}
-      <li>
-        <h3>
-          <a href="{{ post.url }}">
-            {{ post.title }}
-            <small>{%- include date.html date=post.date -%}</small>
-          </a>
-        </h3>
-      </li>
-    {%- endfor -%}
-  </ul>
-</div>
+  </div>
+
+</article>

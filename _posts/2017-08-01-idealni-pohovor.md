@@ -7,6 +7,8 @@ tags: pohovory
 Jako uchazeč o práci vývojáře jsem ve své době absolvoval dlouhé kolečko pohovorů.
 Všechny pohovory měly jedno společné - jistou dávku nesmyslnosti.
 
+<!--more-->
+
 ## Kolečko pohovorů
 
 V jedné firmě jsem musel odhadovat, kolik vagónů má pražské metro,
@@ -20,7 +22,7 @@ z HR dokazovat, že umím přemýšlet?
 O pár dní později se na pohovoru v jiné brněnské firmě ucházím o místo
 senior C++11/C++14 vývojáře. Po několika otázkách je jasné,
 že slovo "senior" je jen v popisu práce a že na moderní C++
-mohu zapomenout. Ptají se mě na C-čkové věci jako 
+mohu zapomenout. Ptají se mě na C-čkové věci jako
 "Co se stane, když inicializujete pole o velikosti 5
 prvků polem o čtyřech prvcích?"
 

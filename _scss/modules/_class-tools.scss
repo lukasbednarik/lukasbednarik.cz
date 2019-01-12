@@ -1,0 +1,103 @@
+/**
+ *
+ *  Global Classes Style
+ *
+ *  @package gleesik_module
+ *
+ **/
+
+// Typography
+.text-center {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-focus {
+  color: $primary;
+}
+
+// Alignament Block
+.parent {
+  position: relative;
+}
+
+.child-center-v {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.child-center-h {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.child-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+// Shapes
+.circle {
+  border-radius: 120%;
+}
+
+// Block Tools
+.hide {
+  display: none !important;
+}
+
+.show {
+  display: block !important;
+}
+
+.invisible {
+  visibility: hidden;
+}
+
+.affix {
+  position: fixed;
+}
+
+// Parallax Cover
+.parallax {
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-color: #303030; /* = 256 - 208 in hex */
+  background-size: cover;
+  background-position: center center;
+}
+
+header.site-header .cover-page {
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-color: #303030; /* = 256 - 208 in hex */
+  background-size: cover;
+  background-position: center center;
+}
+
+header.site-header .cover-index {
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-color: black;
+  background-size: contain;
+  background-position: right bottom;
+}
+
+// Turn off parallax scrolling for all tablets and phones.
+// Increase/decrease the pixels if needed.
+@media only screen and (max-device-width: 1366px) {
+  header.site-header .cover-index, header.site-header .cover-page, .parallax {
+    background-attachment: scroll;
+  }
+}

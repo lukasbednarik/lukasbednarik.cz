@@ -1,29 +1,19 @@
 <head>
-  <link href="https://gmpg.org/xfn/11" rel="profile">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-  <meta name="robots" content="index, follow">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="shortcut icon" href="{{ site.baseurl }}/images/design/favicon.ico" title="Favicon" />
+
+  {% if page.noindex -%}
+    <meta name="robots" content="noindex">
+  {% else -%}
+    <meta name="robots" content="index, follow">
+  {%- endif %}
 
   <!-- CSS -->
-  <link rel="stylesheet" href="/public/css/style.css">
-  <link rel="stylesheet" href="/public/css/syntax-highlight.css">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700%7CAbril+Fatface">
-
-  <!-- Icons -->
-  <link rel="shortcut icon" href="/public/favicon.ico">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
 
   <!-- RSS -->
   <link rel="alternate" type="application/atom+xml" title="Lukáš Bednařík bloguje" href="/atom.xml">
-
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-104534530-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'UA-104534530-1');
-  </script>
 
   <!-- SEO -->
   {% seo %}

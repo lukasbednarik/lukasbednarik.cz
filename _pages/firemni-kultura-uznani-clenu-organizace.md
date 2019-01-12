@@ -1,8 +1,8 @@
 ---
 layout: page
 title: 'Uznání členů organizace'
-permalink: /firemni-kultura-uznani-clenu-organizace
-parent: /firemni-kultura
+permalink: /firemni-kultura-uznani-clenu-organizace/
+parent: /firemni-kultura/
 ---
 
 Je oceňován osobní výkon, týmový výkon nebo relativní výkon vůči někomu?
@@ -11,13 +11,13 @@ Jakým způsobem si zaměstnanci mohou získat uznání při začleňování do 
 
 ## Obsah
 
-- [Relativní výkon](/firemni-kultura-uznani-clenu-organizace#relativní-výkon)
-- [Absolutní osobní výkon](/firemni-kultura-uznani-clenu-organizace#absolutní-osobní-výkon)
-- [Výkon týmu](/firemni-kultura-uznani-clenu-organizace#výkon-týmu)
-- [Loajalita](/firemni-kultura-uznani-clenu-organizace#loajalita)
-- [Žádné uznání](/firemni-kultura-uznani-clenu-organizace#žádné-uznání)
+- [Relativní výkon](#relativní-výkon)
+- [Absolutní osobní výkon](#absolutní-osobní-výkon)
+- [Výkon týmu](#výkon-týmu)
+- [Loajalita](#loajalita)
+- [Žádné uznání](#žádné-uznání)
 
-- [Zpět na: Firemní kultura](/firemni-kultura)
+- [Zpět na: Firemní kultura](/firemni-kultura/)
 
 ## Relativní výkon
 
@@ -27,7 +27,7 @@ Pravidla jsou: Být lepší než ostatní. Být nejlepší v týmu nebo na oddě
 Oceňování relativního výkonu může zlepšit rychlost práce soutěživých
 jednotlivců, nikoliv však celkovou spolupráci v organizaci.
 
-![Relativní výkon zaměstnance](/assets/relativni-vykon.png)
+![Relativní výkon zaměstnance]({{ site.baseurl }}/images/blog/relativni-vykon.png)
 
 Dle rčení "mezi slepými jednookým králem" může i nejlepší člověk ve firmě být stále začátečníkem v oboru.
 
@@ -38,7 +38,7 @@ Dle rčení "mezi slepými jednookým králem" může i nejlepší člověk ve f
 Cení se schopnost rychle a kvalitně řešit zadané úkoly, čímž si zaměstnanci získávají
 respekt svých nadřízených i kolegů.
 
-![Absolutní výkon zaměstnance](/assets/absolutni-vykon.png)
+![Absolutní výkon zaměstnance]({{ site.baseurl }}/images/blog/absolutni-vykon.png)
 
 Problém s oceněním absolutního výkonu je, že žádné "absolutní měřítko" vlastně neexistuje.
 Hodnotící člověk je tak ponechán svému osobnímu měřítku, které je většinou pro
@@ -53,7 +53,7 @@ kteří jsou velmi specializovaní a nelze je jednoše srovnávat s ostatními z
 Měřit výkon týmu můžeme opět absolutním nebo relativním porovnáním. Relativní porovnání
 srovnává tým s jiným týmem, absolutní porovnání hodnotí schopnost týmu řešit zadané úkoly.
 
-![Výkon týmu](/assets/tymovy-vykon.png)
+![Výkon týmu]({{ site.baseurl }}/images/blog/tymovy-vykon.png)
 
 Pro výkon týmu je klíčová spolupráce a důvěra.
 
@@ -64,7 +64,7 @@ Pro výkon týmu je klíčová spolupráce a důvěra.
 Není tak důležitý výkon, jako snaha. Cení se práce přesčas, pracovní nasazení,
 morálka a dobré vycházení s nadřízenými.
 
-![Loajální zaměstnanec](/assets/loajalita.png)
+![Loajální zaměstnanec]({{ site.baseurl }}/images/blog/loajalita.png)
 
 Dosti krajní případ, jak může fungovat kultura loajality, mi popsala kamarádka
 pracující na pobočce jedné banky v Olomouci. Ačkoliv pracovní doba končí v pět,
@@ -81,5 +81,5 @@ Stanovisko lidí, kterým se ještě nepodařilo začlenit do společnosti.
 Tito lidé mají jen velmi málo předpokladů být dobrými zaměstnanci, pokud
 se neposunou na jinou úroveň kultury.
 
-- [Zpět na: Obsah](/firemni-kultura-uznani-clenu-organizace#obsah)
-- [Zpět na: Firemní kultura](/firemni-kultura)
+- [Zpět na: Obsah](/firemni-kultura-uznani-clenu-organizace/#obsah)
+- [Zpět na: Firemní kultura](/firemni-kultura/)

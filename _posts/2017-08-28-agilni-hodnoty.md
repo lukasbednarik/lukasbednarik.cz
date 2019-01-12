@@ -10,6 +10,8 @@ V krajním případě by mohlo vaše rozhodnutí ovlivňovat nejen vaši
 firmu, ale celou Českou Republiku - kandidujete například do vlády.
 Co napíšete do svého volebního programu?
 
+<!--more-->
+
 ## Hodnoty spojují skupinu
 
 Ze zkušenosti víme, že fráze jako "zvýšení bezpečnosti ve městech"

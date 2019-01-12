@@ -7,6 +7,8 @@ tags: scrum
 Scrum Alliance vydala začátkem ledna další ze svých State of Scrum reportů.
 Tentokrát jde o report za rok 2017 - 2018. A přiznávám, že jsem trochu zklamaný.
 
+<!--more-->
+
 Scrum Alliance prezentuje, že se výzkumu zúčastnilo přes 2000 lidí praktikujících Agile nebo Scrum.
 Až v reportu se ale dočtete, že tito lidé jsou všichni členové Scrum Alliance.
 Report tedy více vypovídá o stavu používání agilních metodik ve Scrum Allianci než o

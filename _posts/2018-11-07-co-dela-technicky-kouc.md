@@ -9,6 +9,8 @@ Lyssa Adkins rozlišuje tři: technical coach, business coach a agile transforma
 Když jsem si uvědomil, že jsem ještě nikdy nepsal o technickém koučování, samotného mě to překvapilo.
 Začnu vlastním popisem toho, co technický kouč dělá, a v příštím článku se podíváme na to, [co by měl umět](/co-umi-technicky-kouc).
 
+<!--more-->
+
 ## Tři cíle technického koučování
 
 ### Sladění technologie s byznysem

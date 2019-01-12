@@ -5,22 +5,21 @@ tags: pohovory
 ---
 
 V jednom z [předchozích článků](/idealni-pohovor/) jsem psal, jak by bylo krásné vyzkoušet kandidáta na pohovoru
-přímo pomocí [párového programování](/parove-programovani/). Pokud se nejedná o test teoretických znalostí, pak psaní
-kódu na tabuli zbytečně vyvádí kandidáty z komfortní zóny a navíc po nich chceme něco, co již
+přímo pomocí [párového programování](/parove-programovani/). Pokud se nejedná o test teoretických znalostí, pak psaní kódu na tabuli zbytečně vyvádí kandidáty z komfortní zóny a navíc po nich chceme něco, co již
 nikdy ve firmě dělat nebudou. Programovat ale umět musí. Jak na to?
+
+<!--more-->
 
 ## Online nástroje
 
 ### CodePad
 
-Nebudu vás napínat a začnu tím nejlepším, co znám. Aplikací [CodePad](https://codepad.remoteinterview.io/)
-od [remoteinterview.io](https://www.remoteinterview.io/). Na stránce [CodePad](https://codepad.remoteinterview.io/)
-si můžete zdarma vytvořit prostředí, ve kterém může současně programovat více vývojářů.
+Nebudu vás napínat a začnu tím nejlepším - aplikací [CodeInterview](https://codeinterview.io). Na stránce si můžete zdarma vytvořit prostředí, ve kterém může současně programovat více vývojářů.
 Výhodou i nevýhodou současně je jednoduchost prostředí. Sdílení kódu je možné přes vygenerovaný odkaz.
 Ten, kdo prostředí založil, se stává jeho správcem. Na druhou stranu CodePad umožňuje pracovat jen v jednom souboru,
 takže TDD takto nevyzkoušíte (ok, to nemusí vadit).
 
-![CodePad](/assets/codepad.jpg)
+![CodePad]({{ site.baseurl }}/images/blog/codepad.jpg)
 
 V situaci, kdy sedíte s kandidátem v jedné místnosti, je CodePad ideální. Kandidát může pracovat na vlastním notebooku,
 na kterém se cítí pohodlně. Můžete testovat skutečnou dovednost programování a nikoli to,

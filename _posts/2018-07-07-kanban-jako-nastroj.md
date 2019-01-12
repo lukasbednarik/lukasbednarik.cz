@@ -9,6 +9,8 @@ bude Kanban vypadat minimalisticky. Kromě pěti [základních principů](/princ
 Kanban vlastně nic neříká. Když si tyto principy přečte člověk poprvé, rozhodně neví, co dělat.
 Právě proto je Kanban zpočátku obtížný.
 
+<!--more-->
+
 ## Kanban jako nástroj
 
 Kanban je nástroj k definování, řízení a zlepšování služeb založených na duševní práci.

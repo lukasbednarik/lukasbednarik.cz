@@ -1,0 +1,26 @@
+---
+layout: article
+type: archive
+---
+
+{% for post in page.posts %}
+
+<!-- Blog Article -->
+<article class="blog-article clearfix">
+
+  {% include article-header.html article=post %}
+
+  <!-- Article Content -->
+  <div class="article-content">
+    {% include article-date.html date=post.date %}
+    <div class="article-text">
+      <p>{{ post.excerpt | strip_html }}</p>
+    </div>
+    <div class="show-more">
+      <a href="{{ site.baseurl }}{{ post.url }}" class="button">Číst dál...</a>
+    </div>
+  </div>
+
+</article>
+
+{% endfor %}

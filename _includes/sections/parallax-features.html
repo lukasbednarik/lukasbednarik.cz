@@ -1,0 +1,76 @@
+<!-- Parallax Section -->
+<section class="site-section parallax-features-section parallax" id="s-cim-pomaham" style="background-image: url('{{ site.baseurl }}/images/design/features-parallax.jpg')">
+
+  <div class="container">
+
+    <!-- Section Heading -->
+    <div class="row text-center">
+
+      <!-- Section Header -->
+      <header class="col-md-8 col-md-push-2 col-sm-12 section-header">
+        <h2>{{ site.core-title }}</h2>
+        <hr class="normal">
+      </header>
+
+      <!-- Section Content -->
+      <div class="col-md-8 col-md-push-2 col-sm-12 section-content">
+        <p>{{ site.core-description }}</p>
+      </div>
+
+    </div>
+
+    <!-- Section Features -->
+    <div class="row section-features">
+
+      <div class="col-md-4 col-sm-6 text-right">
+
+        {% for feature in site.core-features-left %}
+
+        <div class="feature">
+          <div class="text-wrap">
+            <h3>{{ feature.name }}</h3>
+            <p>{{ feature.description }}</p>
+          </div>
+          <div class="icon-wrap">
+            <div class="circle parent">
+              <div class="circle child-center">
+                <i class="{{ feature.icon }} child-center"></i>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        {% endfor %}
+
+      </div>
+
+      <div class="col-md-4 phone">
+        <img src="{{ site.baseurl }}/images/design/laptop.png" alt="Laptop image" />
+      </div>
+
+      <div class="col-md-4 col-sm-6 text-left">
+
+        {% for feature in site.core-features-right %}
+
+        <div class="feature">
+          <div class="text-wrap">
+            <h3>{{ feature.name }}</h3>
+            <p>{{ feature.description }}</p>
+          </div>
+          <div class="icon-wrap">
+            <div class="circle parent">
+              <div class="circle child-center">
+                <i class="{{ feature.icon }} child-center"></i>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        {% endfor %}
+
+      </div>
+
+    </div>
+
+  </div>
+</section>

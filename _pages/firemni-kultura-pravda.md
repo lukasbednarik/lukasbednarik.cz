@@ -1,8 +1,8 @@
 ---
 layout: page
 title: 'Kritéria určující pravdu'
-permalink: /firemni-kultura-pravda
-parent: /firemni-kultura
+permalink: /firemni-kultura-pravda/
+parent: /firemni-kultura/
 ---
 
 Rozdělení firemních kultur dle způsobu, jímž kultury nalézají "pravdu".
@@ -11,14 +11,14 @@ Rozdělení je převzato z knihy Organizational Culture and Leadership od Edgara
 
 ## Obsah
 
-- [Dogma](/firemni-kultura-pravda#dogma)
-- [Odhalené dogma](/firemni-kultura-pravda#odhalené-dogma)
-- [Skupinová kompetence](/firemni-kultura-pravda#skupinová-kompetence)
-- [Debata](/firemni-kultura-pravda#debata)
-- [Pragmatismus](/firemni-kultura-pravda#pragmatismus)
-- [Vědecká metoda](/firemni-kultura-pravda#vědecká-metoda)
+- [Dogma](#dogma)
+- [Odhalené dogma](#odhalené-dogma)
+- [Skupinová kompetence](#skupinová-kompetence)
+- [Debata](#debata)
+- [Pragmatismus](#pragmatismus)
+- [Vědecká metoda](#vědecká-metoda)
 
-- [Zpět na: Firemní kultura](/firemni-kultura)
+- [Zpět na: Firemní kultura](/firemni-kultura/)
 
 ## Dogma
 
@@ -86,5 +86,5 @@ Pravda je stanovena vědeckou metodou, která svým způsobem může být také 
 - "Výsledky našich dotazníků mohou být zavádějící, ale náš data tým tento způsob oslovování
   zákazníků také podporuje. Pojďme to tedy tak dělat."
 
-- [Zpět na: Obsah](/firemni-kultura-pravda#obsah)
-- [Zpět na: Firemní kultura](/firemni-kultura)
+- [Zpět na: Obsah](/firemni-kultura-pravda/#obsah)
+- [Zpět na: Firemní kultura](/firemni-kultura/)

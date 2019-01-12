@@ -10,6 +10,8 @@ V rozdělení innovators, early adopters, majority, late majority,
 Odpovědi na otázky typu "jak mobování vůbec může fungovat" jsou
 známy a některé týmy se mobování aktivně pokoušejí dostat do praxe.
 
+<!--more-->
+
 ## Co je to Mob Programming
 
 Mobování je, když všichni ti úžasní lidé pracují

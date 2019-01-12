@@ -8,6 +8,8 @@ Nedávno jsem se zúčastnil zajímavé diskuze na téma rolí v týmu. Kolega v
 že role (ať v týmu nebo ve firmě) jsou ve skutečnosti kompromis, proto
 nesmí limitovat to, co člověk může dělat nebo to, na co má pravomoce.
 
+<!--more-->
+
 V dokonalé firmě je každý člověk dokonalý. Každý zaměstnanec je výborný vývojář,
 rozumí produktu, umí řídit projekt a zná záludnosti marketingu.
 Možná takových lidí na světě pár existuje, ale určitě jich není dostatek, aby mohla

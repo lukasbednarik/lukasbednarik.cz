@@ -8,6 +8,8 @@ Má smysl učit se C++ i v roce 2018? Jednou větou:
 "Ano, pokud jsou systémy psané v C++ to, co vás zajímá."
 Více větami: viz zbytek článku.
 
+<!--more-->
+
 Jazyk C++ vytvořil Bjarne Stroustrup v 80. letech v Bellových laboratorých.
 Od té doby vzniklo několik standardů: C++98, C++03, C++11, C++14, C++17.
 Nejvýznamnější změny jazyka přináší C++11 a vývoj v posledních letech

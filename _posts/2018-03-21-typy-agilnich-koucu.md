@@ -7,6 +7,8 @@ tags: koučování agile
 Spojení "Agilní kouč" velmi zpopularizovala Lyssa Adkins ve své knize Coaching Agile Teams (rok 2010).
 Lyssa je velmi konkrétní v tom, co by měl Agilní kouč umět.
 
+<!--more-->
+
 ## Co kouč musí umět
 
 Agilní kouč by se měl orientovat v následujících oblastech:
@@ -23,7 +25,7 @@ Kromě těchto základních dovedností má Agilní kouč obvykle jednu speciali
 - obchodní mistrovství,
 - mistrovství v transformaci organizací.
 
-![PCA výcvik](/assets/lyssa-adkins-framework.jpg)
+![PCA výcvik]({{ site.baseurl }}/images/blog/lyssa-adkins-framework.jpg)
 Obrázek: [Agile Coaching Competency Framework](http://www.agilecoachinginstitute.com/agile-coaching-resources/)
 
 ## Typy agilních koučů

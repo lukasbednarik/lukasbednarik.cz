@@ -1,0 +1,27 @@
+<!-- Importing Scripts -->
+
+<!-- jQuery CDN -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<!-- If CDN fails than use local jQuery -->
+<script>window.jQuery || document.write('<script src="{{ site.baseurl }}/js/jquery-3.3.1.min.js"><\/script>')</script>
+
+<!-- Owl Carousel -->
+<script src="{{ site.baseurl }}/js/carousel.min.js"></script>
+
+<!-- Main JS -->
+<script src="{{ site.baseurl }}/js/main.js"></script>
+
+<!-- Particle animation effect -->
+<script src="{{ site.baseurl }}/js/particles.js"></script>
+
+{% if google-analytics == true %}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-104534530-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-104534530-1', {'anonymize_ip': true});
+</script>
+{% endif %}

@@ -7,6 +7,8 @@ tags: mobování praktiky programování
 Během přípravy na mobování v praxi jsem si sepsal několik situací, na které
 můžeme narazit. Nejsou to mé zkušenosti, čerpal jsem z videí a blogů.
 
+<!--more-->
+
 Nevíte-li, [co vlastně mobování je](/mob-programming-dejte-mu-sanci), přečtěte si můj první článek.
 
 ### Je to jako ve slepičinci

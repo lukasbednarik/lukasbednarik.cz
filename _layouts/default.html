@@ -1,37 +1,16 @@
-<!DOCTYPE html>
-<html lang="cs">
+<!DOCTYPE html >
+<html lang="{{ site.lang }}">
 
   {% include head.html %}
 
   <body>
 
-    {% include sidebar.html %}
+    {{ content }}
 
-    <div id="path">
-      <a href="/">Domů</a>
-      {%- if page.parent != '' -%}
-        {%- for parent1 in site.pages -%}{%- if parent1.url == page.parent -%}
-          {%- if parent1.parent != '' -%}
-            {%- for parent2 in site.pages -%}{%- if parent2.url == parent1.parent -%}
-              {%- if parent2.parent != '' -%}
-                {%- for parent3 in site.pages -%}{%- if parent3.url == parent2.parent -%}
-                  &nbsp;/ <a href="{{ parent3.url }}">{{ parent3.title }}</a>
-                {%- endif -%}{%- endfor -%}
-              {%- endif -%}
-              &nbsp;/ <a href="{{ parent2.url }}">{{ parent2.title }}</a>
-            {%- endif -%}{%- endfor -%}
-          {%- endif -%}
-          &nbsp;/ <a href="{{ parent1.url }}">{{ parent1.title }}</a>
-        {%- endif -%}{%- endfor -%}
-      {%- endif -%}
-      {%- if page.title != 'Domů' -%}
-        &nbsp;/ <a href="{{ page.url }}">{{ page.title }}</a>
-      {%- endif -%}
-    </div>
+    {% include footer.html %}
 
-    <div class="content container">
-      {{ content }}
-    </div>
+    {% include scripts.html %}
 
   </body>
+
 </html>

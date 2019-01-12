@@ -4,7 +4,9 @@ title: Změny v příručce Scrumu v roce 2017
 tags: scrum
 ---
 
-Příručku Scrumu, tzv. [Scrum Guide](http://www.scrumguides.org/scrum-guide.html), vytvořili v roce 2010 Ken Schwaber a Jeff Sutherland, aby tak postavili Scrum na pevnější základ. Do té doby byl Scrum sice popsán v několika knihách, ale nikdo ještě přesně nespecifikoval, co to “Scrum” znamená. Dnes je Scrum Guide považována za základní referenci Scrumu, i když ne zcela bez výhrad.
+Příručku Scrumu, tzv. [Scrum Guide](https://www.scrumguides.org/scrum-guide.html), vytvořili v roce 2010 Ken Schwaber a Jeff Sutherland, aby tak postavili Scrum na pevnější základ. Do té doby byl Scrum sice popsán v několika knihách, ale nikdo ještě přesně nespecifikoval, co to “Scrum” znamená. Dnes je Scrum Guide považována za základní referenci Scrumu, i když ne zcela bez výhrad.
+
+<!--more-->
 
 O tom, že Scrum Guide je živá, svědčí série úprav v letech 2011, 2013, 2016 a 2017. Právě poslední úprava z listopadu 2017 je psána stále ještě mokrým inkoustem. Co se tedy letos změnilo?
 
@@ -51,4 +53,4 @@ Tato poslední změna nicméně jde proti tomuto trendu a mnoho konzultantů je 
 (a dodávají, že tato věta možná časem zase zmizí, jakmile si týmy zvyknou řešit problémy z retrospektivy
 i na úkor části práce ve sprintu).
 
-Podrobý seznam všech změn naleznete na [http://www.scrumguides.org/revisions.html](http://www.scrumguides.org/revisions.html).
+Podrobý seznam všech změn naleznete na [https://www.scrumguides.org/revisions.html](https://www.scrumguides.org/revisions.html).

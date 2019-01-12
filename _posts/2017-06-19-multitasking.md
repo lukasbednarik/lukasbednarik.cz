@@ -11,6 +11,8 @@ adresáře, ve kterém jsou uloženy zdrojové kódy. K tomu všemu musí vývoj
 daleko s implementací již pokročil a kam se chce dostat. Pošlete vývojáře na tři týdny
 na dovolenou na Maledivy a on všechno zapomene.
 
+<!--more-->
+
 Vývojář je tím produktivnější, čím více věcí si zvládne zapamatovat. Pracuje-li na dvou projektech,
 je jeho dlouhodobá paměť rozdělena mezi dva projekty a krátkodobá se při přeskoku mezi projekty
 vymazává. Tak nějak to alespoň funguje u mě.
@@ -30,7 +32,7 @@ Hodnoty docela dobře souhlasí s mou vlastní zkušeností.
 
 Jiný druh multitaskingu je přepínání mezi prací na projektu a různými drobnými činnostmi,
 jako je například vyřizování emailů. Studie [BBC](http://news.bbc.co.uk/2/hi/uk_news/4471607.stm)
-a [Kathy Sierra](http://headrush.typepad.com/creating_passionate_users/2006/03/multitasking_ma.html)
+a [Kathy Sierra](https://headrush.typepad.com/creating_passionate_users/2006/03/multitasking_ma.html)
 tvrdí, že multitasking nás dělá "hloupějšími" - v tom smyslu, že nejsme schopni odvádět
 práci stejně kvalitně, ačkoliv si myslíme opak. Domácí úkol napsaný při sledování
 seriálu nebude nikdy tak dobrý, jako domácí úkol vypracovaný při plném soustředění.

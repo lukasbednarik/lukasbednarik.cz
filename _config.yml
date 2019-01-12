@@ -1,23 +1,32 @@
-plugins:
-  - jekyll-paginate
-  - redcarpet
-  - jekyll-seo-tag
+# Lukáš Bednařík
+# Theme based on Sera template
 
-markdown:         kramdown
-highlighter:      rouge
+exclude: ["node_modules", "gulpfile.js", "package.json", "Gemfile", "README.md", "notes"]
+url: 'https://lukasbednarik.cz'
+#baseurl: '/'
 permalink:        /:title/
 include:          ["_pages"]
-url:              'https://lukasbednarik.cz'
-baseurl:          '/'
-paginate:         11
-future:           false
+google-analytics: true
+excerpt_separator: <!--more-->
 
-title:            'Lukáš Bednařík'
 author:
   name:           'Lukáš Bednařík'
   email:          'lukas@lukasbednarik.cz'
+  phone:          '+420 723 759 530'
+  ic:             '75488931'
+  city:           'Brno'
+  misto-podnikani: '77900 Olomouc, Staškova 569/15'
 description:      'Technický Agilní kouč. Kvalitnější software rychleji.'
-lang: cs_CZ
+
+####################################
+###########   Plugins    ###########
+####################################
+plugins:
+  - jekyll-archives
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Jekyll-seo-tag
 twitter:
   username: lukasbednarikcz
   card: summary
@@ -28,4 +37,140 @@ social:
     - https://www.facebook.com/lukasbednarikcz
     - https://www.linkedin.com/in/lukasbednarik
     - https://github.com/lukasbednarik
-# logo
+
+# Jekyll-archives
+jekyll-archives:
+  enabled:
+    - tags
+  layout: 'archive'
+  permalinks:
+    tag: '/tag/:name/'
+
+# Jekyll-sitemap
+
+
+#######################################################
+#######################################################
+###############   HEADER INFORMATIONS   ###############
+#######################################################
+#######################################################
+
+lang: cs-CZ
+title: Lukáš Bednařík
+headter-tagline: Lukáš Bednařík
+header-title: Technický Agilní kouč
+
+####################################
+######  Global Social Links   ######
+####################################
+linkedin: 'https://www.linkedin.com/company/lukasbednarikcz/'
+facebook: 'https://www.facebook.com/lukasbednarikcz'
+twitter: 'https://twitter.com/lukasbednarikcz'
+github: 'https://github.com/lukasbednarik'
+stackoverflow: 'https://stackoverflow.com/users/4734434/luk%C3%A1%C5%A1-bedna%C5%99%C3%ADk'
+
+#########################
+######   Widgets   ######
+#########################
+
+# About Blog Author Widget
+about-widget:
+  author-avatar: lukas-bednarik.jpg
+  author-name: Lukáš Bednařík
+  author-tagline: Technický Agilní kouč
+  author-info: Pomáhám týmům vyvíjet software rychleji a kvalitněji. Zajímám se o technologie, praktiky a metodiky vývoje.
+  author-social-links:
+    linkedin: 'https://cz.linkedin.com/in/lukasbednarik'
+    facebook: 'https://www.facebook.com/lukasbednarikcz'
+    twitter: 'https://twitter.com/lukasbednarikcz'
+    github: 'https://github.com/lukasbednarik'
+    stackoverflow: 'https://stackoverflow.com/users/4734434/luk%C3%A1%C5%A1-bedna%C5%99%C3%ADk'
+
+#####################################
+#############   Bio    #############
+#####################################
+about-title: Lukáš Bednařík
+about-description: Jsem technický Agilní kouč. Pomáhám týmům vyvíjet software rychleji a kvalitněji. Zajímám se o technologie, praktiky a metodiky vývoje softwaru. <a href="/o-mne/">Co se letos povedlo?</a>
+
+#####################################
+#############  Workshopy  ###########
+#####################################
+features-title: Workshopy
+features-description: Mým cílem není prodat, ale podporovat. V prvním kroku se snažím zjistit požadavky na workshop od účastníků i zadavatele. Co je zajímá? Co si od workshopu slibují? Co by rádi i neradi? Následuje příprava workshopu na míru. Nesnažím se jen předat znalosti, ale naučit účastníky tomu, co jim pomůže v praxi.
+features:
+- title: Mob Programming
+  description: Mob programming, jeden z trendů posledních let, podpoří týmového ducha, sdílení znalostí a kvalitu kódu. Nikdo se na žádném problému nezasekne, code review se dělá průběžně, zrychlí se tok informací a nevzniká legacy code.
+  icon: pe-7s-users
+  link: /workshop-mob-programming/
+- title: Technická Agilita
+  description: Váš kód se na vás už nebude lepit jako smola. Workshop je cesta k technické excelenci, k prohloubení týmové spolupráce a k produktivitě. Dle přání můžeme obsah workhopu zaměřit více na DevOps, TDD, design best practices, refactoring, continuous integration nebo continuous release.
+  icon: pe-7s-study
+  link: /workshop-technicka-agilita/
+- title: Agilní Architektura
+  description: Jakmile jednou vytvoříme architekturu softwarového projektu, jak zabráníme tomu, aby v průběhu času degradovala? Je možné navrhnout architekturu, která je na změnu připravena?
+  icon: pe-7s-keypad
+  link: /workshop-agilni-architektura/
+
+#####################################
+##########  S čím pomáhám  ##########
+#####################################
+core-title: S čím pomáhám
+core-description: Pro zadavatele obvykle připravuji workshopy nebo krátké konzultace. Vyjdu vám vstříc, ale nejsem mistrem všeho.
+core-features-left:
+- name: Programovací jazyky
+  description: Pomohu vám v C++17, C#, Node.Js i v Javě.
+  icon: pe-7s-mouse
+- name: Technické best practices
+  description: Zavedeme spolu unit-testování a další dobré praktiky.
+  icon: pe-7s-light
+- name: Metodiky
+  description: Poradím s metodikami jako je Scrum, Kanban nebo XP.
+  icon: pe-7s-target
+- name: Starý kód, nové triky
+  description: Zrychlíme úpravy v legacy kódu. Ale připravte se, že se zapotíme.
+  icon: pe-7s-graph1
+core-features-right:
+- name: Nenapíši za vás kód
+  description: Pomohu s designem. Napsat aplikaci ale musíte sami.
+  icon: pe-7s-monitor
+- name: Neškáluji metodiky
+  description: Neškáluji Scrum nebo Kanban v enterprise prostředí.
+  icon: pe-7s-loop
+- name: Neumím zázraky
+  description: Některé věci chtějí čas. Za den zvyky týmu nezměníme.
+  icon: pe-7s-magic-wand
+- name: Přijedu kamkoliv
+  description: Rád za vámi přijedu do jakéhokoliv města v ČR. Jsem z Brna.
+  icon: pe-7s-map-2
+
+
+#####################################
+########### Doporučení ##############
+#####################################
+testimonials-title: Doporučení
+testimonials-description: # Nothing
+testimonials:
+- name: Jan Brada
+  url: https://www.ipex.cz/
+  url-text: Scrum Master, IPEX
+  avatar: jan-brada.jpg
+  cite: '...posbírané velmi zajímavé střípky ze světa vývojářů. Výstižně, stručně a trefně zachycené ve slajdech. Fakt DOST dobrý.'
+  logo-img: ipex-logo.png
+- name: Hana Jadavan
+  url: https://www.avast.com
+  url-text: Scrum Master, Avast
+  avatar: hana-jadavan.jpg
+  cite: TBD
+  logo-img: avast-logo.png
+
+#####################################
+############# Blog ##################
+#####################################
+blog-title: Blog
+blog-description: Od roku 2017 píšu blog. Čistě proto, že mě to baví.
+
+#####################################
+############   Kontakt   ############
+#####################################
+contact-title: Napište mi
+contact-description: Napište mi email nebo se semnou spojte na sociálních sítích.

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: 'Kompetence'
-permalink: /firemni-kultura-kompetence
-parent: /firemni-kultura
+permalink: /firemni-kultura-kompetence/
+parent: /firemni-kultura/
 ---
 
 Rozdělení z hlediska toho, mají-li zaměstnanci dostatečný přehled k samostatnému plnění zadaných úkolů.
@@ -11,11 +11,11 @@ Poznámka: Toto rozdělení je jen myšlenkový náčrt. Rozdělení není úpln
 
 ## Obsah
 
-- [Závislost](/firemni-kultura-kompetence#závislost)
-- [Samostatnost](/firemni-kultura-kompetence#samostatnost)
-- [Skupinová kompetence](/firemni-kultura-kompetence#skupinová-kompetence)
+- [Závislost](#závislost)
+- [Samostatnost](#samostatnost)
+- [Skupinová kompetence](#skupinová-kompetence)
 
-- [Zpět na: Firemní kultura](/firemni-kultura)
+- [Zpět na: Firemní kultura](/firemni-kultura/)
 
 ## Závislost
 
@@ -31,5 +31,5 @@ Zádávání úkolů funguje "pull" způsobem.
 Lidé nefungují samostatně sami o sobě, ale jsou součástí skupiny, která se sama řídí i organizuje.
 Zadávání úkolů skupině může fungovat "pull" i "push" způsobem.
 
-- [Zpět na: Obsah](/firemni-kultura-kompetence#obsah)
-- [Zpět na: Firemní kultura](/firemni-kultura)
+- [Zpět na: Obsah](/firemni-kultura-kompetence/#obsah)
+- [Zpět na: Firemní kultura](/firemni-kultura/)

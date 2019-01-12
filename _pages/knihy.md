@@ -1,18 +1,18 @@
 ---
 layout: page
 title: 'Kniha'
-permalink: /knihy
+permalink: /knihy/
 ---
 
 ## Rebelská historie vývoje softwaru
 
-![Rebelská historie vývoje softwaru](/assets/kniha-rebelska-historie-obalka-1.png)
+![Rebelská historie vývoje softwaru]({{ site.baseurl }}/images/blog/kniha-rebelska-historie-obalka-1.png)
 
 ### Info
 
 - Počet stran: 46
 - Dostupné formáty: PDF, ePub
-- Download: [Stáhnout knihu!](/download-rebelska-historie-vyvoje-softwaru)
+- Download: [Stáhnout knihu z LeanPub!](https://leanpub.com/historiesoftwaru)
 
 ### Obsah
 
@@ -37,7 +37,7 @@ permalink: /knihy
 ### Úvod
 
 > It's fine to celebrate success but it is more important to heed the lessons of failure.
-> 
+>
 > --- Bill Gates
 
 Je rok 2017, sedíme v Brněnské hospodě a bavíme se s produkt manažerem,
@@ -51,7 +51,7 @@ Schopnost rozhodování a přesvědčivost, žádoucí vlastnosti klasického ma
 mohou být jen špatně interpretovaným sklonem k dominanci a manipulaci s lidmi. O tzv.
 psychopatech v managementu píše například firemní psycholog Paul Babiak (Babiak and Hare 2007).
 Psychopati typicky postrádají empatii a svědomí, jejich chování je egocentrické a velkolepé.
-Na druhou stranu někteří psychopati mohou být charismatičtí, mít šarm a schopnost jednat pevně 
+Na druhou stranu někteří psychopati mohou být charismatičtí, mít šarm a schopnost jednat pevně
 a přesvědčivě. V mnoha firmách bývají právě uvedené vlastnosti těmi, které otevírají cestu na
 vyšší příčky v kariérním žebříčku.
 
@@ -99,7 +99,7 @@ jsme se na pokraji „krize softwaru“. Programování se stalo větším probl
 > powerful! To put it quite bluntly: as long as there were no machines, programming was no problem at all;
 > when we had a few weak computers, programming became a mild problem, and now we have gigantic computers,
 > programming has become an equally gigantic problem.
-> 
+>
 > --- Edsger Dijkstra (Dijkstra 1972)
 
 Neefektivní vývoj, chyby v programech a nespokojenost mezi uživateli měly pro mnoho společností katastrofální následky.
@@ -124,4 +124,4 @@ důkazů, že tato praktika byla použita záměrně, je obtížné a jen velmi 
 Můžeme si jen představovat, pod jakým tlakem byli nuceni pracovat vývojáři, aby rychle dokončili zmíněné čtyři produkty,
 aniž by věděli, co se doopravdy děje.
 
-Stáhněte si celou knihu a pokračujte ve čtení: [Download](/download-rebelska-historie-vyvoje-softwaru)
+Stáhněte si celou knihu a pokračujte ve čtení: [Download](/download-rebelska-historie-vyvoje-softwaru/)

@@ -10,6 +10,8 @@ Tazatel poukazoval na to, že *dobré praktiky* doporučované Extrémním
 programováním jsou dnes již tak běžné, že za nimi vlastně není nic neobvyklého.
 Proč se Extrémnímu programování (XP) neříká jednoduše jen *Programování*?
 
+<!--more-->
+
 ## Jak XP získalo své jméno
 
 Přívlastek *extrémní* získalo XP ze svého principu: "Pokud je něco užitečné,

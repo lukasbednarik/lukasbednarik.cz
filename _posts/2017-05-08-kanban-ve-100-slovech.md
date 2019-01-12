@@ -6,6 +6,8 @@ tags: kanban metodiky
 
 Existuje mnoho variant Kanbanu, ale jádro je vždy stejné.
 
+<!--more-->
+
 1. Vizualizace workflow
    - Rozdělte práci na menší úkoly. Vytvořte kartičku pro každý úkol a přilepte ji na zeď.
    - Použijte pojmenované sloupce ke znázornění toho, v jakém stavu se každý úkol právě nachází.
@@ -16,6 +18,6 @@ Existuje mnoho variant Kanbanu, ale jádro je vždy stejné.
 
 Příklad možné podoby Kanban tabule je na obrázku. Číslo v červeném kolečku omezuje maximální počet úkolů v daném sloupci.
 
-![](/assets/kanban.svg)
+![]({{ site.baseurl }}/images/blog/kanban.svg)
 
 O [principech Kanbanu](/principy-kanbanu/) jsem se více rozepsal v dalším článku.

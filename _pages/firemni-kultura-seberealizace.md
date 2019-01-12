@@ -1,8 +1,8 @@
 ---
 layout: page
 title: 'Seberealizace'
-permalink: /firemni-kultura-seberealizace
-parent: /firemni-kultura
+permalink: /firemni-kultura-seberealizace/
+parent: /firemni-kultura/
 ---
 
 > Seberealizace je instinktivní potřeba naplnit své schopnosti a snaha být nejlepším jakým jen člověk může být.
@@ -11,14 +11,14 @@ parent: /firemni-kultura
 
 ## Obsah
 
-- [Co je to seberealizace](/firemni-kultura-seberealizace#co-je-to-seberealizace)
-- [Žádná seberealizace](/firemni-kultura-seberealizace#žádná-seberealizace)
-- [Destruktivní seberealizace](/firemni-kultura-seberealizace#destruktivní-seberealizace)
-- [Smysl v práci](/firemni-kultura-seberealizace#smysl-v-práci)
-- [Perfekcionismus](/firemni-kultura-seberealizace#perfekcionismus)
-- [Osobní rozvoj](/firemni-kultura-seberealizace#osobní-rozvoj)
+- [Co je to seberealizace](#co-je-to-seberealizace)
+- [Žádná seberealizace](#žádná-seberealizace)
+- [Destruktivní seberealizace](#destruktivní-seberealizace)
+- [Smysl v práci](#smysl-v-práci)
+- [Perfekcionismus](#perfekcionismus)
+- [Osobní rozvoj](#osobní-rozvoj)
 
-- [Zpět na: Firemní kultura](/firemni-kultura)
+- [Zpět na: Firemní kultura](/firemni-kultura/)
 
 ## Co je to seberealizace
 
@@ -43,7 +43,7 @@ seberealizace zaměstnanců by pravděpodobně byla také na samém vrcholu. Je 
 na kterou bude organizace pomýšlet, po vyřešení všech svých problémů vnitřní integrace
 a vnější adaptace.
 
-![Maslowa pyramida potřeb](/assets/maslow.png)
+![Maslowa pyramida potřeb]({{ site.baseurl }}/images/blog/maslow.png)
 
 V následujícím rozdělení jsem vybral několik chování, ve kterých mohou zaměstnanci
 nacházet seberealizaci. Rozdělení není žádným způsobem kompletní.
@@ -82,5 +82,5 @@ Bohužel tento způsob seberealizace nemusí trvat věčně. Lidé se mohou dost
 pocit, že se "již všechno naučili". Management by měl zaměstnance podporovat v hledání nových
 oblastí osobního rozvoje.
 
-- [Zpět na: Obsah](/firemni-kultura-seberealizace#obsah)
-- [Zpět na: Firemní kultura](/firemni-kultura)
+- [Zpět na: Obsah](/firemni-kultura-seberealizace/#obsah)
+- [Zpět na: Firemní kultura](/firemni-kultura/)

@@ -1,0 +1,75 @@
+<!-- Site Header -->
+<header class="site-header blog-header" id="domu">
+
+  <!-- Parallax Header Image -->
+  <div class="parallax-wrapper cover-page" style="background-image: url('{{ site.baseurl }}/images/{%- if page.header-img -%}blog/{{ page.header-img }}{%- else -%}design/header-blog-image.jpg{%- endif -%}');">
+  </div>
+
+  <div class="container">
+
+    <!-- Site Navigation Bar -->
+    <div class="row site-navigation-bar parent">
+
+      <!-- Logo -->
+      <div class="col-sm-2 col-xs-4 logo child-center-v">
+        <a href="{{ site.baseurl }}/" class="logo">LB</a>
+      </div>
+
+      <!-- Toggle Mobile Menu -->
+      <div class="col-xs-8 toggle-menu child-center-v">
+
+        <!-- Burger -->
+        <div class="navTrigger">
+          <i></i><i></i><i></i>
+        </div>
+
+      </div>
+
+      {% include navigation.html %}
+
+    </div>
+
+    <!-- Site Header Banner -->
+    <div class="row header-banner parent">
+
+      <div class="heading-content text-center child-center-v">
+
+        <!-- Heading Title -->
+        <div class="row heading-title">
+          <h2>
+            {%- if page.tagline -%}
+              {{ page.tagline }}
+            {%- elsif page.parent -%}
+              {%- for parent in site.pages -%}
+                {%- if parent.url == page.parent -%}
+                  {{ parent.title }}
+                  {%- break -%}
+                {%- endif -%}
+              {%- endfor -%}
+            {%- elsif page.id -%}
+              Blog
+            {%- else -%}
+              Lukáš Bednařík
+            {%- endif -%}
+          </h2>
+          <hr class="small">
+          <h1 class="thin">{{ page.title }}</h1>
+        </div>
+
+      </div>
+
+    </div>
+
+    <!-- Arrow Down -->
+    <div class="row arrow-down-section">
+
+        <div class="wrapper-arrow child-center">
+          <a href="#start" class="arrow-down">
+            <i class="pe-7s-angle-down"></i>
+          </a>
+        </div>
+
+    </div>
+
+  </div>
+</header>

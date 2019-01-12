@@ -1,0 +1,25 @@
+<div class="article-date text-center">
+  <div class="date parent">
+    <div class="date-wrap child-center">
+      <div class="day"><time datetime="{{ include.date | date_to_xmlschema }}">{{ include.date | date: "%d" }}</time></div>
+      <div class="month">
+        {%- assign month = include.date | date: '%-m' -%}
+        {%- case month -%}
+        {%- when '1' -%}LED
+        {%- when '2' -%}ÚNO
+        {%- when '3' -%}BŘE
+        {%- when '4' -%}DUB
+        {%- when '5' -%}KVĚ
+        {%- when '6' -%}ČVN
+        {%- when '7' -%}ČVC
+        {%- when '8' -%}SRP
+        {%- when '9' -%}ZÁŘ
+        {%- when '10' -%}ŘÍJ
+        {%- when '11' -%}LIS
+        {%- when '12' -%}PRO
+        {%- endcase -%}
+      </div>
+    </div>
+  </div>
+  <div class="time">{{ include.date | date: "%Y" }}</div>
+</div>

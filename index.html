@@ -1,26 +1,20 @@
 ---
 layout: default
-title: Domů
+title: Domů | Lukáš Bednařík
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-    <div class="post-body">
-      {% include tags.html %}
-      <div class="post-date">
-        {% include date.html date=post.date %}
-      </div>
-      {% if post.description %}<p>{{ post.description }}</p>{% else %}{{ post.excerpt }}{% endif %}
-      <a href="{{ post.url }}">Více...</a>
-    </div>
-  </div>
-  {% endfor %}
-</div>
+{% include header-index.html %}
 
-{% include pagination.html %}
+{% include sections/about.html %}
+
+{% include sections/features.html %}
+
+{% include sections/parallax-features.html %}
+
+{% include sections/testimonials.html %}
+
+{% include sections/offer.html offer-text="Workshop <strong>Technická Agilita</strong> v novém kabátku." banner-link="workshop-technicka-agilita/" button-text="Zobrazit detaily" %}
+
+{% include sections/blog.html %}
+
+{% include sections/contact.html %}

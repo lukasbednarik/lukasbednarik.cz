@@ -8,6 +8,8 @@ Na konci knihy *Scrum and XP from the Trenches* jsem nalezl dvě pěkné citace 
 samoorganizace týmu a role Scrum Mastera. Uvádím je přeložené zde, protože jsou to témata,
 která právě v týmech řešíme.
 
+<!--more-->
+
 > Jedna z klíčových myšlenek Scrumu je samoorganizace týmu. Týmu by mělo být přenecháno tolik zodpovědnosti,
 > kolik je jen možné, včetně věcí jako je docházka a schvalování práce z domu.
 > Samoorganizace je cesta ke kreativitě, motivaci, inovacím a mnoha dalším dobrým věcem.
