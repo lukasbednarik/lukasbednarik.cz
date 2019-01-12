@@ -22,7 +22,6 @@ description:      'Technický Agilní kouč. Kvalitnější software rychleji.'
 ###########   Plugins    ###########
 ####################################
 plugins:
-  - jekyll-archives
   - jekyll-seo-tag
   - jekyll-sitemap
 
@@ -37,17 +36,6 @@ social:
     - https://www.facebook.com/lukasbednarikcz
     - https://www.linkedin.com/in/lukasbednarik
     - https://github.com/lukasbednarik
-
-# Jekyll-archives
-jekyll-archives:
-  enabled:
-    - tags
-  layout: 'archive'
-  permalinks:
-    tag: '/tag/:name/'
-
-# Jekyll-sitemap
-
 
 #######################################################
 #######################################################

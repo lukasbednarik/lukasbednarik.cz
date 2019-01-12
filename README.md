@@ -38,6 +38,7 @@ Test site: https://lukasbednarik.github.io/web-2/
 
 TODO: Mail copywriter. Mail IPEX. Scrum příprava + Jak se koncentrovat na práci i přes vyrušování.
 
+- ! Tags: Tags not working
 - ! Index: Workshopy: Ikonka by měla změnit barvu jen po najeti na odkaz, ne po najedi na text, ktery odkaz neni!
 - ! Sticky memu
 - ! Upravit GDPR aby to nebyla doslovná kopie

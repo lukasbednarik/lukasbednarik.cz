@@ -28,8 +28,8 @@ tagline: Lukáš Bednařík
 - Workshop Extrémního programování pro [iXperta s.r.o.](http://www.ixperta.com/)
 - Certifikát [Scaled Professional Scrum](https://www.scrum.org/certification-list) ([scrum.org](https://www.scrum.org)).
 - Certifikát [Professional Scrum Master II](https://www.scrum.org/certification-list) ([scrum.org](https://www.scrum.org)).
-- [Agile Open Space](http://www.agileopenspace.cz/) v SolarWinds.
-- Absolvoval jsem Robertovo školení [Na volné noze](http://navolnenoze.cz/).
+- [Agile Open Space](https://www.agileopenspace.cz/) v SolarWinds.
+- Absolvoval jsem Robertovo školení [Na volné noze](https://navolnenoze.cz/).
 - Prezentace na [Brněnském kontejneru](https://www.facebook.com/events/302801320118015/): K Agile a dál.
 - Prezentace v [iXperta s.r.o.](http://www.ixperta.com/):
   - Firemní kultury a Agile,
@@ -38,8 +38,8 @@ tagline: Lukáš Bednařík
 ### 2016
 
 - Prezentace pro [iXperta s.r.o.](http://www.ixperta.com/): RAII v C++11.
-- Moje první placené 4 hodinové školení pro [ERA Pardubice](http://www.era.aero/): Unit-Testing.
-- Série čtyř přednášek pro [ERA Pardubice](http://www.era.aero/): Od procedurálního programování k C++11.
+- Moje první placené 4 hodinové školení pro [ERA Pardubice](https://www.era.aero/): Unit-Testing.
+- Série čtyř přednášek pro [ERA Pardubice](https://www.era.aero/): Od procedurálního programování k C++11.
 - Certifikát *Qt Essentials* a pokročilý *Core C++*.
 
 ### 2015
