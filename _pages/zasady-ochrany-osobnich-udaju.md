@@ -44,27 +44,20 @@ Odesláním formuláře přihlášení k odběru newletterů souhlasíte s tím,
 - Jméno a příjmení
 - E-mailová adresa
 
-Osobní údaje jsou uchovávány po dobu 3 let na serveru [ecomail.cz](https://www.ecomail.cz/), který je v tomto smyslu zpracovatelem osobních údajů.
+Osobní údaje jsou uchovávány po dobu 4 let na serveru [ecomail.cz](https://www.ecomail.cz/), který je v tomto smyslu zpracovatelem osobních údajů.
 
 ### Soubory cookies
 
-### Co jsou soubory cookies
-
-Soubory cookies jsou krátké textové soubory, které internetová stránka odešle do vašeho
-prohlížeče. Umožňuje internetové stránce zaznamenat informace o vaší návštěvě, například
-zvolený jazyk a podobně. Následující návštěva stránek tak pro Vás může být snazší a příjemnější. Soubory cookies jsou důležité, neboť bez nich by procházení sítě Internet bylo mnohem složitější. Soubory cookies umožňují lepší využití naší internetové stránky a přizpůsobení obsahu vašim potřebám. Soubory cookies používá téměř každá internetová stránka na světě. Soubory cookies jsou užitečné, protože zvyšují uživatelskou přívětivost opakovaně navštívené internetové stránky.
-
 ### Druhy souborů cookies
 
-Relační (tedy dočasné) soubory cookies umožňují Správci propojovat Vaše jednotlivé aktivity po
-dobu prohlížení těchto internetových stránek. V okamžiku otevření okna vašeho prohlížeče se tyto soubory aktivují a deaktivují se po zavření okna vašeho prohlížeče. Relační cookies jsou dočasné a po zavření prohlížeče se všechny tyto soubory vymažou. Trvalé soubory cookies pomáhají Správci váš počítač identifikovat, jestliže opětovně navštívíte jeho internetovou stránku. Další výhodou trvalých cookies je to, že umožňují přizpůsobit internetové stránky vašim potřebám.
+Relační (dočasné) soubory cookies umožňují Správci propojovat Vaše jednotlivé aktivity po
+dobu prohlížení těchto internetových stránek. V okamžiku otevření okna vašeho prohlížeče se tyto soubory aktivují a deaktivují se po zavření okna vašeho prohlížeče. Relační cookies jsou dočasné a po zavření prohlížeče se všechny tyto soubory vymažou.
+
+Trvalé soubory cookies pomáhají Správci váš počítač identifikovat, jestliže opětovně navštívíte jeho internetovou stránku. Další výhodou trvalých cookies je to, že umožňují přizpůsobit internetové stránky vašim potřebám.
 
 ### Využívání souborů cookies
 
-V souladu s ustanovením § 89 odst. 3 zák. č. 127/2005 Sb., o elektronických komunikacích, v
-účinném znění, si vás tímto Správce dovoluje informovat, že jeho internetové stránky využívají pro svoji činnost soubory cookies, tedy vaše soubory cookies, včetně trvalých, které zpracovává. Tento souhlas je udělen na dobu 10 let. Internetové prohlížeče obvykle obsahují správu souborů cookies. V rámci nastavení vašeho prohlížeče tak můžete jednotlivé soubory
-cookies ručně mazat, blokovat či zcela zakázat jejich používání. Pro více informací použijte
-nápovědu vašeho internetového prohlížeče.
+V souladu s ustanovením § 89 odst. 3 zák. č. 127/2005 Sb., o elektronických komunikacích, v účinném znění, si vás tímto Správce dovoluje informovat, že jeho internetové stránky využívají pro svoji činnost soubory cookies, tedy vaše soubory cookies, včetně trvalých, které zpracovává. Tento souhlas je udělen na dobu 10 let. Internetové prohlížeče obvykle obsahují správu souborů cookies. V rámci nastavení vašeho prohlížeče tak můžete jednotlivé soubory cookies ručně mazat, blokovat či zcela zakázat jejich používání. Pro více informací použijte nápovědu vašeho internetového prohlížeče.
 
 ### Účel použití souborů cookies
 
