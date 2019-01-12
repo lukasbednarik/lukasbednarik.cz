@@ -13,9 +13,9 @@ Na první pohled ale není vidět, jak do sebe tyto praktiky zapadají.
 Kent Beck poskládal známé praktiky do komplexního a vysoce efektivního
 systému jako puzzle. Kompletní skládanka z knihy *Extreme Programming Explained* je na obrázku níže.
 
-![Agilní praktiky jsou jako puzzle (z knihy Kent Beck: Extreme Programming Explained](/assets/xp-practices.png)
+![Agilní praktiky jsou jako puzzle (z knihy Kent Beck: Extreme Programming Explained](/images/blog/xp-practices.png)
 
-V centru grafu je refaktoring - [testování](/unit-testing/) - [párové programování](/parove-programovani).
+V centru grafu je refaktoring - [testování](/unit-testing/) - [párové programování](/parove-programovani/).
 Přitom [TDD](https://en.wikipedia.org/wiki/Test-driven_development) a párové programování
 patří mezi nejobtížnější agilní praktiky a mnoho firem není schopno je adoptovat.
 Pokud ovšem neadoptujeme všechny praktiky, připravíme se o sílu jejich vzájemného působení.

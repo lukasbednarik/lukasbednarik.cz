@@ -124,4 +124,4 @@ důkazů, že tato praktika byla použita záměrně, je obtížné a jen velmi 
 Můžeme si jen představovat, pod jakým tlakem byli nuceni pracovat vývojáři, aby rychle dokončili zmíněné čtyři produkty,
 aniž by věděli, co se doopravdy děje.
 
-Stáhněte si celou knihu a pokračujte ve čtení: [Download](/download-rebelska-historie-vyvoje-softwaru/)
+Stáhněte si [celou knihu z Leanpub](https://leanpub.com/historiesoftwaru) a pokračujte ve čtení.

@@ -12,7 +12,7 @@ Překvapením pro mě bylo, že toto platí i u tak malé knížečky, jako je R
 
 <!--more-->
 
-![Lukáš Bednařík](/{{ site.baseurl }}/images/blog/kniha-rebelska-historie-obalka-2.png)
+![Lukáš Bednařík]({{ site.baseurl }}/images/blog/kniha-rebelska-historie-obalka-2.png)
 
 ## 14 dní psaní
 

@@ -14,7 +14,7 @@ tagline: Lukáš Bednařík
 
 - Jsem expertem / konzultantem pro [akcelerační programy v Impact Hub Brno](https://www.hubbrno.cz/akcelerace/mentoring/).
 - Organizuji první [Code Beer](https://codebeer.cz).
-- [Agilní kalendář](http://agilnikalendar.cz) je široce znám a používán Agilní komunitou.
+- [Agilní kalendář](https://agilnikalendar.cz) je široce znám a používán Agilní komunitou.
 - Účastním se většiny setkání brněnských Scrum Masterů a mnoha agilních konferencí.
 - [Povídám o XP](https://www.facebook.com/events/373745716426679/) pro cca 60 lidí v Kentico.
 - Uvádím první letošní [Agile Open Café](https://agilniasociace.cz/info/agile-open-cafe-brno-v-roce-2018/).
@@ -22,7 +22,7 @@ tagline: Lukáš Bednařík
 
 ### 2017
 
-- Spuštěn projekt [Agilní kalendář](http://agilnikalendar.cz).
+- Spuštěn projekt [Agilní kalendář](https://agilnikalendar.cz).
 - Účastním se nejrůznějších setkání brněnských Scrum Masterů.
 - Dokončení knihy [Rebelská historie vývoje software](/knihy/).
 - Workshop Extrémního programování pro [iXperta s.r.o.](http://www.ixperta.com/)

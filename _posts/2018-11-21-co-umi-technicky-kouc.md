@@ -4,7 +4,7 @@ title: Co umí technický Agilní kouč
 tags: koučování agile xp
 ---
 
-V minulém článku [co dělá technický Agilní kouč](/co-dela-technicky-kouc) jsem psal o tom, s čím vám
+V minulém článku [co dělá technický Agilní kouč](/co-dela-technicky-kouc/) jsem psal o tom, s čím vám
 může kouč pomoci prakticky. Dnes bych se chtěl zaměřit na to, co technický kouč umí.
 
 <!--more-->
@@ -13,10 +13,10 @@ může kouč pomoci prakticky. Dnes bych se chtěl zaměřit na to, co technick�
 
 Metodik a frameworků kolem vývoje softwaru existují spousty. Například:
 
-- [Scrum](/ceska-scrum-guide),
-- [Kanban](/principy-kanbanu),
-- [Extrémní Programování](/workshop-technicka-agilita),
-- [Lean Startup](/lean-startup),
+- [Scrum](/ceska-scrum-guide/),
+- [Kanban](/principy-kanbanu/),
+- [Extrémní Programování](/workshop-technicka-agilita/),
+- [Lean Startup](/lean-startup/),
 - ScrumBan,
 - škálované metodiky (SAFe, LeSS, Nexus, ...).
 
@@ -27,10 +27,10 @@ přehledově, s několika má praktické zkušenosti a dokáže je vhodně nasad
 
 Vývojářských praktik jsou desítky. Například:
 
-- párové programování / [Mob programming](/mob-programming-dejte-mu-sanci),
+- párové programování / [Mob programming](/mob-programming-dejte-mu-sanci/),
 - TDD, FDD, ATDD, BDD, DDD, ...,
 - continuous integration / continuous delivery,
-- [unit testing](/unit-testing),
+- [unit testing](/unit-testing/),
 - DevOps,
 - refactoring,
 - user stories,
@@ -69,15 +69,15 @@ Technický kouč by měl mít přehled o technických trendech. Co se týče pra
 
 - #NoProjects,
 - #NoEstimates,
-- [Mob Programming](/mob-programming-dejte-mu-sanci),
+- [Mob Programming](/mob-programming-dejte-mu-sanci/),
 - Sociocracy,
-- [Microservices](/strizliveni-z-microservices),
+- [Microservices](/strizliveni-z-microservices/),
 - DevEx,
 - plně distribuované týmy (remote only teams).
 
 ### Language agnostic
 
-Když jsem spustil své školení [Technické Agility](/workshop-technicka-agilita),
+Když jsem spustil své školení [Technické Agility](/workshop-technicka-agilita/),
 začal jsem dostávat dotazy typu "bylo by problém předělat workshop z C++ do PHP, Node.Js, Java, Python?"
 Praktiky objektově orientovaného programování a psaní dobrých unit testů zůstávají stejné.
 Náplň workshopu zůstává stejná. Jen jazyk se mění. Pro kouče je tedy důležité mít zkušenost

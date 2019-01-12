@@ -9,14 +9,14 @@ můžeme narazit. Nejsou to mé zkušenosti, čerpal jsem z videí a blogů.
 
 <!--more-->
 
-Nevíte-li, [co vlastně mobování je](/mob-programming-dejte-mu-sanci), přečtěte si můj první článek.
+Nevíte-li, [co vlastně mobování je](/mob-programming-dejte-mu-sanci/), přečtěte si můj první článek.
 
 ### Je to jako ve slepičinci
 
 Začíná-li tým s Mob Programming, může to v místnosti vypadat jako v kurníku.
 Každý mluví přes sebe. Každý ví nejlépe, jak daný problém vyřešit. Každý prosazuje své (nejlepší) řešení.
 
-V tomto okamžiku je velmi [důležitá role kouče](/co-dela-technicky-kouc). Vaším úkolem je přimět tým, aby se soustředil na problém,
+V tomto okamžiku je velmi [důležitá role kouče](/co-dela-technicky-kouc/). Vaším úkolem je přimět tým, aby se soustředil na problém,
 který řeší, a vyřešil jej. Až potom můžete napsat test. A až potom můžete optimalizovat řešení.
 Odložte tedy optimalizaci na později.
 
