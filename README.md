@@ -39,8 +39,9 @@ Test site: https://lukasbednarik.github.io/web-2/
 TODO: Mail copywriter. Mail IPEX. Scrum příprava + Jak se koncentrovat na práci i přes vyrušování.
 
 - ! Tags: Tags not working
-- ! Sticky memu
+- ! Sticky memu (zelené pozadí. použít stejný design jako mobile menu, ale uzší pruh a uvnitř třídy "container", takže je vše na středu.)
 - ! Místo Workshopy popsat 3 produkty: tech agilita, workshop na míru (na stránku nějaké nápady jako Mob Programming nebo agilní architektura, facilitace Scrum, facilitace tech. řešení), konzultace. Do kunzultací si uvést hodinovku 900Kč/hod!!!
+- ! Přidat doporučení (index.html a navigation.html)
 
 ### Index page
 
