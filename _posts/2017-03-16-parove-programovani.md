@@ -11,7 +11,7 @@ Zastánci párového programování tvrdí, že ano, i když je to neintuitivní
 <!--more-->
 
 Extrémnější analogií párového programování je tzv.
-[mob programming](/mob-programming-dejte-mu-sanci), kdy u jednoho počítače sedí celý tým.
+[mob programming](/mob-programming-dejte-mu-sanci/), kdy u jednoho počítače sedí celý tým.
 
 ## Co vidíme
 

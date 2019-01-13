@@ -14,7 +14,7 @@ sami sebe jste schopni posunout na vyšší úroveň vždycky.
 ## Jak jsem neudělal podcast
 
 Na obrouvskou sílu metody nahrávání jsem přišel náhodou. Chtěl jsem vytvořit 3 minutový podcast
-vysvětlující principy [Mob programmingu](/mob-programming-dejte-mu-sanci).
+vysvětlující principy [Mob programmingu](/mob-programming-dejte-mu-sanci/).
 
 Koupil jsem si
 [entry level mikrofon pro podcasty Samson SAQ2U](https://www.amazon.co.uk/Samson-Handheld-Microphone-Recording-Podcasting/dp/B001R747SG),

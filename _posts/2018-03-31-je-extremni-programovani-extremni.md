@@ -4,7 +4,7 @@ title: Je Extrémní programování extrémní?
 tags: xp metodiky
 ---
 
-Na přednášce o [Extrémním programování](/workshop-technicka-agilita) v Kentico mi byl položen
+Na přednášce o [Extrémním programování](/workshop-technicka-agilita/) v Kentico mi byl položen
 zajímavý dotaz: "Je Extrémní programování stále extrémní?"
 Tazatel poukazoval na to, že *dobré praktiky* doporučované Extrémním
 programováním jsou dnes již tak běžné, že za nimi vlastně není nic neobvyklého.

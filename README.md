@@ -33,6 +33,7 @@ TODO: Mail copywriter. Mail IPEX. Scrum příprava + Jak se koncentrovat na prá
 - ! testimonials (Hanka + další) + enable testimonials. Upravit: index.html, navigation.html
 - Poslat Mittymu Whiskey :)
 - copywriting (index, 3 landing pages "workhopů")
+- návrh a tisk vizitek
 
 ### Index page
 
@@ -42,6 +43,7 @@ TODO: Mail copywriter. Mail IPEX. Scrum příprava + Jak se koncentrovat na prá
 
 ### Blog
 
+- napsat blog post o nových stránkách
 - Pagination: Omezení na počet vypsaných článků. (10 článků? Já chtěl 25.)
 - excerpt na blogu 3 řádkový text (nebo tenká fotka). Mělo by to být podobně dlouhé.č
 - obrázek u článků po levé straně jako malé čtverečky. Obrázky zobrazit i u článků na indexu.
