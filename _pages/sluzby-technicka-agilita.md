@@ -43,36 +43,53 @@ Je-li práce málo, zlevňuji.
 Osnova je orientační.
 Konečnou osnovu kurzu vždy přizpůsobuji konkrétním potřebám zákazníka.
 
-1. Historie Extrémního Programování
-1. Praktiky jako puzzle
-   - Párové programování
-   - Průběžná integrace (CI)
-   - Unit-testování
-   - Sdílené vlastnictví kódu
-   - Jednoduchý design
-   - Metafora
-   - Plánovací hra
-1. Unit-testování
-     - Dobrý unit-test
-     - Stub
-     - Mock
-     - Frameworky Catch a FakeIt
-1. Práce s legacy kódem
-   - Unit-testování v legacy kódu
-   - Refaktoring
-1. XP a Scrum
-1. Kvalita softwaru
-1. Jak psát dobré *stories* a *tasks*
-1. Objektově orientovaný design pomocí CRC karet
-1. Současné trendy
-   - Mob programming
-   - #NoProjects
-   - #NoEstimates
-   - BDD / DDD
-   - DevOps
-   - Continuous release
-1. Nástroje a frameworky
-
+<div id="show-more">Zobrazit/skrýt celou osnovu</div>
+<div id="show-more-content">
+<ol>
+  <li>Historie Extrémního Programování</li>
+  <li>Praktiky jako puzzle
+    <ul>
+      <li>Párové programování</li>
+      <li>Průběžná integrace (CI)</li>
+      <li>Unit-testování</li>
+      <li>Sdílené vlastnictví kódu</li>
+      <li>Jednoduchý design</li>
+      <li>Metafora</li>
+      <li>Plánovací hra</li>
+    </ul>
+  </li>
+  <li>Unit-testování
+    <ul>
+      <li>Dobrý unit-test</li>
+      <li>Stub</li>
+      <li>Mock</li>
+      <li>Frameworky Catch a FakeIt</li>
+    </ul>
+  </li>
+  <li>Práce s legacy kódem
+    <ul>
+      <li>Unit-testování v legacy kódu</li>
+      <li>Refaktoring</li>
+    </ul>
+  </li>
+  <li>XP a Scrum</li>
+  <li>Kvalita softwaru</li>
+  <li>Jak psát dobré <em>stories</em> a <em>tasks</em></li>
+  <li>Objektově orientovaný design pomocí CRC karet</li>
+  <li>Současné trendy
+    <ul>
+      <li>Mob programming</li>
+      <li>#NoProjects</li>
+      <li>#NoEstimates</li>
+      <li>BDD / DDD</li>
+      <li>DevOps</li>
+      <li>Continuous release</li>
+    </ul>
+  </li>
+  <li>Nástroje a frameworky</li>
+</ol>
+</div>
+<br />
 
 ![Lukáš Bednařík]({{ site.baseurl }}/images/blog/xp-fall.png)
 

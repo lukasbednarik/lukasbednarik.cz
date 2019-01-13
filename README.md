@@ -56,7 +56,6 @@ TODO: Mail copywriter. Mail IPEX. Scrum příprava + Jak se koncentrovat na prá
 ### Workshopy
 
 - Formulář pro kontakt / registraci. Jak si to lidi zarezervují? Rezervace možno porvázat s Reservio. Zázakník si rovnou vybere termín workshopu.
-- Osnova je moc velká. Udělat to jako vysouvací menu. http://api.jquery.com/slidetoggle/
 - Cena by měla být zvýrazněná – na začátku nebo na konci. http://www.instantshift.com/2015/10/16/free-html5-css3-pricing-tables/
 
 ### 3rd party služby

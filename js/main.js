@@ -108,6 +108,15 @@
       }
     });
 
+    /**
+     *  Zobrazeni osnovy workshopu
+     **/
+    $( "#show-more" ).click(function() {
+      $( "#show-more-content" ).slideToggle( "slow", function() {
+        // Animation complete.
+      });
+    });
+
   });
 
 }(window.jQuery, window, document));
