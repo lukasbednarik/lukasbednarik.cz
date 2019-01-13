@@ -25,7 +25,7 @@ proč jsou některé kombinace vývojářských praktik efektivnější než jin
 Metodika, kterou se naučíte, je více než jen součet svých částí.
 
 - **Kapacita:** max 8 lidí na workshop
-- **Délka:** 1 den, 9:00 - 15:30
+- **Délka:** 1 den (6 hodin)
 - **Jazyky:** Java, C#, C++, Node.Js, PHP
 
 ![Lukáš Bednařík]({{ site.baseurl }}/images/blog/xp-fall.png)

@@ -35,7 +35,7 @@ Po absolvování školení budete znát základy dobrého designu, budete schopn
 V praktické části si vyzkoušíme Architektonické kata.
 
 - **Kapacita:** neomezeno
-- **Délka:** 1 den, 9:00 - 15:30
+- **Délka:** 1 den (6 hodin)
 
 ## Osnova školení
 
@@ -59,6 +59,12 @@ Konečný obsah kurzu vždy přizpůsobuji konkrétním potřebám zákazníka.
 1. Architektura v Agilním (Scrum) týmu
 
 
+## Termíny a cena
+
+- **Cena:** Na dotaz
+
+Termíny [dle domluvy]({{ site.baseurl }}/#kontakt).
+
 ## Materiály a příprava
 
 Materiály ze školení budou účastníkům zpřístupněny po jeho ukončení.
@@ -66,9 +72,3 @@ Materiály ze školení budou účastníkům zpřístupněny po jeho ukončení.
 Žádná speciální příprava ze strany účastníků není nutná.
 
 {% include workshop-list.html %}
-
-## Termíny a cena
-
-- **Cena:** Na dotaz
-
-Termíny [dle domluvy]({{ site.baseurl }}/#kontakt).

@@ -55,7 +55,7 @@ TODO: Mail copywriter. Mail IPEX. Scrum příprava + Jak se koncentrovat na prá
 
 ### Workshopy
 
-- Cena a rezervace: Cena by měla být zvýrazněná – na začátku nebo na konci. http://www.instantshift.com/2015/10/16/free-html5-css3-pricing-tables/ Jak si to lidé zarezervují? Pod pricing table odkaz na Reservio. Zázakník si rovnou vybere termín workshopu. + odkaz na /kontakt.
+- Cena a rezervace: Cena by měla být zvýrazněná – na začátku nebo na konci. http://www.instantshift.com/2015/10/16/free-html5-css3-pricing-tables/  https://codepen.io/kresogalic/pen/dGzvRV Jak si to lidé zarezervují? Pod pricing table odkaz na Reservio. Zázakník si rovnou vybere termín workshopu. + odkaz na /kontakt.
 
 ### 3rd party služby
 

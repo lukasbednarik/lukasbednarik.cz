@@ -25,7 +25,7 @@ praktikovat, a nakonec si všechno vyzkoušíte na vlastní kůži.
 Skupina lidí programujících různými jazyky je vítána.
 
 - **Kapacita:** max 8 lidí na workshop
-- **Délka:** 1 den, 9:00 - 15:30
+- **Délka:** 1 den (5 hodin)
 - **Jazyky:** bez omezení
 
 ## Osnova školení
@@ -54,7 +54,7 @@ Cílem dotazníku je spojit lidi dle programovacích jazyků a zkušeností.
 
 ## Termíny a cena
 
-- **Cena:** Na dotaz
+- **Cena:** 5000Kč
 
 Termíny [dle domluvy]({{ site.baseurl }}/#kontakt).
 
