@@ -85,12 +85,41 @@ zkratky pro VIM či Emacs.
 
 ## Termíny a cena
 
-Termíny [dle domluvy]({{ site.baseurl }}/#kontakt).
-
 Cenu mých služeb určuje poptávka.
 Mám-li více práce než stíhám, zdražuji.
 Je-li práce málo, zlevňuji.
 
-- **Cena:** 9000 Kč / tým
+<div class="pricing-table">
+    <div class="pricing-option">
+        <i class="pe-7s-alarm"></i>
+        <h2>1 den</h2>
+        <hr />
+        <p>Teorie, praktické cvičení v týmu a odpovědi na vaše otázky. To vše stihneme za jeden den. Tato varianta má ideální poměr cena / výkon.</p>
+        <hr />
+        <div class="price">
+            <div class="front">
+                <span class="price">9 000 Kč</span>
+            </div>
+            <div class="back">
+                <a href="/#kontakt" class="button">Rezervovat</a>
+            </div>
+        </div>
+    </div>
+    <div class="pricing-option">
+        <i class="pe-7s-display2"></i>
+        <h2>2 dny</h2>
+        <hr />
+        <p>Častým feedbackem z jednodenního workhopu je "málo praxe". Tato varianta rozšiřuje praktickou část a podíváme se i na vaši codebase.</p>
+        <hr />
+        <div class="price">
+            <div class="front">
+                <span class="price">13 000 Kč</span>
+            </div>
+            <div class="back">
+                <a href="/#kontakt" class="button">Rezervovat</a>
+            </div>
+        </div>
+    </div>
+</div>
 
 {% include workshop-list.html %}
