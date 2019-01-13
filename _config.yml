@@ -21,6 +21,12 @@ description:      'Technický Agilní kouč. Kvalitnější software rychleji.'
 ####################################
 ###########   Plugins    ###########
 ####################################
+
+collections:
+  tag:
+    output: true
+    permalink: /:collection/:name/
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap

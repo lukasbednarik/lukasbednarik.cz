@@ -3,7 +3,7 @@ layout: article
 type: archive
 ---
 
-{% for post in page.posts %}
+{% for post in site.tags[page.title] %}
 
 <!-- Blog Article -->
 <article class="blog-article clearfix">

@@ -4,7 +4,7 @@
       <h4 class="category">
         {%- for tag in include.article.tags -%}
           {%- if tag != include.article.tags.first -%}, {% endif -%}
-          <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}">{{ tag }}</a>
+          <a href="{{ site.baseurl }}/tag/{{ tag | slugify: 'latin' }}">{{ tag }}</a>
         {%- endfor -%}
     </h4>
   </div>
