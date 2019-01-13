@@ -4,10 +4,10 @@ title: Co dělá technický Agilní kouč
 tags: koučování agile xp
 ---
 
-V jednom z předchozích článků jsem psal o [typech agilních koučů](/typy-agilnich-koucu).
+V jednom z předchozích článků jsem psal o [typech agilních koučů](/typy-agilnich-koucu/).
 Lyssa Adkins rozlišuje tři: technical coach, business coach a agile transformation coach.
 Když jsem si uvědomil, že jsem ještě nikdy nepsal o technickém koučování, samotného mě to překvapilo.
-Začnu vlastním popisem toho, co technický kouč dělá, a v příštím článku se podíváme na to, [co by měl umět](/co-umi-technicky-kouc).
+Začnu vlastním popisem toho, co technický kouč dělá, a v příštím článku se podíváme na to, [co by měl umět](/co-umi-technicky-kouc/).
 
 <!--more-->
 

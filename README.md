@@ -11,8 +11,6 @@ npm install
 
 ## Tests
 
-Test site: https://lukasbednarik.github.io/web-2/
-
 - [Analyze page speed](https://developers.google.com/speed/pagespeed/insights/)
 - [HTML validity checker](https://validator.w3.org)
 - [Broken link checker](https://www.drlinkcheck.com/)
@@ -25,22 +23,17 @@ Test site: https://lukasbednarik.github.io/web-2/
 
 # TODO
 
-- publish site
-- testimonials (Hanka + další) + enable testimonials
-- After publish remove site.baseurl prefixes. Run tests for broken links.
-
-- Poslat Mittymu Whiskey :)
-- copywriting (index, 3 landing pages "workhopů")
-
-## Feedback - Mitty
-
-### Obecné
+### Priority
 
 TODO: Mail copywriter. Mail IPEX. Scrum příprava + Jak se koncentrovat na práci i přes vyrušování.
 
 - ! Sticky memu (zelené pozadí. použít stejný design jako mobile menu, ale uzší pruh a uvnitř třídy "container", takže je vše na středu.)
 - ! Místo Workshopy popsat 3 produkty: tech agilita, workshop na míru (na stránku nějaké nápady jako Mob Programming nebo agilní architektura, facilitace Scrum, facilitace tech. řešení), konzultace. Do kunzultací si uvést hodinovku 900Kč/hod!!!
-- ! Přidat doporučení (index.html a navigation.html)
+
+- ! testimonials (Hanka + další) + enable testimonials. Upravit: index.html, navigation.html
+- Poslat Mittymu Whiskey :)
+- copywriting (index, 3 landing pages "workhopů")
+- After publish remove site.baseurl prefixes. Run tests for broken links.
 
 ### Index page
 
