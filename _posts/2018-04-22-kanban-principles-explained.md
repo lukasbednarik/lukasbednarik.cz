@@ -12,4 +12,4 @@ excerpt: Pět základních principů kanbanu.
 - explicitním nastavení pravidel,
 - společném zlepšování.
 
-![Kanban Principles Explained]({{ site.baseurl }}/images/blog/kanban-principles-explained.png)
+![Kanban Principles Explained](/images/blog/kanban-principles-explained.png)

@@ -7,7 +7,7 @@ tags: scrum
 Malá skupinka lidí (Hana Jadavan, Irena Buršová, Martina Bártů, Martina Hlaváčková)
 včera uvolnila neoficiální překlad Scrum Guide s aktualizací z konce minulého roku.
 Je to nejlepší český překlad, který je v současnosti dostupný.
-[Stahujte zde.]({{ site.baseurl }}/images/blog/scrum-guide-cz.pdf)
+[Stahujte zde.](/images/blog/scrum-guide-cz.pdf)
 
 <!--more-->
 

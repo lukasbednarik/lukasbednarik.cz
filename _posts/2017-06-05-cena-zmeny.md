@@ -17,7 +17,7 @@ Plochá křivka dělá agilní praktiky možnými. A naopak. Agilní praktiky js
 že tuto křivku kontrolujeme. Z toho tak nějak plyne, že využívání agilních praktik
 znamená psát kvalitní kód. Křivka samotná je výsledkem použitých praktik a technologií.
 
-![]({{ site.baseurl }}/images/blog/cena-zmeny-klasicky-a-agilni-vyvoj.svg)
+![](/images/blog/cena-zmeny-klasicky-a-agilni-vyvoj.svg)
 
 Ve snaze co nejvíce omezit křivku ceny za změnu se dle mého názoru dostalo nejdále
 [Extrémní programování](/xp-jako-puzzle/).

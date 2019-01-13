@@ -19,7 +19,7 @@ Témata přednášek byla vesměs praktická:
 - Navigating Disruption, Why is integrated risk critical in Agile environments (Stanislava Pendziviaterova)
 - Agile transformation - from developers to CEO (Antonín Moravec)
 
-![ScrumImpulz 2018]({{ site.baseurl }}/images/blog/scrumimpulz-2018.jpg)
+![ScrumImpulz 2018](/images/blog/scrumimpulz-2018.jpg)
 
 Ve srovnání s tvrdou konkurencí brněnských a pražských konferencí byla ScrumImpulz slabší.
 Nejvíc mi vadily dlouhé přestávky vždy po dvojici prezentací, dále ne všichni řečníci byli

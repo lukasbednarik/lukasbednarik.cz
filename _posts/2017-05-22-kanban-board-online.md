@@ -42,4 +42,4 @@ Premium verze za 5 USD na měsíc nabízí swimlanes, kalendář, statistiky a p
 I když premium verzi nepotřebuji, jsem z KanbanFlow tak nadšený, že bych neměl problém
 ji zaplatit.
 
-![]({{ site.baseurl }}/images/blog/kanban-flow-board.png)
+![](/images/blog/kanban-flow-board.png)

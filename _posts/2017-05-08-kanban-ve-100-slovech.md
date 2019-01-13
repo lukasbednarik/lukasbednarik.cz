@@ -18,6 +18,6 @@ Existuje mnoho variant Kanbanu, ale jádro je vždy stejné.
 
 Příklad možné podoby Kanban tabule je na obrázku. Číslo v červeném kolečku omezuje maximální počet úkolů v daném sloupci.
 
-![]({{ site.baseurl }}/images/blog/kanban.svg)
+![](/images/blog/kanban.svg)
 
 O [principech Kanbanu](/principy-kanbanu/) jsem se více rozepsal v dalším článku.

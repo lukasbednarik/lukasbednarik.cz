@@ -60,16 +60,16 @@ Výzkum univerzity v Utahu (A. Cockburn, L. Williams. The Costs and Benefits of 
 ukazuje data, která bychom asi intuitivně očekávali. Párové programování nás
 z počátku může stát více času, ale jakmile se tým sladí, je tento rozdíl zanedbatelný.
 
-![]({{ site.baseurl }}/images/blog/pair-programming-1.png)
+![](/images/blog/pair-programming-1.png)
 
 Párové programování vede k odhalení více chyb během implementace. Výsledkem je kvalitnější kód.
 
-![]({{ site.baseurl }}/images/blog/pair-programming-2.png)
+![](/images/blog/pair-programming-2.png)
 
 Dva vývojáři jsou schopni nalézt efektivnější řešení problému. Výsledný kód je kratší. Kratší kód znamená méně
 práce při údržbě a další ušetřené peníze v delším časovém horizontu.
 
-![]({{ site.baseurl }}/images/blog/pair-programming-3.png)
+![](/images/blog/pair-programming-3.png)
 
 Cena opravy jedné chyby roste exponenciálně s časem, kdy je chyba objevena a opravena. Párové programování
 přispívá k objevování chyb v nejranější fázi implementace!

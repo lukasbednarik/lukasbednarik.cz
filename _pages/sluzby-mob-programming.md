@@ -56,6 +56,6 @@ Cílem dotazníku je spojit lidi dle programovacích jazyků a zkušeností.
 
 - **Cena:** 5000Kč
 
-Termíny [dle domluvy]({{ site.baseurl }}/#kontakt).
+Termíny [dle domluvy](/#kontakt).
 
 {% include workshop-list.html %}

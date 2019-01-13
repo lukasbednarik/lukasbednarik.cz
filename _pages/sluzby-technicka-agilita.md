@@ -28,7 +28,7 @@ Metodika, kterou se naučíte, je více než jen součet svých částí.
 - **Délka:** 1 den (6 hodin)
 - **Jazyky:** Java, C#, C++, Node.Js, PHP
 
-![Lukáš Bednařík]({{ site.baseurl }}/images/blog/xp-fall.png)
+![Lukáš Bednařík](/images/blog/xp-fall.png)
 
 Workshopem vás provede extrémní programátor a
 signatář [software craftmanship manifesta](http://manifesto.softwarecraftsmanship.org).

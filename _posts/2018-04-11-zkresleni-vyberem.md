@@ -47,7 +47,7 @@ Vzniká tzv. kognitivní bublina, ve které management žije.
 Analogií výběru bugů z backlogy je navrtávání ropných polí v Texasu.
 V následujícím grafu ukazuje osa *x* počet pokusných vrtů a osa *y* normované množství objevené ropy.
 
-![Ropná pole]({{ site.baseurl }}/images/blog/plot-discovery-rate.png)
+![Ropná pole](/images/blog/plot-discovery-rate.png)
 [citace: Root, Drew: The pattern of petroleum discovery rates]
 
 Z grafu je vidět, že několik málo vrtů vedlo k objevení většiny známé ropy. Lineární aproximace

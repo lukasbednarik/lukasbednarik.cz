@@ -26,18 +26,18 @@ layout: article
       <div class="box-content social-icons">
         <ul class="icons global-text-color-icons">
           <li>
-            <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}"
+            <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}"
               onclick="window.open(this.href, 'facebook-share', 'width=550,height=255');return false;">
               <i class="fi icon-facebook"></i>
             </a>
           </li>
           <li>
-            <a href="https://twitter.com/home?status={{ site.url }}{{ site.baseurl }}{{ page.url }}" onclick="window.open(this.href, 'twitter-share', 'width=550,height=255');return false;">
+            <a href="https://twitter.com/home?status={{ site.url }}{{ page.url }}" onclick="window.open(this.href, 'twitter-share', 'width=550,height=255');return false;">
               <i class="fi icon-twitter"></i>
             </a>
           </li>
           <li>
-            <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title={{ page.title }}"
+            <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title }}"
               onclick="window.open(this.href, 'facebook-share', 'width=280,height=480');return false;">
               <i class="fi icon-linkedin"></i>
             </a>
@@ -75,13 +75,13 @@ layout: article
               {%- endif -%}
               {%- assign similarPosts = similarPosts | minus: 1 -%}
               <li>
-                <a href="{{ site.baseurl }}{{ post.url }}">
+                <a href="{{ post.url }}">
                   {{ post.title }}
                 </a>
               </li>
             {%- endfor -%}
           {%- endfor -%}
-          <li><a href="{{ site.baseurl }}/blog/">Zpět na blog</a></li>
+          <li><a href="/blog/">Zpět na blog</a></li>
         </ul>
       </div>
     </div>

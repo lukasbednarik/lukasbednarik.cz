@@ -11,7 +11,7 @@ Agile Open Space se tak řadí mezi agilní akce, které bych během roku jen ve
 
 <!--more-->
 
-![Agile Open Space 2018]({{ site.baseurl }}/images/blog/agile-open-space-2018.jpg)
+![Agile Open Space 2018](/images/blog/agile-open-space-2018.jpg)
 *(Obrázek: [Agile Open Space](https://www.agileopenspace.cz/) 2018.)*
 
 Ať jste o Agile nikdy neslyšeli nebo jste zkušení konzultanti, Agile Open Space je event pro vás.

@@ -33,7 +33,6 @@ TODO: Mail copywriter. Mail IPEX. Scrum příprava + Jak se koncentrovat na prá
 - ! testimonials (Hanka + další) + enable testimonials. Upravit: index.html, navigation.html
 - Poslat Mittymu Whiskey :)
 - copywriting (index, 3 landing pages "workhopů")
-- After publish remove site.baseurl prefixes. Run tests for broken links.
 
 ### Index page
 

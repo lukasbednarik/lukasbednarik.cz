@@ -5,7 +5,7 @@ permalink: /email-uspesne-odeslan/
 ---
 
 Váš email byl úspěšně odeslán. Můžete se vrátit
-na [index]({{ site.baseurl }}/) nebo
-na [blog]({{ site.baseurl }}/blog/).
+na [index](/) nebo
+na [blog](/blog/).
 
-![Email odeslán]({{ site.baseurl }}/images/blog/email-odeslan.jpg)
+![Email odeslán](/images/blog/email-odeslan.jpg)

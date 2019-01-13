@@ -25,7 +25,7 @@ a podpora managementu se pozvolna vytrácí.
 Na druhou stranu *dobré unit testy* mohou skutečně zvýšit kvalitu kódu, zmenšit počet defektů
 a dokonce i urychlit vývoj.
 
-![]({{ site.baseurl }}/images/blog/it-works-on-my-machine.jpg)
+![](/images/blog/it-works-on-my-machine.jpg)
 
 Dobrý unit test by měl:
 

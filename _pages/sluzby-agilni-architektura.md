@@ -63,7 +63,7 @@ Konečný obsah kurzu vždy přizpůsobuji konkrétním potřebám zákazníka.
 
 - **Cena:** Na dotaz
 
-Termíny [dle domluvy]({{ site.baseurl }}/#kontakt).
+Termíny [dle domluvy](/#kontakt).
 
 ## Materiály a příprava
 

@@ -155,7 +155,7 @@ Právě mindset (to, jakým způsobem uvažujeme) souvisí s kulturou společnos
 nutné pracovat s kulturou. Pokud se tak nestane, mindset lidí zůstane stejný i přes všechny změny v procesech.
 (Viz příklad "kultura tým lídrů" výše.)
 
-![Firemní kultura]({{ site.baseurl }}/images/blog/firemni-kultury.png)
+![Firemní kultura](/images/blog/firemni-kultury.png)
 
 ### Slovníček
 

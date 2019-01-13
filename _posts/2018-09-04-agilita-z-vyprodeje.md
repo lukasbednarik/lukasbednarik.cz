@@ -18,7 +18,7 @@ všechny jeho ingredience, vůbec to neznamená, že se vám výsledek bude líb
 Existují konzultantské společnosti, které mohou vaši firmu dokonce certifikovat, že "provozuje pravý Scrum".
 Je to certifikace ingrediencí v trochu jiném světle. Máte-li rádi papíry, budete mít rádi i takový certifikát.
 
-![Sleva 50%]({{ site.baseurl }}/images/blog/sales-50-off.png)
+![Sleva 50%](/images/blog/sales-50-off.png)
 
 ## Dva díly Agility
 
@@ -61,7 +61,7 @@ v němž vysvětlíme, jak síť funguje, a sledovat, kolik uživatelů se na z�
 informací rozhodne do naší aplikace zaregistrovat? Zpětnou vazbu můžeme získat ještě předním,
 než napíšeme první řádek kódu! Několik uživatelů sice naštveme, ale všechny ty ušetřené peníze nám to vynahradí.
 
-![Cyklus build-measure-learn]({{ site.baseurl }}/images/blog/build-measure-learn.png)
+![Cyklus build-measure-learn](/images/blog/build-measure-learn.png)
 
 Každý kousek nově vytvořeného produktu testujeme na uživatelích (cyklus build-measure-learn).
 Když nemáme jednoho zákazníka, kterému bychom ukázali demo jako ve Scrumu,

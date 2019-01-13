@@ -68,7 +68,7 @@ Výhodou této kultury je rychlejší rozhodování, větší využití talentu 
 organizačních změn. Kultura moci může být velmi účinná v době nejistoty a mimořádné situace,
 kdy je potřeba rozhodovat rázně a včas.
 
-![Kultura moci]({{ site.baseurl }}/images/blog/kultura-moci.png)
+![Kultura moci](/images/blog/kultura-moci.png)
 
 Jednou z nevýhod kultury je, že často vede k nespokojenosti zaměstnanců. Zaměstnanci jsou závislí na osobě vůdce a vyhrotí-li se
 jejich osobní vztahy s vůdcem, odcházejí ze zaměstnání (připomeňme, že nejčastějším důvodem odchodu zaměstnanců nejsou peníze,
@@ -106,7 +106,7 @@ kteří tyto funkce zastávají. Jasně vymezená pravidla snižují počet konf
 kdo je za co zodpovědný. Popis práce může někdy zaměstnance ochránit před zneužíváním a vykořisťováním
 ze strany nadřízených.
 
-![Kultura rolí]({{ site.baseurl }}/images/blog/kultura-roli.png)
+![Kultura rolí](/images/blog/kultura-roli.png)
 
 Formálnost kultury může vést na sociální odloučení zaměstnanců, kteří zaujmou postoj "můj život stojí za prd".
 Další nevýhodou pro zaměstnance je potlačení jejich kreativity.
@@ -148,7 +148,7 @@ Naplnění tohoto cíle je postaveno nad zájmy jednotlivců a dokonce i nad ně
 Lidé výrazně spolupracují v rámci týmu, ale často jen omezeně mezi týmy.
 Respekt členů týmu může být získán schopností řešit konkrétní problém a pomoci dosažení cíle.
 
-![Kultura úkolů]({{ site.baseurl }}/images/blog/kultura-ukolu.png)
+![Kultura úkolů](/images/blog/kultura-ukolu.png)
 
 Charakteristickým znakem kultury úkolů je větší svoboda a flexibilita zaměstnanců.
 Zaměstnanci se pro vyřešení zadaného úkolu musejí někdy pouštět mimo oblast své specializace
@@ -183,7 +183,7 @@ Lidé chtějí spolupracovat, protože vědí, že jen tak mohou dosáhnout vyš
 jako společensky přínosný a prospěšný. Osobní status lidí v této kultuře je “my jsme skvělí (bez dalšího srovnávání)”.
 V typologii lidských kmenů Dave Logana (kniha Zrození kmenového vůdce) tato kultura odpovídá kmenu na stupni 5.
 
-![Kultura osob]({{ site.baseurl }}/images/blog/kultura-osob.png)
+![Kultura osob](/images/blog/kultura-osob.png)
 
 Každý jednotlivec má možnost vše kolem sebe zlepšovat. Procesy, nástroje,
 rozdělení zodpovědností - nic nezůstává beze změny, brání-li to dosažení společné vize.
@@ -192,7 +192,7 @@ rolí může mít jeden manažer na starosti minimalizaci výdajů a druhý mana
 Práce těchto dvou lidí bude neefektivní, protože se vzájemně zablokují. Naopak kultura osob podobné
 střety zájmů řeší s ohledem na dosažení vyššího cíle.
 
-![Self-management (mravenci)]({{ site.baseurl }}/images/blog/selfmanagement.jpg)
+![Self-management (mravenci)](/images/blog/selfmanagement.jpg)
 
 Roger Harrison a Charles Handy viděli tuto kulturu v organizacích, které postrádají formální hierarchii:
 advokátní komory a kanceláře, architektonická partnerství, rodinné podniky, některé typy poradenských firem, atd.

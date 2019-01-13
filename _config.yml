@@ -3,7 +3,6 @@
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "Gemfile", "README.md", "notes"]
 url: 'https://lukasbednarik.cz'
-#baseurl: '/'
 permalink:        /:title/
 include:          ["_pages"]
 google-analytics: true
