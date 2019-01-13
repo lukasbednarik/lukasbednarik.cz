@@ -28,20 +28,15 @@ Metodika, kterou se naučíte, je více než jen součet svých částí.
 - **Délka:** 1 den, 9:00 - 15:30
 - **Jazyky:** Java, C#, C++, Node.Js, PHP
 
-## Termíny a cena
+![Lukáš Bednařík]({{ site.baseurl }}/images/blog/xp-fall.png)
 
-Termíny [dle domluvy]({{ site.baseurl }}/#kontakt).
+Workshopem vás provede extrémní programátor a
+signatář [software craftmanship manifesta](http://manifesto.softwarecraftsmanship.org).
 
-Cenu mých služeb určuje poptávka.
-Mám-li více práce než stíhám, zdražuji.
-Je-li práce málo, zlevňuji.
+## Osnova školení
 
-- **Cena:** 9000 Kč / tým
-
-## Detailní osnova školení
-
-Osnova je orientační.
-Konečnou osnovu kurzu vždy přizpůsobuji konkrétním potřebám zákazníka.
+Osnova je pouze orientační.
+Konečný obsah kurzu vždy přizpůsobuji konkrétním potřebám zákazníka.
 
 <div id="show-more">Zobrazit/skrýt celou osnovu</div>
 <div id="show-more-content">
@@ -91,11 +86,6 @@ Konečnou osnovu kurzu vždy přizpůsobuji konkrétním potřebám zákazníka.
 </div>
 <br />
 
-![Lukáš Bednařík]({{ site.baseurl }}/images/blog/xp-fall.png)
-
-Workshopem vás provede extrémní programátor a
-signatář [software craftmanship manifesta](http://manifesto.softwarecraftsmanship.org).
-
 ## Materiály a příprava
 
 Je důležité si přinést **vlastní notebook**
@@ -105,6 +95,16 @@ společně s dalšími instrukcemi.
 
 Kvůli párovému programování je nutné si **nainstalovat grafické IDE** (ideálně
 [Visual Studio Code](https://code.visualstudio.com/)), protože váš kolega nemusí znát klávesové
+
+## Termíny a cena
+
+Termíny [dle domluvy]({{ site.baseurl }}/#kontakt).
+
+Cenu mých služeb určuje poptávka.
+Mám-li více práce než stíhám, zdražuji.
+Je-li práce málo, zlevňuji.
+
+- **Cena:** 9000 Kč / tým
 zkratky pro VIM či Emacs.
 
 {% include workshop-list.html %}
