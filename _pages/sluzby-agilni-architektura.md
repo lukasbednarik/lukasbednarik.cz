@@ -37,17 +37,14 @@ V praktické části si vyzkoušíme Architektonické kata.
 - **Kapacita:** neomezeno
 - **Délka:** 1 den, 9:00 - 15:30
 
-## Termíny a cena
+## Osnova školení
 
-- **Cena:** Na dotaz
+Osnova je pouze orientační.
+Konečný obsah kurzu vždy přizpůsobuji konkrétním potřebám zákazníka.
 
-Termíny [dle domluvy]({{ site.baseurl }}/#kontakt).
+<div id="show-more">Zobrazit/skrýt celou osnovu</div>
 
-## Detailní osnova školení
-
-Osnova je orientační.
-Konečnou osnovu kurzu vždy přizpůsobuji konkrétním potřebám zákazníka.
-
+{: #show-more-content}
 1. SOLID principy dobrého designu
    - Single responsibility principle
    - Open/closed principle
@@ -69,3 +66,9 @@ Materiály ze školení budou účastníkům zpřístupněny po jeho ukončení.
 Žádná speciální příprava ze strany účastníků není nutná.
 
 {% include workshop-list.html %}
+
+## Termíny a cena
+
+- **Cena:** Na dotaz
+
+Termíny [dle domluvy]({{ site.baseurl }}/#kontakt).
