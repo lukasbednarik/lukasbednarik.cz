@@ -23,12 +23,12 @@ npm install
 
 # TODO
 
-### Priority
+### Top Priority
 
 TODO: Mail copywriter. Mail IPEX. Scrum příprava + Jak se koncentrovat na práci i přes vyrušování.
 
 - ! Sticky memu (zelené pozadí. použít stejný design jako mobile menu, ale uzší pruh a uvnitř třídy "container", takže je vše na středu.)
-- ! Místo Workshopy popsat 3 produkty: tech agilita, workshop na míru (na stránku nějaké nápady jako Mob Programming nebo agilní architektura, facilitace Scrum, facilitace tech. řešení), konzultace. Do kunzultací si uvést hodinovku 900Kč/hod!!!
+- Místo Workshopy popsat 3 produkty: tech agilita, workshop na míru (na stránku nějaké nápady jako Mob Programming nebo agilní architektura, facilitace Scrum, facilitace tech. řešení), konzultace. Do kunzultací si uvést hodinovku 900Kč/hod!!!
 
 - ! testimonials (Hanka + další) + enable testimonials. Upravit: index.html, navigation.html
 - Poslat Mittymu Whiskey :)
@@ -56,7 +56,7 @@ TODO: Mail copywriter. Mail IPEX. Scrum příprava + Jak se koncentrovat na prá
 
 ### Workshopy
 
-- Cena a rezervace: Cena by měla být zvýrazněná – na začátku nebo na konci. http://www.instantshift.com/2015/10/16/free-html5-css3-pricing-tables/  https://codepen.io/kresogalic/pen/dGzvRV Implementovat to na další dva workhopy.
+- Cena a rezervace: Cena by měla být zvýrazněná – na začátku nebo na konci. Implementovat to na další dva workhopy.
 
 ### 3rd party služby
 

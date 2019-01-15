@@ -83,7 +83,7 @@ Kvůli párovému programování je nutné si **nainstalovat grafické IDE** (id
 [Visual Studio Code](https://code.visualstudio.com/)), protože váš kolega nemusí znát klávesové
 zkratky pro VIM či Emacs.
 
-## Termíny a cena
+## Rezervace termínu
 
 Cenu mých služeb určuje poptávka.
 Mám-li více práce než stíhám, zdražuji.
