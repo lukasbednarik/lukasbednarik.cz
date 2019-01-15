@@ -98,7 +98,7 @@ Je-li práce málo, zlevňuji.
         <hr />
         <div class="price">
             <div class="front">
-                <span class="price">9 000 Kč</span>
+                <span class="price">8 950 Kč</span>
             </div>
             <div class="back">
                 <a href="/#kontakt" class="button">Rezervovat</a>
@@ -113,7 +113,7 @@ Je-li práce málo, zlevňuji.
         <hr />
         <div class="price">
             <div class="front">
-                <span class="price">13 000 Kč</span>
+                <span class="price">12 950 Kč</span>
             </div>
             <div class="back">
                 <a href="/#kontakt" class="button">Rezervovat</a>
