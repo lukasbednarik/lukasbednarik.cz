@@ -25,13 +25,13 @@ npm install
 
 ### Top Priority
 
-TODO: Mail copywriter. Mail IPEX. Scrum příprava + Jak se koncentrovat na práci i přes vyrušování.
+TODO: Mail copywriter. Scrum příprava + Jak se koncentrovat na práci i přes vyrušování.
 
 - ! Sticky memu (zelené pozadí. použít stejný design jako mobile menu, ale uzší pruh a uvnitř třídy "container", takže je vše na středu.)
 - Místo Workshopy popsat 3 produkty: tech agilita, workshop na míru (na stránku nějaké nápady jako Mob Programming nebo agilní architektura, facilitace Scrum, facilitace tech. řešení), konzultace. Do kunzultací si uvést hodinovku 900Kč/hod!!!
+- Blog Pagination: Omezení na počet vypsaných článků. (10 článků? Já chtěl 25.)
 
-- ! testimonials (Hanka + další) + enable testimonials. Upravit: index.html, navigation.html
-- Poslat Mittymu Whiskey :)
+- ! testimonials (více jich) + enable testimonials (= upravit: index.html, navigation.html) + odkaz na reference ze stránek workshopů
 - copywriting (index, 3 landing pages "workhopů")
 - návrh a tisk vizitek
 
@@ -44,7 +44,6 @@ TODO: Mail copywriter. Mail IPEX. Scrum příprava + Jak se koncentrovat na prá
 ### Blog
 
 - napsat blog post o nových stránkách
-- Pagination: Omezení na počet vypsaných článků. (10 článků? Já chtěl 25.)
 - excerpt na blogu 3 řádkový text (nebo tenká fotka). Mělo by to být podobně dlouhé.č
 - obrázek u článků po levé straně jako malé čtverečky. Obrázky zobrazit i u článků na indexu.
 - Podobné příspěvky – lépe upoutat pozornost. Třeba zmenšená verze z \blog/
