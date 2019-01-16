@@ -3,7 +3,7 @@
 Inside root directory run:
 
 ```
-npm install
+bundle install
 ./node_modules/gulp/bin/gulp.js
 ```
 
@@ -29,7 +29,6 @@ TODO: Mail copywriter. Scrum příprava + Jak se koncentrovat na práci i přes 
 
 - ! Sticky memu (zelené pozadí. použít stejný design jako mobile menu, ale uzší pruh a uvnitř třídy "container", takže je vše na středu.)
 - Místo Workshopy popsat 3 produkty: tech agilita, workshop na míru (na stránku nějaké nápady jako Mob Programming nebo agilní architektura, facilitace Scrum, facilitace tech. řešení), konzultace. Do kunzultací si uvést hodinovku 900Kč/hod!!!
-- Blog Pagination: Omezení na počet vypsaných článků. (10 článků? Já chtěl 25.)
 
 - ! testimonials (více jich) + enable testimonials (= upravit: index.html, navigation.html) + odkaz na reference ze stránek workshopů
 - copywriting (index, 3 landing pages "workhopů")
@@ -48,6 +47,11 @@ TODO: Mail copywriter. Scrum příprava + Jak se koncentrovat na práci i přes 
 - obrázek u článků po levé straně jako malé čtverečky. Obrázky zobrazit i u článků na indexu.
 - Podobné příspěvky – lépe upoutat pozornost. Třeba zmenšená verze z \blog/
 - Podpora code highlighting
+- pagination
+    - archive tags nejsou paginated. Malá priorita.
+    - Blog pagination - title stránky je "Page 3 of 5 for Blog". Chci to česky.
+    - pagination neni responzive jako to na starem blogu. Chci to udělat podobně.
+    - Větší margin-top pro pagination.
 
 ### Footer
 

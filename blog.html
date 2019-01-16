@@ -2,9 +2,11 @@
 layout: article
 tagline: Lukáš Bednařík
 title: Blog
+pagination:
+  enabled: true
 ---
 
-{% for post in site.posts %}
+{% for post in paginator.posts %}
 
 <!-- Blog Article -->
 <article class="blog-article clearfix">
@@ -25,3 +27,5 @@ title: Blog
 </article>
 
 {% endfor %}
+
+{% include pagination.html %}

@@ -503,5 +503,30 @@ section.blog-section {
         }
       }
     }
+
+    // Pagination
+    .pagination {
+      text-align: center;
+      clear: both;
+      padding: 1em 0;
+      border-top: 1px solid $light-gray;
+
+      .pagination-item {
+        display: inline-block;
+        padding: 0.2rem 1rem;
+      }
+
+      .pagination-item:hover {
+        background-color: $primary;
+        border-color: $primary;
+        color: white;
+      }
+
+      .pagination-item.active {
+        background-color: $primary;
+        border-color: $primary;
+        color: white;
+      }
+    }
   }
 }

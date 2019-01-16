@@ -27,10 +27,16 @@ collections:
     permalink: /:collection/:name/
 
 plugins:
+  - jekyll-paginate-v2
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Jekyll-seo-tag
+# Plugin configs
+pagination:
+  enabled: true
+  per_page: 10
+  title: ':title - strana :num'
+
 twitter:
   username: lukasbednarikcz
   card: summary
