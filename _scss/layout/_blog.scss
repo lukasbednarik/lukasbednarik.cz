@@ -516,13 +516,7 @@ section.blog-section {
         padding: 0.2rem 1rem;
       }
 
-      .pagination-item:hover {
-        background-color: $primary;
-        border-color: $primary;
-        color: white;
-      }
-
-      .pagination-item.active {
+      .pagination-item.clickable:hover, .pagination-item.active {
         background-color: $primary;
         border-color: $primary;
         color: white;
