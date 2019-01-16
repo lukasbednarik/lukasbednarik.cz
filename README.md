@@ -25,13 +25,10 @@ bundle install
 
 ### Top Priority
 
-TODO: Mail copywriter. Scrum příprava + Jak se koncentrovat na práci i přes vyrušování.
-
 - ! Sticky memu (zelené pozadí. použít stejný design jako mobile menu, ale uzší pruh a uvnitř třídy "container", takže je vše na středu.)
+- testimonials (více jich) + enable testimonials (= upravit: index.html, navigation.html) + odkaz na reference ze stránek workshopů
 - Místo Workshopy popsat 3 produkty: tech agilita, workshop na míru (na stránku nějaké nápady jako Mob Programming nebo agilní architektura, facilitace Scrum, facilitace tech. řešení), konzultace. Do kunzultací si uvést hodinovku 900Kč/hod!!!
-
-- ! testimonials (více jich) + enable testimonials (= upravit: index.html, navigation.html) + odkaz na reference ze stránek workshopů
-- copywriting (index, 3 landing pages "workhopů")
+- copywriting (index, 3 landing pages "workhopů", Agilní kalendář)
 - návrh a tisk vizitek
 
 ### Index page
@@ -42,7 +39,6 @@ TODO: Mail copywriter. Scrum příprava + Jak se koncentrovat na práci i přes 
 
 ### Blog
 
-- napsat blog post o nových stránkách
 - excerpt na blogu 3 řádkový text (nebo tenká fotka). Mělo by to být podobně dlouhé.č
 - obrázek u článků po levé straně jako malé čtverečky. Obrázky zobrazit i u článků na indexu.
 - Podobné příspěvky – lépe upoutat pozornost. Třeba zmenšená verze z \blog/
