@@ -26,7 +26,6 @@ bundle install
 ### Top Priority
 
 - ! Sticky memu (zelené pozadí. použít stejný design jako mobile menu, ale uzší pruh a uvnitř třídy "container", takže je vše na středu.)
-- testimonials (více jich) + enable testimonials (= upravit: index.html, navigation.html) + odkaz na reference ze stránek workshopů
 - Místo Workshopy popsat 3 produkty: tech agilita, workshop na míru (na stránku nějaké nápady jako Mob Programming nebo agilní architektura, facilitace Scrum, facilitace tech. řešení), konzultace. Do kunzultací si uvést hodinovku 900Kč/hod!!!
 - copywriting (index, 3 landing pages "workhopů", Agilní kalendář)
 - návrh a tisk vizitek
@@ -55,6 +54,7 @@ bundle install
 ### Workshopy
 
 - Cena a rezervace: Cena by měla být zvýrazněná – na začátku nebo na konci. Implementovat to na další dva workhopy.
+- Na stránky workhopů přidat odkaz na reference, jakmile referencí bude víc.
 
 ### 3rd party služby
 

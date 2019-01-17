@@ -89,7 +89,7 @@
         paginationSpeed : 400,
         singleItem: true,
         //navigationText:["< zpět","další >"],
-        autoPlay: 5000
+        autoPlay: 10000
     });
 
     /**

@@ -122,4 +122,8 @@ Je-li práce málo, zlevňuji.
     </div>
 </div>
 
+{% comment %}
+...a zde si můžete [prohlédnout reference](/#doporuceni).
+{% endcomment %}
+
 {% include workshop-list.html %}
