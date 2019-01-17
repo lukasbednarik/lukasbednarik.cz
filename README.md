@@ -42,7 +42,6 @@ bundle install
 - excerpt na blogu 3 řádkový text (nebo tenká fotka). Mělo by to být podobně dlouhé.č
 - obrázek u článků po levé straně jako malé čtverečky. Obrázky zobrazit i u článků na indexu.
 - Podobné příspěvky – lépe upoutat pozornost. Třeba zmenšená verze z \blog/
-- Podpora code highlighting
 - pagination
     - archive tags nejsou paginated. Malá priorita.
     - Blog pagination - title stránky je "Page 3 of 5 for Blog". Chci to česky.

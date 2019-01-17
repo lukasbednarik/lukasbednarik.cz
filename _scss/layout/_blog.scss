@@ -274,7 +274,6 @@ section.blog-section {
         }
         code {
           padding: .25em .5em;
-          font-size: 85%;
           color: #bf616a;
           background-color: #f9f9f9;
           border-radius: 3px;
@@ -303,6 +302,8 @@ section.blog-section {
         .highlight {
           margin-bottom: 1rem;
           border-radius: 4px;
+          color: $normal-gray;
+          font-size: 1em;
         }
         .highlight pre {
           margin-bottom: 0;
