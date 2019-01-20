@@ -32,7 +32,6 @@ bundle install
 
 ### Index page
 
-- Blog: Nadpisy jsou různě dlouhé a skáče to tam. Nastavit pevou výšku nebo nadpisy stejně dlouhé. Tlačítka by také nemusela skákat.
 - s čím pomáhám - na notebooku by mohla běhat nějaká skrytá zpráva nebo 01001….
 - světlá zelená na index button. Nadpis je nečitelný. Hodně tmavá modrá (global color) na překrytí tlačítka (background) by byla lepší. Tatáž změna tlačítek pro blog. Tatáž něma pro "detaily" u pásku "Workshop tech. agil v novém kabátku".
 

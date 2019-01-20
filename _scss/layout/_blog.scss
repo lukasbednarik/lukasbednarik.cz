@@ -482,7 +482,7 @@ section.blog-section {
                   transition: all .2s ease-in-out;
                 }
                 a.button:hover {
-                  background-color: lighten($color: $primary, $amount: 20%)
+                  background-color: lighten($primary, 20%);
                 }
               }
             }
@@ -522,6 +522,16 @@ section.blog-section {
         border-color: $primary;
         color: white;
       }
+    }
+  }
+}
+
+// Index page
+// Align all article excerpt in row.
+#blog {
+  header.article-header {
+    @media (min-width: 992px) {
+      min-height: 161px;
     }
   }
 }
