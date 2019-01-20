@@ -48,9 +48,7 @@ social:
     - https://github.com/lukasbednarik
 
 #######################################################
-#######################################################
 ###############   HEADER INFORMATIONS   ###############
-#######################################################
 #######################################################
 
 lang: cs-CZ
@@ -91,55 +89,55 @@ about-title: Lukáš Bednařík
 about-description: Jsem technický Agilní kouč. Pomáhám týmům vyvíjet software rychleji a kvalitněji. Zajímám se o technologie, praktiky a metodiky vývoje softwaru. <a href="/o-mne/">Co se letos povedlo?</a>
 
 #####################################
-#############  Workshopy  ###########
+#############  Služby  ##############
 #####################################
-features-title: Workshopy
-features-description: Mým cílem není prodat, ale podporovat. V prvním kroku se snažím zjistit požadavky na workshop od účastníků i zadavatele. Co je zajímá? Co si od workshopu slibují? Co by rádi i neradi? Následuje příprava workshopu na míru. Nesnažím se jen předat znalosti, ale naučit účastníky tomu, co jim pomůže v praxi.
+features-title: Služby
+features-description: Pro zadavatele připravuji workshopy nebo krátké konzultace. Mým cílem není prodat, ale podporovat. Nesnažím se jen předat znalosti, ale naučit účastníky tomu, co jim pomůže v praxi.
 features:
-- title: Mob Programming
-  description: Mob programming, jeden z trendů posledních let, podpoří týmového ducha, sdílení znalostí a kvalitu kódu. Nikdo se na žádném problému nezasekne, code review se dělá průběžně, zrychlí se tok informací a nevzniká legacy code.
-  icon: pe-7s-users
-  link: Více...
-  link-url: /workshop-mob-programming/
 - title: Technická Agilita
-  description: Váš kód se na vás už nebude lepit jako smola. Workshop je cesta k technické excelenci, k prohloubení týmové spolupráce a k produktivitě. Dle přání můžeme obsah workhopu zaměřit více na DevOps, TDD, design best practices, refactoring, continuous integration nebo continuous release.
+  description: To nejlepší z technické praxe. Cesta k větší produktivitě a spolupráci. Zkusíme si TDD a párové programování, řekneme si, jak psát dobré testy a dotkneme se současných trendů.
   icon: pe-7s-study
-  link: Více...
+  link: Chci to umět!
   link-url: /workshop-technicka-agilita/
-- title: Agilní Architektura
-  description: Jakmile jednou vytvoříme architekturu softwarového projektu, jak zabráníme tomu, aby v průběhu času degradovala? Je možné navrhnout architekturu, která je na změnu připravena?
-  icon: pe-7s-keypad
-  link: Více...
-  link-url: /workshop-agilni-architektura/
+- title: Workshop na míru
+  description: Přednášel jsem a vedl workshopy na různá témata. Pojďme společně vybrat obsah, který je pro vaši situaci relevantní.
+  icon: pe-7s-plugin
+  link: Jaká mohou být témata workshopů a kolik to stojí?
+  link-url: /workshop-na-miru/
+- title: Konzultace
+  description: Workshop je pro vás příliš obezný a chcete se bavit o konkrétních problémech ve vašem kódu nebo vašem týmu?
+  icon: pe-7s-users
+  link: Pojďme se sejít!
+  link-url: /konzultace/
 
 #####################################
 ##########  S čím pomáhám  ##########
 #####################################
-core-title: S čím pomáhám
-core-description: Pro zadavatele obvykle připravuji workshopy nebo krátké konzultace. Vyjdu vám vstříc, ale nejsem mistrem všeho.
+core-title: Co umím?
+core-description: Cílem technického kouče je sladit používanou technologii s byznysem. Umím dát feedback na technickou stránku vývoje a současně pomoci i s procesem.
 core-features-left:
-- name: Programovací jazyky
-  description: Pomohu vám v C++17, C#, Node.Js i v Javě.
-  icon: pe-7s-mouse
-- name: Technické best practices
-  description: Zavedeme spolu unit-testování a další dobré praktiky.
-  icon: pe-7s-light
 - name: Metodiky
   description: Poradím s metodikami jako je Scrum, Kanban nebo XP.
   icon: pe-7s-target
+- name: Technické best practices
+  description: Zavedeme spolu unit-testování a další dobré praktiky.
+  icon: pe-7s-light
 - name: Starý kód, nové triky
   description: Zrychlíme úpravy v legacy kódu. Ale připravte se, že se zapotíme.
   icon: pe-7s-graph1
+- name: Programovací jazyky
+  description: Pomohu vám v C++17, C#, Node.Js i v Javě.
+  icon: pe-7s-mouse
 core-features-right:
+- name: Neumím zázraky
+  description: Některé věci chtějí čas. Za den zvyky týmu nezměníme.
+  icon: pe-7s-magic-wand
 - name: Nenapíši za vás kód
   description: Pomohu s designem. Napsat aplikaci ale musíte sami.
   icon: pe-7s-monitor
 - name: Neškáluji metodiky
   description: Neškáluji Scrum nebo Kanban v enterprise prostředí.
   icon: pe-7s-loop
-- name: Neumím zázraky
-  description: Některé věci chtějí čas. Za den zvyky týmu nezměníme.
-  icon: pe-7s-magic-wand
 - name: Přijedu kamkoliv
   description: Rád za vámi přijedu do jakéhokoliv města v ČR. Jsem z Brna.
   icon: pe-7s-map-2

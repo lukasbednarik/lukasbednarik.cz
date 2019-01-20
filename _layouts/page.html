@@ -12,7 +12,7 @@ layout: article
           {%- if page.parent -%}
             {%- assign letter = page.parent | slice: 0 -%}
             {%- if '#' == letter -%}
-              <a href="/{{ page.parent }}">{{ page.parent | slice: 1,page.parent.size }}</a>
+              <a href="/#{{ page.parent | slugify: 'latin' }}">{{ page.parent | slice: 1,page.parent.size }}</a>
             {%- else -%}
               {%- for parent in site.pages -%}
                 {%- if parent.url == page.parent -%}

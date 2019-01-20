@@ -111,8 +111,18 @@
     /**
      *  Zobrazeni osnovy workshopu
      **/
-    $( "#show-more" ).click(function() {
-      $( "#show-more-content" ).slideToggle( "slow", function() {
+    $( "#show-more-1" ).click(function() {
+      $( "#show-more-content-1" ).slideToggle( "slow", function() {
+        // Animation complete.
+      });
+    });
+    $( "#show-more-2" ).click(function() {
+      $( "#show-more-content-2" ).slideToggle( "slow", function() {
+        // Animation complete.
+      });
+    });
+    $( "#show-more-3" ).click(function() {
+      $( "#show-more-content-3" ).slideToggle( "slow", function() {
         // Animation complete.
       });
     });

@@ -150,7 +150,7 @@ hr {
 }
 
 // Links
-a, #show-more {
+a, #show-more-1, #show-more-2, #show-more-3 {
   color: $primary;
   text-decoration: none;
   transition: all $transition-links $transition-links-type;
@@ -161,11 +161,11 @@ a, #show-more {
   }
 }
 
-#show-more {
+#show-more-1, #show-more-2, #show-more-3 {
   cursor: pointer;
 }
 
-#show-more::before {
+#show-more-1::before, #show-more-2::before, #show-more-3::before {
   content: '▼';
   margin-right: 6px;
 }
@@ -256,7 +256,7 @@ blockquote {
   }
 }
 
-#show-more-content {
+#show-more-content-1, #show-more-content-2, #show-more-content-3 {
   display: none;
   margin-bottom: 1.5em;
 }

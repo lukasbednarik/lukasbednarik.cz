@@ -1,10 +1,10 @@
 ---
 layout: page
 title: 'Workshop Technická Agilita'
-tagline: 'Workshopy'
+tagline: 'Služby'
 permalink: /workshop-technicka-agilita/
 header-img: 'workshop-photo.jpg'
-parent: '#workshopy'
+parent: '#služby'
 ---
 
 ## O co jde?
@@ -38,9 +38,9 @@ signatář [software craftmanship manifesta](http://manifesto.softwarecraftsmans
 Osnova je pouze orientační.
 Konečný obsah kurzu vždy přizpůsobuji konkrétním potřebám zákazníka.
 
-<div id="show-more">Zobrazit/skrýt celou osnovu</div>
+<div id="show-more-1">Zobrazit/skrýt celou osnovu</div>
 
-{: #show-more-content}
+{: #show-more-content-1}
 1. Historie Extrémního Programování
 1. Praktiky jako puzzle
    - Párové programování
@@ -84,10 +84,6 @@ Kvůli párovému programování je nutné si **nainstalovat grafické IDE** (id
 zkratky pro VIM či Emacs.
 
 ## Rezervace termínu
-
-Cenu mých služeb určuje poptávka.
-Mám-li více práce než stíhám, zdražuji.
-Je-li práce málo, zlevňuji.
 
 <div class="pricing-table">
     <div class="pricing-option">
