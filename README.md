@@ -32,8 +32,7 @@ bundle install
 
 ### Index page
 
-- s čím pomáhám - na notebooku by mohla běhat nějaká skrytá zpráva nebo 01001….
-- světlá zelená na index button. Nadpis je nečitelný. Hodně tmavá modrá (global color) na překrytí tlačítka (background) by byla lepší. Tatáž změna tlačítek pro blog. Tatáž něma pro "detaily" u pásku "Workshop tech. agil v novém kabátku".
+- s čím pomáhám - na notebooku by mohla běhat nějaká skrytá zpráva nebo 01001.
 
 ### Blog
 
