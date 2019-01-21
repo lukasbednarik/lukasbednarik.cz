@@ -94,6 +94,6 @@ Můžeme se domluvit na jakékoliv téma z oblasti agilních metodik nebo techni
 
 ## Cena
 
-Cena stanovuji až dle obsahu workshopu (obvykle 5 000Kč až 15 000Kč / den). [Napište mi!](/#kontakt)
+Cena stanovuji až dle obsahu workshopu (obvykle 5 000Kč až 15 000Kč za lektorský den). [Napište mi!](/#kontakt)
 
 {% include workshop-list.html %}

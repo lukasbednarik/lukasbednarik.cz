@@ -118,6 +118,8 @@ zkratky pro VIM či Emacs.
     </div>
 </div>
 
+Cena je uvedena za lektorský den (cca 6 hodin) pro celý tým dohromady.
+
 {% comment %}
 ...a zde si můžete [prohlédnout reference](/#doporuceni).
 {% endcomment %}
