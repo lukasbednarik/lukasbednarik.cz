@@ -32,6 +32,7 @@ bundle install
 ### Index page
 
 - s čím pomáhám - na notebooku by mohla běhat nějaká skrytá zpráva nebo 01001.
+- Kontakt sloupce bychom v mobilním rozlišením měli přehodit. Kontaktní formulář by měl být až po kontaktních informacích.
 
 ### Blog
 
