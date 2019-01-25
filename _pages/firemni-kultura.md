@@ -53,12 +53,12 @@ Za druhé, každý SM odešel z jiného důvodu (stěhování, vyhoření, 2 byl
 tedy mezi těmito odchody není přímá souvislost. Než budete číst dále, zastavte se a nad situací se zamyslete jako
 konzultant, který právě v této chvíli přišel do firmy a má začít situaci nějak řešit. Co by jste udělali?
 
-Co se vlastně stalo? Proč se firmě nedaří udržet SM na plný úvazek, zatímco SM s půlenou rolí zůstavají?
-Věřili byste vysvětlení managementu, že půlení SM zůstávají, protože jsou to veterání ve firmě a vždy zůstali?
+Co se vlastně stalo? Proč se firmě nedaří udržet SM na plný úvazek, zatímco SM s půlenou rolí zůstávají?
+Věřili byste vysvětlení managementu, že půlení SM zůstávají, protože jsou to veteráni ve firmě a vždy zůstali?
 
 Můj názor je, že za všechno může kultura společnosti. Myšlení lidí ve společnosti X s.r.o. nikdy neopustilo
 systém tým lídrů. Vedení společnosti očekávalo od SM přímý vliv na produkt a vývojáři očekávali technickou
-zdatnost tým lídra. Půlené role skrytě fungovaly v tomto režimu. Full time SM se naopak pokusili situaci zvrátit
+zdatnost tým lídra. Půlené role skrytě fungovaly v tomto režimu. Full-time SM se naopak pokusili situaci zvrátit
 a tvrdě narazili na všech frontách. Nepodpora vedení vedla zaměstnance k odchodům, ačkoliv při přímých diskuzích
 s vedením uváděli jiné důvody. Pokud se člověk jednou rozhodne změnit práci, většinou za tím stojí komplikovaný
 systém důvodů, ne jen jedna jednoduchá věc.
@@ -110,7 +110,7 @@ Expert na firemní kulturu a leadership Edgar H. Schein definuje kulturu skupiny
 Tyto předpoklady se v praxi tak osvědčily, že je skupina začala předávat svým novým členům jako správný způsob vnímání,
 cítění a myšlení.” (Kniha Organizational Culture and Leadership, 2010)
 
-Schein dodává: “Klíčem k pochopení odporu vůči změnám je uvědomnění, že chování, které vnímáme jako hloupé či dysfunkční,
+Schein dodává: “Klíčem k pochopení odporu vůči změnám je uvědomění, že chování, které vnímáme jako hloupé či dysfunkční,
 může mít jiné pozitivní funkce.”
 
 ### Otevřená typologie firemních kultur

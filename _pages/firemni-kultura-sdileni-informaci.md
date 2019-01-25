@@ -6,7 +6,7 @@ parent: /firemni-kultura/
 ---
 
 Člověk ze své podstaty potřebuje vědět, co se děje. Pátá příčka Maslowy pyramidy potřeb jsou kognitivní
-potřeby: potřeba vědět, rozumnět a zkoumat.
+potřeby: potřeba vědět, rozumět a zkoumat.
 
 ## Obsah
 
@@ -23,7 +23,7 @@ potřeby: potřeba vědět, rozumnět a zkoumat.
 Informovanost může zaměstnance více zapojit do fungování firmy, zvýšit jejich produktivitu,
 efektivitu, zlepšit rozhodování a pozitivně motivovat. Mnozí lidé jsou na druhou stranu přesvědčeni,
 že negativní informace (například: "firma je ve ztrátě") mohou demotivovat a způsobovat odchod lidí.
-Přístup organizace k šiření nebo nešíření určitých informací spoluurčuje její kulturu.
+Přístup organizace k šířeni nebo nešíření určitých informací spoluurčuje její kulturu.
 
 Psycholožka Shelly Gable vytvořila framework dělící lidi dle toho, jak reagují na pozitivní zprávy.
 Reakce může být v jedné ose konstruktivní nebo destruktivní, ve druhé ose aktivní nebo pasivní.
@@ -49,7 +49,7 @@ jinou formou nebo pomoci jiných čísel, takže v závěru nevypadají tak nega
 Ve firmě se směrem od vedení šíří jen velmi malé množství informací. Ve většině případů management mlčí.
 Protože lidi většinou přitahují negativní informace (na tomto faktu je založeno celé TV zpravodajství),
 sdílejí mezi sebou na chodbách a v kuchyňkách převážně "drby" a negativní postoje.
-Toto chování můte vést ke špatné atmosféře ve firmě.
+Toto chování může vést ke špatné atmosféře ve firmě.
 
 ![Informační vakuum](/images/blog/informacni-vakuum.png)
 

@@ -5,7 +5,7 @@ tags: metodiky agile
 ---
 
 Jedním ze základních požadavků na Agilního kouče by měla být znalost více metodik
-vývoje software. Vždyť ani Scrum není process nebo technika, je to framework.
+vývoje software. Vždyť ani Scrum není proces nebo technika, je to framework.
 
 <!--more-->
 

@@ -22,7 +22,7 @@ Můžete sami vidět, co se stane.
 
 ## Férová odměna
 
-V tomto videu mají dvě opičky za úkol vrátit z klece kámen. Za vrácení kamene dostanou odměnu. Jedna opička dosane okurek,
+V tomto videu mají dvě opičky za úkol vrátit z klece kámen. Za vrácení kamene dostanou odměnu. Jedna opička dostane okurek,
 druhá hrozen. Odměňování není férové a opička, která dostává okurhy, si něco takového nenechá líbit...
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QijfsvQO-54" frameborder="0" allowfullscreen></iframe>

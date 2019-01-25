@@ -13,7 +13,7 @@ sami sebe jste schopni posunout na vyšší úroveň vždycky.
 
 ## Jak jsem neudělal podcast
 
-Na obrouvskou sílu metody nahrávání jsem přišel náhodou. Chtěl jsem vytvořit 3 minutový podcast
+Na obrovskou sílu metody nahrávání jsem přišel náhodou. Chtěl jsem vytvořit 3 minutový podcast
 vysvětlující principy [Mob programmingu](/mob-programming-dejte-mu-sanci/).
 
 Koupil jsem si
@@ -44,4 +44,4 @@ rychlým tempem a bohatou intonací.
 Osobní zjištění je silnější, než kdyby mi to někdo řekl. Přišel jsem si na to sám, takže vím,
 že je to pravda.
 
-Vaše zjistění bude jiné. Zkuste to!
+Vaše zjištění bude jiné. Zkuste to!

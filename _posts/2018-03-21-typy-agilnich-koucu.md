@@ -58,13 +58,13 @@ rozvoj organizace, systémové myšlení a společenské vědy.
 
 ## Chcete specializované kouče
 
-Jedním z mých velkých *Aha!* momentů bylo uvědomnění,
+Jedním z mých velkých *Aha!* momentů bylo uvědomění,
 že kouč by se měl specializovat. Žádný člověk nemůže ovládat technické znalosti,
 držet krok s obchodními trendy a zároveň umět přetransformovat celou organizaci odshora až dolů.
 Mně jsou technické znalosti nejbližší, proto se rozepíšu o nich.
 
-Na sociálních sítích i některých blozích se až příliš často setkáte s názorem, že Agilní kouč
-by měl ovládat všechny oblasti agilního vývoje. Pokud jde o vývojářeské praktiky,
+Na sociálních sítích i některých blocích se až příliš často setkáte s názorem, že Agilní kouč
+by měl ovládat všechny oblasti agilního vývoje. Pokud jde o vývojářské praktiky,
 obvykle se zmiňuje TDD a že stačí, pokud o takové praktice kouč ví a nasměruje tým
 správným směrem.
 

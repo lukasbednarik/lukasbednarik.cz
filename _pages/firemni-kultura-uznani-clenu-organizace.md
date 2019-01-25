@@ -44,7 +44,7 @@ Problém s oceněním absolutního výkonu je, že žádné "absolutní měřít
 Hodnotící člověk je tak ponechán svému osobnímu měřítku, které je většinou pro
 hodnocenou osobu lichotivé. Tento typ hodnocení ve velmi čisté formě můžeme najít
 například u výzkumníků,
-kteří jsou velmi specializovaní a nelze je jednoše srovnávat s ostatními zaměstnanci.
+kteří jsou velmi specializovaní a nelze je jednoduše srovnávat s ostatními zaměstnanci.
 
 ## Výkon týmu
 

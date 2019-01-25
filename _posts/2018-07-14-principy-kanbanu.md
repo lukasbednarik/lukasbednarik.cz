@@ -9,7 +9,7 @@ Dnes si tyto principy popíšeme poctivěji.
 
 <!--more-->
 
-Pět principů kanbanu:
+Pět principů Kanbanu:
 
 - vizualizujte,
 - omezte rozdělanou práci,
@@ -20,9 +20,9 @@ Pět principů kanbanu:
 ## Vizualizujte
 
 Kanban neříká, co a jak vizualizovat. Začněte tam, kde jste teď:
-snažte se porozumnět současnému procesu tak, jak se opravdu děje v praxi.
+snažte se porozumět současnému procesu tak, jak se opravdu děje v praxi.
 
-Kanban respektuje všechny role, tituly i rozdpovědnosti lidí ve firmě.
+Kanban respektuje všechny role, tituly i odpovědnosti lidí ve firmě.
 Nejdříve porozumějte současnému procesu. Kolik úkolů je průměrně v jednotlivých stavech?
 Jak dlouho a kde úkol čeká? Kde je úzké hrdlo? Můžeme nějak rozšířit vizualizaci, abychom
 získali ještě více informací? Co blokuje některé úkoly?
@@ -88,4 +88,4 @@ Kadence jsou pravidelné meetingy, které pomáhají dělat postupné změny a z
 Druhý význam slova "kadence" je časová perioda těchto meetingů, tj. jak často se daný meeting opakuje.
 
 Ideální perioda meetingů vždy závisí na kontextu. Příliš časté meetingy a
-mrháve časem zaměstnanců, málo časté meetingy a změna nereflektuje aktuální potřeby nebo je příliš pomalá.
+mrháme časem zaměstnanců, málo časté meetingy a změna nereflektuje aktuální potřeby nebo je příliš pomalá.

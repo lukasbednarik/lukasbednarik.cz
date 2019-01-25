@@ -93,7 +93,7 @@ Mezi překážky párového programování patří:
 Vývojář *A* napíše test, který selže. Vývojář *B* implementuje feature tak,
 že test projde, a napíše nový test, který selže. Vývojář *A* implementuje...
 
-Refactoring se provádí kdykoli je potřeba a dělá jej ten, kdo je právě u klávesnice.
+Refaktoring se provádí kdykoli je potřeba a dělá jej ten, kdo je právě u klávesnice.
 
 ### Klávesnice a myš
 

@@ -68,8 +68,6 @@ stackoverflow: 'https://stackoverflow.com/users/4734434/luk%C3%A1%C5%A1-bedna%C5
 #########################
 ######   Widgets   ######
 #########################
-
-# About Blog Author Widget
 about-widget:
   author-avatar: lukas-bednarik.jpg
   author-name: Lukáš Bednařík
@@ -159,7 +157,7 @@ testimonials:
   url: https://www.avast.com
   url-text: Scrum Master, Avast
   avatar: hana-jadavan.jpg
-  cite: 'Lukáš dokázal vše velmi srozumitelně, trpělivě vysvětlit a celý workshop měl příjemnou dynamiku... Po skončení workshopu jsme nejenom dokázali prakticky použít všechny nově nabyté znalosti, ale tým se cítil motivovaný v tomto způsobu práce i nadále pokračovat.'
+  cite: 'Lukáš dokázal vše velmi srozumitelně, trpělivě vysvětlit a celý workshop měl příjemnou dynamiku... Po skončení workshopu jsme nejen dokázali prakticky použít všechny nově nabyté znalosti, ale tým se cítil motivovaný v tomto způsobu práce i nadále pokračovat.'
   logo-img: avast-logo.png
 
 #####################################

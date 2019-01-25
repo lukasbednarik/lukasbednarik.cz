@@ -13,7 +13,7 @@ Všechny pohovory měly jedno společné - jistou dávku nesmyslnosti.
 
 V jedné firmě jsem musel odhadovat, kolik vagónů má pražské metro,
 a vysvětlovat, jak bych přeléval vodu mezi 3 litrovou a 5 litrovou nádobou
-tak, abych získal 4 litry vody. Se sebezapřením jsem zachoval poker face
+tak, abych získal 4 litry vody. Se sebezapřením jsem zachoval kamennou tvář
 a s paní z HR se bavil slušně. Opravdu jsem studovat teoretickou fyziku, tj.
 pět semestrů teorie relativity, dva semestry kvantové teorie pole a nespočet
 semestrů matematické analýzy na Univerzitě Karlově jenom proto, abych pak ještě musel nějaké paní

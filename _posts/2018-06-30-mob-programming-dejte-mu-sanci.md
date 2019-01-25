@@ -63,9 +63,9 @@ Tak například:
 
 - nejsou potřeba žádné meetingy (kromě 5 minutové denní retrospektivy a plánování),
 - není potřeba code review (dělá se v reálném čase),
-- tým se narozdíl od jednotlivce nikdy nezasekne na nějakém těžkém problému,
+- tým se na rozdíl od jednotlivce nikdy nezasekne na nějakém těžkém problému,
 - odpadají případy, kdy se někdo dostane do slepé uličky a musí kód předělávat,
-- výsledný kód má extrémně nízký počet budů (lidé nejčastěji říkají, že nula),
+- výsledný kód má extrémně nízký počet bugů (lidé nejčastěji říkají, že nula),
 - lidé se u programování střídají v různých rolích, jsou odpočatější, což velmi zvyšuje produktivitu,
 - kód je přehlednější a udržovanější, což se vyplatí z dlouhodobého hlediska,
 - celý tým se učí a zlepšuje,
@@ -78,5 +78,5 @@ otázkou "jak může programování, ve kterém každý pracuje na svém úkolu 
 
 Autor mobování, Woody Zuill, nedoporučuje tuto praktiku každému. Woody společně s týmem hledal způsob,
 jak by lidé v týmu mohli pracovat společně efektivněji. Výsledkem je Mob Programming. Rozhodně jej zkuste,
-avčak mějte na paměti, že vaše cesta k efektivnější spolupráci může vypadat úplně jinak.
+avšak mějte na paměti, že vaše cesta k efektivnější spolupráci může vypadat úplně jinak.
 

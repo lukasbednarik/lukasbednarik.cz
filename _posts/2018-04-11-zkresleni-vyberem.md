@@ -14,19 +14,19 @@ O co se konkrétně jedná?
 
 ## Kupujeme rajčata
 
-Zkreslení výběrem bych nejnározněj vysvětlil na příkladu kupování rajčat.
+Zkreslení výběrem bych nejnározněji vysvětlil na příkladu kupování rajčat.
 Představte si, že se zastavíte v obchodě, prohlédnete si jedno, dvě, tři rajčata,
 a pokud se vám líbí, vezmete si kilo. Gratuluji, právě jste provedli něco, čemu se říká
 *statistical inference*. Z vlastností malého vzorku rajčat jste odvodili kvalitu všech rajčat
 u obchodníka. Obchodník vám z nich náhodně vybere kilo.
 Všechno funguje dobře jen do té doby, dokud je výběr rajčat čistě náhodný.
 
-Vybral-li vám rajčata obchodník, mohlo se stát, že vám záměrmě ukázal tři nejlepší kusy.
+Vybral-li vám rajčata obchodník, mohlo se stát, že vám záměrně ukázal tři nejlepší kusy.
 Mylně se pak může zdát, že všechna rajčata jsou krásná. A to je právě zkreslení výběrem.
 
 ## Zkreslené informace tým lídra
 
-Není-li k nějaké manažerské roli ze strany podřízenýc naprostá důvěra, je téměř jisté,
+Není-li k nějaké manažerské roli ze strany podřízených naprostá důvěra, je téměř jisté,
 že se k této roli dostanou jen určité, filtrované, informace.
 Ve chvílích, kdy se na první pohled může zdát, že tým exceluje, mohou lidé ve skutečnosti
 zažívat své nejhlubší krize.
@@ -56,7 +56,7 @@ D. H. Root a L. J. Drew vysvětlují, že velká ložiska jsou objevena první, 
 
 Při testování softwarového produktu se můžeme setkat se stejnou křivkou jako na obrázku výše.
 Na ose *x* je doba testování, na ose *y* počet objevených bugů.
-Během prvního dne je objeveno nejvýce chyb a množství nově objevených chyb další dny klesá.
+Během prvního dne je objeveno nejvíce chyb a množství nově objevených chyb další dny klesá.
 Stejným způsobem, jakým bychom odhadovali množství neobjevené ropy, můžeme analogicky v některých případech
 odhadnout množství bugů, které zatím unikly objevení v testech a budou nalezeny až u zákazníka.
 

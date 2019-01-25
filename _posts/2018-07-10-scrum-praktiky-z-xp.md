@@ -19,7 +19,7 @@ pomůcku pro to, jak by měla vypadat dobře definovaná user story:
 -  **I**ndependent (nezávislá; stories lze řešit v libovolném pořadí),
 -  **N**egotiable (umožňuje další vyjednávání a specifikaci),
 -  **V**aluable (hodnotná pro zákazníka),
--  **E**stimable (může být estomována),
+-  **E**stimable (může být estimována),
 -  **S**mall (malá),
 -  **T**estable (testovatelná).
 

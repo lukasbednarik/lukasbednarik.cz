@@ -34,4 +34,4 @@ takže se hravě dostanete ke všem zvukovým stopám.
 Z témata softwarového vývoje vyzkoušejte podcasty ThoughtWorks, Software Engineering Radio,
 Software Engineering Daily, Lean-Agile Straight Talk, Ask Developer nebo český Život jako Hra.
 
-A jak číst v autobude? Koukněte na [Blinkist, Feedly, Knihy Play a další tipy](/kdy-cist/).
+A jak číst v autobuse? Koukněte na [Blinkist, Feedly, Knihy Play a další tipy](/kdy-cist/).

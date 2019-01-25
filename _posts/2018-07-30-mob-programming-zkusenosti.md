@@ -22,7 +22,7 @@ Odložte tedy optimalizaci na později.
 
 ### Coding standard
 
-Coding standard je naprosto kritický, chcte-li předejít hádkám o tom, jak pojmenovávat soubory,
+Coding standard je naprosto kritický, chcete-li předejít hádkám o tom, jak pojmenovávat soubory,
 funkce, jak procházet smyčky a které konstrukce přednostně používat.
 Mobování prospívá dodržování coding standardu a velmi brzy bude celý kód vypadat jednotně.
 

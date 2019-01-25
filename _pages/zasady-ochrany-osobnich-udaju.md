@@ -12,7 +12,7 @@ Správcem osobních údajů v souladu s nařízením Evropského Parlamentu a Ra
 
 ## Účel zpracování osobních údajů
 
-Pro plnění smlouvy, pro provedení opatření přijatých před uzavřením smlouvy na žádost, pro splnění právní povinnosti (zejména fakturace a účetnictví), pro vytvoření nabídky v rámci nabízení služeb a dále také pro zasílání Newsletteru na základě uděleného souhlasu subjektu údajů podle č. 6 ostr. 1 písmene a) GDPR. Osobní údaje jsou poskytnuty zcela dobrovolně na základě zdrojů specifikovaných níže.
+Pro plnění smlouvy, pro provedení opatření přijatých před uzavřením smlouvy na žádost, pro splnění právní povinnosti (zejména fakturace a účetnictví), pro vytvoření nabídky v rámci nabízení služeb a dále také pro zasílání newsletterů na základě uděleného souhlasu subjektu údajů podle č. 6 odst. 1 písmene a) GDPR. Osobní údaje jsou poskytnuty zcela dobrovolně na základě zdrojů specifikovaných níže.
 
 V souvislosti se zpracováním osobních údajů máte následující práva:
 
@@ -37,9 +37,9 @@ Odesláním poptávkového formuláře souhlasíte s tím, že vás Správce mů
 - E-mailová adresa
 - Informace o projektu
 
-### Formulář přihlášení k odběru newletterů
+### Formulář přihlášení k odběru newsletterů
 
-Odesláním formuláře přihlášení k odběru newletterů souhlasíte s tím, že vás Správce může kontaktovat, informovat o svých službách a kontaktovat pro vytvoření nabídky služeb. Tento souhlas odesláním formuláře udělujete na období 4 let ode dne odeslání formuláře. Ve formuláři zpracovává Správce všechny, nebo část z následujících osobních údajů:
+Odesláním formuláře přihlášení k odběru newsletterů souhlasíte s tím, že vás Správce může kontaktovat, informovat o svých službách a kontaktovat pro vytvoření nabídky služeb. Tento souhlas odesláním formuláře udělujete na období 4 let ode dne odeslání formuláře. Ve formuláři zpracovává Správce všechny, nebo část z následujících osobních údajů:
 
 - Jméno a příjmení
 - E-mailová adresa
@@ -57,7 +57,7 @@ Trvalé soubory cookies pomáhají Správci váš počítač identifikovat, jest
 
 ### Využívání souborů cookies
 
-V souladu s ustanovením § 89 odst. 3 zák. č. 127/2005 Sb., o elektronických komunikacích, v účinném znění, si vás tímto Správce dovoluje informovat, že jeho internetové stránky využívají pro svoji činnost soubory cookies, tedy vaše soubory cookies, včetně trvalých, které zpracovává. Tento souhlas je udělen na dobu 10 let. Internetové prohlížeče obvykle obsahují správu souborů cookies. V rámci nastavení vašeho prohlížeče tak můžete jednotlivé soubory cookies ručně mazat, blokovat či zcela zakázat jejich používání. Pro více informací použijte nápovědu vašeho internetového prohlížeče.
+V souladu s ustanovením §89 odst. 3 zák. č. 127/2005 Sb., o elektronických komunikacích, v účinném znění, si vás tímto Správce dovoluje informovat, že jeho internetové stránky využívají pro svoji činnost soubory cookies, tedy vaše soubory cookies, včetně trvalých, které zpracovává. Tento souhlas je udělen na dobu 10 let. Internetové prohlížeče obvykle obsahují správu souborů cookies. V rámci nastavení vašeho prohlížeče tak můžete jednotlivé soubory cookies ručně mazat, blokovat či zcela zakázat jejich používání. Pro více informací použijte nápovědu vašeho internetového prohlížeče.
 
 ### Účel použití souborů cookies
 

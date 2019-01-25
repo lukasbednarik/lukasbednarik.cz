@@ -7,7 +7,7 @@ tags: lean metodiky agile
 Vyvíjíte produkt a netušíte, jak budou zákazníci reagovat.
 Startup znamená stavět produkt v prostředí extrémní nejistoty.
 Strávíte tři měsíce zjišťováním požadavků zákazníka, šest až devět
-mesíců vývojem produktu a pak konečně ukážete své dílo zákazníkovi.
+měsíců vývojem produktu a pak konečně ukážete své dílo zákazníkovi.
 A uspějete...
 
 <!--more-->
@@ -32,7 +32,7 @@ produkt, který jen tak tak uspokojuje potřebu zákazníka. Produkt jsme ukáza
 a "změřili" jeho reakci. Nakonec jsme ze získaných dat vyvodili závěry, které použijeme
 při dalším vývoji produktu.
 
-Možná, cheme-li uvést na trh novou aplikaci, nemusíme celou aplikaci ihned vyvíjet.
+Možná, chceme-li uvést na trh novou aplikaci, nemusíme celou aplikaci ihned vyvíjet.
 Možná stačí jen webové stránky s videem. Nastavíme PPC reklamu a můžeme ihned sledovat,
 kolik lidí by si aplikaci stáhlo. Takto bychom zjistili zájem lidí ještě předtím,
 než jsme napsali první řádku kódu. Možná už tady můžeme použít feedback zákazníků

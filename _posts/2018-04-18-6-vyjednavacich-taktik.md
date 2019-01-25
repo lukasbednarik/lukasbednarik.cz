@@ -12,7 +12,7 @@ jako spíše být schopni je identifikovat a neutralizovat.
 
 <!--more-->
 
-Největší chybou při vyjdednávání je myslet si, že *druhá strana musí prohrát, aby vy jste mohli vyhrát*.
+Největší chybou při vyjednávání je myslet si, že *druhá strana musí prohrát, aby vy jste mohli vyhrát*.
 Když ani jedna strana nemůže vyhrát, z teorie her víme, že musíme změnit pravidla hry.
 V nové hře mohou vyhrát obě strany.
 
@@ -24,7 +24,7 @@ Tlak termínu může obě strany donutit jednat. Termíny mohou být skutečné 
 Externí termíny jsou vynucené třetí stranou, interní jsou stanovené vaší organizací.
 
 Obrana: Osoba nastavující termín počítá s tím, že je v lidské povaze věřit, že termíny jsou skutečné.
-Pokud se chcese pokusit zneutralizovat termín, otestujte ho.
+Pokud se chcete pokusit zneutralizovat termín, otestujte ho.
 Položte několik otázek a zjistěte, jak skutečný a pevný termín je.
 V případě skutečného termínu se zeptejte, odkud termín pochází,
 je-li možné jeho prodloužení a jaké jsou důsledky nedodržení termínu.
@@ -58,7 +58,7 @@ Tato taktika apeluje na váš smysl pro „fair play“ a zahrnuje mnoho prohlá
 jejichž účelem je dostat vás na druhou stranu.
 
 Obrana: Připomenutí podmínek a vysvětlení, že tyto podmínky jsou v nejlepším zájmu obou stran.
-Zjistěte, jaká je skrytá motivace druhé strany a čeho se druhá strana doopravky obává.
+Zjistěte, jaká je skrytá motivace druhé strany a čeho se druhá strana doopravdy obává.
 
 ### Hodný a zlý
 
@@ -91,7 +91,7 @@ Dále si zjistěte, co konkurence nabízí a jaké mají vztahy s ostatními kli
 
 > „Tento projekt mi připomíná jednu zakázku pro XYZ s.r.o.“
 
-Nejúspěšnější obhodníci používají tuto taktiku na začátku hovoru,
+Nejúspěšnější obchodníci používají tuto taktiku na začátku hovoru,
 aby přidaly svým slovům věrohodnosti a zlepšili svoji vyjednávací pozici.
 Taktika, někdy nazývaná „name-dropping“, spočívá v asociaci s různými jmény firem, lidí, produktů, atd.
 Asociace může být velmi efektivní, pokud je pravdivá, ale také velmi manipulativní, pokud je nepravdivá.

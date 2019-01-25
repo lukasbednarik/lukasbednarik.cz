@@ -15,17 +15,17 @@ Jen přesuneme část komplexity do konfiguračního managementu a infrastruktur
 Vznikají nové problémy:
 
 - **Verzování modulů.** Na papíře vypadá všechno jednoduše, ale v praxi spolu nebudou
-všechny verze modulů kompatibiltní. Často se nakonec dostaneme do situace, kdy nenasazujeme jednotlivé
+všechny verze modulů kompatibilní. Často se nakonec dostaneme do situace, kdy nenasazujeme jednotlivé
 moduly, ale kompatibilní skupiny modulů.
 - **Komunikace mezi moduly.** Modul A pošle požadavek modulům B a C. Teď si představme, že požadavek v modulu B skončí chybou.
 Modul B musí uvědomit modul A. Modul A musí říci modulu C, že má na problému přestat pracovat.
-S vyšším počtem podulů roste komplexita řízení.
+S vyšším počtem modulů roste komplexita řízení.
 - **Konzistentní výsledek.** Pokud je komunikace mezi moduly tak složitá, jak zajistíme, aby uživatel vždy viděl jen jeden
 konzistentní výsledek?
 
 Otázka, zda použít microservices, nezní "microservices vs. monolit", ale "systém modulární
 na úrovni služeb nebo systém modulární na jiné úrovni (na úrovni kódu)".
-Nedokážeme-li psát mudulární kód, jaká je šance, že dokážeme navrhnout dobré modulární služby?
+Nedokážeme-li psát modulární kód, jaká je šance, že dokážeme navrhnout dobré modulární služby?
 
 K napsání těchto poznámek mě inspiroval článek
 [The Death of Microservices](https://dwmkerr.com/the-death-of-microservice-madness-in-2018/),

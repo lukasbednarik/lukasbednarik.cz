@@ -46,7 +46,7 @@ dohodnout, což může vést na spoustu neproduktivních diskuzí. To nemusí pl
 
 - *coding standards* omezují počet hloupých konfliktů;
 - všichni jsou odpočatí a plní energie, což snižuje počet neproduktivních diskuzí (žádné přesčasy!);
-- páry píší společně unit testy, což jim dává šanci se sjednotit v porozumnění právě napsaného kódu před psaním dalšího;
+- páry píší společně unit testy, což jim dává šanci se sjednotit v porozumění právě napsaného kódu před psaním dalšího;
 - páry pracují s jednoduchým designem, takže všichni rozumí tomu, co se děje.
 
 Možná potom má smysl psát kód v páru. Lidé pracující sami velmi často program předesignují a častěji udělají nějakou chybu.
@@ -64,5 +64,5 @@ To nemusí platit, pokud:
 Možná potom má smysl psát automatické testy. Pokud psaní testů vynecháte, refaktoring a párové programování
 nebudou nikdy dobře fungovat.
 
-Chcete-li vědět víc, příhlašte se na můj [workshop Technické Agility](/workshop-technicka-agilita/).
+Chcete-li vědět víc, přihlašte se na můj [workshop Technické Agility](/workshop-technicka-agilita/).
 

@@ -36,13 +36,13 @@ Organizace s kulturou moci jsou autokratické a management má velkou sílu ve v
 Výhodou této kultury může být vysoká rychlost rozhodování a z pohledu managementu snadná implementace organizačních změn.
 Mezi nevýhody často patří nedostatek zpětné vazby a tedy nižší úroveň motivace zaměstnanců.
 
-Kultura rolí je založena na formálních pravidlech a předpisech. Role jsou postaveny nad význam jedlitlivých osob,
+Kultura rolí je založena na formálních pravidlech a předpisech. Role jsou postaveny nad význam jednotlivých osob,
 které tyto pozice zaujímají. Mezi typické znaky patří byrokracie a formálnost. Výhodou této společnosti může být stabilita,
 neboť není tolik závislá na schopnostech jednotlivců jako ostatní kultury.
 
 V kultuře úkolů se za nejdůležitější faktor považuje úroveň dovedností a kompetence daný úkol vyřešit.
 Organizace jsou projektově založené a orientované na úkoly. Přitom není podstatné, kdo který úkol řeší.
-Podstané je, že úkol bude vyřešen. Tento způsob organizace klade důraz na funkční týmy bez striktně stanovených rolí,
+Podstatné je, že úkol bude vyřešen. Tento způsob organizace klade důraz na funkční týmy bez striktně stanovených rolí,
 kde nikdo neřekne: “Toto se mě už netýká, to dělat nebudu.”
 
 Kultura osob je nejvzácnější, přesto s příchodem agilních metod řízení se situace zlepšuje.

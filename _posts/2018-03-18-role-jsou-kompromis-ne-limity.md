@@ -21,8 +21,8 @@ Co když se ale najde někdo, kdo je na jednu stranu výborný vývojář, ale m
 přínosem pro produkt? Řeknete takovému člověku, že "tohle není jeho role",
 nebo si jeho nápady poslechnete?
 
-Asi před rokem jsem jednoho takévého člověka potkal v coworkingovém centru.
-Web designer Michal mi řekl svůj příběh, jak jedné malé fimě,
+Asi před rokem jsem jednoho takového člověka potkal v coworkingovém centru.
+Web designer Michal mi řekl svůj příběh, jak jedné malé firmě,
 pro kterou ještě nedávno pracoval, málem domluvil novou zakázku.
 Když si ho šéf pozval do kanceláře, čekal pochvalu.
 Naopak dostal pořádně vynadáno:

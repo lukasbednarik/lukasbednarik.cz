@@ -1,0 +1,12 @@
+{
+    "spellright.language": [
+        "Czech",
+        "English (American)"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext",
+        "yaml"
+    ]
+}

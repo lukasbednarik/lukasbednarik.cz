@@ -16,10 +16,10 @@ Pár poznámek:
 - Děláme-li multitasking, ztrácíme schopnost efektivního rozhodování. Všechno se nám zdá důležité. Přednostně reagujeme na urgentní věci, protože se chceme cítit být důležití a žádaní. Ve skutečnosti bychom se měli zaměřovat také na důležité neurgentní věci.
 - Někde vzadu v mozku máme seznam věcí, které jsme dnes dělali a nedokončili. Je vhodné si tyto věci zapsat na papír. Co je na papíře, to mozek rychle vytěsní. V opačném případě se nedokončené věci skládají a mozek nad nimi přemýšlí. Tato "zbytková pozornost" se v průběhu dne skládá a efektivita práce klesá.
 - Je dobré mozek cvičit a "přirozené věci" (nákupní seznam, narozeniny...) si pamatovat.
-- Ultradiální rytmus je 90 minut soustředěná práce (flow) následovaná 10 minutami odpočinku mimo dosah technologií. Doporučuje se hlavně odpoledne (1 až 2 cykly). Pomodoro pracuje s kratšími časy a je vhodnější na “jednodužší” úkoly.
+- Ultradiální rytmus je 90 minut soustředěná práce (flow) následovaná 10 minutami odpočinku mimo dosah technologií. Doporučuje se hlavně odpoledne (1 až 2 cykly). Pomodoro pracuje s kratšími časy a je vhodnější na “jednodušší” úkoly.
 - Je důležité část dne nic nedělat. V tuto dobu si mozek třídí informace. Například stát ve frontě nebo jet autobusem nebo běhat. Bez muziky a bez jakýchkoliv podnětů pro mozek.
 - Neumíme počítat čas strávený v digitálním prostoru. Proto nekontrolujeme čas strávený na sociálních sítích.
 - Důsledky vyřešení problému s technologiemi: lepší soustředění, lepší rozhodování (vědecky prokázáno), umění být sám sebou.
 - Abychom vydrželi v supermarketech, pouští nám hudbu, tedy nepřemýšlíme nad tím “co tam vlastně děláme” a že “nakupujeme konzum”.
 - 20 minut útlumu během dne pomůže celkovému výkonu. Uděláme-li si během dne pauzu (bez rozptylování a technologií), pomůže to celkovému výkonu a na konci dne toho uděláme víc. Stejný princip se využívá u [Mob Programming](/mob-programming-dejte-mu-sanci/) nebo u [párového programování](/parove-programovani/).
-- Nechávat děti se někdy nudit a hrát si samotné je pro ně přínosné. Děti mají schopnost se dostat do stavu podobnému meditaci, ve kterém vykonávají repetitivní činnost a jejich mozek má prostor si třídit informace.
+- Nechávat děti se někdy nudit a hrát si samotné je pro ně přínosné. Děti mají schopnost se dostat do stavu podobnému meditaci, ve kterém vykonávají opakovanou činnost a jejich mozek má prostor si třídit informace.

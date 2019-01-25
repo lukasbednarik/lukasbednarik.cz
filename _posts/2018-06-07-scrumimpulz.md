@@ -6,7 +6,7 @@ tags: události
 
 Minulý týden jsem navštívil šestý ročník konference ScrumImpulz v Bratislavě.
 Konferenci bych zařadil mezi menší - jeden den přednášek, 8 řečníků,
-jen jedna paralerní session, sto posluchačů.
+jen jedna paralelní session, sto posluchačů.
 
 <!--more-->
 

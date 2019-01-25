@@ -7,7 +7,8 @@ tagline: Lukáš Bednařík
 
 ### 2019
 
-- Nová website
+- Nový web pro [Agilní kalendář](https://agilnikalendar.cz)
+- Nový web lukasbednarik.cz
 - Zakládáme komunitu #CzechAgile
 
 ### 2018

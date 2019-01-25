@@ -53,4 +53,4 @@ Tato poslední změna nicméně jde proti tomuto trendu a mnoho konzultantů je 
 (a dodávají, že tato věta možná časem zase zmizí, jakmile si týmy zvyknou řešit problémy z retrospektivy
 i na úkor části práce ve sprintu).
 
-Podrobý seznam všech změn naleznete na [https://www.scrumguides.org/revisions.html](https://www.scrumguides.org/revisions.html).
+Podrobný seznam všech změn naleznete na [https://www.scrumguides.org/revisions.html](https://www.scrumguides.org/revisions.html).

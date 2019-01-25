@@ -10,7 +10,7 @@ parent: '#služby'
 ## O co jde?
 
 Zavedli jste Agilní vývoj, ale na doručování projektů se to příliš neprojevilo?
-Veděli jste, že většina Agilních metodik včetně Scrumu předpokládá nějaké vývojářské best practices v týmu?
+Věděli jste, že většina Agilních metodik včetně Scrumu předpokládá nějaké vývojářské best practices v týmu?
 Nepřešlapujte na místě a přihlašte se na workshop.
 
 Váš kód se na vás už nebude lepit jako smola. Workshop je cesta k technické excelenci,
@@ -105,7 +105,7 @@ zkratky pro VIM či Emacs.
         <i class="pe-7s-display2"></i>
         <h2>2 dny</h2>
         <hr />
-        <p>Častým feedbackem z jednodenního workhopu je "málo praxe". Tato varianta rozšiřuje praktickou část a podíváme se i na vaši codebase.</p>
+        <p>Častým feedbackem z jednodenního workshopu je "málo praxe". Tato varianta rozšiřuje praktickou část a podíváme se i na vaši codebase.</p>
         <hr />
         <div class="price">
             <div class="front">

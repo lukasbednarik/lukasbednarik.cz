@@ -22,7 +22,7 @@ Kontext a cíle každého produktu jsou jiné. Několik situací pro ilustraci:
 - Jako startup jste rychle prototypovali a vytvořili technický dluh. Teď se chcete zaměřit na dlouhodobě udržitelný vývoj. Jak projít změnou hladce?
 - Chcete okamžitý feedback od zákazníka a proto jste se rozhodli dělat release každý den. Se současnými technologiemi, stylem testování a způsobem vývoje to není možné.
 - Přecházíte na agilní vývoj. Na konci každého sprintu chcete mít produkt použitelný u zákazníka.
-- Chtete styl vývoje, který je dlouhodobě udržitelný.
+- Chcete styl vývoje, který je dlouhodobě udržitelný.
 - Máte většinou konzervativní zákazníky očekávající stabilní produkt založený na ověřených technologiích.
 - Vyvíjíte software pro kritické systémy vyžadující extrémní míru stability.
 - Co řeknou zákazníci, pokud zaměníte technologii X za Y?

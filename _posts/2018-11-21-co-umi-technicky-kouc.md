@@ -37,7 +37,7 @@ Vývojářských praktik jsou desítky. Například:
 - spikes.
 
 Mnohé z těchto praktik jsou často zjednodušovány, takže se zdá, že je dokáže snadno používat každý.
-Není tomu tak. O tom, jak rychle a efektivně refaktorovat velmi ošklivý kód, aniž bychom ho rozbyli,
+Není tomu tak. O tom, jak rychle a efektivně refaktorovat velmi ošklivý kód, aniž bychom ho rozbili,
 bylo napsáno mnoho knih. Stejně tak o psaní testů - někdy je opravu lepší málo testů, než
 mít mnoho špatných testů, které vývojářům nepomáhají, ale vyžadují mnoho času na svou údržbu.
 Jak víte, že vaše testy jsou *dobré*?

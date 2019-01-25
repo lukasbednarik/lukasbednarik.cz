@@ -6,8 +6,8 @@ tags: kanban metodiky
 
 Jak můžeme škálovat [Kanban](/kanban-jako-nastroj/)? Odpověď je překvapivě jednoduchá:
 Aplikováním Kanbanu ve větším měřítku. Jakmile máme zavedený
-kanban pro alespoň jednu službu, existují tři dimenze,
-do nichž může náš kanban růst.
+Kanban pro alespoň jednu službu, existují tři dimenze,
+do nichž může náš Kanban růst.
 
 <!--more-->
 
@@ -41,7 +41,7 @@ Obvykle se můžeme setkat se čtyřmi úrovněmi Kanbanu:
 3. **Produktový Kanban.** Položky v produktovém Kanbanu by měly být menší než typický projekt,
    ale dostatečně velké, aby mohly být rozpoznány a ohodnoceny zákazníkem.
 4. **Portfolio Kanban.** Portfolio management není varianta produktového Kanbanu s většími projekty,
-   ale úplně nová disciplína zabývající se řizením finančního portfolia.
+   ale úplně nová disciplína zabývající se řízením finančního portfolia.
    Risk v projektech je vyvažován prací s časovými horizonty, návratností investice,
    hledáním alternativ v produktu vzhledem k pravděpodobným změnám na trhu a diferenciací
    portfolia.

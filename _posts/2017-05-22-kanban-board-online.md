@@ -29,7 +29,7 @@ jsou dostupné online.
 
 [Kanbanachi](https://www.kanbanchi.com) se chlubí výbornou integrací s G suite.
 Pokud žijete v Google ekosystému, je to pro vás jedna z voleb. Bohužel, u neplacené
-verze je k dispozici spousta funkcí, po jejiž použití vás aplikace vyzve k zakoupení
+verze je k dispozici spousta funkcí, po jejichž použití vás aplikace vyzve k zakoupení
 placené verze. Pro mě se jedná o příliš agresivní marketing. Za pár kartiček nechci v první fázi platit.
 
 ## KanbanFlow

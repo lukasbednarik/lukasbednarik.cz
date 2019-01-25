@@ -18,9 +18,9 @@ a ochotě do vzdělání investovat svůj čas i peníze.
 
 ## Scrum Alliance
 
-Ken Schwaber založil roku 2002 orgranizaci [Scrum Alliance](https://www.scrumalliance.org/)
+Ken Schwaber založil roku 2002 organizaci [Scrum Alliance](https://www.scrumalliance.org/)
 jako první certifikační Scrum autoritu. První programy probíhaly formou dvoudenního
-školení a složením testu, u kterého nebylo vyžadováné žádné minimální score.
+školení a složením testu, u kterého nebylo vyžadované žádné minimální skóre.
 
 V průběhu let s podmínky zpřísnily. Cena dnešních kurzů se pohybuje kolem 30 000 Kč
 a závěrečný test lze několikrát opakovat.
@@ -35,7 +35,7 @@ Cesta k CSP se tak svým způsobem zjednodušila, ale prodražila. Sbírání SE
 českých podmínkách bylo velmi obtížné. (SEU body se udělovaly například za práci pro Scrum Allianci,
 návštěvu konferencí Scrum Alliance, psaní článků a absolvování školení).
 
-Certifikáty Scrum Alliance jsou pravděpodobně nejrozšířenější a také nejznámnější.
+Certifikáty Scrum Alliance jsou pravděpodobně nejrozšířenější a také nejznámější.
 
 ## scrum.org
 
@@ -53,13 +53,13 @@ Testy nižších úrovní jsou spíše teoretické, ve vyšších úrovních př
 
 Ani scrum.org se nevyhnul rozšiřování svého portfolia. Původní zkouška PSM II
 byla roku 2016 přejmenována na PSM III a celá vzdělávací cesta se prodloužila
-a prodražila. Ačkoliv jsou testy poměrně obtížné a minimální score pro úspěšné složení
+a prodražila. Ačkoliv jsou testy poměrně obtížné a minimální skóre pro úspěšné složení
 testu relativně vysoké, můžeme opět argumentovat, že bohatí lidé si mohou koupit tolik pokusů,
 kolik chtějí.
 
 Podmínky pro získání PSM jsou:
 
-- základní porozumnění Scrumu ze [Scrum Guide](https://www.scrumguides.org/index.html),
+- základní porozumění Scrumu ze [Scrum Guide](https://www.scrumguides.org/index.html),
 - alespoň 85% úspěšnost v 60 minutovém testu.
 
 Podaří-li se vám uspět u PSM, složení dalších certifikátů (PSPO - Professional
@@ -86,19 +86,19 @@ Certifikáty ICAgile jsou rozděleny do třech úrovní:
 Prerekvizitou pro všechny certifikáty je absolvování základního kurzu Agile Fundamentals,
 kde lektoři mimo jiné vysvětlí, jaký je rozdíl mezi "být Agile" a "dělat Agile".
 
-Cena absolvování jednotlivých (většinou dvou denních) kurzů se pohybuje okole 30 000 Kč.
+Cena absolvování jednotlivých (většinou dvou denních) kurzů se pohybuje okolo 30 000 Kč.
 
 ## PMI
 
 [PMI](https://www.pmi.org) (Project Management Institute) zahájil svoji činnost v roce 2012.
-Ačkoliv je PMI zaměřený na project management, jde o velmi uznávanou organizaci
+Ačkoliv je PMI zaměřený na projektový management, jde o velmi uznávanou organizaci
 nabízející jeden zajímavý agilní certifikát jdoucí napříč metodikami:
 [PMI Agile Certified Practitioner](https://www.pmi.org/certifications/types/agile-acp)
 
 Podmínky pro získání certifikátu
 
-- zkušenost s project managementem během 5 let alespoň 2000 hodin,
-- zkušenost s agile project managementem během 2 let alespoň 1500 hodin,
+- zkušenost s projektovým managementem během 5 let alespoň 2000 hodin,
+- zkušenost s agile projektovým managementem během 2 let alespoň 1500 hodin,
 - vzdělávání v rozsahu 21 hodin,
 - složení zkoušky,
 - zaplacení 495 USD.

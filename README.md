@@ -25,8 +25,8 @@ bundle install
 
 ### Top Priority
 
-- ! Sticky memu (zelené pozadí. použít stejný design jako mobile menu, ale uzší pruh a uvnitř třídy "container", takže je vše na středu.)
-- copywriting (index, 3 landing pages "workhopů", Agilní kalendář)
+- ! Sticky menu (zelené pozadí. použít stejný design jako mobile menu, ale užší pruh a uvnitř třídy "container", takže je vše na středu.)
+- copywriting (index, 3 landing pages "workshopů", Agilní kalendář)
 - návrh a tisk vizitek
 
 ### Index page
@@ -42,7 +42,7 @@ bundle install
 - pagination
     - archive tags nejsou paginated. Malá priorita.
     - Blog pagination - title stránky je "Page 3 of 5 for Blog". Chci to česky.
-    - pagination neni responzive jako to na starem blogu. Chci to udělat podobně.
+    - pagination není responzive jako to na starém blogu. Chci to udělat podobně.
     - Větší margin-top pro pagination.
 
 ### Footer
@@ -51,4 +51,4 @@ bundle install
 
 ### Workshopy
 
-- Na stránky workhopů přidat odkaz na reference, jakmile referencí bude víc.
+- Na stránky workshopů přidat odkaz na reference, jakmile referencí bude víc.
