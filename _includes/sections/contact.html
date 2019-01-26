@@ -19,7 +19,20 @@
 
     </div>
 
-    <div class="row form-container">
+    <div class="form-container">
+
+      <!-- Contact text -->
+      <div class="col-md-6">
+        <div class="text-wrap">
+          <ul>
+            <li><strong>Email:</strong> <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+            <li><strong>Mobil:</strong> <a href="tel:{{ site.author.phone | remove: ' ' }}">{{ site.author.phone }}</a></li>
+            <li><strong>IČ:</strong> <a target="_blank" href="http://wwwinfo.mfcr.cz/cgi-bin/ares/darv_res.cgi?odp=html&ICO={{ site.author.ic }}">{{ site.author.ic }}</a></li>
+            <li><strong>Místo podnikání:</strong> {{ site.author.misto-podnikani }}</li>
+            <li>Nejsem plátce DPH.</li>
+          </ul>
+        </div>
+      </div>
 
       <!-- Contact Form -->
       <div class="col-md-6">
@@ -41,19 +54,6 @@
             <button name="submit" type="submit" id="contact-submit" data-submit="...Odesílám" tabindex="4">Odeslat email</button>
           </fieldset>
         </form>
-      </div>
-
-      <!-- Contact text -->
-      <div class="col-md-6">
-        <div class="text-wrap">
-          <ul>
-            <li><strong>Email:</strong> <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-            <li><strong>Mobil:</strong> <a href="tel:{{ site.author.phone | remove: ' ' }}">{{ site.author.phone }}</a></li>
-            <li><strong>IČ:</strong> <a target="_blank" href="http://wwwinfo.mfcr.cz/cgi-bin/ares/darv_res.cgi?odp=html&ICO={{ site.author.ic }}">{{ site.author.ic }}</a></li>
-            <li><strong>Místo podnikání:</strong> {{ site.author.misto-podnikani }}</li>
-            <li>Nejsem plátce DPH.</li>
-          </ul>
-        </div>
       </div>
 
     </div>

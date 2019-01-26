@@ -29,10 +29,6 @@ bundle install
 - copywriting (index, 3 landing pages "workshopů", Agilní kalendář)
 - návrh a tisk vizitek
 
-### Index page
-
-- Kontakt sloupce bychom v mobilním rozlišením měli přehodit. Kontaktní formulář by měl být až po kontaktních informacích.
-
 ### Blog
 
 - excerpt na blogu 3 řádkový text (nebo tenká fotka). Mělo by to být podobně dlouhé.č
