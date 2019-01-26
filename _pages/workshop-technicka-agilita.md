@@ -26,7 +26,7 @@ Metodika, kterou se naučíte, je více než jen součet svých částí.
 
 - **Kapacita:** max 8 lidí na workshop
 - **Délka:** 1 den (6 hodin)
-- **Jazyky:** Java, C#, C++, Node.Js, PHP
+- **Jazyky:** Java, C#, C++, Node.Js
 
 ![Lukáš Bednařík](/images/blog/xp-fall.png)
 
