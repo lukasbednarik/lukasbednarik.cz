@@ -31,7 +31,6 @@ bundle install
 
 ### Index page
 
-- s čím pomáhám - na notebooku by mohla běhat nějaká skrytá zpráva nebo 01001.
 - Kontakt sloupce bychom v mobilním rozlišením měli přehodit. Kontaktní formulář by měl být až po kontaktních informacích.
 
 ### Blog
@@ -49,6 +48,7 @@ bundle install
 
 - footer odkazy: agilní kalendář, code beer, RSS. Pořád mám stránku /komunita/ a není na ni odkaz.
 
-### Workshopy
+### Super low prio ideas
 
 - Na stránky workshopů přidat odkaz na reference, jakmile referencí bude víc.
+- s čím pomáhám - animace na notebooku by mohla být řešena v js (textově). Výhoda: ušetření velikosti obrázku a ostřejší text.
