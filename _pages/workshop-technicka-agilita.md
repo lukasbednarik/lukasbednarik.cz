@@ -9,6 +9,12 @@ parent: '#služby'
 
 ## O co jde?
 
+{% comment %}
+A consultant by the name of Payson Hall once made a comment that sticks with me, “If you can’t reach this distance, you’re not tall enough to ride this ride.” If you’re not doing the Extreme Programming practices: pair programming, refactoring and so on, then you’re not ready to get on the agile ride. It doesn’t matter how many iterations you plan, how many fantastic meetings you have, how many Scrum gatherings you attend, if you’re not doing the engineering practices, you’re not going to be as successful as you could be.
+
+...tým odchází nadšený a chce to dělat... popsat zkušenosti z workshopu a takto jej i prodat.
+{% endcomment %}
+
 Zavedli jste Agilní vývoj, ale na doručování projektů se to příliš neprojevilo?
 Věděli jste, že většina Agilních metodik včetně Scrumu předpokládá nějaké vývojářské best practices v týmu?
 Nepřešlapujte na místě a přihlašte se na workshop.

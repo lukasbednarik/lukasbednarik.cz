@@ -26,7 +26,7 @@ bundle install
 ## High Priority
 
 - ! Sticky menu (zelené pozadí. použít stejný design jako mobile menu, ale užší pruh a uvnitř třídy "container", takže je vše na středu.)
-- copywriting (index, 3 landing pages "workshopů", Agilní kalendář)
+- copywriting (index, 3 landing pages "workshopů", Agilní kalendář). Asi to UDĚLAT SÁM!
 - Blog: obrázek u článků po levé straně jako malé čtverečky. Obrázky zobrazit i u článků na indexu.
 
 ## Medium Priority
