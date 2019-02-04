@@ -92,6 +92,11 @@ Kvůli párovému programování je nutné si **nainstalovat grafické IDE** (id
 [Visual Studio Code](https://code.visualstudio.com/)), protože váš kolega nemusí znát klávesové
 zkratky pro VIM či Emacs.
 
+## Cena
+
+Cena stanovuji až dle obsahu workshopu (obvykle 5 000Kč až 15 000Kč za lektorský den). [Napište mi!](/#kontakt)
+
+{% comment %}
 ## Rezervace termínu
 
 <div class="pricing-table">
@@ -129,7 +134,7 @@ zkratky pro VIM či Emacs.
 
 Cena je uvedena za lektorský den (cca 6 hodin) pro celý tým dohromady.
 
-{% comment %}
+
 ...a zde si můžete [prohlédnout reference](/#doporuceni).
 {% endcomment %}
 
