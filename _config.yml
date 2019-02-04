@@ -99,11 +99,10 @@ features-description: Pro zadavatele připravuji workshopy nebo krátké konzult
   ale naučit účastníky tomu, co jim pomůže v praxi.
 features:
 - title: Technická Agilita
-  description: To nejlepší z technické praxe. Cesta k větší produktivitě a spolupráci.
-    Zkusíme si TDD a párové programování, řekneme si, jak psát dobré testy a dotkneme
-    se současných trendů.
+  description: Neznáte-li technické praktiky, nemůžete nikdy naskočit na skutečný agilní vlak.
+    Workshop je cesta k týmové produktivitě, spolupráci a nadšení z dobře odvedené práce.
   icon: pe-7s-study
-  link: Chci to umět!
+  link: To chci!
   link-url: /workshop-technicka-agilita/
 - title: Workshop na míru
   description: Přednášel jsem a vedl workshopy na různá témata. Pojďme společně vybrat
