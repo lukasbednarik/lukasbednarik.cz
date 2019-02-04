@@ -9,30 +9,25 @@ parent: '#služby'
 
 ## O co jde?
 
-{% comment %}
-A consultant by the name of Payson Hall once made a comment that sticks with me, “If you can’t reach this distance, you’re not tall enough to ride this ride.” If you’re not doing the Extreme Programming practices: pair programming, refactoring and so on, then you’re not ready to get on the agile ride. It doesn’t matter how many iterations you plan, how many fantastic meetings you have, how many Scrum gatherings you attend, if you’re not doing the engineering practices, you’re not going to be as successful as you could be.
+Nezáleží na tom, kolik fantastických meetingů, retrospektiv a Scrum srazů jste navštívili.
+Neznáte-li dobré programátorské praktiky, nikdy nebudete plně efektivní.
 
-...tým odchází nadšený a chce to dělat... popsat zkušenosti z workshopu a takto jej i prodat.
-{% endcomment %}
+> If you can’t reach this distance, you’re not tall enough to ride this ride.
+>
+> --- Payson Hall
 
-Zavedli jste Agilní vývoj, ale na doručování projektů se to příliš neprojevilo?
-Věděli jste, že většina Agilních metodik včetně Scrumu předpokládá nějaké vývojářské best practices v týmu?
-Nepřešlapujte na místě a přihlašte se na workshop.
-
-Váš kód se na vás už nebude lepit jako smola. Workshop je cesta k technické excelenci,
-k prohloubení týmové spolupráce a k produktivitě.
-
-Řekneme si vše o best practices efektivního vývoje.
-Vyzkoušíme si párové programování a test-driven development.
-Povíme si, co je to stub, mock, seam, jaké existují testovací vzory a jak
-psát unit-testy, které jsou udržovatelné, důvěryhodné a čitelné.
-Workshop je zastřešen teorií Extrémního programování, která vysvětluje,
-proč jsou některé kombinace vývojářských praktik efektivnější než jiné.
-Metodika, kterou se naučíte, je více než jen součet svých částí.
+Workshop technické agility vychází z Extrémního Programování, které dále rozšiřuje.
+Prakticky se naučíte párové programování, TDD, refaktoring, efektivní přístup k testování.
+Některé tyto praktiky možná znáte. Po skončení workshopu je ale skutečně začnete využívat v praxi.
+Tým bude motivovaný a dostane se na jednu vlnu.
 
 - **Kapacita:** max 8 lidí na workshop
 - **Délka:** 1 den (6 hodin)
 - **Jazyky:** Java, C#, C++, Node.Js
+
+Váš kód se na vás už nebude lepit jako smola. Workshop je cesta k technické excelenci,
+k prohloubení týmové spolupráce a k produktivitě. U dvoudenního workshopu se dostaneme
+i ke kódu ve vaší codebase.
 
 ![Lukáš Bednařík](/images/blog/xp-fall.png)
 
@@ -43,6 +38,14 @@ signatář [software craftmanship manifesta](http://manifesto.softwarecraftsmans
 
 Osnova je pouze orientační.
 Konečný obsah kurzu vždy přizpůsobuji konkrétním potřebám zákazníka.
+
+Řekneme si vše o best practices efektivního vývoje.
+Vyzkoušíme si párové programování a test-driven development.
+Povíme si, co je to stub, mock, seam, jaké existují testovací vzory a jak
+psát unit-testy, které jsou udržovatelné, důvěryhodné a čitelné.
+Workshop je zastřešen teorií Extrémního programování, která vysvětluje,
+proč jsou některé kombinace vývojářských praktik efektivnější než jiné.
+Metodika, kterou se naučíte, je více než jen součet svých částí.
 
 <div id="show-more-1">Zobrazit/skrýt celou osnovu</div>
 
