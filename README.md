@@ -25,8 +25,6 @@ bundle install
 
 ## High Priority
 
-- ! Text na blogu by měl být asi "Open Sans" (to používá zive.cz). Nadpisy nechat v "Lato". Je to tak mnohem čitelnější. 
-  Zamyslet se nad tím, jestli nechat <p> vždy v "Open Sans" a jak to celé má vypadat...
 - ! Sticky menu (zelené pozadí. použít stejný design jako mobile menu, ale užší pruh a uvnitř třídy "container", takže je vše na středu.)
 - copywriting (index, 3 landing pages "workshopů", Agilní kalendář). Asi to UDĚLAT SÁM! https://www.veznik.cz/
 - Blog: obrázek u článků po levé straně jako malé čtverečky. Obrázky zobrazit i u článků na indexu.

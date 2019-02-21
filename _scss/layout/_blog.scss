@@ -56,8 +56,12 @@ section.blog-section {
             float: left;
           }
 
-          .similar-posts li:before {
-            content: "\2192 \0020";
+          .similar-posts {
+            font-family: 'Open Sans', sans-serif;
+
+            li:before {
+              content: "\2192 \0020";
+            }
           }
         }
 
@@ -226,6 +230,7 @@ section.blog-section {
           display: block;
           margin: 0.5em 0 1em 0;
           padding-left: 40px;
+          font-family: 'Open Sans', sans-serif;
 
           li {
             display: list-item;

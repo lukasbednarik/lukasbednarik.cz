@@ -32,6 +32,7 @@ section.portfolio-section {
           cursor: pointer;
           color: $secondary;
           transition: all $transition-links $transition-links-type;
+          font-family: 'Open Sans', sans-serif;
 
           &:hover {
             color: $primary;
