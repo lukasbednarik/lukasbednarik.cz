@@ -25,6 +25,7 @@ input, textarea, button {
   border: 1px solid $simple-gray;
   background: transparentize($white, 0.9);
   transition: all $transition-links $transition-links-type;
+  font-family: 'Open Sans', sans-serif;
 
   // Placeholders
   &::-webkit-input-placeholder { /* Chrome/Opera/Safari */
