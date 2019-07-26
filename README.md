@@ -15,6 +15,7 @@ bundle install
 - [HTML validity checker](https://validator.w3.org)
 - [Broken link checker](https://www.drlinkcheck.com/)
 - Test page on various display sizes: Press Ctrl+Shift+M in Firefox
+- Broken view - check Google Analytics page - there are some checks...
 
 ## Notes
 
@@ -28,10 +29,11 @@ bundle install
 - ! Sticky menu (zelené pozadí. použít stejný design jako mobile menu, ale užší pruh a uvnitř třídy "container", takže je vše na středu.)
 - copywriting (index, 3 landing pages "workshopů", Agilní kalendář). Asi to UDĚLAT SÁM! https://www.veznik.cz/
 - Blog: obrázek u článků po levé straně jako malé čtverečky. Obrázky zobrazit i u článků na indexu.
+- Znovu vrátit reference, až jich bude víc. Edit navigation.html a index.html.
 
 ## Medium Priority
 
-- Blog: excerpt na blogu 3 řádkový text (nebo tenká fotka). Mělo by to být podobně dlouhé.č
+- Blog: excerpt na blogu 3 řádkový text (nebo tenká fotka). Mělo by to být podobně dlouhé.
 - Blog: Podobné příspěvky – lépe upoutat pozornost. Třeba zmenšená verze z \blog/
 - Blog: pagination
     - archive tags nejsou paginated. Malá priorita.

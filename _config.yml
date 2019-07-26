@@ -16,7 +16,7 @@ author:
   ic:             '75488931'
   city:           'Brno'
   misto-podnikani: '77900 Olomouc, Staškova 569/15'
-description:      'Technický Agilní kouč. Kvalitnější software rychleji.'
+description:      'Technický Agilní kouč. Scrum, tým a technické praktiky.'
 
 ####################################
 ###########   Plugins    ###########
@@ -72,8 +72,7 @@ about-widget:
   author-avatar: lukas-bednarik.jpg
   author-name: Lukáš Bednařík
   author-tagline: Technický Agilní kouč
-  author-info: Pomáhám týmům vyvíjet software rychleji a kvalitněji.
-    Zajímám se o technologie, praktiky a metodiky vývoje.
+  author-info: Scrum, tým a technické praktiky. Stovky bugů jsou minulostí.
   author-social-links:
     linkedin: 'https://cz.linkedin.com/in/lukasbednarik'
     facebook: 'https://www.facebook.com/lukasbednarikcz'
@@ -85,24 +84,26 @@ about-widget:
 #############   Bio    #############
 #####################################
 about-title: Lukáš Bednařík
-about-description: Pracoval jsem jako vývojář C++, Node.js a Scrum Master.
-  Baví mě hledat nové způsoby, jak vyvíjet software rychleji a kvalitněji.
-  Mimo freelacing jsem zaměstnán jako C++ vývojář v oblasti řečových technologií.
-  <a href="/o-mne/">Co se letos povedlo?</a>
+about-description: Baví mě Scrum, práce s týmem a technické praktiky.
+  Mám zkušenosti jako vývojář, Scrum Master i Agilní Kouč.
+  Pomohu vám nastartovat Scrum a cyklus neustálého učení a inovací.
+  Společně se vypořádáme s technickým dluhem a nasedneme na vlak moderních technologií.
+  <a href="/o-mne/">A co se letos mi povedlo?</a>
 
 #####################################
 #############  Služby  ##############
 #####################################
 features-title: Služby
-features-description: Pro zadavatele připravuji workshopy nebo krátké konzultace.
-  Mým cílem není prodat, ale podporovat. Nesnažím se jen předat znalosti,
-  ale naučit účastníky tomu, co jim pomůže v praxi.
+features-description:
+  Své zákazníky učím tomu, na co by si jinak delší cestou přišli sami.
+  Šetřím peníze. Akceleruji učení. Provedu vás cestou, na které jsem již byl.
 features:
 - title: Technická Agilita
-  description: Neznáte-li technické praktiky, nemůžete nikdy naskočit na skutečný agilní vlak.
-    Workshop je cesta k týmové produktivitě, spolupráci a nadšení z dobře odvedené práce.
+  description: Bez správných technických praktik ve vývoji je každý Scrum
+    nejvýše na polovině svého potenciálu.
+    Tento workshop posune váš tým vývojářů na další úroveň. Zaručeno.
   icon: pe-7s-study
-  link: To chci!
+  link: Chci vědět víc!
   link-url: /workshop-technicka-agilita/
 - title: Workshop na míru
   description: Přednášel jsem a vedl workshopy na různá témata. Pojďme společně vybrat
@@ -114,40 +115,41 @@ features:
   description: Workshop je pro vás příliš obecný a chcete se bavit o konkrétních
     problémech ve vašem kódu nebo vašem týmu?
   icon: pe-7s-users
-  link: Pojďme se sejít!
+  link: Možná. Pojďme na kafe!
   link-url: /konzultace/
 
 #####################################
 ##########  S čím pomáhám  ##########
 #####################################
 core-title: Co umím?
-core-description: Cílem technického kouče je sladit používanou technologii s byznysem.
-  Umím dát feedback na technickou stránku vývoje a současně pomoci i s procesem.
+core-description: Mám široké znalosti z vývoje, vyznám se v současných technologických trendech,
+  umím pracovat s týmem a frameworkem Scrum.
+
 core-features-left:
 - name: Metodiky
-  description: Poradím s metodikami jako je Scrum, Kanban nebo XP.
+  description: Pomohu s metodikami jako je Scrum, Kanban nebo XP.
   icon: pe-7s-target
+- name: Práce s týmem
+  description: Chcete vysoce výkonný tým? Mám rád zdravou výzvu.
+  icon: pe-7s-rocket
 - name: Technické best practices
-  description: Zavedeme spolu unit-testování a další dobré praktiky.
-  icon: pe-7s-light
+  description: Stovky bugů jsou pasé. Pojďme dělat software tak, jak se to má.
+  icon: pe-7s-like2
 - name: Starý kód, nové triky
-  description: Zrychlíme úpravy v legacy kódu. Ale připravte se, že se zapotíme.
-  icon: pe-7s-graph1
-- name: Programovací jazyky
-  description: Pomohu vám v C++17, C#, Node.Js i v Javě.
+  description: Zrychlíme úpravy v legacy kódu. A nezapotíme se.
   icon: pe-7s-mouse
 core-features-right:
-- name: Neumím zázraky
-  description: Některé věci chtějí čas. Za den zvyky týmu nezměníme.
-  icon: pe-7s-magic-wand
-- name: Nenapíši za vás kód
-  description: Pomohu s designem. Napsat aplikaci ale musíte sami.
-  icon: pe-7s-monitor
-- name: Neškáluji metodiky
-  description: Neškáluji Scrum nebo Kanban v enterprise prostředí.
+- name: Feedback
+  description: Dám feedback na Scrum, Scrum Mastera nebo technologie.
+  icon: pe-7s-refresh
+- name: Škáluji metodiky
+  description: S Agile Navigators s.r.o. škáluji Scrum a technologie.
   icon: pe-7s-loop
+- name: Neumím zázraky
+  description: Některé věci chtějí čas. Zvyky lidí za den nezměníme.
+  icon: pe-7s-magic-wand
 - name: Přijedu kamkoliv
-  description: Rád za vámi přijedu do jakéhokoliv města v ČR. Jsem z Brna.
+  description: Rád za vámi přijedu kdekoli po ČR. Cestu neplatíte.
   icon: pe-7s-map-2
 
 
@@ -161,14 +163,14 @@ testimonials:
   url: https://www.ipex.cz/
   url-text: Scrum Master, IPEX
   avatar: jan-brada.jpg
-  cite: '...posbírané velmi zajímavé střípky ze světa vývojářů. Výstižně,
+  cite: '[workshop] ...posbírané velmi zajímavé střípky ze světa vývojářů. Výstižně,
     stručně a trefně zachycené ve slajdech. Fakt DOST dobrý.'
   logo-img: ipex-logo.png
 - name: Hana Jadavan
   url: https://www.avast.com
   url-text: Scrum Master, Avast
   avatar: hana-jadavan.jpg
-  cite: 'Lukáš dokázal vše velmi srozumitelně, trpělivě vysvětlit a celý
+  cite: '[workshop] Lukáš dokázal vše velmi srozumitelně, trpělivě vysvětlit a celý
     workshop měl příjemnou dynamiku... Po skončení workshopu jsme nejen
     dokázali prakticky použít všechny nově nabyté znalosti, ale tým se
     cítil motivovaný v tomto způsobu práce i nadále pokračovat.'
@@ -184,4 +186,4 @@ blog-description: Od začátku roku 2017 píšu blog. Marketing? Ne, baví mě t
 ############   Kontakt   ############
 #####################################
 contact-title: Napište mi
-contact-description: Napište mi email a sejděme se třeba na kafe.
+contact-description: Sejděme se - jen tak nezávazně - na kafe. Napište mi.

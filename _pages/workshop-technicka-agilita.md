@@ -108,7 +108,7 @@ Cena stanovuji až dle obsahu workshopu (obvykle 5 000Kč až 15 000Kč za lekto
         <hr />
         <div class="price">
             <div class="front">
-                <span class="price">8 950 Kč</span>
+                <span class="price">14 950 Kč</span>
             </div>
             <div class="back">
                 <a href="/#kontakt" class="button">Rezervovat</a>
@@ -119,11 +119,11 @@ Cena stanovuji až dle obsahu workshopu (obvykle 5 000Kč až 15 000Kč za lekto
         <i class="pe-7s-display2"></i>
         <h2>2 dny</h2>
         <hr />
-        <p>Častým feedbackem z jednodenního workshopu je "málo praxe". Tato varianta rozšiřuje praktickou část a podíváme se i na vaši codebase.</p>
+        <p>Častým feedbackem z jednodenního workshopu je "bylo to moc krátké, chceme více praxe". Tato varianta rozšiřuje praktickou část a podíváme se i na vaši codebase.</p>
         <hr />
         <div class="price">
             <div class="front">
-                <span class="price">12 950 Kč</span>
+                <span class="price">24 950 Kč</span>
             </div>
             <div class="back">
                 <a href="/#kontakt" class="button">Rezervovat</a>

@@ -7,10 +7,11 @@ tagline: Lukáš Bednařík
 
 ### 2019
 
-- V Impact Hub Brno pomáhám startupům.
-- Podporuji agilní transformaci velké společnosti společně s Agile Navigators s.r.o.
+- Společně s [Agile Navigators](https://agilenavigators.com/) dělám agilní transformaci.
+- Opouštím zaměstnání a zůstávám na volné noze jako lektor a konzultant.
+- V Impact Hub Brno pomáhám startupům se Scrumem.
 - Nový web pro [Agilní kalendář](https://agilnikalendar.cz).
-- Nový web lukasbednarik.cz
+- Nový web [lukasbednarik.cz](https://lukasbednarik.cz)
 - S podporovateli agilního přístupu zakládáme komunitu [#CzechAgile](https://czechagile.cz).
 
 ### 2018
