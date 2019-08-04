@@ -86,8 +86,8 @@ about-widget:
 about-title: Lukáš Bednařík
 about-description: Baví mě Scrum, práce s týmem a technické praktiky.
   Mám zkušenosti jako vývojář, Scrum Master i Agilní Kouč.
-  Pomohu vám nastartovat Scrum a cyklus neustálého učení a inovací.
-  Společně se vypořádáme s technickým dluhem a nasedneme na vlak moderních technologií.
+  Pomohu vám nastartovat Scrum a cyklus neustálého učení.
+  Pracuji s borci z <a href="https://agilenavigators.com/">Agile Navigators s.r.o.</a>
   <a href="/o-mne/">A co se letos mi povedlo?</a>
 
 #####################################
@@ -96,7 +96,8 @@ about-description: Baví mě Scrum, práce s týmem a technické praktiky.
 features-title: Služby
 features-description:
   Své zákazníky učím tomu, na co by si jinak delší cestou přišli sami.
-  Šetřím peníze. Akceleruji učení. Provedu vás cestou, na které jsem již byl.
+  To jim šetří peníze a zrychluje učení.
+  Provedu vás cestou, na které jsem již byl.
 features:
 - title: Technická Agilita
   description: Bez správných technických praktik ve vývoji je každý Scrum
@@ -122,8 +123,8 @@ features:
 ##########  S čím pomáhám  ##########
 #####################################
 core-title: Co umím?
-core-description: Mám široké znalosti z vývoje, vyznám se v současných technologických trendech,
-  umím pracovat s týmem a frameworkem Scrum.
+core-description: Mám široké znalosti z vývoje. Znám současné technologické trendy.
+  Umím pracovat s týmem a frameworkem Scrum.
 
 core-features-left:
 - name: Metodiky
@@ -186,4 +187,5 @@ blog-description: Od začátku roku 2017 píšu blog. Marketing? Ne, baví mě t
 ############   Kontakt   ############
 #####################################
 contact-title: Napište mi
-contact-description: Sejděme se - jen tak nezávazně - na kafe. Napište mi.
+contact-description: Sejděme se na kafe. Rád vás poznám, i kdybychom se spolu
+  nerozhodli spolupracovat.
