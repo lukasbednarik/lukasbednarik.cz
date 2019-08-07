@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Workshop Technická Agilita'
+title: 'Technické praktiky ve Scrumu'
 tagline: 'Služby'
 permalink: /workshop-technicka-agilita/
 header-img: 'workshop-photo.jpg'

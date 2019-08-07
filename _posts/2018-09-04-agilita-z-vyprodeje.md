@@ -72,7 +72,7 @@ koule jeho nadřízeného se daleko nedostaneme.
 
 Tohle je Business Agilita. Development nedělá zbytečné věci, na potřeby zákazníka se reaguje rychle a svižně.
 Někdy je potřeba [udělat Pivot]((https://www.forbes.com/sites/jasonnazar/2013/10/08/14-famous-business-pivots/
-už v zaběhnutém businessu. Trefit milionový trh napoprvé se nepovedlo ani Twitteru,
+už v zaběhnutém byznysu. Trefit milionový trh napoprvé se nepovedlo ani Twitteru,
 PayPalu nebo Starbucks.
 
 ## Zpět na začátek
@@ -85,6 +85,6 @@ Změny budou trvat dlouho a nezvládne se častý release softwaru (např. už k
 Teprve oba díly společně mohou vytvořit funkční a extrémně efektivní celek.
 
 Navrhuji vrátit se opět na začátek a tam začít. Vraťme se k nedoceněnému Beckovu Extrémnímu programování
-(workshop [Technická Agilita](/workshop-technicka-agilita/)),
+(workshop [Technické praktiky ve Scrumu](/workshop-technicka-agilita/)),
 dobrým praktikám vývoje, rychlé zpětné vazbě, těsnějšímu propojení prodeje, podpory, vývoje a marketingu.
 Agilita potom přijde sama.

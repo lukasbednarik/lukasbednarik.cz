@@ -99,10 +99,9 @@ features-description:
   To jim šetří peníze a zrychluje učení.
   Provedu vás cestou, na které jsem již byl.
 features:
-- title: Technická Agilita
-  description: Bez správných technických praktik ve vývoji je každý Scrum
-    nejvýše na polovině svého potenciálu.
-    Tento workshop posune váš tým vývojářů na další úroveň. Zaručeno.
+- title: Technické praktiky ve Scrumu
+  description: Čistý kód napsaný rychle, efektivně i s testy. Můžete to mít všechno.
+    To vám na workshopu ukážeme. Jaký je háček? Abyste to měli ve firmě, vývojáři se to musí naučit.
   icon: pe-7s-study
   link: Chci vědět víc!
   link-url: /workshop-technicka-agilita/

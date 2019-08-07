@@ -13,7 +13,7 @@ Pojďme společně vybrat obsah a vytvořit workshop, který je pro vaši situac
 
 Níže jsou témata a osnovy některých kurzů. Je-li uvedena osnova, je pouze orientační.
 
-### Technická Agilita
+### Technické praktiky ve Scrumu
 
 Best practices efektivního vývoje.
 Vyzkoušíme si párové programování a test-driven development.
@@ -24,7 +24,7 @@ Workshop je zastřešen teorií Extrémního programování, která vysvětluje,
 proč jsou některé kombinace vývojářských praktik efektivnější než jiné.
 Metodika, kterou se naučíte, je více než jen součet svých částí.
 
-Podrobná osnova a cena viz [workshop Technická Agilita](/workshop-technicka-agilita/).
+Podrobná osnova a cena viz [workshop Technické praktiky ve Scrumu](/workshop-technicka-agilita/).
 
 ### Agilní Architektura
 
