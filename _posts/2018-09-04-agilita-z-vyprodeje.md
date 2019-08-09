@@ -85,6 +85,6 @@ Změny budou trvat dlouho a nezvládne se častý release softwaru (např. už k
 Teprve oba díly společně mohou vytvořit funkční a extrémně efektivní celek.
 
 Navrhuji vrátit se opět na začátek a tam začít. Vraťme se k nedoceněnému Beckovu Extrémnímu programování
-(workshop [Technické praktiky ve Scrumu](/workshop-technicka-agilita/)),
+(workshop [Technické praktiky ve Scrumu](/workshop-technicke-praktiky-ve-scrumu/)),
 dobrým praktikám vývoje, rychlé zpětné vazbě, těsnějšímu propojení prodeje, podpory, vývoje a marketingu.
 Agilita potom přijde sama.

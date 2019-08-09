@@ -51,4 +51,4 @@ a meeting kratší. Scrumem určená maximální doba meetingu je 15 minut.
 Scrum není plnohodnotná metodika, je to framework. Framework je rámec, do kterého by si týmy
 měly zasadit vlastní praktiky a který by jim měl pomoci k neustálému zlepšování.
 Inspirace z jiných metodik je proto důležitá. Jaké další praktiky doporučuje Extrémní programování?
-Navštivte můj [workshop Technické Agility](/workshop-technicka-agilita/), kde se dozvíte skoro vše.
+Navštivte můj [workshop Technické Agility](/workshop-technicke-praktiky-ve-scrumu/), kde se dozvíte skoro vše.

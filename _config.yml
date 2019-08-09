@@ -98,24 +98,23 @@ about-description: Baví mě Scrum, práce s týmem a technické praktiky.
 features-title: Služby
 features-description:
   Své zákazníky učím tomu, na co by si jinak delší cestou přišli sami.
-  To jim šetří peníze a zrychluje učení.
-  Provedu vás cestou, na které jsem již byl.
+  To jim šetří peníze. Provedu vás cestou, na které jsem již byl.
 features:
 - title: Technické praktiky ve Scrumu
   description: Čistý kód napsaný rychle, efektivně i s testy. Můžete to mít všechno.
-    To vám na workshopu ukážeme. Jaký je háček? Abyste to měli ve firmě, vývojáři se to musí naučit.
-  icon: pe-7s-study
+    To vám na workshopu ukážeme. Jaký je háček? Vývojáři se to musí naučit.
+  icon: pe-7s-star
   link: Chci vědět víc!
-  link-url: /workshop-technicka-agilita/
-- title: Workshop na míru
-  description: Přednášel jsem a vedl workshopy na různá témata. Pojďme společně vybrat
-    obsah, který je pro vaši situaci relevantní.
-  icon: pe-7s-plugin
-  link: Jaká mohou být témata workshopů a kolik to stojí?
-  link-url: /workshop-na-miru/
+  link-url: /workshop-technicke-praktiky-ve-scrumu/
+- title: Scrum Master 2.0
+  description: Jak zjistit, zda tým roste po technické a lidské stránce?
+    Jak zvyšovat efektivitu týmu? Co může Scrum Master pro růst jednotlivců i týmu dělat?
+  icon: pe-7s-rocket
+  link: Další detaily, prosím!
+  link-url: /workshop-scrum-master-2/
 - title: Konzultace
-  description: Workshop je pro vás příliš obecný a chcete se bavit o konkrétních
-    problémech ve vašem kódu nebo vašem týmu?
+  description: Chcete workshop na míru, diskuze o konkrétních tématech ve vaší organizaci
+    nebo feedback?
   icon: pe-7s-users
   link: Možná. Pojďme na kafe!
   link-url: /konzultace/
@@ -133,7 +132,7 @@ core-features-left:
   icon: pe-7s-target
 - name: Práce s týmem
   description: Chcete vysoce výkonný tým? Mám rád zdravou výzvu.
-  icon: pe-7s-rocket
+  icon: pe-7s-graph1
 - name: Technické best practices
   description: Stovky bugů jsou pasé. Pojďme dělat software tak, jak se to má.
   icon: pe-7s-like2

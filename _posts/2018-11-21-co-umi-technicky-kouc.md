@@ -15,7 +15,7 @@ Metodik a frameworků kolem vývoje softwaru existují spousty. Například:
 
 - [Scrum](/ceska-scrum-guide/),
 - [Kanban](/principy-kanbanu/),
-- [Extrémní Programování](/workshop-technicka-agilita/),
+- [Extrémní Programování](/workshop-technicke-praktiky-ve-scrumu/),
 - [Lean Startup](/lean-startup/),
 - ScrumBan,
 - škálované metodiky (SAFe, LeSS, Nexus, ...).
@@ -77,7 +77,7 @@ Technický kouč by měl mít přehled o technických trendech. Co se týče pra
 
 ### Language agnostic
 
-Když jsem spustil své školení [Technické Agility](/workshop-technicka-agilita/),
+Když jsem spustil své školení [Technické Agility](/workshop-technicke-praktiky-ve-scrumu/),
 začal jsem dostávat dotazy typu "bylo by problém předělat workshop z C++ do PHP, Node.Js, Java, Python?"
 Praktiky objektově orientovaného programování a psaní dobrých unit testů zůstávají stejné.
 Náplň workshopu zůstává stejná. Jen jazyk se mění. Pro kouče je tedy důležité mít zkušenost

@@ -26,14 +26,15 @@ bundle install
 
 ## High Priority
 
-- ! Sticky menu (zelené pozadí. použít stejný design jako mobile menu, ale užší pruh a uvnitř třídy "container", takže je vše na středu.)
-- copywriting (index, 3 landing pages "workshopů", Agilní kalendář). Asi to UDĚLAT SÁM! https://www.veznik.cz/
 - Blog: obrázek u článků po levé straně jako malé čtverečky. Obrázky zobrazit i u článků na indexu.
+- ! Sticky menu (zelené pozadí. použít stejný design jako mobile menu, ale užší pruh a uvnitř třídy "container", takže je vše na středu.)
 - Znovu vrátit reference, až jich bude víc. Edit navigation.html a index.html.
+
+- ??? Je font OK? Poslední dobou na mě působí divně.
 
 ## Medium Priority
 
-- Blog: excerpt na blogu 3 řádkový text (nebo tenká fotka). Mělo by to být podobně dlouhé.
+- Blog: excerpt na blogu 3 řádkový text. Mělo by to být podobně dlouhé.
 - Blog: Podobné příspěvky – lépe upoutat pozornost. Třeba zmenšená verze z \blog/
 - Blog: pagination
     - archive tags nejsou paginated. Malá priorita.
@@ -47,4 +48,3 @@ bundle install
 Spíše nápady. Možná to ani nechci realizovat.
 
 - Na stránky workshopů přidat odkaz na reference, jakmile referencí bude víc.
-- s čím pomáhám - animace na notebooku by mohla být řešena v js (textově). Výhoda: ušetření velikosti obrázku a ostřejší text.

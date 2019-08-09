@@ -64,5 +64,5 @@ To nemusí platit, pokud:
 Možná potom má smysl psát automatické testy. Pokud psaní testů vynecháte, refaktoring a párové programování
 nebudou nikdy dobře fungovat.
 
-Chcete-li vědět víc, přihlašte se na můj [workshop Technické Agility](/workshop-technicka-agilita/).
+Chcete-li vědět víc, přihlašte se na můj [workshop Technické Agility](/workshop-technicke-praktiky-ve-scrumu/).
 

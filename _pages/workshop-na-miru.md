@@ -5,6 +5,7 @@ tagline: 'Služby'
 permalink: /workshop-na-miru/
 header-img: 'workshop-photo.jpg'
 parent: '#služby'
+published: false
 ---
 
 Pojďme společně vybrat obsah a vytvořit workshop, který je pro vaši situaci relevantní. Pomohu vám jak v oblasti agilních metodik, tak v oblasti technických best practices.
@@ -24,7 +25,7 @@ Workshop je zastřešen teorií Extrémního programování, která vysvětluje,
 proč jsou některé kombinace vývojářských praktik efektivnější než jiné.
 Metodika, kterou se naučíte, je více než jen součet svých částí.
 
-Podrobná osnova a cena viz [workshop Technické praktiky ve Scrumu](/workshop-technicka-agilita/).
+Podrobná osnova a cena viz [workshop Technické praktiky ve Scrumu](/workshop-technicke-praktiky-ve-scrumu/).
 
 ### Agilní Architektura
 
