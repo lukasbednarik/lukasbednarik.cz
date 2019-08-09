@@ -2,7 +2,9 @@
 layout: post
 title: Vliv technologií na člověka
 tags: efektivita život
-excerpt: Když se Karolína Presová přestěhovala do Indonesie, začala si všímat, jaký vliv má nadužívání mobilních telefonů na psychiku obyvatel. Tento týden jsem absolvoval její skvělý tří hodinový workshop Unplugged.
+excerpt: 'Když se Karolína Presová přestěhovala do Indonesie, začala si všímat,
+  jaký vliv má nadužívání mobilních telefonů na psychiku obyvatel.
+  Tento týden jsem absolvoval její skvělý tří hodinový workshop Unplugged.'
 ---
 
 Z workshopu Karolíny Presové [Unplugged](https://www.replug.me) si odnáším silný osobní zážitek a spoustu poznámek. Na vlastní kůži jsem si vyzkoušel, jaký vliv má používání (resp. nepoužívání) mobilních technologií na psychiku člověka.

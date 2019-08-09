@@ -3,9 +3,9 @@ layout: post
 title: Adaptivní organizace
 tags: agile leadership
 excerpt: '"Agilní organizace" je termín, který dnes nemá pevnou definici.
-Ačkoliv téměř každá organizace o sobě tvrdí, že je agilní, jen velmi zřídka
-je to skutečně pravda. Co je to agilní / adaptivní organizace?
-Jak se stát adaptivní organizací?'
+  Ačkoliv téměř každá organizace o sobě tvrdí, že je agilní, jen velmi zřídka
+  je to skutečně pravda. Co je to agilní / adaptivní organizace?
+  Jak se stát adaptivní organizací?'
 ---
 
 ## Agilní organizace
