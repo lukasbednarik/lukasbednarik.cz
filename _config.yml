@@ -7,6 +7,8 @@ permalink:        /:title/
 include:          ["_pages"]
 google-analytics: true
 excerpt_separator: <!--more-->
+future: false
+show_drafts: false
 #highlighter: rouge
 
 author:
