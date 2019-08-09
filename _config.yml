@@ -16,7 +16,7 @@ author:
   ic:             '75488931'
   city:           'Brno'
   misto-podnikani: '77900 Olomouc, Staškova 569/15'
-description:      'Technický Agilní kouč. Scrum, tým a technické praktiky.'
+description:      'Technický Agilní kouč. Baví mě Scrum, práce s týmem a technické praktiky.'
 
 ####################################
 ###########   Plugins    ###########
@@ -72,7 +72,7 @@ about-widget:
   author-avatar: lukas-bednarik.jpg
   author-name: Lukáš Bednařík
   author-tagline: Technický Agilní kouč
-  author-info: Scrum, tým a technické praktiky. Stovky bugů jsou minulostí.
+  author-info: Baví mě Scrum, práce s týmem a technické praktiky.
   author-social-links:
     linkedin: 'https://cz.linkedin.com/in/lukasbednarik'
     facebook: 'https://www.facebook.com/lukasbednarikcz'

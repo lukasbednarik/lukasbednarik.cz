@@ -12,7 +12,6 @@ povaha. Ve některých věcech, kterým nerozumím nebo je nemám vyzkoušené, 
 ![Na volné noze](/images/blog/freelancer.jpg)
 
 Současně mě mrzí, že jsem v poslední době nepsal moc článků.
-(Schválně neříkám, "neměl jsem čas", protože "nemít čas" je velmi relativní.
-Na něco je čas vždycky...)
+(Schválně neříkám, "neměl jsem čas", protože "nemít čas" je velmi relativní.)
 
 Lepší design blogu mé chuti psát články neprospěl.
