@@ -10,7 +10,7 @@ parent: '#služby'
 ## Proč se zúčastnit
 
 Chcete přejít na agilní vývoj, ale nevíte, kde začít?
-Chcete se prakticky seznámit se Scrumem a začít ho používat ve vaší firmě?
+Chcete se prakticky seznámit se Scrumem a používat ve firmě?
 
 ## Hlavní přínosy
 
