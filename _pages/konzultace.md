@@ -15,7 +15,7 @@ Cenu mých služeb určuje poptávka.
 Mám-li více práce než stíhám, zdražuji.
 Je-li práce málo, zlevňuji.
 
-- **Cena:** 1400 Kč / hod.
+- **Cena:** 1800 Kč / hod.
 - **IČ:** [{{ site.author.ic }}](http://wwwinfo.mfcr.cz/cgi-bin/ares/darv_res.cgi?odp=html&ICO={{ site.author.ic }})
 - *Nejsem plátce DPH.*
 
