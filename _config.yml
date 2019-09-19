@@ -90,9 +90,8 @@ about-widget:
 #####################################
 about-title: Lukáš Bednařík
 about-description: Baví mě Scrum, práce s týmem a technické praktiky.
-  Mám zkušenosti jako vývojář, Scrum Master i Agilní Kouč.
-  Pomohu vám nastartovat Scrum a cyklus neustálého učení.
-  Pracuji s borci z <a href="https://agilenavigators.com/">Agile Navigators s.r.o.</a>
+  Pomáhám neproduktivním týmům, týmům topícím se v technickém dluhu a vývojářům píšícím software, který nikdo nechce.
+  Pracuji s borci z <a href="https://agilenavigators.com/">Agile Navigators</a>.
   <a href="/o-mne/">A co se letos mi povedlo?</a>
 
 #####################################
@@ -101,7 +100,7 @@ about-description: Baví mě Scrum, práce s týmem a technické praktiky.
 features-title: Služby
 features-description:
   Své zákazníky učím tomu, na co by si jinak delší cestou přišli sami.
-  To jim šetří peníze. Provedu vás cestou, na které jsem již byl.
+  To jim šetří peníze. Připravím vám konzultaci nebo workshop na míru.
 features:
 - title: Technické praktiky ve Scrumu
   description: Čistý kód napsaný rychle, efektivně i s testy. Můžete to mít všechno.
@@ -126,8 +125,9 @@ features:
 ##########  S čím pomáhám  ##########
 #####################################
 core-title: Co umím?
-core-description: Mám široké znalosti z vývoje. Znám současné technologické trendy.
-  Umím pracovat s týmem a frameworkem Scrum.
+core-description: Mám zkušenosti jako vývojář, Scrum Master i Agilní Kouč.
+  Znám současné technologické trendy.
+  Umím pracovat s týmem a frameworkem Scrum / Kanban.
 
 core-features-left:
 - name: Metodiky
@@ -184,7 +184,7 @@ testimonials:
 ############# Blog ##################
 #####################################
 blog-title: Blog
-blog-description: Od začátku roku 2017 píšu blog. Marketing? Ne, baví mě to!
+blog-description: Od ledna roku 2017 píšu blog. Marketing? Ne, baví mě to!
 
 #####################################
 ############   Kontakt   ############
