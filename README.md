@@ -4,7 +4,7 @@ Inside root directory run:
 
 ```
 bundle install
-./node_modules/gulp/bin/gulp.js
+jekyll build && jekyll serve --incremental
 ```
 
 # Development

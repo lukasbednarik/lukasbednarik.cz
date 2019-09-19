@@ -1,7 +1,7 @@
 # Lukáš Bednařík
 # Theme based on Sera template
 
-exclude: ["node_modules", "gulpfile.js", "package.json", "Gemfile", "README.md", "notes"]
+exclude: ["node_modules", "Gemfile", "README.md", "notes"]
 url: 'https://lukasbednarik.cz'
 permalink:        /:title/
 include:          ["_pages"]
@@ -10,6 +10,9 @@ excerpt_separator: <!--more-->
 future: false
 show_drafts: false
 #highlighter: rouge
+sass:
+    sass_dir: css
+    style: compressed
 
 author:
   name:           'Lukáš Bednařík'
