@@ -47,4 +47,6 @@ jekyll build && jekyll serve --incremental
 
 Spíše nápady. Možná to ani nechci realizovat.
 
+- Bug: Například u článku "Zkušenosti z mobování" jsou další doporučené články. Jeden z nich se tam zobrazuje 2x.
+  Myslím, že se mezi články kryje více tagů a proto se to vypíše 2x.
 - Na stránky workshopů přidat odkaz na reference, jakmile referencí bude víc.

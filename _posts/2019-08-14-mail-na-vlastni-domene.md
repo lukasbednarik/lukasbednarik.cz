@@ -27,7 +27,7 @@ Můžete využít kteroukoliv ze služeb pro registraci domén. Například:
 - [Domena.cz](https://www.domena.cz/)
 - [Wedos](https://www.wedos.cz/domeny)
 - [Forpsi](https://www.forpsi.com/domain/)
-- [Domeny.cz]https://domeny.cz/overeni-dostupnosti/)
+- [Domeny.cz](https://domeny.cz/overeni-dostupnosti/)
 
 Otevřete jednu ze stránek a najděte políčko *Ověření dostupnosti domény*.
 Napíšete jméno domény, o které máte zájem, např. *karelnovak.cz* a kliknete na ověřit.
