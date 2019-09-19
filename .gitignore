@@ -3,3 +3,4 @@ node_modules
 package-lock.json
 Gemfile.lock
 .sass-cache
+.jekyll-metadata
