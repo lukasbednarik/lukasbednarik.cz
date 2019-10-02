@@ -41,7 +41,6 @@ jekyll build && jekyll serve --incremental
     - Blog pagination - title stránky je "Page 3 of 5 for Blog". Chci to česky.
     - pagination není responzive jako to na starém blogu. Chci to udělat podobně.
     - Větší margin-top pro pagination.
-- Footer: footer odkazy: agilní kalendář, code beer, RSS. Pořád mám stránku /komunita/ a není na ni odkaz.
 
 ## Low priority
 
