@@ -8,7 +8,7 @@ noindex: true
 
 ## Prohlášení o ochraně osobních údajů
 
-Správcem osobních údajů v souladu s nařízením Evropského Parlamentu a Rady (EU) 2016/679 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů (dále také „GDPR“) je Mgr. Lukáš Bednařík, se sídlem Staškova 15, Olomouc, 77900, zapsaný v živnostenském rejstříku pod IČ 75488931 (dále jen „Správce“).
+Správcem osobních údajů v souladu s nařízením Evropského Parlamentu a Rady (EU) 2016/679 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů (dále také „GDPR“) je Mgr. Lukáš Bednařík, se sídlem Slunečná 509/7, Olomouc, 77900, zapsaný v živnostenském rejstříku pod IČ 75488931 (dále jen „Správce“).
 
 ## Účel zpracování osobních údajů
 
