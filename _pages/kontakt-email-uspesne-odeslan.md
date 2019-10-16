@@ -5,7 +5,6 @@ permalink: /email-uspesne-odeslan/
 ---
 
 Váš email byl úspěšně odeslán. Můžete se vrátit
-na [index](/) nebo
-na [blog](/blog/).
+na [index](/).
 
 ![Email odeslán](/images/blog/email-odeslan.jpg)
