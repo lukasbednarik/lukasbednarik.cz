@@ -31,7 +31,6 @@ Product Owneři, management, Agilní koučové, Scrum Masteři, pokročilí team
 ## Rezervace termínu
 
 Pro rezervaci termínu a cenu mě prosím [kontaktujte](/#kontakt).
-Workshop pořádám společně s [Agile Navigators](https://agilenavigators.com/).
 
 ![Impact Mapping](/images/blog/impact-map-general.png)
 

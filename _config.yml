@@ -91,7 +91,6 @@ about-widget:
 about-title: Lukáš Bednařík
 about-description: Baví mě Scrum, práce s týmem a technické praktiky.
   Pomáhám neproduktivním týmům, týmům topícím se v technickém dluhu a vývojářům píšícím software, který nikdo nechce.
-  Pracuji s borci z <a href="https://agilenavigators.com/">Agile Navigators</a>.
   <a href="/o-mne/">A co se letos mi povedlo?</a>
 
 #####################################
@@ -134,7 +133,7 @@ core-features-left:
   description: Pomohu s metodikami jako je Scrum, Kanban nebo XP.
   icon: pe-7s-target
 - name: Práce s týmem
-  description: Chcete vysoce výkonný tým? Mám rád zdravou výzvu.
+  description: Chcete vysoce výkonný tým? Nemožné dělám na počkání.
   icon: pe-7s-graph1
 - name: Technické best practices
   description: Stovky bugů jsou pasé. Pojďme dělat software tak, jak se to má.
@@ -147,7 +146,7 @@ core-features-right:
   description: Dám feedback na Scrum, Scrum Mastera nebo technologie.
   icon: pe-7s-refresh
 - name: Škáluji metodiky
-  description: S Agile Navigators s.r.o. škáluji Scrum a technologie.
+  description: Ve spolupráci s dalšími kouči škáluji Scrum a technologie.
   icon: pe-7s-loop
 - name: Neumím zázraky
   description: Některé věci chtějí čas. Zvyky lidí za den nezměníme.

@@ -38,7 +38,6 @@ Scrum Masteři, Agilní koučové, management, team leadeři.
 ## Rezervace termínu
 
 Pro rezervaci termínu a cenu mě prosím [kontaktujte](/#kontakt).
-Workshop pořádám společně s [Agile Navigators](https://agilenavigators.com/).
 
 ![Workshop Scrum Master 2.0](/images/blog/scrum-master-2.jpg)
 

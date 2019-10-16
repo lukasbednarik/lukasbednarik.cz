@@ -38,7 +38,6 @@ Workshop předpokládá
 ## Rezervace termínu
 
 Pro rezervaci termínu a cenu mě prosím [kontaktujte](/#kontakt).
-Workshop pořádám společně s [Agile Navigators](https://agilenavigators.com/).
 
 ![Workshop škálovaný Scrum](/images/blog/workshop-skalovany-scrum.jpg)
 
