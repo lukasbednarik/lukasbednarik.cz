@@ -27,7 +27,7 @@
           <ul>
             <li><strong>Email:</strong> <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
             <li><strong>Mobil:</strong> <a href="tel:{{ site.author.phone | remove: ' ' }}">{{ site.author.phone }}</a></li>
-            <li><strong>Působení:</strong> Celá ČR (převážně Praha, Brno)</li>
+            <li><strong>Působení:</strong> Celá ČR (nejčastěji Praha, Brno, Ostrava)</li>
             <li>&nbsp;</li>
             <li><strong>IČ:</strong> <a target="_blank" href="http://wwwinfo.mfcr.cz/cgi-bin/ares/darv_res.cgi?odp=html&ICO={{ site.author.ic }}">{{ site.author.ic }}</a></li>
             <li><strong>Sídlo:</strong> {{ site.author.misto-podnikani }}</li>
@@ -46,7 +46,7 @@
             <input placeholder="Email" type="email" name="_replyto" tabindex="2" required>
           </fieldset>
           <fieldset>
-            <textarea placeholder="S čím vám můžu pomoci?" name="message" tabindex="3" required></textarea>
+            <textarea placeholder="Text zprávy" name="message" tabindex="3" required></textarea>
           </fieldset>
           <fieldset class="form-action">
             <input type="text" name="_gotcha" style="display:none" />

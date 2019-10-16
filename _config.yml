@@ -89,30 +89,32 @@ about-widget:
 #############   Bio    #############
 #####################################
 about-title: Lukáš Bednařík
-about-description: Baví mě Scrum, práce s týmem a technické praktiky.
-  Pomáhám neproduktivním týmům, týmům topícím se v technickém dluhu a vývojářům píšícím software, který nikdo nechce.
-  <a href="/o-mne/">A co se letos mi povedlo?</a>
+about-description: Od roku 2012 vyvíjím software pro firmy. Pracoval jsem jako
+  Scrum Master, zaváděl jsem Scrum jako Agilní kouč.
+  Dnes vedu workshopy, konzultuji a opět... vyvíjím software.
 
 #####################################
 #############  Služby  ##############
 #####################################
 features-title: Služby
 features-description:
-  Své zákazníky učím tomu, na co by si jinak delší cestou přišli sami.
-  To jim šetří peníze. Připravím vám konzultaci nebo workshop na míru.
+  Máte v backlogu srovnatelný počet bugů a features?
+  Trvá vám několik měsíců, než se do týmu zaučí noví lidé? Odhalujete chyby až při ručním testování?
+  Gratuluji. Píšete legacy kód. A řešení? Řešení se jmenuje technické koučování.
+  Tím se zabývám.
 features:
-- title: Technické praktiky ve Scrumu
+- title: Technické praktiky
   description: Čistý kód napsaný rychle, efektivně i s testy. Můžete to mít všechno.
     To vám na workshopu ukážeme. Jaký je háček? Vývojáři se to musí naučit.
-  icon: pe-7s-star
+  icon: pe-7s-config
   link: Chci vědět víc!
   link-url: /workshop-technicke-praktiky-ve-scrumu/
-- title: Scrum Master 2.0
-  description: Jak zjistit, zda tým roste po technické a lidské stránce?
-    Jak zvyšovat efektivitu týmu? Co může Scrum Master pro růst jednotlivců i týmu dělat?
-  icon: pe-7s-rocket
-  link: Další detaily, prosím!
-  link-url: /workshop-scrum-master-2/
+- title: Coding Dojo
+  description: TDD je zcela jiný způsob přemýšlení o kódu. Zlepšíte design, testování,
+    udržitelnost kódu. Zlepšíte spolupráci v týmu.
+  icon: pe-7s-mouse
+  link: Chci to!
+  link-url: /workshop-coding-dojo/
 - title: Konzultace
   description: Chcete workshop na míru, diskuze o konkrétních tématech ve vaší organizaci
     nebo feedback?
@@ -124,9 +126,7 @@ features:
 ##########  S čím pomáhám  ##########
 #####################################
 core-title: Co umím?
-core-description: Mám zkušenosti jako vývojář, Scrum Master i Agilní Kouč.
-  Znám současné technologické trendy.
-  Umím pracovat s týmem a frameworkem Scrum / Kanban.
+core-description: Co umím, dělám sám. Co neumím, přenechávám kolegům (a kontaktů mám spousty).
 
 core-features-left:
 - name: Metodiky
@@ -140,13 +140,13 @@ core-features-left:
   icon: pe-7s-like2
 - name: Starý kód, nové triky
   description: Zrychlíme úpravy v legacy kódu. A nezapotíme se.
-  icon: pe-7s-mouse
+  icon: pe-7s-monitor
 core-features-right:
 - name: Feedback
-  description: Dám feedback na Scrum, Scrum Mastera nebo technologie.
+  description: Dám feedback na technologie, Scrum nebo Scrum Mastera.
   icon: pe-7s-refresh
 - name: Škáluji metodiky
-  description: Ve spolupráci s dalšími kouči škáluji Scrum a technologie.
+  description: Ve spolupráci s dalšími kouči škáluji technologie a metodiku.
   icon: pe-7s-loop
 - name: Neumím zázraky
   description: Některé věci chtějí čas. Zvyky lidí za den nezměníme.
