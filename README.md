@@ -24,28 +24,8 @@ jekyll build && jekyll serve --incremental
 
 # TODO
 
-## High Priority
-
-- Blog: obrázek u článků po levé straně jako malé čtverečky. Obrázky zobrazit i u článků na indexu.
 - ! Sticky menu (zelené pozadí. použít stejný design jako mobile menu, ale užší pruh a uvnitř třídy "container", takže je vše na středu.)
 - Znovu vrátit reference, až jich bude víc. Edit navigation.html a index.html.
-
-- ??? Je font OK? Poslední dobou na mě působí divně.
-
-## Medium Priority
-
-- Blog: excerpt na blogu 3 řádkový text. Mělo by to být podobně dlouhé.
-- Blog: Podobné příspěvky – lépe upoutat pozornost. Třeba zmenšená verze z \blog/
-- Blog: pagination
-    - archive tags nejsou paginated. Malá priorita.
-    - Blog pagination - title stránky je "Page 3 of 5 for Blog". Chci to česky.
-    - pagination není responzive jako to na starém blogu. Chci to udělat podobně.
-    - Větší margin-top pro pagination.
-
-## Low priority
-
-Spíše nápady. Možná to ani nechci realizovat.
-
-- Bug: Například u článku "Zkušenosti z mobování" jsou další doporučené články. Jeden z nich se tam zobrazuje 2x.
-  Myslím, že se mezi články kryje více tagů a proto se to vypíše 2x.
 - Na stránky workshopů přidat odkaz na reference, jakmile referencí bude víc.
+- Udělat stránku s přehledem všech WKS. Z indexu udělat v sekci wks odkaz "Zobrazit všechny workshopy".
+- Odkaz "Kniha" nenechávat v menu, ale přesunout ho mezi sekce na indexu. Tam ukázat obr. knihy.
