@@ -1,13 +1,20 @@
 ---
 layout: page
-title: 'Co se povedlo'
-permalink: /o-mne/
+title: 'Co se povedlo?'
+permalink: /co-se-povedlo/
 tagline: Lukáš Bednařík
 ---
 
+### 2020
+
+- Pracuji na vlastním startupu zaměřeném na analýzu technických dat.
+- Spolupracuji se startupem protwin s.r.o., který je zatím ve fázi myšlenky.
+- Vytvořil jsem nový web pro nově založený spolek [CzechAgile](https://czechagile.cz).
+
 ### 2019
 
-- Společně s [Agile Navigators](https://agilenavigators.com/) dělám agilní transformaci.
+- V programu Chytrá myšlenka 2019 mentoruji dva startupy: Urbido a BetterEDU.
+- Společně s [Agile Navigators](https://agilenavigators.com/) dělám agilní transformaci v pražském O2.
 - Opouštím zaměstnání a zůstávám na volné noze jako lektor a konzultant.
 - V Impact Hub Brno pomáhám startupům se Scrumem.
 - Nový web pro [Agilní kalendář](https://agilnikalendar.cz).
@@ -17,7 +24,7 @@ tagline: Lukáš Bednařík
 ### 2018
 
 - Jsem expertem / konzultantem pro [akcelerační programy v Impact Hub Brno](https://www.hubbrno.cz/akcelerace/mentoring/).
-- Organizuji první [Code Beer](https://codebeer.cz).
+- Organizuji první [Code Beer](https://codingdojobrno.cz).
 - [Agilní kalendář](https://agilnikalendar.cz) je široce znám a používán Agilní komunitou.
 - Účastním se většiny setkání brněnských Scrum Masterů a mnoha agilních konferencí.
 - [Povídám o XP](https://www.facebook.com/events/373745716426679/) pro cca 60 lidí v Kentico.

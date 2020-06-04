@@ -19,9 +19,9 @@ author:
   email:          'lukas@lukasbednarik.cz'
   phone:          '+420 723 759 530'
   ic:             '75488931'
-  city:           'Brno'
+  city:           'Olomouc'
   misto-podnikani: '77900 Olomouc, Slunečná 509/7'
-description:      'Technický Agilní kouč. Baví mě Scrum, práce s týmem a technické praktiky.'
+description:      'Technické poradenství pro startupy, malé firmy a vývoj softwaru.'
 
 ####################################
 ###########   Plugins    ###########
@@ -54,7 +54,8 @@ social:
 lang: cs-CZ
 title: Lukáš Bednařík
 headter-tagline: Lukáš Bednařík
-header-title: Technický Agilní kouč
+header-title: Technický poradce
+header-subtitle: Technické poradenství pro startupy, malé firmy<br />a vývoj softwaru
 
 ####################################
 ######  Global Social Links   ######
@@ -71,8 +72,8 @@ stackoverflow: 'https://stackoverflow.com/users/4734434/luk%C3%A1%C5%A1-bedna%C5
 about-widget:
   author-avatar: lukas-bednarik.jpg
   author-name: Lukáš Bednařík
-  author-tagline: Technický Agilní kouč
-  author-info: Baví mě Scrum, práce s týmem a technické praktiky.
+  author-tagline: Technický poradce
+  author-info: Technické poradenství pro startupy, malé firmy a vývoj softwaru.
   author-social-links:
     linkedin: 'https://cz.linkedin.com/in/lukasbednarik'
     facebook: 'https://www.facebook.com/lukasbednarikcz'
@@ -84,38 +85,40 @@ about-widget:
 #############   Bio    #############
 #####################################
 about-title: Lukáš Bednařík
-about-description: Od roku 2014 vyvíjím software pro firmy. Pracoval jsem jako
-  Scrum Master, zaváděl jsem Scrum jako Agilní kouč.
-  Dnes vedu workshopy, konzultuji a opět... vyvíjím software.
+about-description: Software dělám komerčně od roku 2014. Prošel jsem si
+  různorodou škálou technologií, architekturou i vedením týmu jako Scrum Master.
+  V poradenství se zaměřuji na startupy a malé firmy - právě pro ty je často zefektivnění
+  vývoje a ušetření peněz naprosto zásadní. <a href="/co-se-povedlo/">Co se mi v tomto roce povedlo?</a>
 
 #####################################
 #############  Služby  ##############
 #####################################
 features-title: Služby
 features-description:
-  Máte v backlogu srovnatelný počet bugů a features?
-  Trvá vám několik měsíců, než se do týmu zaučí noví lidé? Odhalujete chyby až při ručním testování?
-  Gratuluji. Píšete legacy kód. A řešení? Řešení se jmenuje technické koučování.
-  Tím se zabývám.
+  Na vašem softwarovém řešení chcete stavět prosperující business.
+  Chcete doručit zákazníkovi
+  maximální hodnotu za minimum času a investovaných peněz.
+  Napsat kód umí spousta lidí, ale kolik z nich umí správně zvolit technické řešení
+  a zacílit produkt?
 features:
-- title: Technické praktiky
-  description: Čistý kód napsaný rychle, efektivně i s testy. Můžete to mít všechno.
-    To vám na workshopu ukážeme. Jaký je háček? Vývojáři se to musí naučit.
+- title: Technické poradenství
+  description: Návrh architektury, feedback na vaše řešení nebo zavedení nových technických praktik
+    do týmu.
   icon: pe-7s-config
-  link: Chci vědět víc!
-  link-url: /workshop-technicke-praktiky-ve-scrumu/
-- title: Coding Dojo
-  description: TDD je zcela jiný způsob přemýšlení o kódu. Zlepšíte design, testování,
-    udržitelnost kódu. Zlepšíte spolupráci v týmu.
+  link: Promluvme si o tom, co vás zajímá.
+  link-url: /#kontakt
+- title: Rozjezd startupu
+  description: Jste CEO a hledáte CTO pro váš startup? Potřebujete zvolit správné technologie,
+    navrhnout architekturu, sehnat vývojáře a správně zacílit produkt?
+  icon: pe-7s-graph1
+  link: Můžeme nezávazně networkovat.
+  link-url: /#kontakt
+- title: Vývoj softwaru
+  description: Návrh technického řešení a vývoj softwaru na míru.
+    Dostanete profesionálně napsaný dlouhodobě udržovatelný kód.
   icon: pe-7s-mouse
-  link: Chci to!
-  link-url: /workshop-coding-dojo/
-- title: Konzultace
-  description: Chcete workshop na míru, diskuze o konkrétních tématech ve vaší organizaci
-    nebo feedback?
-  icon: pe-7s-users
   link: Možná. Pojďme na kafe!
-  link-url: /konzultace/
+  link-url: /#kontakt
 
 #####################################
 ##########  S čím pomáhám  ##########
@@ -124,25 +127,25 @@ core-title: Co umím?
 core-description: Co umím, dělám sám. Co neumím, přenechávám kolegům (a kontaktů mám spousty).
 
 core-features-left:
-- name: Metodiky
-  description: Pomohu s metodikami jako je Scrum, Kanban nebo XP.
+- name: Realizace myšlenky
+  description: Řeknu vám, jak nejjednodušeji realizovat vaši myšlenku.
+  icon: pe-7s-leaf
+- name: Zacílení produktu
+  description: Společně správně zacílíme produkt a validujeme myšlenku.
   icon: pe-7s-target
-- name: Práce s týmem
-  description: Chcete vysoce výkonný tým? Nemožné dělám na počkání.
-  icon: pe-7s-graph1
+- name: Agilní metodiky
+  description: Pomohu vám do týmu zavést Scrum, Kanban nebo XP.
+  icon: pe-7s-refresh
 - name: Technické best practices
   description: Stovky bugů jsou pasé. Pojďme dělat software tak, jak se to má.
   icon: pe-7s-like2
-- name: Starý kód, nové triky
-  description: Zrychlíme úpravy v legacy kódu. A nezapotíme se.
-  icon: pe-7s-monitor
 core-features-right:
-- name: Feedback
-  description: Dám feedback na technologie, Scrum nebo Scrum Mastera.
-  icon: pe-7s-refresh
-- name: Škáluji metodiky
-  description: Ve spolupráci s dalšími kouči škáluji technologie a metodiku.
-  icon: pe-7s-loop
+- name: Vývoj softwaru
+  description: Společně vytvoříme MVP, který budou zákazníci milovat.
+  icon: pe-7s-mouse
+- name: Architektura softwaru
+  description: Správně zvolená architektura vám ušetří mnoho peněz.
+  icon: pe-7s-monitor
 - name: Neumím zázraky
   description: Některé věci chtějí čas. Zvyky lidí za den nezměníme.
   icon: pe-7s-magic-wand
@@ -155,7 +158,7 @@ core-features-right:
 ########### Doporučení ##############
 #####################################
 testimonials-title: Doporučení
-testimonials-description: Reference? Je jich málo? Inu, stále nejsem full-time freelancer.
+testimonials-description: XXX
 testimonials:
 - name: Jan Brada
   url: https://www.ipex.cz/
@@ -178,5 +181,5 @@ testimonials:
 ############   Kontakt   ############
 #####################################
 contact-title: Napište mi
-contact-description: Sejděme se na kafe. Rád vás poznám, i kdybychom se spolu
-  nerozhodli spolupracovat.
+contact-description: Networking je pro mě způsob poznávání nových zajímavých lidí.<br />
+  Rád se s vámi sejdu, i kdybychom se spolu nerozhodli spolupracovat.
