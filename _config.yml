@@ -88,7 +88,7 @@ about-title: Lukáš Bednařík
 about-description: Software dělám komerčně od roku 2014. Prošel jsem si
   různorodou škálou technologií, architekturou i vedením týmu jako Scrum Master.
   V poradenství se zaměřuji na startupy a malé firmy - právě pro ty je často zefektivnění
-  vývoje a ušetření peněz naprosto zásadní. <a href="/co-se-povedlo/">Co se mi v tomto roce povedlo?</a>
+  vývoje a ušetření peněz naprosto zásadní. <a href="/co-se-povedlo/">A co se mi v tomto roce povedlo?</a>
 
 #####################################
 #############  Služby  ##############
@@ -98,8 +98,6 @@ features-description:
   Na vašem softwarovém řešení chcete stavět prosperující business.
   Chcete doručit zákazníkovi
   maximální hodnotu za minimum času a investovaných peněz.
-  Napsat kód umí spousta lidí, ale kolik z nich umí správně zvolit technické řešení
-  a zacílit produkt?
 features:
 - title: Technické poradenství
   description: Návrh architektury, feedback na vaše řešení nebo zavedení nových technických praktik
@@ -109,13 +107,13 @@ features:
   link-url: /#kontakt
 - title: Rozjezd startupu
   description: Jste CEO a hledáte CTO pro váš startup? Potřebujete zvolit správné technologie,
-    navrhnout architekturu, sehnat vývojáře a správně zacílit produkt?
+    navrhnout architekturu, vytvořit tým a správně zacílit produkt?
   icon: pe-7s-graph1
   link: Můžeme nezávazně networkovat.
   link-url: /#kontakt
 - title: Vývoj softwaru
   description: Návrh technického řešení a vývoj softwaru na míru.
-    Dostanete profesionálně napsaný dlouhodobě udržovatelný kód.
+    Dostanete vyleštěný dlouhodobě udržovatelný kód.
   icon: pe-7s-mouse
   link: Možná. Pojďme na kafe!
   link-url: /#kontakt
@@ -127,14 +125,14 @@ core-title: Co umím?
 core-description: Co umím, dělám sám. Co neumím, přenechávám kolegům (a kontaktů mám spousty).
 
 core-features-left:
-- name: Realizace myšlenky
-  description: Řeknu vám, jak nejjednodušeji realizovat vaši myšlenku.
-  icon: pe-7s-leaf
 - name: Zacílení produktu
   description: Společně správně zacílíme produkt a validujeme myšlenku.
   icon: pe-7s-target
-- name: Agilní metodiky
-  description: Pomohu vám do týmu zavést Scrum, Kanban nebo XP.
+- name: Realizace myšlenky
+  description: Najdeme nejlevnější technickou realizaci vašeho nápadu.
+  icon: pe-7s-leaf
+- name: Vyladění týmu
+  description: Pomohu vám vytvořit tým, zavést Scrum, Kanban nebo XP.
   icon: pe-7s-refresh
 - name: Technické best practices
   description: Stovky bugů jsou pasé. Pojďme dělat software tak, jak se to má.
@@ -144,7 +142,7 @@ core-features-right:
   description: Společně vytvoříme MVP, který budou zákazníci milovat.
   icon: pe-7s-mouse
 - name: Architektura softwaru
-  description: Správně zvolená architektura vám ušetří mnoho peněz.
+  description: Zvolíme správnou architekturu, což vám ušetří mnoho peněz.
   icon: pe-7s-monitor
 - name: Neumím zázraky
   description: Některé věci chtějí čas. Zvyky lidí za den nezměníme.
@@ -181,5 +179,5 @@ testimonials:
 ############   Kontakt   ############
 #####################################
 contact-title: Napište mi
-contact-description: Networking je pro mě způsob poznávání nových zajímavých lidí.<br />
+contact-description: Networking je pro mě způsob poznávání zajímavých lidí.<br />
   Rád se s vámi sejdu, i kdybychom se spolu nerozhodli spolupracovat.
