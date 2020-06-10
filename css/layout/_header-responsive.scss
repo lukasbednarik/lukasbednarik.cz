@@ -215,6 +215,10 @@
           font-size: 1.75rem;
         }
       }
+
+      .buttons-header {
+        display: none;
+      }
     }
 
     .site-navigation-bar {
@@ -274,9 +278,7 @@
       }
 
       .buttons-header {
-        .button-cta {
-          font-size: 1rem;
-        }
+        display: none;
       }
     }
   }
